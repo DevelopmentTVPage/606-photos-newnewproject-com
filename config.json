@@ -1,0 +1,15 @@
+{
+    "title": "New New Project",
+    "baseURL": "https:\/\/photos.newnewproject.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1759121",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "newnewproject.com"
+    }
+}

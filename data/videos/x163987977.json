@@ -1,0 +1,91 @@
+{
+    "title": "Macy\u2019s Style Crew Application",
+    "description": "",
+    "referenceId": "70fa7e941d0fba33a6b1b2383bd0d7ad",
+    "date_created": "1527013627",
+    "date_modified": "1527013650",
+    "tags": "",
+    "sourceId": "6",
+    "status": "pending",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "0",
+    "product_category": null,
+    "id": "163987977",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "Macy-s-Style-Crew-Application",
+    "category": "",
+    "tvp_profiles": "",
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": "",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "41",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "41",
+            "width": 1280,
+            "height": 720
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163987977\/61581\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163987977\/61581\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163987977\/61581\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163987977\/61581\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163987977\/61581\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "mediaDuration": "41",
+        "prettyDuration": "00:00:41",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/163987977\/61581\/thumb-70fa7e941d0fba33a6b1b2383bd0d7ad-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/163987977\/61581\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/163987977\/61581\/media.m3u8"
+    },
+    "transcripts": "",
+    "metrics_statistics": "",
+    "tvp_enhanced_search": "",
+    "tvp_enhanced_anti": "",
+    "tvp_enhanced_brand": "",
+    "tvp_enhanced_video_images": "Macy's HP Slate 7",
+    "tvp_enhanced_transcript": ""
+}

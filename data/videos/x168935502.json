@@ -1,0 +1,97 @@
+{
+    "title": "Back To School",
+    "description": "Our Macy's Green Hills Visual Team creates the perfect outfits for Back To School for men.",
+    "referenceId": "2d655432059abc972d0b2dd3e9b586a3",
+    "date_created": "1533297343",
+    "date_modified": "1533297701",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "22",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213338",
+    "product_category": "men",
+    "id": "168935502",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "back-to-school",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "15",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "15",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "15",
+        "prettyDuration": "00:00:15",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/168935502\/4bfb4\/thumb-2d655432059abc972d0b2dd3e9b586a3-00002.jpg",
+        "type": "mp4",
+        "assetId": "168935502",
+        "assetTitle": "Back To School",
+        "assetTitleTextEncoded": "back-to-school",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "168935502",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168935502\/4bfb4\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168935502\/4bfb4\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168935502\/4bfb4\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168935502\/4bfb4\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168935502\/4bfb4\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-08-18"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

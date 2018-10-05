@@ -1,0 +1,105 @@
+{
+    "title": "Urban Looks",
+    "description": "Urban looks for school",
+    "referenceId": "f0915c52fd918628ebbf899b524c5816",
+    "date_created": "1535202467",
+    "date_modified": "1535385249",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "4",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213364",
+    "product_category": null,
+    "id": "176120003",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "quik-20180825-060534",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "52",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "52",
+            "width": 720,
+            "height": 720
+        },
+        "mediaDuration": "52",
+        "prettyDuration": "00:00:52",
+        "automaticThumbnailsPattern": "1759121\/176120003\/7fe7d\/thumb-f0915c52fd918628ebbf899b524c5816-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/176120003\/7fe7d\/thumb-f0915c52fd918628ebbf899b524c5816-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/176120003\/7fe7d\/thumb-f0915c52fd918628ebbf899b524c5816-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/176120003\/7fe7d\/thumb-f0915c52fd918628ebbf899b524c5816-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/176120003\/7fe7d\/thumb-f0915c52fd918628ebbf899b524c5816-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/176120003\/7fe7d\/thumb-f0915c52fd918628ebbf899b524c5816-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/176120003\/7fe7d\/thumb-f0915c52fd918628ebbf899b524c5816-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/176120003\/thumbnail\/image-thumbnail-256-01a20f398d35688c8315dbf7a2a484f9.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/176120003\/thumbnail\/image-thumbnail-480-d4405f379f53e9627c48b1d689c7898b.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/176120003\/thumbnail\/image-thumbnail-640-5f435886e43135082135e7af2305d808.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/176120003\/7fe7d\/thumb-f0915c52fd918628ebbf899b524c5816-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/176120003\/thumbnail\/image-thumbnail-640-5f435886e43135082135e7af2305d808.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176120003\/7fe7d\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176120003\/7fe7d\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176120003\/7fe7d\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176120003\/7fe7d\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176120003\/7fe7d\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-14"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Superdry",
+    "tvp_enhanced_transcript": null
+}

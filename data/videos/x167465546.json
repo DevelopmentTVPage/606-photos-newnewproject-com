@@ -1,0 +1,103 @@
+{
+    "title": "Michael Kors new Clearance bags!",
+    "description": "I JUST put these bags on clearance!  At the very end I\u2019ll show you what my favorite $500 bag was marked down to!  YOU WONT BELIEVE IT!\n\nIf you\u2019re near Wayne, NJ, stop in and shop!  If not, no worries. Shoot me a private message and we can send it to you FREE OF CHARGE! \n\nMake sure to share this video with your friends!",
+    "referenceId": "f4d3c491c099634944952151c37e99ac",
+    "date_created": "1532348686",
+    "date_modified": "1532349361",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "32",
+    "engagement_score": "2",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213171",
+    "product_category": "handbags",
+    "id": "167465546",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "6f86a583-4af5-4e87-af5c-22f6a3e54ed7",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "237",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "237",
+            "width": 568,
+            "height": 320
+        },
+        "mediaDuration": "237",
+        "prettyDuration": "00:03:57",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/167465546\/thumbnail\/image-thumbnail-480-c2316c29f1a2fedbf85fdc74a361f1b2.jpg",
+        "type": "mp4",
+        "assetId": 167465546,
+        "assetTitle": "Michael Kors new Clearance bags!",
+        "assetTitleTextEncoded": "6f86a583-4af5-4e87-af5c-22f6a3e54ed7",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 167465546,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167465546\/27ef7\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167465546\/27ef7\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167465546\/27ef7\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167465546\/27ef7\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167465546\/27ef7\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/167465546\/27ef7\/thumb-f4d3c491c099634944952151c37e99ac-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/167465546\/user-images\/image-568-5f441912545576588c33cdb2e827e846.jpg",
+            "\/\/v.tvpage.com\/1759121\/167465546\/27ef7\/thumb-f4d3c491c099634944952151c37e99ac-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/167465546\/user-images\/image-568-5f441912545576588c33cdb2e827e846.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/167465546\/thumbnail\/image-thumbnail-256-27274a29581326c357df211d6dbb1f88.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/167465546\/thumbnail\/image-thumbnail-480-c2316c29f1a2fedbf85fdc74a361f1b2.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-07-25\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Decal",
+    "tvp_enhanced_transcript": null
+}

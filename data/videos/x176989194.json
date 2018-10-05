@@ -1,0 +1,107 @@
+{
+    "title": "suburban style - #remarkableyou",
+    "description": "Fashion",
+    "referenceId": "0d22f189a45bc9e21fdc828935ea9f52",
+    "date_created": "1536259781",
+    "date_modified": "1536259857",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "8",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213328",
+    "product_category": "women",
+    "id": "176989194",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "5bd6b1e9-1f91-4eae-a2a8-34e9471aadea",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "4",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "4",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "4",
+        "prettyDuration": "00:00:04",
+        "automaticThumbnailsPattern": "1759121\/176989194\/0affb\/thumb-0d22f189a45bc9e21fdc828935ea9f52-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/176989194\/0affb\/thumb-0d22f189a45bc9e21fdc828935ea9f52-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/176989194\/0affb\/thumb-0d22f189a45bc9e21fdc828935ea9f52-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/176989194\/thumbnail\/image-thumbnail-256-4559ae1046c640f64b4fc24633f0fa3c.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/176989194\/thumbnail\/image-thumbnail-480-881459b57206759b9571fd13e720f600.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/176989194\/0affb\/thumb-0d22f189a45bc9e21fdc828935ea9f52-00001.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/176989194\/thumbnail\/image-thumbnail-480-881459b57206759b9571fd13e720f600.jpg",
+        "type": "mp4",
+        "assetId": 176989194,
+        "assetTitle": "suburban style - #remarkableyou",
+        "assetTitleTextEncoded": "5bd6b1e9-1f91-4eae-a2a8-34e9471aadea",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 176989194,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176989194\/0affb\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176989194\/0affb\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176989194\/0affb\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176989194\/0affb\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176989194\/0affb\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

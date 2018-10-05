@@ -1,0 +1,117 @@
+{
+    "title": "@saystheart : Everything Pastel!",
+    "description": "Guys! These Alfani pants were calling out my name! They're so comfortable and stylish! I couldn't have found anything more perfect to match them with, than the American Rag top with the ribbon in the back! NEW FAVORITE OUTFIT! IG: @CaydeeCat @SaystheArt",
+    "referenceId": "2b304a2f7812b553881a57c9852f6246",
+    "date_created": "1535579496",
+    "date_modified": "1535587921",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "29",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213274",
+    "product_category": "juniors",
+    "id": "176366785",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "received-1569135406521086",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "24",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "24",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "24",
+        "prettyDuration": "00:00:24",
+        "automaticThumbnailsPattern": "1759121\/176366785\/4c75e\/thumb-2b304a2f7812b553881a57c9852f6246-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/176366785\/4c75e\/thumb-2b304a2f7812b553881a57c9852f6246-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/176366785\/4c75e\/thumb-2b304a2f7812b553881a57c9852f6246-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/176366785\/4c75e\/thumb-2b304a2f7812b553881a57c9852f6246-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/176366785\/4c75e\/thumb-2b304a2f7812b553881a57c9852f6246-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/176366785\/4c75e\/thumb-2b304a2f7812b553881a57c9852f6246-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/176366785\/4c75e\/thumb-2b304a2f7812b553881a57c9852f6246-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/176366785\/thumbnail\/image-thumbnail-256-e2cb646704cf6fec8f4c2a6e71c45f0b.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/176366785\/thumbnail\/image-thumbnail-480-2d50ec491d91014a0966be1fbcc2855f.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/176366785\/thumbnail\/image-thumbnail-640-fce6a2856557eb4c8f10dd70a484d5b6.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/176366785\/thumbnail\/image-thumbnail-1280-7eb7628aa4bdaee4c56371fef86c2a24.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/176366785\/thumbnail\/image-thumbnail-1920-f3217b4ac0ad9a8e0288e0f0da4e9b20.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/176366785\/4c75e\/thumb-2b304a2f7812b553881a57c9852f6246-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/176366785\/thumbnail\/image-thumbnail-640-fce6a2856557eb4c8f10dd70a484d5b6.jpg",
+        "type": "mp4",
+        "assetId": "176366785",
+        "assetTitle": "@saystheart : Pink! #MacysStyleCrew",
+        "assetTitleTextEncoded": "received-1569135406521086",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "176366785",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176366785\/4c75e\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176366785\/4c75e\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176366785\/4c75e\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176366785\/4c75e\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176366785\/4c75e\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-05"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-09-02"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

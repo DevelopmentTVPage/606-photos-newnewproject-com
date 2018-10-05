@@ -1,0 +1,117 @@
+{
+    "title": "Date Night Look -Just a Taste of Fashion",
+    "description": "First dates are nerve-racking and deciding on what to wear just adds more anxiety. Watch my video to find out my favorite go-to date look and learn about one of Petite's new Trendy brand\n\nProduct IDs below:\nFloral Plaid Jumpsuit: 6635853\nPolka Dot Jumpsuit: 6221160",
+    "referenceId": "35c493307be35f838c5d1ec7b7ddfcbf",
+    "date_created": "1534382480",
+    "date_modified": "1534383892",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "48",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213245",
+    "product_category": "women",
+    "id": "170828368",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "date-night",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "82",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "82",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "82",
+        "prettyDuration": "00:01:22",
+        "automaticThumbnailsPattern": "1759121\/170828368\/d4fcb\/thumb-35c493307be35f838c5d1ec7b7ddfcbf-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/170828368\/user-images\/image-1075-b8ca8578c7ff5555b57b730cc8eaf143.jpg",
+            "\/\/v.tvpage.com\/1759121\/170828368\/user-images\/image-1725-7aca7984dc8ed234c150201725390ac0.jpg",
+            "\/\/v.tvpage.com\/1759121\/170828368\/user-images\/image-1484-31dd164ea95e17b2bac62810d9e0aec6.jpg",
+            "\/\/v.tvpage.com\/1759121\/170828368\/d4fcb\/thumb-35c493307be35f838c5d1ec7b7ddfcbf-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/170828368\/d4fcb\/thumb-35c493307be35f838c5d1ec7b7ddfcbf-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/170828368\/d4fcb\/thumb-35c493307be35f838c5d1ec7b7ddfcbf-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/170828368\/d4fcb\/thumb-35c493307be35f838c5d1ec7b7ddfcbf-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/170828368\/d4fcb\/thumb-35c493307be35f838c5d1ec7b7ddfcbf-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/170828368\/d4fcb\/thumb-35c493307be35f838c5d1ec7b7ddfcbf-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/170828368\/thumbnail\/image-thumbnail-256-d6caaf3e830fcb690c93c3dbd8dbc504.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/170828368\/thumbnail\/image-thumbnail-480-311a51fd22b66685ffbd2734ee348181.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/170828368\/thumbnail\/image-thumbnail-640-b74c4780c4a58c612fe5ca7aad0f3ad8.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/170828368\/user-images\/image-1075-b8ca8578c7ff5555b57b730cc8eaf143.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/170828368\/thumbnail\/image-thumbnail-640-b74c4780c4a58c612fe5ca7aad0f3ad8.jpg",
+        "type": "mp4",
+        "assetId": "170828368",
+        "assetTitle": "Date Night Look -Just a Taste of Fashion",
+        "assetTitleTextEncoded": "date-night",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "170828368",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170828368\/d4fcb\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170828368\/d4fcb\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170828368\/d4fcb\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170828368\/d4fcb\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170828368\/d4fcb\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/170828368\/d4fcb\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/170828368\/d4fcb\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-08-21"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Lmji",
+    "tvp_enhanced_transcript": null
+}

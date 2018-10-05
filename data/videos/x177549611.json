@@ -1,0 +1,114 @@
+{
+    "title": "Style Hungry: How To Dress Up Your Athleisure-Wear",
+    "description": "Hi! Check out my advice on how to style your active wardrobe. Mixing polished pieces with athleisure-wear is a big trend right now, but it can be challenging without a little inspiration. Shop the looks within this video using the following Web Id's: DKNY T-Shirt Slip Dress (Web ID: 6663220); adicolor Cotton Trefoil T-Shirt (Web ID: 4988807); Bar III Striped Wide Leg Pant (Web ID: 6427992).",
+    "referenceId": "b6adfdf648d628db388411df65920ed2",
+    "date_created": "1536848946",
+    "date_modified": "1536935016",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "5",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213315",
+    "product_category": null,
+    "id": "177549611",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "style-crew-athleisure-chic",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "130",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "130",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "130",
+        "prettyDuration": "00:02:10",
+        "automaticThumbnailsPattern": "1759121\/177549611\/9a387\/thumb-b6adfdf648d628db388411df65920ed2-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/177549611\/9a387\/thumb-b6adfdf648d628db388411df65920ed2-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/177549611\/9a387\/thumb-b6adfdf648d628db388411df65920ed2-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/177549611\/9a387\/thumb-b6adfdf648d628db388411df65920ed2-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/177549611\/9a387\/thumb-b6adfdf648d628db388411df65920ed2-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/177549611\/9a387\/thumb-b6adfdf648d628db388411df65920ed2-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/177549611\/9a387\/thumb-b6adfdf648d628db388411df65920ed2-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/177549611\/thumbnail\/image-thumbnail-256-d4eb4df7732c5f1238b2d7c4c0439247.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/177549611\/thumbnail\/image-thumbnail-480-9d5266e33d4e3241830bb6f57ffef108.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/177549611\/thumbnail\/image-thumbnail-640-0f6d8d4883b55156d2d5582cb6e0dcad.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/177549611\/thumbnail\/image-thumbnail-1280-1d35b911addc93016cca52d3480ec2f7.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/177549611\/thumbnail\/image-thumbnail-1920-e9c2e016f96fb01c3d8b047181237789.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/177549611\/9a387\/thumb-b6adfdf648d628db388411df65920ed2-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/177549611\/thumbnail\/image-thumbnail-640-0f6d8d4883b55156d2d5582cb6e0dcad.jpg",
+        "type": "mp4",
+        "assetId": 177549611,
+        "assetTitle": "Style Hungry: How To Dress Up Your Athleisure-Wear",
+        "assetTitleTextEncoded": "style-crew-athleisure-chic",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 177549611,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177549611\/9a387\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177549611\/9a387\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177549611\/9a387\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177549611\/9a387\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177549611\/9a387\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "CBS Studio Center Adidas",
+    "tvp_enhanced_transcript": null
+}

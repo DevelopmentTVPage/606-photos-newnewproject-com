@@ -1,0 +1,97 @@
+{
+    "title": "GTKM x GRWM",
+    "description": "I really don't talk much  but you asked for it. Taking a moment to answer your most frequently asked questions while get ready for work. \n\nShop some of my favorite beauty products used in the vid. Shop link in bio!!",
+    "referenceId": "b1d691ba5e98c65dca828d3a23fa8c4b",
+    "date_created": "1530640567",
+    "date_modified": "1530642710",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "29",
+    "engagement_score": "1",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213145",
+    "product_category": "beauty",
+    "id": "165402388",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "gtkm-x-grwm",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "LONG",
+    "duration": "555",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "555",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "555",
+        "prettyDuration": "00:09:15",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/165402388\/38742\/thumb-b1d691ba5e98c65dca828d3a23fa8c4b-00002.jpg",
+        "type": "mp4",
+        "assetId": "165402388",
+        "assetTitle": "GTKM x GRWM",
+        "assetTitleTextEncoded": "gtkm-x-grwm",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "165402388",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165402388\/38742\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165402388\/38742\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165402388\/38742\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165402388\/38742\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165402388\/38742\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-07-28"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

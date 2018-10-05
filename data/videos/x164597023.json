@@ -1,0 +1,112 @@
+{
+    "title": "Calvin Klein Bomber + All white",
+    "description": "Finally saying Goodbye to winter. So, its time to bring out the white pants, and shorts.  Teaming it with a Calvin Klein baseball striped bomber is perfect for the chilly days in the city.  Be sure to like and follow @Mr_TJay! Thanks! ***I DO NOT OWN ANY RIGHTS TO THIS MUSIC. NO COPY RIGHT INFRINGEME...",
+    "referenceId": "51312504726bf5200b9720792ea035ef",
+    "date_created": "1527513807",
+    "date_modified": "1535333148",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "131",
+    "engagement_score": "6",
+    "conversion_score": null,
+    "CVV_VI": "27",
+    "video_type": null,
+    "user_id": "213335",
+    "product_category": "men",
+    "id": "164597023",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "ck-d4",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "32",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "32",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "32",
+        "prettyDuration": "00:00:32",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164597023\/thumbnail\/image-thumbnail-640-fadf6b1fc37d9d2527d6b6a357d50072.jpg",
+        "type": "mp4",
+        "assetId": 164597023,
+        "assetTitle": "Calvin Klein Bomber + All white",
+        "assetTitleTextEncoded": "ck-d4",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 164597023,
+            "li": "1759121"
+        },
+        "automaticThumbnailsPattern": "1759121\/164597023\/96197\/thumb-51312504726bf5200b9720792ea035ef-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/164597023\/user-images\/image-1280-6be3a0b3e96e08d9bc8b28f79ec3a118.jpg",
+            "\/\/v.tvpage.com\/1759121\/164597023\/96197\/thumb-51312504726bf5200b9720792ea035ef-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/164597023\/96197\/thumb-51312504726bf5200b9720792ea035ef-00001.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/164597023\/thumbnail\/image-thumbnail-256-84c0cea50e4323b0ec424bc9d61cd98c.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/164597023\/thumbnail\/image-thumbnail-480-e74d299209af88c9f236f04c2fc22595.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/164597023\/thumbnail\/image-thumbnail-640-fadf6b1fc37d9d2527d6b6a357d50072.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/164597023\/thumbnail\/image-thumbnail-1280-8f89e0a99a4db804ba4d3c414321845e.jpg"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164597023\/96197\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164597023\/96197\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164597023\/96197\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164597023\/96197\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164597023\/96197\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-08-03"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-08-03"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Macy's",
+    "tvp_enhanced_transcript": null
+}

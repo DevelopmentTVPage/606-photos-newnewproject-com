@@ -1,0 +1,110 @@
+{
+    "title": "Black Friday in July Sale",
+    "description": "Amazing deals on cosmetics and fragrances. 30% to 50% off starting July 8th through 15th.",
+    "referenceId": "bd6cd15a5de625d1d17e28a55ed632ba",
+    "date_created": "1530171001",
+    "date_modified": "1531183994",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "10",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213231",
+    "product_category": "beauty",
+    "id": "165299067",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "vid-192340707-144139-520",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "54",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "54",
+            "width": 720,
+            "height": 406
+        },
+        "mediaDuration": "54",
+        "prettyDuration": "00:00:54",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/165299067\/thumbnail\/image-thumbnail-640-9c40de9222fd1e6abc0f63661cc1780e.jpg",
+        "type": "mp4",
+        "assetId": "165299067",
+        "assetTitle": "VID_192340707_144139_520",
+        "assetTitleTextEncoded": "vid-192340707-144139-520",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "165299067",
+            "li": "1759121"
+        },
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165299067\/3a9cc\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 406
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165299067\/3a9cc\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 406
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165299067\/3a9cc\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 406
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165299067\/3a9cc\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165299067\/3a9cc\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/165299067\/user-images\/image-1920-bb4f418b69431e27740e31059c03eba7.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/165299067\/user-images\/image-1920-bb4f418b69431e27740e31059c03eba7.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/165299067\/thumbnail\/image-thumbnail-256-fcf6f71425e292851953a2292e598ec9.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/165299067\/thumbnail\/image-thumbnail-480-e42aa16db015e694a085f8bfbe3e1707.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/165299067\/thumbnail\/image-thumbnail-640-9c40de9222fd1e6abc0f63661cc1780e.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/165299067\/thumbnail\/image-thumbnail-1280-3aba9e78a108f8d8c85b4d9beef2c2da.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/165299067\/thumbnail\/image-thumbnail-1920-b95cc5b95e338a08009535d4278106d8.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-08"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

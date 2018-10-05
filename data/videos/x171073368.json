@@ -1,0 +1,103 @@
+{
+    "title": "Lemonade Makeovers -Snippet",
+    "description": "",
+    "referenceId": "28dc9d389295ad773f0ed90ba2990b31",
+    "date_created": "1534546117",
+    "date_modified": "1534546194",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "451",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213325",
+    "product_category": null,
+    "id": "171073368",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "lemonade-makeovers-snippet",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "60",
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171073368\/230e8\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171073368\/230e8\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171073368\/230e8\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171073368\/230e8\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171073368\/230e8\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ],
+        "videoMeta": {
+            "duration": "60",
+            "width": 720,
+            "height": 720
+        },
+        "mediaDuration": "60",
+        "prettyDuration": "00:01:00",
+        "automaticThumbnailsPattern": "1759121\/171073368\/230e8\/thumb-28dc9d389295ad773f0ed90ba2990b31-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/171073368\/230e8\/thumb-28dc9d389295ad773f0ed90ba2990b31-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/171073368\/230e8\/thumb-28dc9d389295ad773f0ed90ba2990b31-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/171073368\/230e8\/thumb-28dc9d389295ad773f0ed90ba2990b31-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/171073368\/230e8\/thumb-28dc9d389295ad773f0ed90ba2990b31-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/171073368\/230e8\/thumb-28dc9d389295ad773f0ed90ba2990b31-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/171073368\/230e8\/thumb-28dc9d389295ad773f0ed90ba2990b31-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/171073368\/thumbnail\/image-thumbnail-256-624f3b7b939f84aa4866d7b641ef79ef.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/171073368\/thumbnail\/image-thumbnail-480-3b26604fec502f3574ee4ffed80c3e65.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/171073368\/thumbnail\/image-thumbnail-640-0a910b0260ebc8713b264152be39958d.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/171073368\/230e8\/thumb-28dc9d389295ad773f0ed90ba2990b31-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/171073368\/thumbnail\/image-thumbnail-640-0a910b0260ebc8713b264152be39958d.jpg",
+        "type": "mp4"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,115 @@
+{
+    "title": "\u201cJust Do It\u201d  Nike Andrea Warner Macy\u2019s Style Crew",
+    "description": "Nike an iconic silhouette gets a stunning new look in this vivid version of Nike's classic Windrunner. The cropped jacket is in lightweight taffeta for just the right amount of coverage. \"Just Do it\" in all the these iconic Nike pieces leggings, tees, tanks and accessories. Shop now click on my link.",
+    "referenceId": "3cb00837002be3468cbe4001f19d1da2",
+    "date_created": "1535222093",
+    "date_modified": "1535748434",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "9",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213345",
+    "product_category": "active",
+    "id": "176120072",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "video-activewear-with-andrea-and-jesse-full",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "43",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "43",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "43",
+        "prettyDuration": "00:00:43",
+        "automaticThumbnailsPattern": "1759121\/176120072\/d0a51\/thumb-3cb00837002be3468cbe4001f19d1da2-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/176120072\/d0a51\/thumb-3cb00837002be3468cbe4001f19d1da2-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/176120072\/d0a51\/thumb-3cb00837002be3468cbe4001f19d1da2-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/176120072\/d0a51\/thumb-3cb00837002be3468cbe4001f19d1da2-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/176120072\/d0a51\/thumb-3cb00837002be3468cbe4001f19d1da2-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/176120072\/d0a51\/thumb-3cb00837002be3468cbe4001f19d1da2-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/176120072\/d0a51\/thumb-3cb00837002be3468cbe4001f19d1da2-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/176120072\/thumbnail\/image-thumbnail-256-ca66c820ebf6bed6092ffcf6fb527075.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/176120072\/thumbnail\/image-thumbnail-480-1c0d9c5da4e4f8138143be3555682bc1.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/176120072\/thumbnail\/image-thumbnail-640-bcda8746abd304b63e5c81dec8e1a901.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/176120072\/thumbnail\/image-thumbnail-1280-dfcfb122908b37892ad8dec0b1e6d2cc.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/176120072\/thumbnail\/image-thumbnail-1920-bc9a8c427cd4287290fe6ac4ba4c4591.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/176120072\/d0a51\/thumb-3cb00837002be3468cbe4001f19d1da2-00006.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/176120072\/thumbnail\/image-thumbnail-640-bcda8746abd304b63e5c81dec8e1a901.jpg",
+        "type": "mp4",
+        "assetId": "176120072",
+        "assetTitle": "\u201cJust Do It\u201d  Nike Andrea Warner Macy\u2019s Style Crew",
+        "assetTitleTextEncoded": "video-activewear-with-andrea-and-jesse-full",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "176120072",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176120072\/d0a51\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176120072\/d0a51\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176120072\/d0a51\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480,
+                "tvpdefault": true
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176120072\/d0a51\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176120072\/d0a51\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-14"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

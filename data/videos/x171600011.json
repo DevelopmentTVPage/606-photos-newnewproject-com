@@ -1,0 +1,114 @@
+{
+    "title": "Trend: Black and White",
+    "description": "With August's trend being black and white fashion, I put together 3 looks that I love for now and into the fall season!",
+    "referenceId": "e7d24e4952d3766d96f3ee1dc8cde825",
+    "date_created": "1535054415",
+    "date_modified": "1535054971",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "32",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213222",
+    "product_category": "women",
+    "id": "171600011",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "black-and-white",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "86",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "86",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "86",
+        "prettyDuration": "00:01:26",
+        "automaticThumbnailsPattern": "1759121\/171600011\/5f198\/thumb-e7d24e4952d3766d96f3ee1dc8cde825-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/171600011\/5f198\/thumb-e7d24e4952d3766d96f3ee1dc8cde825-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/171600011\/5f198\/thumb-e7d24e4952d3766d96f3ee1dc8cde825-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/171600011\/5f198\/thumb-e7d24e4952d3766d96f3ee1dc8cde825-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/171600011\/5f198\/thumb-e7d24e4952d3766d96f3ee1dc8cde825-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/171600011\/5f198\/thumb-e7d24e4952d3766d96f3ee1dc8cde825-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/171600011\/5f198\/thumb-e7d24e4952d3766d96f3ee1dc8cde825-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/171600011\/thumbnail\/image-thumbnail-256-241f052bc49fcfe2e51ed1e5400e3a58.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/171600011\/thumbnail\/image-thumbnail-480-c02b1875bc8c96f68525dbae742e6d0d.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/171600011\/thumbnail\/image-thumbnail-640-87240e87171905bce75b5dad05829aed.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/171600011\/thumbnail\/image-thumbnail-1280-8f6f8c60382466b92de38e94c15c88eb.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/171600011\/thumbnail\/image-thumbnail-1920-fa0ed3717272872678f27bd67277f071.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/171600011\/5f198\/thumb-e7d24e4952d3766d96f3ee1dc8cde825-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/171600011\/thumbnail\/image-thumbnail-640-87240e87171905bce75b5dad05829aed.jpg",
+        "type": "mp4",
+        "assetId": "171600011",
+        "assetTitle": "Trend: Black and White",
+        "assetTitleTextEncoded": "black-and-white",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "171600011",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171600011\/5f198\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171600011\/5f198\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171600011\/5f198\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171600011\/5f198\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171600011\/5f198\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-08"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,97 @@
+{
+    "title": "Juniors Maxi Dresses and Shorts",
+    "description": "This video has juniors Maxi Dresses and juniors shorts. There are a couple of  shirts.",
+    "referenceId": "87b07389c3dbeadbd0c465e47f3f2cba",
+    "date_created": "1530799405",
+    "date_modified": "1530799742",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "40",
+    "engagement_score": "1",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213180",
+    "product_category": "juniors",
+    "id": "165443060",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "80c27b44-83c4-40eb-a709-4b2e8b0190c1",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "54",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "54",
+            "width": 568,
+            "height": 320
+        },
+        "mediaDuration": "54",
+        "prettyDuration": "00:00:54",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/165443060\/80804\/thumb-87b07389c3dbeadbd0c465e47f3f2cba-00002.jpg",
+        "type": "mp4",
+        "assetId": "165443060",
+        "assetTitle": "Juniors Maxi Dresses and Shorts",
+        "assetTitleTextEncoded": "80c27b44-83c4-40eb-a709-4b2e8b0190c1",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "165443060",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165443060\/80804\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165443060\/80804\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165443060\/80804\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165443060\/80804\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165443060\/80804\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-14"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

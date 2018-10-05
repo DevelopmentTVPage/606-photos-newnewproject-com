@@ -1,0 +1,100 @@
+{
+    "title": "Jump Into Fashion with Candace Renay Macy's Style Crew Introduction",
+    "description": "Candace Renay invites you into her world of fashion & confidence through Macy's Style Crew! She will inspire you to JUMP into that next \"YOU!\" Experience the new you through Macy's Style Crew",
+    "referenceId": "134cd769e7ec557945f7c1c68d853c12",
+    "date_created": "1532121182",
+    "date_modified": "1532123508",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "735",
+    "engagement_score": "11",
+    "conversion_score": null,
+    "CVV_VI": "4",
+    "video_type": null,
+    "user_id": "213325",
+    "product_category": "beauty",
+    "id": "167426665",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "candacerenay-thelemonade-v2-0",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "57",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "57",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "57",
+        "prettyDuration": "00:00:57",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/167426665\/893c2\/thumb-134cd769e7ec557945f7c1c68d853c12-00002.jpg",
+        "type": "mp4",
+        "assetId": "167426665",
+        "assetTitle": "The Lemonade",
+        "assetTitleTextEncoded": "candacerenay-thelemonade-v2-0",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "167426665",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167426665\/893c2\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167426665\/893c2\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167426665\/893c2\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167426665\/893c2\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167426665\/893c2\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-17"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-07-28"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Natura",
+    "tvp_enhanced_transcript": null
+}

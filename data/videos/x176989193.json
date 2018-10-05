@@ -1,0 +1,113 @@
+{
+    "title": "Transitional Fall Heels",
+    "description": "Loving these transitional Steve Madden heels. They are stylish, practical and show stopping! Plus the come in a bunch of colors!",
+    "referenceId": "26f13f716e4505b5c9f490a39393a21f",
+    "date_created": "1536259270",
+    "date_modified": "1536259400",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "9",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213203",
+    "product_category": "shoes",
+    "id": "176989193",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "7c6fbc50-6fda-4e6c-bcb2-f2ecae966062",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "18",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "18",
+            "width": 480,
+            "height": 480
+        },
+        "mediaDuration": "18",
+        "prettyDuration": "00:00:18",
+        "automaticThumbnailsPattern": "1759121\/176989193\/9bb91\/thumb-26f13f716e4505b5c9f490a39393a21f-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/176989193\/user-images\/image-779-2eabcdac64da17fc3cde0bad91123e3d.jpg",
+            "\/\/v.tvpage.com\/1759121\/176989193\/9bb91\/thumb-26f13f716e4505b5c9f490a39393a21f-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/176989193\/9bb91\/thumb-26f13f716e4505b5c9f490a39393a21f-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/176989193\/9bb91\/thumb-26f13f716e4505b5c9f490a39393a21f-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/176989193\/9bb91\/thumb-26f13f716e4505b5c9f490a39393a21f-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/176989193\/9bb91\/thumb-26f13f716e4505b5c9f490a39393a21f-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/176989193\/9bb91\/thumb-26f13f716e4505b5c9f490a39393a21f-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/176989193\/thumbnail\/image-thumbnail-256-cff454eaf224382392c8dea8df7eb063.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/176989193\/thumbnail\/image-thumbnail-480-a0b391c2632eb615509cc1288cc9494c.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/176989193\/thumbnail\/image-thumbnail-640-04c2a272685133f631697f25621d9b26.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/176989193\/user-images\/image-779-2eabcdac64da17fc3cde0bad91123e3d.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/176989193\/thumbnail\/image-thumbnail-640-04c2a272685133f631697f25621d9b26.jpg",
+        "type": "mp4",
+        "assetId": "176989193",
+        "assetTitle": "7C6FBC50-6FDA-4E6C-BCB2-F2ECAE966062",
+        "assetTitleTextEncoded": "7c6fbc50-6fda-4e6c-bcb2-f2ecae966062",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "176989193",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176989193\/9bb91\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176989193\/9bb91\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176989193\/9bb91\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176989193\/9bb91\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176989193\/9bb91\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

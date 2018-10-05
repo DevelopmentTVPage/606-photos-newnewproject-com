@@ -1,0 +1,105 @@
+{
+    "title": "Aaliyah Inspired MAC Makeover",
+    "description": "MAC came out with an Aaliyah inspired makeup line and here\u2019s a look created with some of the products.",
+    "referenceId": "e09b5c9d7eb13e44ae63c340daa7cfed",
+    "date_created": "1531073296",
+    "date_modified": "1531073569",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "13",
+    "engagement_score": "1",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213205",
+    "product_category": "beauty",
+    "id": "166678706",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "387709f1-2967-4c10-be72-25519ea714d6",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "17",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "17",
+            "width": 480,
+            "height": 480
+        },
+        "mediaDuration": "17",
+        "prettyDuration": "00:00:17",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/166678706\/thumbnail\/image-thumbnail-480-d0f4ac90eac340eb67af802be6b9e2a9.jpg",
+        "type": "mp4",
+        "assetId": "166678706",
+        "assetTitle": "387709F1-2967-4C10-BE72-25519EA714D6",
+        "assetTitleTextEncoded": "387709f1-2967-4c10-be72-25519ea714d6",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "166678706",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/166678706\/2c89e\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/166678706\/2c89e\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/166678706\/2c89e\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/166678706\/2c89e\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/166678706\/2c89e\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/166678706\/2c89e\/thumb-e09b5c9d7eb13e44ae63c340daa7cfed-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/166678706\/user-images\/image-2320-722b1bbf6a838d2fdca7656d5946eec2.jpg",
+            "\/\/v.tvpage.com\/1759121\/166678706\/user-images\/image-2320-f0723c90b09f77ce88499db353b1a03c.jpg",
+            "\/\/v.tvpage.com\/1759121\/166678706\/user-images\/image-480-d3c9890e1cd65cba6f0fa68b0f50e666.jpg",
+            "\/\/v.tvpage.com\/1759121\/166678706\/2c89e\/thumb-e09b5c9d7eb13e44ae63c340daa7cfed-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/166678706\/user-images\/image-480-d3c9890e1cd65cba6f0fa68b0f50e666.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/166678706\/thumbnail\/image-thumbnail-256-e26dc269e4da5bf145e5483393337e38.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/166678706\/thumbnail\/image-thumbnail-480-d0f4ac90eac340eb67af802be6b9e2a9.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-07-25\"}},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-07-25\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

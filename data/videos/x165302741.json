@@ -1,0 +1,114 @@
+{
+    "title": "Roberson Keffer Intro Video",
+    "description": "All things home",
+    "referenceId": "fb4d712bcc4167eaaa9e37e6fb610ad1",
+    "date_created": "1530207860",
+    "date_modified": "1534984069",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "5",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213323",
+    "product_category": "juniors",
+    "id": "165302741",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "roberson-keffer-intro-video",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "43",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "43",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "43",
+        "prettyDuration": "00:00:43",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/165302741\/thumbnail\/image-thumbnail-640-1201390df34dd93ac29a95a50494314f.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/165302741\/be4f1\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/165302741\/be4f1\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "automaticThumbnailsPattern": "1759121\/165302741\/be4f1\/thumb-fb4d712bcc4167eaaa9e37e6fb610ad1-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/165302741\/user-images\/image-1920-32a9b061fc694fbfc6f5c90ed8461605.jpg",
+            "\/\/v.tvpage.com\/1759121\/165302741\/be4f1\/thumb-fb4d712bcc4167eaaa9e37e6fb610ad1-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/165302741\/user-images\/image-1920-32a9b061fc694fbfc6f5c90ed8461605.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/165302741\/thumbnail\/image-thumbnail-256-2c6b074ae698c1cf0250b692cbec62a9.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/165302741\/thumbnail\/image-thumbnail-480-2011a6faf59c0cc3c81a3b438cfe8cb5.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/165302741\/thumbnail\/image-thumbnail-640-1201390df34dd93ac29a95a50494314f.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/165302741\/thumbnail\/image-thumbnail-1280-891ec680749a832cba7df2754970844f.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/165302741\/thumbnail\/image-thumbnail-1920-15cbb68c16e573e9ebfe4d8527557f91.jpg"
+        },
+        "assetId": "165302741",
+        "assetTitle": "Roberson Keffer Intro Video",
+        "assetTitleTextEncoded": "roberson-keffer-intro-video",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "165302741",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165302741\/be4f1\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165302741\/be4f1\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165302741\/be4f1\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165302741\/be4f1\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165302741\/be4f1\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-08-30"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

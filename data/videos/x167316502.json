@@ -1,0 +1,97 @@
+{
+    "title": "Bardot dress",
+    "description": "Bardot green floral dress Web ID 6057973. Click on any of the Bardot dresses and then in the search bar type the Web ID for the green dress.",
+    "referenceId": "dde3ff32f7e384777ff2f62d1887736a",
+    "date_created": "1531642479",
+    "date_modified": "1531656057",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "26",
+    "engagement_score": "1",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213341",
+    "product_category": null,
+    "id": "167316502",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "a29f8945-c742-4297-bdc6-ba83165b3fad",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "5",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "5",
+            "width": 272,
+            "height": 480
+        },
+        "mediaDuration": "5",
+        "prettyDuration": "00:00:05",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/167316502\/b9af5\/thumb-dde3ff32f7e384777ff2f62d1887736a-00002.jpg",
+        "type": "mp4",
+        "assetId": "167316502",
+        "assetTitle": "Bardot dress",
+        "assetTitleTextEncoded": "a29f8945-c742-4297-bdc6-ba83165b3fad",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "167316502",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167316502\/b9af5\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 272,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167316502\/b9af5\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 272,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167316502\/b9af5\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 272,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167316502\/b9af5\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 204,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167316502\/b9af5\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 136,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-08-18"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

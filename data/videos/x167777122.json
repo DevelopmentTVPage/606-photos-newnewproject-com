@@ -1,0 +1,99 @@
+{
+    "title": "Dior skin Nude Air Serum Foundation",
+    "description": "Dior skin Nude Air Serum Foundation SPF 25 \n030 Medium Beige (Light to Medium: Neutral Undertone)",
+    "referenceId": "af2ba021683796d1316895755ff572f7",
+    "date_created": "1532659612",
+    "date_modified": "1532660019",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "2",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213137",
+    "product_category": "beauty",
+    "id": "167777122",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "dior-foundation",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "11",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "11",
+            "width": 640,
+            "height": 360
+        },
+        "mediaDuration": "11",
+        "prettyDuration": "00:00:11",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/167777122\/ac08a\/thumb-af2ba021683796d1316895755ff572f7-00002.jpg",
+        "type": "mp4",
+        "assetId": "167777122",
+        "assetTitle": "Dior skin Nude Air Serum Foundation",
+        "assetTitleTextEncoded": "dior-foundation",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "167777122",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167777122\/ac08a\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167777122\/ac08a\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167777122\/ac08a\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167777122\/ac08a\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167777122\/ac08a\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/167777122\/ac08a\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/167777122\/ac08a\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-08-24"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

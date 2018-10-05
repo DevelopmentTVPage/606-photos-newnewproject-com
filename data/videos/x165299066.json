@@ -1,0 +1,97 @@
+{
+    "title": "Jacqueline Palmer\/The peasant dress",
+    "description": "The peasant dress is the definition of summer! I loved them as a little girl and I still find the loose fit wonderfully easy to move in. Nothing better for warm weather, traveling or a day of site seeing! #macysstylecrew #macys #peasantdress #sancuary #freepeople #guess #luckybrand",
+    "referenceId": "251ec7ca338d1f08b87680806b456dd3",
+    "date_created": "1530170758",
+    "date_modified": "1530172080",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "30",
+    "engagement_score": "1",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213201",
+    "product_category": "women",
+    "id": "165299066",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "4b3575d5-19ff-41a2-8e35-aad8dcc140ff",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "55",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "55",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "55",
+        "prettyDuration": "00:00:55",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/165299066\/f486d\/thumb-251ec7ca338d1f08b87680806b456dd3-00002.jpg",
+        "type": "mp4",
+        "assetId": "165299066",
+        "assetTitle": "4B3575D5-19FF-41A2-8E35-AAD8DCC140FF",
+        "assetTitleTextEncoded": "4b3575d5-19ff-41a2-8e35-aad8dcc140ff",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "165299066",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165299066\/f486d\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165299066\/f486d\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165299066\/f486d\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165299066\/f486d\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165299066\/f486d\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

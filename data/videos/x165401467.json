@@ -1,0 +1,99 @@
+{
+    "title": "Levi's",
+    "description": "Macy\u2019s 4th of July sale",
+    "referenceId": "d95c07594cb75366026efd7ae181902b",
+    "date_created": "1530639162",
+    "date_modified": "1530660898",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "19",
+    "engagement_score": "1",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213341",
+    "product_category": null,
+    "id": "165401467",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "83d98a7b-7d5b-467f-9aa3-ae43a277918c",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "1",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "1",
+            "width": 272,
+            "height": 480
+        },
+        "mediaDuration": "1",
+        "prettyDuration": "00:00:01",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/165401467\/40f17\/thumb-d95c07594cb75366026efd7ae181902b-00001.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "quality": "",
+        "assetId": 165401467,
+        "assetTitle": "Levi's",
+        "assetTitleTextEncoded": "83d98a7b-7d5b-467f-9aa3-ae43a277918c",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 165401467,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165401467\/40f17\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 272,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165401467\/40f17\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 272,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165401467\/40f17\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 272,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165401467\/40f17\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 204,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165401467\/40f17\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 136,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-08-18"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

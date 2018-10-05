@@ -1,0 +1,97 @@
+{
+    "title": "The Heat is On: Hottest Styles",
+    "description": "Check out my post on TheInseamNYC.com",
+    "referenceId": "a82b2b9d200593150d7a92d3fe5ee9b6",
+    "date_created": "1531498330",
+    "date_modified": "1531499462",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "32",
+    "engagement_score": "7",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213212",
+    "product_category": "women",
+    "id": "166881901",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "the-heat-is-on",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "24",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "24",
+            "width": 654,
+            "height": 480
+        },
+        "mediaDuration": "24",
+        "prettyDuration": "00:00:24",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/166881901\/4eec6\/thumb-a82b2b9d200593150d7a92d3fe5ee9b6-00002.jpg",
+        "type": "mp4",
+        "assetId": "166881901",
+        "assetTitle": "The Heat is On: Hottest Styles",
+        "assetTitleTextEncoded": "the-heat-is-on",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "166881901",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/166881901\/4eec6\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 654,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/166881901\/4eec6\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 654,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/166881901\/4eec6\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 654,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/166881901\/4eec6\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 490,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/166881901\/4eec6\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 234
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-08-06"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

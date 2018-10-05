@@ -1,0 +1,97 @@
+{
+    "title": "ADIDAS Sportswear!",
+    "description": "Look sporty & chic at the gym or running errands! This crop T-shirt, hoodie & shorts are must haves for the summer!",
+    "referenceId": "b22ab8f18694b0df1c073db02f99b7cf",
+    "date_created": "1529413801",
+    "date_modified": "1529413931",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "85",
+    "engagement_score": "2",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213440",
+    "product_category": "women",
+    "id": "164949317",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "46c93bb6-e6cf-425a-b1f7-27427f0325a4",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "41",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "41",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "41",
+        "prettyDuration": "00:00:41",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164949317\/288ca\/thumb-b22ab8f18694b0df1c073db02f99b7cf-00002.jpg",
+        "type": "mp4",
+        "assetId": 164949317,
+        "assetTitle": "ADIDAS",
+        "assetTitleTextEncoded": "46c93bb6-e6cf-425a-b1f7-27427f0325a4",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 164949317,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164949317\/288ca\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164949317\/288ca\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164949317\/288ca\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164949317\/288ca\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164949317\/288ca\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-05"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Adidas Black Macy's Audrey",
+    "tvp_enhanced_transcript": null
+}

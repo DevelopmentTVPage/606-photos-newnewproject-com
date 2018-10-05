@@ -1,0 +1,109 @@
+{
+    "title": "Polo Ralph Lauren Shirt Review",
+    "description": "Polo - I love polo, check out my favorite picks!",
+    "referenceId": "2f462e0c5857bf78bfe6c674ccd12ade",
+    "date_created": "1533068807",
+    "date_modified": "1533068807",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "142",
+    "engagement_score": "8",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "662",
+    "product_category": "men",
+    "id": "164632456",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "michael-libra-sneakers",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "107",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "107",
+            "width": 854,
+            "height": 480
+        },
+        "mediaDuration": "107",
+        "prettyDuration": "00:01:47",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164632456\/thumbnail\/image-thumbnail-640-0963e10bfea98dcf572a30294abb4c7f.jpg",
+        "type": "mp4",
+        "assetId": "164632456",
+        "assetTitle": "Michael Libra Shirt Review",
+        "assetTitleTextEncoded": "michael-libra-sneakers",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164632456",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164632456\/c9c74\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164632456\/c9c74\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164632456\/c9c74\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164632456\/c9c74\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164632456\/c9c74\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/164632456\/c9c74\/thumb-2f462e0c5857bf78bfe6c674ccd12ade-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/164632456\/user-images\/image-1354-6c535175aa8b44d00e0823ef4467bb07.jpg",
+            "\/\/v.tvpage.com\/1759121\/164632456\/user-images\/image-853-7797acc479cbc0194c699b267aad95dd.jpg",
+            "\/\/v.tvpage.com\/1759121\/164632456\/c9c74\/thumb-2f462e0c5857bf78bfe6c674ccd12ade-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/164632456\/c9c74\/thumb-2f462e0c5857bf78bfe6c674ccd12ade-00001.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/164632456\/thumbnail\/image-thumbnail-256-5242aa3680f2f7d8250c8adba640ab35.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/164632456\/thumbnail\/image-thumbnail-480-d021abadbd19795c855ef7f9dea2f7f8.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/164632456\/thumbnail\/image-thumbnail-640-0963e10bfea98dcf572a30294abb4c7f.jpg"
+        }
+    },
+    "transcripts": "hi everyone is Michael for me I want to talk to you today about the striped shirt classic it's clean it's crap we all have one %HESITATION unfortunately the kind of boring so luckily for you Macy's has a ton of new unique items for us to check out let's go take a look at some of them \nthe contrast in this fine \nI love how it's the classic \ndid \nand \nthere's so much detail on the shirt \ndefinitely a statement \ncheck out how fine this time front row for and blouses I love the mix media with the stripes I love \nthe tiny detail and it's just such a great \nthis coming time features a brighter flowers which \nin the long lean hand that makes the perfect game \ngentlemen your touch don't have to be \neither of these two fine tops from bars three and \nnow \nI hope that he saw something you like click the link below and I will see you next time banks \n",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-08"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

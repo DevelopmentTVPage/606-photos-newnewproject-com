@@ -1,0 +1,97 @@
+{
+    "title": "Vanessa, Shoe Diva",
+    "description": "If the shoe fits, buy it in every color",
+    "referenceId": "f3a7c298bde7501d707ec3c937f4dc5a",
+    "date_created": "1532097108",
+    "date_modified": "1532098269",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "49",
+    "engagement_score": "2",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213265",
+    "product_category": "shoes",
+    "id": "167426354",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "1080p-2",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "60",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "60",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "60",
+        "prettyDuration": "00:01:00",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/167426354\/1e064\/thumb-f3a7c298bde7501d707ec3c937f4dc5a-00002.jpg",
+        "type": "mp4",
+        "assetId": "167426354",
+        "assetTitle": "1080p 2",
+        "assetTitleTextEncoded": "1080p-2",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "167426354",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167426354\/1e064\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167426354\/1e064\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167426354\/1e064\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167426354\/1e064\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167426354\/1e064\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-08-18"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Macy's Audrey Michael Kors",
+    "tvp_enhanced_transcript": null
+}

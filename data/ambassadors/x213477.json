@@ -1,0 +1,21 @@
+{
+    "id": "213477",
+    "first_name": "Pat",
+    "last_name": "Dodge",
+    "data": {
+        "profilePhoto": null,
+        "job_title": "Fitting Room Sales Associate"
+    },
+    "last_login_timestamp": "1532830903",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-06-22 15:59:31",
+    "login_id": "1759121",
+    "user_id": "213477",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Pat Dodge",
+    "profile_picture": null,
+    "titleTextEncoded": "pat-dodge",
+    "title": "Pat Dodge",
+    "videos_count": "2"
+}

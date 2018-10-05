@@ -1,0 +1,21 @@
+{
+    "id": "213199",
+    "first_name": "Ilse",
+    "last_name": "Reyes",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/781266828-0.2662856752052.jpg",
+        "job_title": "Macy\u2019s Style Crew"
+    },
+    "last_login_timestamp": "1531605614",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-04 07:22:38",
+    "login_id": "1759121",
+    "user_id": "213199",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Ilse Reyes",
+    "profile_picture": "\/api\/canvas\/logo\/781266828-0.2662856752052.jpg",
+    "titleTextEncoded": "ilse-reyes",
+    "title": "Ilse Reyes",
+    "videos_count": "0"
+}

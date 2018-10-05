@@ -1,0 +1,98 @@
+{
+    "title": "Plus size social dresses for events, weddings and more",
+    "description": "I always like to feel like a princess when I am going to events and add drama to my look woth accessories, make up and more! This Adrianna Papell plus size gown doesn\u2019t need much extra since it shines brightly all by itself! Check out this and more of my favorite beaded gowns below",
+    "referenceId": "d5b4a04de7c6f7f6d31a01cd537dda4a",
+    "date_created": "1530891393",
+    "date_modified": "1530915643",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "10",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213300",
+    "product_category": "women",
+    "id": "165465929",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "f0958bf5-24ee-463a-8813-e4580b5e6544",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "23",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "23",
+            "width": 480,
+            "height": 480
+        },
+        "mediaDuration": "23",
+        "prettyDuration": "00:00:23",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/165465929\/3128d\/thumb-d5b4a04de7c6f7f6d31a01cd537dda4a-00002.jpg",
+        "type": "mp4",
+        "assetId": "165465929",
+        "assetTitle": "Plus size social dresses for events, weddings and more",
+        "assetTitleTextEncoded": "f0958bf5-24ee-463a-8813-e4580b5e6544",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "165465929",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165465929\/3128d\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165465929\/3128d\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165465929\/3128d\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165465929\/3128d\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360,
+                "tvpdefault": true
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165465929\/3128d\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-08-03"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

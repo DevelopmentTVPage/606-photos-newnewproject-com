@@ -1,0 +1,109 @@
+{
+    "title": "Rachel Roy Floral Dress -AdrianneViz",
+    "description": "Love to pair a long dress with a chunky sandal! Adds height with comfort!\nIf you want the same dress search on the side !",
+    "referenceId": "ca85b06aa2e8aa16cf60d0ba8599185d",
+    "date_created": "1537407788",
+    "date_modified": "1537467738",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213329",
+    "product_category": "women",
+    "id": "177973840",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "spring-floral-dress",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "42",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "42",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "42",
+        "prettyDuration": "00:00:42",
+        "automaticThumbnailsPattern": "1759121\/177973840\/dd52f\/thumb-ca85b06aa2e8aa16cf60d0ba8599185d-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/177973840\/user-images\/image-1095-0ce6a8c4153aaade581d26b9b8f129d8.jpg",
+            "\/\/v.tvpage.com\/1759121\/177973840\/dd52f\/thumb-ca85b06aa2e8aa16cf60d0ba8599185d-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/177973840\/dd52f\/thumb-ca85b06aa2e8aa16cf60d0ba8599185d-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/177973840\/dd52f\/thumb-ca85b06aa2e8aa16cf60d0ba8599185d-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/177973840\/dd52f\/thumb-ca85b06aa2e8aa16cf60d0ba8599185d-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/177973840\/dd52f\/thumb-ca85b06aa2e8aa16cf60d0ba8599185d-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/177973840\/dd52f\/thumb-ca85b06aa2e8aa16cf60d0ba8599185d-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/177973840\/thumbnail\/image-thumbnail-256-32f03981577520aa39a5b0002610b646.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/177973840\/thumbnail\/image-thumbnail-480-60cb8f9805fab349e78827d1ba8ab7a3.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/177973840\/thumbnail\/image-thumbnail-640-3848e72ae39255bfce537374815bf133.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/177973840\/user-images\/image-1095-0ce6a8c4153aaade581d26b9b8f129d8.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/177973840\/thumbnail\/image-thumbnail-640-3848e72ae39255bfce537374815bf133.jpg",
+        "type": "mp4",
+        "assetId": "177973840",
+        "assetTitle": "Ralph Lauren  Floral Dress -AdrianneViz",
+        "assetTitleTextEncoded": "spring-floral-dress",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "177973840",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177973840\/dd52f\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177973840\/dd52f\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177973840\/dd52f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177973840\/dd52f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177973840\/dd52f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

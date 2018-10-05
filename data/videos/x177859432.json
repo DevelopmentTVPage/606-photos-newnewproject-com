@@ -1,0 +1,109 @@
+{
+    "title": "Career Wear ~ Jessica Howard & DKNY",
+    "description": "It\u2019s fun to mix and match career pieces like this Jessica Howard jumpsuit and DKNY Blazer for a polished but creative look for the office! The jumpsuit has the trendy fun stripes and cropped pants while the blazer pulls it together for a great polished look! Check out more of these online or your nearest Macy\u2019s!",
+    "referenceId": "e72e5c4321f7fe14aac15e479df8744a",
+    "date_created": "1537175375",
+    "date_modified": "1537176409",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213194",
+    "product_category": "women",
+    "id": "177859432",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "805718c5-93d7-453e-824a-b11c598b4453",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "54",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "54",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "54",
+        "prettyDuration": "00:00:54",
+        "automaticThumbnailsPattern": "1759121\/177859432\/898b7\/thumb-e72e5c4321f7fe14aac15e479df8744a-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/177859432\/898b7\/thumb-e72e5c4321f7fe14aac15e479df8744a-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/177859432\/898b7\/thumb-e72e5c4321f7fe14aac15e479df8744a-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/177859432\/898b7\/thumb-e72e5c4321f7fe14aac15e479df8744a-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/177859432\/898b7\/thumb-e72e5c4321f7fe14aac15e479df8744a-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/177859432\/898b7\/thumb-e72e5c4321f7fe14aac15e479df8744a-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/177859432\/898b7\/thumb-e72e5c4321f7fe14aac15e479df8744a-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/177859432\/thumbnail\/image-thumbnail-256-cf1e92fe7255ee4db3bd1f28a4d5f023.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/177859432\/thumbnail\/image-thumbnail-480-ced6967344df546319faca565fe6b8d3.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/177859432\/thumbnail\/image-thumbnail-640-fbec4e4afc93ed9bba1c24fcd8737c88.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/177859432\/thumbnail\/image-thumbnail-1280-9605a00167af5f9fce6f2a834da5ab1a.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/177859432\/898b7\/thumb-e72e5c4321f7fe14aac15e479df8744a-00001.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/177859432\/thumbnail\/image-thumbnail-640-fbec4e4afc93ed9bba1c24fcd8737c88.jpg",
+        "type": "mp4",
+        "assetId": "177859432",
+        "assetTitle": "805718C5-93D7-453E-824A-B11C598B4453",
+        "assetTitleTextEncoded": "805718c5-93d7-453e-824a-b11c598b4453",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "177859432",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177859432\/898b7\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177859432\/898b7\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177859432\/898b7\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177859432\/898b7\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177859432\/898b7\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Bangladesh Cricket Board",
+    "tvp_enhanced_transcript": null
+}

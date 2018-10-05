@@ -1,0 +1,21 @@
+{
+    "id": "213627",
+    "first_name": "Noura",
+    "last_name": "Barnes",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/733833924-0.8998510239180.jpg",
+        "job_title": "Macy's Style Crew"
+    },
+    "last_login_timestamp": "1536950789",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-09-07 20:58:01",
+    "login_id": "1759121",
+    "user_id": "213627",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Noura Barnes",
+    "profile_picture": "\/api\/canvas\/logo\/733833924-0.8998510239180.jpg",
+    "titleTextEncoded": "noura-barnes",
+    "title": "Noura Barnes",
+    "videos_count": "3"
+}

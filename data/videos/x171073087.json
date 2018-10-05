@@ -1,0 +1,112 @@
+{
+    "title": "Styling for  a Day at Work",
+    "description": "Pants, Tops, Jackets, and Accessories",
+    "referenceId": "c1b30a6a80dddf79d966c10e89e2136a",
+    "date_created": "1534539220",
+    "date_modified": "1534819307",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "75",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213132",
+    "product_category": "women",
+    "id": "171073087",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "1",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "37",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "37",
+            "width": 720,
+            "height": 720
+        },
+        "mediaDuration": "37",
+        "prettyDuration": "00:00:37",
+        "automaticThumbnailsPattern": "1759121\/171073087\/4c338\/thumb-c1b30a6a80dddf79d966c10e89e2136a-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/171073087\/4c338\/thumb-c1b30a6a80dddf79d966c10e89e2136a-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/171073087\/4c338\/thumb-c1b30a6a80dddf79d966c10e89e2136a-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/171073087\/4c338\/thumb-c1b30a6a80dddf79d966c10e89e2136a-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/171073087\/4c338\/thumb-c1b30a6a80dddf79d966c10e89e2136a-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/171073087\/4c338\/thumb-c1b30a6a80dddf79d966c10e89e2136a-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/171073087\/4c338\/thumb-c1b30a6a80dddf79d966c10e89e2136a-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/171073087\/thumbnail\/image-thumbnail-256-59ff39c2570e71bc6a15ab25868769fb.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/171073087\/thumbnail\/image-thumbnail-480-b253ab91e608d394306970b7f1bb490e.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/171073087\/thumbnail\/image-thumbnail-640-aceab452cefc73e0987f72bdd8aa06e1.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/171073087\/4c338\/thumb-c1b30a6a80dddf79d966c10e89e2136a-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/171073087\/thumbnail\/image-thumbnail-640-aceab452cefc73e0987f72bdd8aa06e1.jpg",
+        "type": "mp4",
+        "assetId": "171073087",
+        "assetTitle": "Styling for  a Day at Work",
+        "assetTitleTextEncoded": "1",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "171073087",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171073087\/4c338\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171073087\/4c338\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171073087\/4c338\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171073087\/4c338\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171073087\/4c338\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-02"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Mattress Firm Betfred GoPro",
+    "tvp_enhanced_transcript": null
+}

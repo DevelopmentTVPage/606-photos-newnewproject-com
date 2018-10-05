@@ -1,0 +1,100 @@
+{
+    "title": "Floral Skirts and Jean Jackets",
+    "description": "Pair your floral skirt with a jean jacket",
+    "referenceId": "d5193ca6466d90d4cd1e8cc49f7bc30c",
+    "date_created": "1530112229",
+    "date_modified": "1530119751",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "12",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213328",
+    "product_category": null,
+    "id": "165242330",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "06727eb2-942d-4a6e-a2b3-64a1ff286e51",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "31",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "31",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "31",
+        "prettyDuration": "00:00:31",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/165242330\/thumbnail\/image-thumbnail-480-2e6938c09ef48193cc84a5285a040232.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165242330\/2f9da\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165242330\/2f9da\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165242330\/2f9da\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165242330\/2f9da\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165242330\/2f9da\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/165242330\/2f9da\/thumb-d5193ca6466d90d4cd1e8cc49f7bc30c-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/165242330\/user-images\/image-608-25a304a136b9bf545b1c3b2571ab0832.jpg",
+            "\/\/v.tvpage.com\/1759121\/165242330\/2f9da\/thumb-d5193ca6466d90d4cd1e8cc49f7bc30c-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/165242330\/user-images\/image-608-25a304a136b9bf545b1c3b2571ab0832.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/165242330\/thumbnail\/image-thumbnail-256-e53340fbfa13b593edb6f7da34ddae1b.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/165242330\/thumbnail\/image-thumbnail-480-2e6938c09ef48193cc84a5285a040232.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

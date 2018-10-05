@@ -1,0 +1,99 @@
+{
+    "title": "Summer back to school",
+    "description": "Get ready for back to school with all these great looks! Not to mention I drew these stylish pieces! Check them out",
+    "referenceId": "aa89cd585a2029cd4f4320ea9b8cb201",
+    "date_created": "1532568449",
+    "date_modified": "1532572162",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "37",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213226",
+    "product_category": "juniors",
+    "id": "167640713",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "summer-back-to-school",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "83",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "83",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "83",
+        "prettyDuration": "00:01:23",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/167640713\/80fc4\/thumb-aa89cd585a2029cd4f4320ea9b8cb201-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/167640713\/80fc4\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/167640713\/80fc4\/media.m3u8",
+        "assetId": 167640713,
+        "assetTitle": "Summer back to school",
+        "assetTitleTextEncoded": "summer-back-to-school",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 167640713,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167640713\/80fc4\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167640713\/80fc4\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167640713\/80fc4\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167640713\/80fc4\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167640713\/80fc4\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-14"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,97 @@
+{
+    "title": "Jacqueline Palmer\/a day in Crete",
+    "description": "On trend fashion! All the basics for a beautiful day sunglasses, accessories, the classic sheat dress and a pair of espadrilles! #macysstykecrew #style #trend #crete #greece #fadhion #boutari",
+    "referenceId": "6c706fef9de64d036e7c620f26049bd1",
+    "date_created": "1530291393",
+    "date_modified": "1530340811",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "23",
+    "engagement_score": "1",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213201",
+    "product_category": "women",
+    "id": "165329240",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "79e0fce0-1e59-4f91-bdbe-9c3f85fbcef8",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "70",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "70",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "70",
+        "prettyDuration": "00:01:10",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/165329240\/b07d2\/thumb-6c706fef9de64d036e7c620f26049bd1-00002.jpg",
+        "type": "mp4",
+        "assetId": "165329240",
+        "assetTitle": "Jacqueline Palmer\/style crew",
+        "assetTitleTextEncoded": "79e0fce0-1e59-4f91-bdbe-9c3f85fbcef8",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "165329240",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165329240\/b07d2\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165329240\/b07d2\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165329240\/b07d2\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165329240\/b07d2\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165329240\/b07d2\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "LiveSport Logitravel Yesterday",
+    "tvp_enhanced_transcript": null
+}

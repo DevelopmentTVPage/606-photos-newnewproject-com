@@ -1,0 +1,110 @@
+{
+    "title": "August 18 and 19 2018 Earn Star Money and Wacoal Bras",
+    "description": "August 18 and 19 2018 are earn star money day. This video shows the sign about star money and Wacoal bras.",
+    "referenceId": "1d7e2ea9f5ef1922b67bb8c778e8143a",
+    "date_created": "1531254678",
+    "date_modified": "1534619563",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "19",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213180",
+    "product_category": "women",
+    "id": "166705055",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "5442d9be-dc6a-4ae4-b1fd-a5441b9b7a49",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "41",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "41",
+            "width": 568,
+            "height": 320
+        },
+        "mediaDuration": "41",
+        "prettyDuration": "00:00:41",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/166705055\/thumbnail\/image-thumbnail-640-70f9ef04c48efda685bbb95ae9b8cc3b.jpg",
+        "type": "mp4",
+        "assetId": "166705055",
+        "assetTitle": "July 10 Earn Star Money and Wacoal Bras",
+        "assetTitleTextEncoded": "5442d9be-dc6a-4ae4-b1fd-a5441b9b7a49",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "166705055",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/166705055\/87bb0\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/166705055\/87bb0\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/166705055\/87bb0\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/166705055\/87bb0\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/166705055\/87bb0\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/166705055\/87bb0\/thumb-1d7e2ea9f5ef1922b67bb8c778e8143a-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/166705055\/user-images\/image-1857-db1ebf90c139441cd7b5e5d5edfec4fb.jpg",
+            "\/\/v.tvpage.com\/1759121\/166705055\/user-images\/image-568-0b4473cb5c7cea76c548a8251c91d95c.jpg",
+            "\/\/v.tvpage.com\/1759121\/166705055\/87bb0\/thumb-1d7e2ea9f5ef1922b67bb8c778e8143a-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/166705055\/user-images\/image-1857-db1ebf90c139441cd7b5e5d5edfec4fb.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/166705055\/thumbnail\/image-thumbnail-256-0b3c214671c5bb5b595f64a8faf91ad3.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/166705055\/thumbnail\/image-thumbnail-480-af08ffdb7f581198a8af28eb9716a0ad.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/166705055\/thumbnail\/image-thumbnail-640-70f9ef04c48efda685bbb95ae9b8cc3b.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/166705055\/thumbnail\/image-thumbnail-1280-ce1fbab48a29c7b69cf6e907a9f3a63b.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-14"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

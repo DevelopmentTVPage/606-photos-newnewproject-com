@@ -1,0 +1,113 @@
+{
+    "title": "RADLEY of London",
+    "description": "Great fall handbags from RADLEY of London! #macysstylecrew #macysmystylist #radley #handbags",
+    "referenceId": "6283312c4572242f916e8f4e6ce58d8e",
+    "date_created": "1535377685",
+    "date_modified": "1535377997",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "41",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213201",
+    "product_category": "handbags",
+    "id": "176226051",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "8da221d0-5a57-43f8-83a2-8773d7bdc100",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "167",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "167",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "167",
+        "prettyDuration": "00:02:47",
+        "automaticThumbnailsPattern": "1759121\/176226051\/ecc08\/thumb-6283312c4572242f916e8f4e6ce58d8e-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/176226051\/ecc08\/thumb-6283312c4572242f916e8f4e6ce58d8e-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/176226051\/ecc08\/thumb-6283312c4572242f916e8f4e6ce58d8e-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/176226051\/ecc08\/thumb-6283312c4572242f916e8f4e6ce58d8e-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/176226051\/ecc08\/thumb-6283312c4572242f916e8f4e6ce58d8e-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/176226051\/ecc08\/thumb-6283312c4572242f916e8f4e6ce58d8e-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/176226051\/ecc08\/thumb-6283312c4572242f916e8f4e6ce58d8e-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/176226051\/thumbnail\/image-thumbnail-256-85790551164f46028159436660776866.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/176226051\/thumbnail\/image-thumbnail-480-daf9cc48c1ec10f7a37b26811bfbbbf1.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/176226051\/thumbnail\/image-thumbnail-640-8375cfd9083daaf90bbd79a45e7fa5eb.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/176226051\/thumbnail\/image-thumbnail-1280-273de4d9325ba4e36bc8cf7956bd60db.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/176226051\/ecc08\/thumb-6283312c4572242f916e8f4e6ce58d8e-00004.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/176226051\/thumbnail\/image-thumbnail-640-8375cfd9083daaf90bbd79a45e7fa5eb.jpg",
+        "type": "mp4",
+        "assetId": "176226051",
+        "assetTitle": "8DA221D0-5A57-43F8-83A2-8773D7BDC100",
+        "assetTitleTextEncoded": "8da221d0-5a57-43f8-83a2-8773d7bdc100",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "176226051",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176226051\/ecc08\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176226051\/ecc08\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176226051\/ecc08\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176226051\/ecc08\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176226051\/ecc08\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,110 @@
+{
+    "title": "Intimate Apparel 8\/2018",
+    "description": "Macy's Intimate Apparel has waist trimmers, bras, lace underwear, night gowns, bustiers, girdles, high waist panties, hipsters to thongs. Dress well underneath!",
+    "referenceId": "72d3d6a525a38712f354142a71fdacf6",
+    "date_created": "1534124848",
+    "date_modified": "1534129441",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "7",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213453",
+    "product_category": "women",
+    "id": "170575766",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "photogrid-1534123750191",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "30",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "30",
+            "width": 720,
+            "height": 720
+        },
+        "mediaDuration": "30",
+        "prettyDuration": "00:00:30",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/170575766\/thumbnail\/image-thumbnail-640-c27ea7faa7e80ae568346bc7559932ce.jpg",
+        "type": "mp4",
+        "assetId": "170575766",
+        "assetTitle": "Intimate Apparel 8\/2018",
+        "assetTitleTextEncoded": "photogrid-1534123750191",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "170575766",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170575766\/03501\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170575766\/03501\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170575766\/03501\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170575766\/03501\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170575766\/03501\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/170575766\/03501\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/170575766\/03501\/media.m3u8",
+        "automaticThumbnailsPattern": "1759121\/170575766\/03501\/thumb-72d3d6a525a38712f354142a71fdacf6-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/170575766\/user-images\/image-720-206020ed436933d15a3a862ff418cab2.jpg",
+            "\/\/v.tvpage.com\/1759121\/170575766\/03501\/thumb-72d3d6a525a38712f354142a71fdacf6-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/170575766\/user-images\/image-720-206020ed436933d15a3a862ff418cab2.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/170575766\/thumbnail\/image-thumbnail-256-59107ebfd163e2ad4f6d15ed7e23ee78.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/170575766\/thumbnail\/image-thumbnail-480-0a9d22aedef7dc334a28cc58253c546c.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/170575766\/thumbnail\/image-thumbnail-640-c27ea7faa7e80ae568346bc7559932ce.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-14"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

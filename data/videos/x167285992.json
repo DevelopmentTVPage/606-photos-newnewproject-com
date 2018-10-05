@@ -1,0 +1,113 @@
+{
+    "title": "Summer's Leather- How to Style the Suede Jacket",
+    "description": "Hi guys! I'm back again with another video sharing with you my version of the summer leather jacket...the suede jacket! Take a look to see how I like to style mine in the heat and tips for strategically covering up an area some of us might be insecure about.\n\nAll of the Product Web IDs: (searchable on Macys.com)\n5499558- Marc New York Suede Jacket\n6267237- Rachel Roy White Knit Top\n6267238- Rachel Roy White Knit Pencil Skirt",
+    "referenceId": "cfb62972097dede441d2773bda25f5a4",
+    "date_created": "1531537135",
+    "date_modified": "1532390714",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "92",
+    "engagement_score": "4",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213313",
+    "product_category": "women",
+    "id": "167285992",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "summer-s-leather-the-suede-jacket-1080p",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "124",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "124",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "124",
+        "prettyDuration": "00:02:04",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/167285992\/thumbnail\/image-thumbnail-640-848d9c1ea76b2ad89191d220555cd2cc.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/167285992\/4f0fe\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/167285992\/4f0fe\/media.m3u8",
+        "assetId": "167285992",
+        "assetTitle": "Summer's Leather- How to Style the Suede Jacket",
+        "assetTitleTextEncoded": "summer-s-leather-the-suede-jacket-1080p",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "167285992",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167285992\/4f0fe\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167285992\/4f0fe\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167285992\/4f0fe\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167285992\/4f0fe\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167285992\/4f0fe\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/167285992\/4f0fe\/thumb-cfb62972097dede441d2773bda25f5a4-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/167285992\/user-images\/image-3839-a8e16a222f7a4a390b69db559a9fe5c8.jpg",
+            "\/\/v.tvpage.com\/1759121\/167285992\/user-images\/image-1920-f16d01432d1b6f30547f0c5212c944a2.jpg",
+            "\/\/v.tvpage.com\/1759121\/167285992\/4f0fe\/thumb-cfb62972097dede441d2773bda25f5a4-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/167285992\/user-images\/image-3839-a8e16a222f7a4a390b69db559a9fe5c8.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/167285992\/thumbnail\/image-thumbnail-256-40738f83dfc6dc5f80bc675710321798.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/167285992\/thumbnail\/image-thumbnail-480-e273b6de603a7278f2e69e130ab2eada.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/167285992\/thumbnail\/image-thumbnail-640-848d9c1ea76b2ad89191d220555cd2cc.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/167285992\/thumbnail\/image-thumbnail-1280-3b2fa868a6ea17435f416cabe984df6e.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/167285992\/thumbnail\/image-thumbnail-1920-3d9900ba0b2ba6ebbaaef3c8c195e024.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-14"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

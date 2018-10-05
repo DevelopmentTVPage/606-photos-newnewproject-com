@@ -1,0 +1,109 @@
+{
+    "title": "Summer in the City",
+    "description": "This is the perfect outfit to take from day to night!",
+    "referenceId": "c9d9c363aa7eb069629ca1d6dd430c03",
+    "date_created": "1530904057",
+    "date_modified": "1536891679",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "58",
+    "engagement_score": "1",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213216",
+    "product_category": "women",
+    "id": "165468959",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "trim-f514cb06-bf21-4e22-a0a4-ccbe5c4aeb5d",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "15",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "15",
+            "width": 610,
+            "height": 1080
+        },
+        "mediaDuration": "15",
+        "prettyDuration": "00:00:15",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/165468959\/thumbnail\/image-thumbnail-480-155594cbe19e10e7f6ba3f6ef56ad6fc.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "quality": "",
+        "assetId": "165468959",
+        "assetTitle": "Summer in the City",
+        "assetTitleTextEncoded": "trim-f514cb06-bf21-4e22-a0a4-ccbe5c4aeb5d",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "165468959",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165468959\/14596\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 610,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165468959\/14596\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 408,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165468959\/14596\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 272,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165468959\/14596\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 204,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165468959\/14596\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 136,
+                "height": 240
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/165468959\/14596\/thumb-c9d9c363aa7eb069629ca1d6dd430c03-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/165468959\/user-images\/image-610-5d588654d707b6446cc535fc2bff40c7.jpg",
+            "\/\/v.tvpage.com\/1759121\/165468959\/14596\/thumb-c9d9c363aa7eb069629ca1d6dd430c03-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/165468959\/user-images\/image-610-5d588654d707b6446cc535fc2bff40c7.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/165468959\/thumbnail\/image-thumbnail-256-2946765cf3ab5395b5615c53ca01940b.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/165468959\/thumbnail\/image-thumbnail-480-155594cbe19e10e7f6ba3f6ef56ad6fc.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,97 @@
+{
+    "title": "Are you ready for it.....",
+    "description": "Latest styles in fashion of denim shorts",
+    "referenceId": "f2829464b72eee9edf367bda11fe32f9",
+    "date_created": "1530612264",
+    "date_modified": "1530614428",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "46",
+    "engagement_score": "4",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213147",
+    "product_category": "women",
+    "id": "165396133",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "1d5e361e-7350-4496-8641-63cf733b6c2a",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "157",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "157",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "157",
+        "prettyDuration": "00:02:37",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/165396133\/d740d\/thumb-f2829464b72eee9edf367bda11fe32f9-00002.jpg",
+        "type": "mp4",
+        "assetId": "165396133",
+        "assetTitle": "Are you ready for it.....",
+        "assetTitleTextEncoded": "1d5e361e-7350-4496-8641-63cf733b6c2a",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "165396133",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165396133\/d740d\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165396133\/d740d\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165396133\/d740d\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165396133\/d740d\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165396133\/d740d\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-02"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

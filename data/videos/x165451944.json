@@ -1,0 +1,99 @@
+{
+    "title": "I.N.C intimate apparel",
+    "description": "Macy\u2019s new line of intimate apparel by I.N.C check out this collection of bodysuits, push up bras and this great boy shorts!\n#macysstylecrew #macysmystylist #incstyle #intimates #boyshorts #thebra",
+    "referenceId": "7f4dab618bb4081b27e8ad0bcd9b0db3",
+    "date_created": "1530821770",
+    "date_modified": "1530831755",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "30",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213201",
+    "product_category": "women",
+    "id": "165451944",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "1125bb5c-50b0-4343-b82c-4cfde55a9097",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "59",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "59",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "59",
+        "prettyDuration": "00:00:59",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1759121\/canvas\/1920\/1080\/337578834-1530831755.png",
+        "type": "mp4",
+        "assetId": 165451944,
+        "assetTitle": "I.N.C intimate apparel",
+        "assetTitleTextEncoded": "1125bb5c-50b0-4343-b82c-4cfde55a9097",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 165451944,
+            "li": "1759121"
+        },
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165451944\/6f119\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165451944\/6f119\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165451944\/6f119\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165451944\/6f119\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165451944\/6f119\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "LED Light Buzzispace Jack Spade Macy's Delinero Aceros Levinson Gereja Utusan Pantekosta",
+    "tvp_enhanced_transcript": null
+}

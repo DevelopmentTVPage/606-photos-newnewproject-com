@@ -1,0 +1,114 @@
+{
+    "title": "Lancome x St. Jude",
+    "description": "Since 2010, Lancome had joined force with St. Jude and has raised over $3 million in finding cures and saving children! Until 09\/16, Lancome will donate $10 to St. Jude for every Advanced Genifique bottle sold! How amazing is that?! Click to shop now!\n\nFollow my Instagram for more: @janie.hong",
+    "referenceId": "f8a0bccbc6dee836c3696a95ef31c588",
+    "date_created": "1536790772",
+    "date_modified": "1536871831",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "3",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213220",
+    "product_category": "beauty",
+    "id": "177472567",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "lancome-x-st-jude",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "34",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "34",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "34",
+        "prettyDuration": "00:00:34",
+        "automaticThumbnailsPattern": "1759121\/177472567\/23bd1\/thumb-f8a0bccbc6dee836c3696a95ef31c588-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/177472567\/23bd1\/thumb-f8a0bccbc6dee836c3696a95ef31c588-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/177472567\/23bd1\/thumb-f8a0bccbc6dee836c3696a95ef31c588-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/177472567\/23bd1\/thumb-f8a0bccbc6dee836c3696a95ef31c588-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/177472567\/23bd1\/thumb-f8a0bccbc6dee836c3696a95ef31c588-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/177472567\/23bd1\/thumb-f8a0bccbc6dee836c3696a95ef31c588-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/177472567\/23bd1\/thumb-f8a0bccbc6dee836c3696a95ef31c588-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/177472567\/thumbnail\/image-thumbnail-256-fcbefff77c735cb037f0bc6fa585ade2.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/177472567\/thumbnail\/image-thumbnail-480-5400434e0e483537cb2d766621234f1a.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/177472567\/thumbnail\/image-thumbnail-640-7932a1104b77c68210c00f0c8b1da8f2.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/177472567\/thumbnail\/image-thumbnail-1280-6061ebafce765bad1bae1f7a21e52a8a.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/177472567\/thumbnail\/image-thumbnail-1920-f1da0479f6396c5e731510e90bf92431.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/177472567\/23bd1\/thumb-f8a0bccbc6dee836c3696a95ef31c588-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/177472567\/thumbnail\/image-thumbnail-640-7932a1104b77c68210c00f0c8b1da8f2.jpg",
+        "type": "mp4",
+        "assetId": "177472567",
+        "assetTitle": "Lancome x St. Jude",
+        "assetTitleTextEncoded": "lancome-x-st-jude",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "177472567",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177472567\/23bd1\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177472567\/23bd1\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177472567\/23bd1\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177472567\/23bd1\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177472567\/23bd1\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "St. Jude Children's Research Hospital No Logo Black Queen: Greatest Flix I & II (1998)",
+    "tvp_enhanced_transcript": null
+}

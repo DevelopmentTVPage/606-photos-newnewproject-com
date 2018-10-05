@@ -1,0 +1,95 @@
+{
+    "title": "Versace All the way",
+    "description": "Sunglass Hut",
+    "referenceId": "c8deed656daf293e73cd54a98f11e7c2",
+    "date_created": "1529539022",
+    "date_modified": "1529541110",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "12",
+    "engagement_score": "2",
+    "conversion_score": null,
+    "CVV_VI": "2",
+    "video_type": null,
+    "user_id": "213168",
+    "product_category": "jewelry",
+    "id": "164989249",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "cd790aec-43ba-464f-b34e-dcec24dd2c51",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "11",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "11",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "11",
+        "prettyDuration": "00:00:11",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164989249\/9e684\/thumb-c8deed656daf293e73cd54a98f11e7c2-00002.jpg",
+        "type": "mp4",
+        "assetId": "164989249",
+        "assetTitle": "CD790AEC-43BA-464F-B34E-DCEC24DD2C51",
+        "assetTitleTextEncoded": "cd790aec-43ba-464f-b34e-dcec24dd2c51",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164989249",
+            "li": "1759121"
+        },
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164989249\/9e684\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164989249\/9e684\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164989249\/9e684\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164989249\/9e684\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164989249\/9e684\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-07-25\"}},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-07-25\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

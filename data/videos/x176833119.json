@@ -1,0 +1,111 @@
+{
+    "title": "Comfy Booties Stick Me Through Outside Lands Weekend",
+    "description": "Very comfy and keep me warm",
+    "referenceId": "195ebb788804d09ae8a2d63112e7380f",
+    "date_created": "1535902055",
+    "date_modified": "1535902339",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "9",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213185",
+    "product_category": "shoes",
+    "id": "176833119",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "51c4dfe5-b217-4a3a-b271-9289e588a280",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "13",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "13",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "13",
+        "prettyDuration": "00:00:13",
+        "automaticThumbnailsPattern": "1759121\/176833119\/e22fe\/thumb-195ebb788804d09ae8a2d63112e7380f-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/176833119\/e22fe\/thumb-195ebb788804d09ae8a2d63112e7380f-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/176833119\/e22fe\/thumb-195ebb788804d09ae8a2d63112e7380f-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/176833119\/e22fe\/thumb-195ebb788804d09ae8a2d63112e7380f-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/176833119\/e22fe\/thumb-195ebb788804d09ae8a2d63112e7380f-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/176833119\/e22fe\/thumb-195ebb788804d09ae8a2d63112e7380f-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/176833119\/e22fe\/thumb-195ebb788804d09ae8a2d63112e7380f-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/176833119\/thumbnail\/image-thumbnail-256-6bac552995e48feebb73293b00e8852a.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/176833119\/thumbnail\/image-thumbnail-480-82d4cff64576b6acc1d5713f00217563.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/176833119\/e22fe\/thumb-195ebb788804d09ae8a2d63112e7380f-00001.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/176833119\/thumbnail\/image-thumbnail-480-82d4cff64576b6acc1d5713f00217563.jpg",
+        "type": "mp4",
+        "assetId": "176833119",
+        "assetTitle": "51C4DFE5-B217-4A3A-B271-9289E588A280",
+        "assetTitleTextEncoded": "51c4dfe5-b217-4a3a-b271-9289e588a280",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "176833119",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176833119\/e22fe\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176833119\/e22fe\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176833119\/e22fe\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176833119\/e22fe\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176833119\/e22fe\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-11"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,112 @@
+{
+    "title": "Bold Eyeshadow Look Tutorial",
+    "description": "In this tutorial I created a fun and bold blue eyeshadow look using the new Born to Run collection from Urban Decay",
+    "referenceId": "528e6504d03371cf4d633b3a15fa01a8",
+    "date_created": "1534514398",
+    "date_modified": "1534514867",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "9",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213366",
+    "product_category": "beauty",
+    "id": "171072974",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "fey-meijas-born-to-run-bold",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "100",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "100",
+            "width": 720,
+            "height": 720
+        },
+        "mediaDuration": "100",
+        "prettyDuration": "00:01:40",
+        "automaticThumbnailsPattern": "1759121\/171072974\/a7fbe\/thumb-528e6504d03371cf4d633b3a15fa01a8-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/171072974\/a7fbe\/thumb-528e6504d03371cf4d633b3a15fa01a8-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/171072974\/a7fbe\/thumb-528e6504d03371cf4d633b3a15fa01a8-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/171072974\/a7fbe\/thumb-528e6504d03371cf4d633b3a15fa01a8-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/171072974\/a7fbe\/thumb-528e6504d03371cf4d633b3a15fa01a8-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/171072974\/a7fbe\/thumb-528e6504d03371cf4d633b3a15fa01a8-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/171072974\/a7fbe\/thumb-528e6504d03371cf4d633b3a15fa01a8-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/171072974\/thumbnail\/image-thumbnail-256-e765e1d66592d459a847929f6cd94d28.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/171072974\/thumbnail\/image-thumbnail-480-162ad040dfc9af45f371a04ba762f387.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/171072974\/thumbnail\/image-thumbnail-640-dcdf3ae4de4fee3cbf137ca559f08d0d.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/171072974\/a7fbe\/thumb-528e6504d03371cf4d633b3a15fa01a8-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/171072974\/thumbnail\/image-thumbnail-640-dcdf3ae4de4fee3cbf137ca559f08d0d.jpg",
+        "type": "mp4",
+        "assetId": 171072974,
+        "assetTitle": "Bold Eyeshadow Look Tutorial",
+        "assetTitleTextEncoded": "fey-meijas-born-to-run-bold",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 171072974,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171072974\/a7fbe\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171072974\/a7fbe\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171072974\/a7fbe\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171072974\/a7fbe\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171072974\/a7fbe\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,97 @@
+{
+    "title": "Summer It List!",
+    "description": "Today I\u2019m going to be sharing with you three items from our summer it list and how I paired them together to create the ultimate summe outfit!",
+    "referenceId": "582bc79e4fe26c54c07150c3c73d025c",
+    "date_created": "1533213313",
+    "date_modified": "1533213388",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "61",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213222",
+    "product_category": "women",
+    "id": "168811861",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "e3523bd7-d22f-417e-b36b-66fee6d7f5d9",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "72",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "72",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "72",
+        "prettyDuration": "00:01:12",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/168811861\/15bd6\/thumb-582bc79e4fe26c54c07150c3c73d025c-00002.jpg",
+        "type": "mp4",
+        "assetId": "168811861",
+        "assetTitle": "E3523BD7-D22F-417E-B36B-66FEE6D7F5D9",
+        "assetTitleTextEncoded": "e3523bd7-d22f-417e-b36b-66fee6d7f5d9",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "168811861",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168811861\/15bd6\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168811861\/15bd6\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168811861\/15bd6\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168811861\/15bd6\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168811861\/15bd6\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-08-06"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Kiwifruit",
+    "tvp_enhanced_transcript": null
+}

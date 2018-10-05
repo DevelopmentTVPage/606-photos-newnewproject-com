@@ -1,0 +1,97 @@
+{
+    "title": "\u201cQuick Clips\u201d - Elizabeth Arden Eight Hour Cream",
+    "description": "These products are absolutely amazing! They are award-winning products for hydration and renewal and they are something I can\u2019t live without! I use the Miracle Oil for my legs and feet all the time and they become so silky and smooth. They Hydrating Face Mist is amazing for a quick refresher. And the Hand Cream is great for eczema and dry, cracked hands. Just fabulous products that I needed to share with you guys! Elizabeth Arden is also in GIFT right now so don\u2019t miss out!\n\nInstagram: @emilyacurran\nYouTube: Emily Curran",
+    "referenceId": "e5f5c422b951b8e61c4eff81e0af2f87",
+    "date_created": "1529783215",
+    "date_modified": "1529840274",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "3",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213118",
+    "product_category": "beauty",
+    "id": "165023074",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "693b6f7c-bcf0-4fc0-b949-3d806182a0b7",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "4",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "4",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "4",
+        "prettyDuration": "00:00:04",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/165023074\/51b38\/thumb-e5f5c422b951b8e61c4eff81e0af2f87-00002.jpg",
+        "type": "mp4",
+        "assetId": "165023074",
+        "assetTitle": "693B6F7C-BCF0-4FC0-B949-3D806182A0B7",
+        "assetTitleTextEncoded": "693b6f7c-bcf0-4fc0-b949-3d806182a0b7",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "165023074",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165023074\/51b38\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165023074\/51b38\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165023074\/51b38\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165023074\/51b38\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165023074\/51b38\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-08-09"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Elizabeth Arden",
+    "tvp_enhanced_transcript": null
+}

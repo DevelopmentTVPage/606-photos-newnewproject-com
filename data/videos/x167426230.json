@@ -1,0 +1,100 @@
+{
+    "title": "Baking with Laura Mercier",
+    "description": "Do you want picture perfect, pore less skin?? Learn how BAKING your makeup is the best thing you could be doing for your makeup! LOCK THAT LOOK IN PACE!",
+    "referenceId": "be4e61669cfa1cf201871eccecf78568",
+    "date_created": "1532085322",
+    "date_modified": "1532447366",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "354",
+    "engagement_score": "8",
+    "conversion_score": null,
+    "CVV_VI": "2",
+    "video_type": null,
+    "user_id": "213304",
+    "product_category": "beauty",
+    "id": "167426230",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "baking-with-laura-mercier",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "LONG",
+    "duration": "406",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "406",
+            "width": 1080,
+            "height": 608
+        },
+        "mediaDuration": "406",
+        "prettyDuration": "00:06:46",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/167426230\/3a302\/thumb-be4e61669cfa1cf201871eccecf78568-00002.jpg",
+        "type": "mp4",
+        "assetId": "167426230",
+        "assetTitle": "Baking with Laura Mercier",
+        "assetTitleTextEncoded": "baking-with-laura-mercier",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "167426230",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167426230\/3a302\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1080,
+                "height": 608
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167426230\/3a302\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1080,
+                "height": 608
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167426230\/3a302\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167426230\/3a302\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167426230\/3a302\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-08-09"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-08-18"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

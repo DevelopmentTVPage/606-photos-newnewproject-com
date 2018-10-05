@@ -1,0 +1,114 @@
+{
+    "title": "24th & Ocean with Raviva Coverup",
+    "description": "Summer Season is not over! There's still time to get your swimsuits and even at a better deal!! All swimsuits are 40-60% off right now. I'm wearing a tankini top and bottom from 24th & Ocean along with a Raviva Tie-Dye Cover-up. Swimsuits still available at Macy's!!",
+    "referenceId": "0c08c45b8993d8aae5bfd4d8e1d4ff2c",
+    "date_created": "1535265774",
+    "date_modified": "1535265951",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "28",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213194",
+    "product_category": "women",
+    "id": "176214525",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "24th-ocean-with-raviva",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "57",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "57",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "57",
+        "prettyDuration": "00:00:57",
+        "automaticThumbnailsPattern": "1759121\/176214525\/f26e7\/thumb-0c08c45b8993d8aae5bfd4d8e1d4ff2c-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/176214525\/f26e7\/thumb-0c08c45b8993d8aae5bfd4d8e1d4ff2c-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/176214525\/f26e7\/thumb-0c08c45b8993d8aae5bfd4d8e1d4ff2c-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/176214525\/f26e7\/thumb-0c08c45b8993d8aae5bfd4d8e1d4ff2c-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/176214525\/f26e7\/thumb-0c08c45b8993d8aae5bfd4d8e1d4ff2c-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/176214525\/f26e7\/thumb-0c08c45b8993d8aae5bfd4d8e1d4ff2c-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/176214525\/f26e7\/thumb-0c08c45b8993d8aae5bfd4d8e1d4ff2c-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/176214525\/thumbnail\/image-thumbnail-256-ac79e20a20178693e3ca45e3e84410b8.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/176214525\/thumbnail\/image-thumbnail-480-6d1cb5bbb371d99ca1dcf5f3ecb8a6f9.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/176214525\/thumbnail\/image-thumbnail-640-ee81aa37e9ae9429698895cb931c7bcc.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/176214525\/thumbnail\/image-thumbnail-1280-aa6d4b46f98ef7259e70d3ffeb8e0bd7.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/176214525\/thumbnail\/image-thumbnail-1920-3c6ae401ea18eaaf78dd24e46033a943.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/176214525\/f26e7\/thumb-0c08c45b8993d8aae5bfd4d8e1d4ff2c-00003.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/176214525\/thumbnail\/image-thumbnail-640-ee81aa37e9ae9429698895cb931c7bcc.jpg",
+        "type": "mp4",
+        "assetId": "176214525",
+        "assetTitle": "24th & Ocean with Raviva",
+        "assetTitleTextEncoded": "24th-ocean-with-raviva",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "176214525",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176214525\/f26e7\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176214525\/f26e7\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176214525\/f26e7\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176214525\/f26e7\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176214525\/f26e7\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-05"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

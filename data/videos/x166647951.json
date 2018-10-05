@@ -1,0 +1,107 @@
+{
+    "title": "Michelle's Top 8 Make Up Products",
+    "description": "Hi guys! Today I'm coming at you with my holy grail, top eight make up products that I incorporate into my routine every day. I'd love to know if you try out any of them and I hope you love them as much as I do!\n\nAll of the Product Web IDs: (searchable on Macys.com)\n394132- Bobbi Brown Face Base\n2665748- DiorSkin Forever Foundation\n2015548- DiorSkin Nude Tan Powder Bronzer\n259072- MAC Paint Pot\n2683809- Clinique Lid Pop Eyeshadow\n757165- Chanel Le Volume Mascara\n106362- MAC Lip Pencil\n6338603- Rachel Roy Seersucker Ruffle Top",
+    "referenceId": "450dac1d62963745f6e45b8c71a46b68",
+    "date_created": "1530937842",
+    "date_modified": "1532390409",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "318",
+    "engagement_score": "23",
+    "conversion_score": "1",
+    "CVV_VI": "2",
+    "video_type": null,
+    "user_id": "213313",
+    "product_category": "beauty",
+    "id": "166647951",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "makeup-must-haves-top-8-720-p",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "LONG",
+    "duration": "352",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "352",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "352",
+        "prettyDuration": "00:05:52",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/166647951\/thumbnail\/image-thumbnail-640-a1ccb29e2b97cf81b7087d6cb7e0fe6d.jpg",
+        "type": "mp4",
+        "assetId": "166647951",
+        "assetTitle": "Michelle's Top 8 Make Up Products",
+        "assetTitleTextEncoded": "makeup-must-haves-top-8-720-p",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "166647951",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/166647951\/14d2e\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/166647951\/14d2e\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/166647951\/14d2e\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/166647951\/14d2e\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/166647951\/14d2e\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/166647951\/14d2e\/thumb-450dac1d62963745f6e45b8c71a46b68-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/166647951\/user-images\/image-3839-a8ffe75ef8defe7bb129c7f9230df98f.jpg",
+            "\/\/v.tvpage.com\/1759121\/166647951\/user-images\/image-1280-f332b9fd2bd4ed89fbdb54fd59b30da5.jpg",
+            "\/\/v.tvpage.com\/1759121\/166647951\/14d2e\/thumb-450dac1d62963745f6e45b8c71a46b68-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/166647951\/user-images\/image-3839-a8ffe75ef8defe7bb129c7f9230df98f.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/166647951\/thumbnail\/image-thumbnail-256-5a06ebc82d33a36351ee294728768bda.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/166647951\/thumbnail\/image-thumbnail-480-c3f753883c1582c6da02cfc97fcd54a2.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/166647951\/thumbnail\/image-thumbnail-640-a1ccb29e2b97cf81b7087d6cb7e0fe6d.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/166647951\/thumbnail\/image-thumbnail-1280-27ecb2fa92ab7d1462bbef496800aea8.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/166647951\/thumbnail\/image-thumbnail-1920-b228d5b4588f537f1869b58150a38c7c.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-07-25\"}},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-07-25\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Alabama",
+    "tvp_enhanced_transcript": null
+}

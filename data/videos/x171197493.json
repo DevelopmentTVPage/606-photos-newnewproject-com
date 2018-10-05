@@ -1,0 +1,117 @@
+{
+    "title": "Macy's August Beauty Box",
+    "description": "ALERT!! Our August beauty box contains MUST HAVES for the wedding and event season! These products are sure to amplify your FABULOSITY and make you feel amazing!",
+    "referenceId": "091a45112558f16779709c9b0eb7cf45",
+    "date_created": "1534639094",
+    "date_modified": "1534642482",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "94",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213304",
+    "product_category": "beauty",
+    "id": "171197493",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "august-beauty-box",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "LONG",
+    "duration": "433",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "433",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "433",
+        "prettyDuration": "00:07:13",
+        "automaticThumbnailsPattern": "1759121\/171197493\/804af\/thumb-091a45112558f16779709c9b0eb7cf45-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/171197493\/user-images\/image-2221-2f74e2fd7c4ce821608078e524f432ae.jpg",
+            "\/\/v.tvpage.com\/1759121\/171197493\/804af\/thumb-091a45112558f16779709c9b0eb7cf45-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/171197493\/804af\/thumb-091a45112558f16779709c9b0eb7cf45-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/171197493\/804af\/thumb-091a45112558f16779709c9b0eb7cf45-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/171197493\/804af\/thumb-091a45112558f16779709c9b0eb7cf45-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/171197493\/804af\/thumb-091a45112558f16779709c9b0eb7cf45-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/171197493\/804af\/thumb-091a45112558f16779709c9b0eb7cf45-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/171197493\/thumbnail\/image-thumbnail-256-975ce213906ca86d92013d67c9dc424e.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/171197493\/thumbnail\/image-thumbnail-480-d2c2c02fe9e19d88d01e13aee49d840c.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/171197493\/thumbnail\/image-thumbnail-640-336f99fdd7b924f7d2b91ae1c02c05e7.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/171197493\/thumbnail\/image-thumbnail-1280-a7b10362053c93226a23ee28dd67e4cd.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/171197493\/thumbnail\/image-thumbnail-1920-895eef17c2dad6a836352aefe8b02045.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/171197493\/user-images\/image-2221-2f74e2fd7c4ce821608078e524f432ae.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/171197493\/thumbnail\/image-thumbnail-640-336f99fdd7b924f7d2b91ae1c02c05e7.jpg",
+        "type": "mp4",
+        "assetId": "171197493",
+        "assetTitle": "Macy's August Beauty Box",
+        "assetTitleTextEncoded": "august-beauty-box",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "171197493",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171197493\/804af\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171197493\/804af\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171197493\/804af\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171197493\/804af\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171197493\/804af\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/171197493\/804af\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/171197493\/804af\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-08-30"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

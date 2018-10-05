@@ -1,0 +1,115 @@
+{
+    "title": "FLOWERBOMB",
+    "description": "We\u2019re loving this scent!!!! :)",
+    "referenceId": "8f17e7e6d95fa2ac69295804094b4b13",
+    "date_created": "1536636119",
+    "date_modified": "1536636370",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "8",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213440",
+    "product_category": "beauty",
+    "id": "177245451",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "7ec94e50-b057-4e59-8814-146168e63501",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "16",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "16",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "16",
+        "prettyDuration": "00:00:16",
+        "automaticThumbnailsPattern": "1759121\/177245451\/5eac5\/thumb-8f17e7e6d95fa2ac69295804094b4b13-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/177245451\/5eac5\/thumb-8f17e7e6d95fa2ac69295804094b4b13-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/177245451\/5eac5\/thumb-8f17e7e6d95fa2ac69295804094b4b13-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/177245451\/5eac5\/thumb-8f17e7e6d95fa2ac69295804094b4b13-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/177245451\/5eac5\/thumb-8f17e7e6d95fa2ac69295804094b4b13-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/177245451\/5eac5\/thumb-8f17e7e6d95fa2ac69295804094b4b13-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/177245451\/5eac5\/thumb-8f17e7e6d95fa2ac69295804094b4b13-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/177245451\/thumbnail\/image-thumbnail-256-fa33ad87506183debad61026c5163e69.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/177245451\/thumbnail\/image-thumbnail-480-26b0da6b62ccb1e189c1c029c312931a.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/177245451\/thumbnail\/image-thumbnail-640-d6f6644b0af35fa99131e5f5aabd49b8.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/177245451\/thumbnail\/image-thumbnail-1280-0e9967a6b760865098d6ed95fbfb69e3.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/177245451\/5eac5\/thumb-8f17e7e6d95fa2ac69295804094b4b13-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/177245451\/thumbnail\/image-thumbnail-640-d6f6644b0af35fa99131e5f5aabd49b8.jpg",
+        "type": "mp4",
+        "assetId": "177245451",
+        "assetTitle": "7EC94E50-B057-4E59-8814-146168E63501",
+        "assetTitleTextEncoded": "7ec94e50-b057-4e59-8814-146168e63501",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "177245451",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177245451\/5eac5\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177245451\/5eac5\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177245451\/5eac5\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177245451\/5eac5\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177245451\/5eac5\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/177245451\/5eac5\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/177245451\/5eac5\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-14"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Audrey Black Macy's",
+    "tvp_enhanced_transcript": null
+}

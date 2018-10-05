@@ -1,0 +1,113 @@
+{
+    "title": "How to: Smokey Eye",
+    "description": "Hi guys! Today I\u2019m sharing with you my go to smokey eye that I pretty much wear every single day. It\u2019s super simple to achieve and an eye look that goes with every outfit. Enjoy!\n\nAll of the Product Web IDs: (searchable on Macys.com)\n6338603- Rachel Roy Seersucker Ruffle Crop Top\n259072- MAC Paint Pot in Painterly\n2683809- Clinique Lid Pop Eyeshadow in Petal Pop\n5887909- MAC 221 Brush\n4952260- MAC Eyeshadows in Soba, Handwritten, Vanilla, and Retrospeck\n5780307- MAC 224 Brush\n5887880- MAC 239 Brush\n757165- Chanel Le Volume Mascara",
+    "referenceId": "a61f9f78294d462618511d1fd084e2eb",
+    "date_created": "1537142610",
+    "date_modified": "1537148882",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213313",
+    "product_category": "beauty",
+    "id": "177833099",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "how-to-summer-smokey-eye",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "LONG",
+    "duration": "614",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "614",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "614",
+        "prettyDuration": "00:10:14",
+        "automaticThumbnailsPattern": "1759121\/177833099\/268a9\/thumb-a61f9f78294d462618511d1fd084e2eb-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/177833099\/user-images\/image-3839-096e5022787ecfb574d4d106f666359d.jpg",
+            "\/\/v.tvpage.com\/1759121\/177833099\/268a9\/thumb-a61f9f78294d462618511d1fd084e2eb-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/177833099\/268a9\/thumb-a61f9f78294d462618511d1fd084e2eb-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/177833099\/268a9\/thumb-a61f9f78294d462618511d1fd084e2eb-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/177833099\/268a9\/thumb-a61f9f78294d462618511d1fd084e2eb-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/177833099\/268a9\/thumb-a61f9f78294d462618511d1fd084e2eb-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/177833099\/268a9\/thumb-a61f9f78294d462618511d1fd084e2eb-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/177833099\/thumbnail\/image-thumbnail-256-78606e3cd60e91c96957bc58577a289d.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/177833099\/thumbnail\/image-thumbnail-480-be24cdec311799c2e9049f32427299db.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/177833099\/thumbnail\/image-thumbnail-640-caee881cb9f62254f9d9519fdcbef67c.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/177833099\/thumbnail\/image-thumbnail-1280-17c58329cb19da8680c4a0bcada1207d.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/177833099\/thumbnail\/image-thumbnail-1920-6543bc3924e74211c2bab558a8d117e4.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/177833099\/user-images\/image-3839-096e5022787ecfb574d4d106f666359d.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/177833099\/thumbnail\/image-thumbnail-640-caee881cb9f62254f9d9519fdcbef67c.jpg",
+        "type": "mp4",
+        "assetId": "177833099",
+        "assetTitle": "How to- Smokey Eye",
+        "assetTitleTextEncoded": "how-to-summer-smokey-eye",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "177833099",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177833099\/268a9\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177833099\/268a9\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177833099\/268a9\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177833099\/268a9\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177833099\/268a9\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/177833099\/268a9\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/177833099\/268a9\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

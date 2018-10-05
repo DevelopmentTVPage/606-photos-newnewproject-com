@@ -1,0 +1,97 @@
+{
+    "title": "EMILY CURRAN | MACY\u2019S STYLE CREW | NATIONAL LIPSTICK DAY",
+    "description": "HAPPY NATIONAL LIPSTICK DAY! Great deals at Macy\u2019s for National Lipstick Day! $10 Tarteist Glossy Lip Paint! Buy One Get One Anastasia Lip Products!",
+    "referenceId": "b37afbce3fe6c7790735946dbadea811",
+    "date_created": "1532882071",
+    "date_modified": "1532883058",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "23",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213118",
+    "product_category": "beauty",
+    "id": "168198203",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "5062d139-7e21-4ff3-b16d-8d14aef54d60",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "28",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "28",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "28",
+        "prettyDuration": "00:00:28",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/168198203\/f46dc\/thumb-b37afbce3fe6c7790735946dbadea811-00002.jpg",
+        "type": "mp4",
+        "assetId": "168198203",
+        "assetTitle": "5062D139-7E21-4FF3-B16D-8D14AEF54D60",
+        "assetTitleTextEncoded": "5062d139-7e21-4ff3-b16d-8d14aef54d60",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "168198203",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168198203\/f46dc\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168198203\/f46dc\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168198203\/f46dc\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168198203\/f46dc\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168198203\/f46dc\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-02"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

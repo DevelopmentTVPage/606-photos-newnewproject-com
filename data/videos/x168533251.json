@@ -1,0 +1,97 @@
+{
+    "title": "My Fav Tanners",
+    "description": "Face Tanner: I have been using Clarins Radiance-Plus Glow Booster on my face for a couple of weeks and I am in LOVE!  I never like to use the sunless tanner I use on my body on my face because my skin is sensitive and they always seem to break me out.  This booster is made for your face and I love how easy it is to use.  You just mix a few drops with your moisturizer.  You can use it day and night and use can decide how many drops you want to use. Very customizable! \nBody Tanner: I recently switched to St. Tropez Express tanner to use on my body.  Very happy with the results and it doesn't smell like most sunless tanners do!\nTop: Love these Under Armour mesh back tanks, bright colors are on SALE!",
+    "referenceId": "a0b80f77dda3c8869bd31552c42440bd",
+    "date_created": "1533040016",
+    "date_modified": "1533217444",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "2",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213110",
+    "product_category": null,
+    "id": "168533251",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "fav-tanners",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "28",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "28",
+            "width": 480,
+            "height": 480
+        },
+        "mediaDuration": "28",
+        "prettyDuration": "00:00:28",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/168533251\/e0946\/thumb-a0b80f77dda3c8869bd31552c42440bd-00002.jpg",
+        "type": "mp4",
+        "assetId": "168533251",
+        "assetTitle": "My Fav Tanners",
+        "assetTitleTextEncoded": "fav-tanners",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "168533251",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168533251\/e0946\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168533251\/e0946\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168533251\/e0946\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168533251\/e0946\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168533251\/e0946\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-08-27"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

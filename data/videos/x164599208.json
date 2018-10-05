@@ -1,0 +1,91 @@
+{
+    "title": "I love clinique and talk about  myself",
+    "description": "",
+    "referenceId": "18120736bdb89d787a4ad258fae048e7",
+    "date_created": "1527620048",
+    "date_modified": "1531182560",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "0",
+    "product_category": null,
+    "id": "164599208",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "I-love-clinique-and-talk-about-myself",
+    "category": "",
+    "tvp_profiles": "",
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": "",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "29",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "29",
+            "width": 608,
+            "height": 1080
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164599208\/c66c0\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164599208\/c66c0\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164599208\/c66c0\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164599208\/c66c0\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164599208\/c66c0\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ],
+        "mediaDuration": "29",
+        "prettyDuration": "00:00:29",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164599208\/c66c0\/thumb-18120736bdb89d787a4ad258fae048e7-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/164599208\/c66c0\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/164599208\/c66c0\/media.m3u8"
+    },
+    "transcripts": "",
+    "metrics_statistics": "",
+    "tvp_enhanced_search": "",
+    "tvp_enhanced_anti": "",
+    "tvp_enhanced_brand": "",
+    "tvp_enhanced_video_images": "Clinique",
+    "tvp_enhanced_transcript": ""
+}

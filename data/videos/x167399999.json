@@ -1,0 +1,100 @@
+{
+    "title": "Behind the Scene - Lips with Liam",
+    "description": "",
+    "referenceId": "9b8702bab4bc82bd038f8898fd7d4b5f",
+    "date_created": "1532019134",
+    "date_modified": "1532019701",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "40",
+    "engagement_score": "2",
+    "conversion_score": null,
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213454",
+    "product_category": "beauty",
+    "id": "167399999",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "nicolette-ep-bts-lip-2",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "66",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "66",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "66",
+        "prettyDuration": "00:01:06",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/167399999\/0d1b1\/thumb-9b8702bab4bc82bd038f8898fd7d4b5f-00002.jpg",
+        "type": "mp4",
+        "assetId": 167399999,
+        "assetTitle": "Behind the Scene - Lips with Liam",
+        "assetTitleTextEncoded": "nicolette-ep-bts-lip-2",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 167399999,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167399999\/0d1b1\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167399999\/0d1b1\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167399999\/0d1b1\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167399999\/0d1b1\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167399999\/0d1b1\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-07-31"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-08-18"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

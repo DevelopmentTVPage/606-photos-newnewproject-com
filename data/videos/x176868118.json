@@ -1,0 +1,113 @@
+{
+    "title": "Jacqueline Palmer\/Private label mattresses",
+    "description": "Macy\u2019s finest collection of private label mattresses! The Hotel collection. Sleep better knowing you can be custom matched to the prefect mattress for your sleep positions.\n#macyshome #sleep #bedding #hotel #macysstylecrew #macysmystylist",
+    "referenceId": "e907291db4b9ec6ed7f30bdc1558760b",
+    "date_created": "1536121372",
+    "date_modified": "1536122155",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "40",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213201",
+    "product_category": "bed_bath",
+    "id": "176868118",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "fa70bb53-ba4e-45f3-bc45-03414a2e459d",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "66",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "66",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "66",
+        "prettyDuration": "00:01:06",
+        "automaticThumbnailsPattern": "1759121\/176868118\/e9245\/thumb-e907291db4b9ec6ed7f30bdc1558760b-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/176868118\/e9245\/thumb-e907291db4b9ec6ed7f30bdc1558760b-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/176868118\/e9245\/thumb-e907291db4b9ec6ed7f30bdc1558760b-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/176868118\/e9245\/thumb-e907291db4b9ec6ed7f30bdc1558760b-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/176868118\/e9245\/thumb-e907291db4b9ec6ed7f30bdc1558760b-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/176868118\/e9245\/thumb-e907291db4b9ec6ed7f30bdc1558760b-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/176868118\/e9245\/thumb-e907291db4b9ec6ed7f30bdc1558760b-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/176868118\/thumbnail\/image-thumbnail-256-566337f7eccec6f15bf5e36a1bb4f018.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/176868118\/thumbnail\/image-thumbnail-480-b445a74c9588abc67921f76044ddbc7f.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/176868118\/thumbnail\/image-thumbnail-640-995bdc81e052e76413c40a353d5de71a.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/176868118\/thumbnail\/image-thumbnail-1280-be5f5d24f1581badd35c11ae017a9d8a.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/176868118\/e9245\/thumb-e907291db4b9ec6ed7f30bdc1558760b-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/176868118\/thumbnail\/image-thumbnail-640-995bdc81e052e76413c40a353d5de71a.jpg",
+        "type": "mp4",
+        "assetId": "176868118",
+        "assetTitle": "FA70BB53-BA4E-45F3-BC45-03414A2E459D",
+        "assetTitleTextEncoded": "fa70bb53-ba4e-45f3-bc45-03414a2e459d",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "176868118",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176868118\/e9245\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176868118\/e9245\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176868118\/e9245\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176868118\/e9245\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176868118\/e9245\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Macy's",
+    "tvp_enhanced_transcript": null
+}

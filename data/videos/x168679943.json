@@ -1,0 +1,97 @@
+{
+    "title": "Hotel Collection Finest in Plume",
+    "description": "Make a bedroom statement of casual luxury with contemporary styling in our Hotel Collection Finest in Plume...Check-in now for our Big Home & Furniture Sale!",
+    "referenceId": "aed34eb62c739c9ffaaa20924a6631c8",
+    "date_created": "1533132208",
+    "date_modified": "1533144986",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "2",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213334",
+    "product_category": "bed_bath",
+    "id": "168679943",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "photogrid-1533131952557",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "30",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "30",
+            "width": 720,
+            "height": 720
+        },
+        "mediaDuration": "30",
+        "prettyDuration": "00:00:30",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/168679943\/c21f8\/thumb-aed34eb62c739c9ffaaa20924a6631c8-00002.jpg",
+        "type": "mp4",
+        "assetId": "168679943",
+        "assetTitle": "Hotel Collection Finest in Plume",
+        "assetTitleTextEncoded": "photogrid-1533131952557",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "168679943",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168679943\/c21f8\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168679943\/c21f8\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168679943\/c21f8\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168679943\/c21f8\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168679943\/c21f8\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-08-18"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

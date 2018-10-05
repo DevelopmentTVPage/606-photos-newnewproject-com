@@ -1,0 +1,101 @@
+{
+    "title": "Fanci Fashion Lookbook Vol. 2",
+    "description": "Simply because I spoke it into existence. Outfit details below: \n\n\nLook  1:\nEarrings- @nordstrom \nPins- @annekleinofficial\nVest- @ninewest \nDress- @shop_alexis \n\n\nLook 2:\nNecklace- #thrifted \nJumpsuit- @freepeople \nBag- @tjmaxx \n\n\nVote now!! Which look are you?",
+    "referenceId": "5ae117b3a92b53ff0acb4a694d9a04be",
+    "date_created": "1531272131",
+    "date_modified": "1531326929",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "12",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213145",
+    "product_category": "women",
+    "id": "166714518",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "fanci-fashion-lookbook-vol-2",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "178",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "178",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "178",
+        "prettyDuration": "00:02:58",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1759121\/canvas\/1920\/1080\/985041924-1531326928.jpg",
+        "type": "mp4",
+        "assetId": "166714518",
+        "assetTitle": "Fanci Fashion Lookbook Vol. 2",
+        "assetTitleTextEncoded": "fanci-fashion-lookbook-vol-2",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "166714518",
+            "li": "1759121"
+        },
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/166714518\/4d89f\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/166714518\/4d89f\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/166714518\/4d89f\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/166714518\/4d89f\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/166714518\/4d89f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/166714518\/4d89f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/166714518\/4d89f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-08-09"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Hungry Music",
+    "tvp_enhanced_transcript": null
+}

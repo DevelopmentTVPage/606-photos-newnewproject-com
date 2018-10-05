@@ -1,0 +1,109 @@
+{
+    "title": "NEW TOO FACED MASK!",
+    "description": "Get your new favorite, sparkly mask from Too Faced Cosmetics! It will keep your skin fresh and radiant!! Only online right now... don\u2019t miss out!!!",
+    "referenceId": "60466f5a8c9aed186b9197949830b33e",
+    "date_created": "1533892304",
+    "date_modified": "1533892401",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "71",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213440",
+    "product_category": "beauty",
+    "id": "170314510",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "11e97948-87d8-4a2f-91e6-caa6bf03718f",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "25",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "25",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "25",
+        "prettyDuration": "00:00:25",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/170314510\/thumbnail\/image-thumbnail-640-eba20e09b9e657e23a9464590265970f.jpg",
+        "type": "mp4",
+        "assetId": "170314510",
+        "assetTitle": "11E97948-87D8-4A2F-91E6-CAA6BF03718F",
+        "assetTitleTextEncoded": "11e97948-87d8-4a2f-91e6-caa6bf03718f",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "170314510",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170314510\/e2740\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170314510\/e2740\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170314510\/e2740\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170314510\/e2740\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170314510\/e2740\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/170314510\/e2740\/thumb-60466f5a8c9aed186b9197949830b33e-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/170314510\/user-images\/image-1280-f990a0d9d2d182774c192a851ce0c2b8.jpg",
+            "\/\/v.tvpage.com\/1759121\/170314510\/e2740\/thumb-60466f5a8c9aed186b9197949830b33e-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/170314510\/user-images\/image-1280-f990a0d9d2d182774c192a851ce0c2b8.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/170314510\/thumbnail\/image-thumbnail-256-8a7cb9da52ef103894cdf9205b029347.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/170314510\/thumbnail\/image-thumbnail-480-b6f89253b105ae079d8798c252470596.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/170314510\/thumbnail\/image-thumbnail-640-eba20e09b9e657e23a9464590265970f.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/170314510\/thumbnail\/image-thumbnail-1280-5a5e2efd3016bfce390bf3d144d2cbdc.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-14"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Too Faced Macy's Audrey",
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,108 @@
+{
+    "title": "Navy Striped Midi Dress",
+    "description": "",
+    "referenceId": "1b18ef543909c4d3c5c1b5a5455cfbaf",
+    "date_created": "1533346502",
+    "date_modified": "1533411667",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "40",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213341",
+    "product_category": "women",
+    "id": "168938061",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "e770ae71-0d88-4f8b-9ac4-43c872af1f11",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "2",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "2",
+            "width": 272,
+            "height": 480
+        },
+        "mediaDuration": "2",
+        "prettyDuration": "00:00:02",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/168938061\/thumbnail\/image-thumbnail-256-faedcfaea60dbc92ada370b231ac3e8d.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/168938061\/6676b\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/168938061\/6676b\/media.m3u8",
+        "assetId": "168938061",
+        "assetTitle": "Midi Dresses",
+        "assetTitleTextEncoded": "e770ae71-0d88-4f8b-9ac4-43c872af1f11",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "168938061",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168938061\/6676b\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 272,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168938061\/6676b\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 272,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168938061\/6676b\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 272,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168938061\/6676b\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 204,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168938061\/6676b\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 136,
+                "height": 240
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/168938061\/6676b\/thumb-1b18ef543909c4d3c5c1b5a5455cfbaf-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/168938061\/user-images\/image-272-551b6f36ef2e7031da1661d778744134.jpg",
+            "\/\/v.tvpage.com\/1759121\/168938061\/6676b\/thumb-1b18ef543909c4d3c5c1b5a5455cfbaf-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/168938061\/user-images\/image-272-551b6f36ef2e7031da1661d778744134.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/168938061\/thumbnail\/image-thumbnail-256-faedcfaea60dbc92ada370b231ac3e8d.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-08"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

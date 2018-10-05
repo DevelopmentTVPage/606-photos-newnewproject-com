@@ -1,0 +1,117 @@
+{
+    "title": "Style Swap with Isabel Feat. Zoe by Rachel Zoe",
+    "description": "Hi everyone! I can\u2019t express how excited I am to share today\u2019s video with you all :D Macy\u2019s recently released an exclusive collection with world renown stylist and designer, Rachel Zoe, and today fellow style crew ambassador, Isabel, and I are sharing how we styled some of our favorite pieces from the collaboration. I hope you enjoy and get to connect a little more with our personal styles as well as have fun finding your own.\n\nAll of the Product Web IDs: (searchable on Macys.com)\n6510615- Zoe by Rachel Zoe Sequined Jacket (Michelle\u2019s look)\n6510616- Zoe by Rachel Zoe Sequined Top (Michelle\u2019s look)\n5769636- Nine West Strappy Heels (Michelle\u2019s look)\n6510619- Zoe by Rachel Zoe Cold Shoulder Blouse (Isabel\u2019s look)\n5798024- Free People Camo Mini Skirt (Isabel\u2019s look)",
+    "referenceId": "1886140cdfc5b3ab6bebe487b6c479e2",
+    "date_created": "1535081464",
+    "date_modified": "1535082543",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "103",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213313",
+    "product_category": "women",
+    "id": "175402317",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "style-swap-with-isabel-feat-zoe-by-rachel-zoe",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "LONG",
+    "duration": "355",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "355",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "355",
+        "prettyDuration": "00:05:55",
+        "automaticThumbnailsPattern": "1759121\/175402317\/d5dd8\/thumb-1886140cdfc5b3ab6bebe487b6c479e2-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/175402317\/user-images\/image-3840-d9cfe16bceecf22bb6cdb62463683950.jpg",
+            "\/\/v.tvpage.com\/1759121\/175402317\/d5dd8\/thumb-1886140cdfc5b3ab6bebe487b6c479e2-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/175402317\/d5dd8\/thumb-1886140cdfc5b3ab6bebe487b6c479e2-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/175402317\/d5dd8\/thumb-1886140cdfc5b3ab6bebe487b6c479e2-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/175402317\/d5dd8\/thumb-1886140cdfc5b3ab6bebe487b6c479e2-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/175402317\/d5dd8\/thumb-1886140cdfc5b3ab6bebe487b6c479e2-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/175402317\/d5dd8\/thumb-1886140cdfc5b3ab6bebe487b6c479e2-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/175402317\/thumbnail\/image-thumbnail-256-5b872d34d28047d019db8fb0665672d3.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/175402317\/thumbnail\/image-thumbnail-480-cff1b98e77695be626e21137005c0d0a.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/175402317\/thumbnail\/image-thumbnail-640-925ea305be2489a27c2695aa8501cf75.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/175402317\/thumbnail\/image-thumbnail-1280-e3f176d316dca2351cceb27b810a0160.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/175402317\/thumbnail\/image-thumbnail-1920-545a5fe2e0806066b8bd15efba9f2f5f.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/175402317\/user-images\/image-3840-d9cfe16bceecf22bb6cdb62463683950.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/175402317\/thumbnail\/image-thumbnail-640-925ea305be2489a27c2695aa8501cf75.jpg",
+        "type": "mp4",
+        "assetId": 175402317,
+        "assetTitle": "Style Swap with Isabel Feat. Zoe by Rachel Zoe",
+        "assetTitleTextEncoded": "style-swap-with-isabel-feat-zoe-by-rachel-zoe",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 175402317,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/175402317\/d5dd8\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/175402317\/d5dd8\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/175402317\/d5dd8\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/175402317\/d5dd8\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/175402317\/d5dd8\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/175402317\/d5dd8\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/175402317\/d5dd8\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-14"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

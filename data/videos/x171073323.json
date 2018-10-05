@@ -1,0 +1,114 @@
+{
+    "title": "Look Great All Night (Instagram)",
+    "description": "",
+    "referenceId": "a9ea4ed3aa648899834a4f22659c8a4c",
+    "date_created": "1534542618",
+    "date_modified": "1534542688",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "7",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213454",
+    "product_category": "beauty",
+    "id": "171073323",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "look-great-all-night-instagram",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "60",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "60",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "60",
+        "prettyDuration": "00:01:00",
+        "automaticThumbnailsPattern": "1759121\/171073323\/dad3a\/thumb-a9ea4ed3aa648899834a4f22659c8a4c-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/171073323\/dad3a\/thumb-a9ea4ed3aa648899834a4f22659c8a4c-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/171073323\/dad3a\/thumb-a9ea4ed3aa648899834a4f22659c8a4c-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/171073323\/dad3a\/thumb-a9ea4ed3aa648899834a4f22659c8a4c-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/171073323\/dad3a\/thumb-a9ea4ed3aa648899834a4f22659c8a4c-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/171073323\/dad3a\/thumb-a9ea4ed3aa648899834a4f22659c8a4c-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/171073323\/dad3a\/thumb-a9ea4ed3aa648899834a4f22659c8a4c-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/171073323\/thumbnail\/image-thumbnail-256-accf328a0f27e22b2f4f697bd323a9c3.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/171073323\/thumbnail\/image-thumbnail-480-475c10d65cd30df725e60bd867bfbf96.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/171073323\/thumbnail\/image-thumbnail-640-725c977953b329274f2fa0439f543e04.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/171073323\/thumbnail\/image-thumbnail-1280-dd2d9c48ce70c51801dd3e4adc4749bf.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/171073323\/thumbnail\/image-thumbnail-1920-2de58bcfce2663a9ee2e830a2769d01d.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/171073323\/dad3a\/thumb-a9ea4ed3aa648899834a4f22659c8a4c-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/171073323\/thumbnail\/image-thumbnail-640-725c977953b329274f2fa0439f543e04.jpg",
+        "type": "mp4",
+        "assetId": "171073323",
+        "assetTitle": "Look Great All Night (Instagram)",
+        "assetTitleTextEncoded": "look-great-all-night-instagram",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "171073323",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171073323\/dad3a\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171073323\/dad3a\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171073323\/dad3a\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171073323\/dad3a\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171073323\/dad3a\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "You Can T Sit with Us",
+    "tvp_enhanced_transcript": null
+}

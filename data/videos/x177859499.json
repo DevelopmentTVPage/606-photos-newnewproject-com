@@ -1,0 +1,108 @@
+{
+    "title": "Hotel Collection in Luxurious Muse",
+    "description": "My Monday Muse...Our V.I.P. sale is in full effect!\n#HotelCollection #Muse #Greys #HomeBodies #MacysStyleCrew #MacysStyleCrewSouchitta @macysvisual41",
+    "referenceId": "acfacfaec799f19fac4badb235c630c4",
+    "date_created": "1537191216",
+    "date_modified": "1537191406",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213334",
+    "product_category": "bed_bath",
+    "id": "177859499",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "vid-286470827-093047-094",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "24",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "24",
+            "width": 720,
+            "height": 720
+        },
+        "mediaDuration": "24",
+        "prettyDuration": "00:00:24",
+        "automaticThumbnailsPattern": "1759121\/177859499\/879d6\/thumb-acfacfaec799f19fac4badb235c630c4-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/177859499\/879d6\/thumb-acfacfaec799f19fac4badb235c630c4-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/177859499\/879d6\/thumb-acfacfaec799f19fac4badb235c630c4-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/177859499\/879d6\/thumb-acfacfaec799f19fac4badb235c630c4-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/177859499\/879d6\/thumb-acfacfaec799f19fac4badb235c630c4-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/177859499\/879d6\/thumb-acfacfaec799f19fac4badb235c630c4-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/177859499\/879d6\/thumb-acfacfaec799f19fac4badb235c630c4-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/177859499\/thumbnail\/image-thumbnail-256-fe6cca447700e5e6ed811206dc6d8461.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/177859499\/thumbnail\/image-thumbnail-480-4e12cc6af3fbfbae6ec16538c5a952e2.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/177859499\/thumbnail\/image-thumbnail-640-0300892eb8ba1e309bb88e6d1cf9466e.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/177859499\/879d6\/thumb-acfacfaec799f19fac4badb235c630c4-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/177859499\/thumbnail\/image-thumbnail-640-0300892eb8ba1e309bb88e6d1cf9466e.jpg",
+        "type": "mp4",
+        "assetId": "177859499",
+        "assetTitle": "Hotel Collection in Luxurious Muse",
+        "assetTitleTextEncoded": "vid-286470827-093047-094",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "177859499",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177859499\/879d6\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177859499\/879d6\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177859499\/879d6\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177859499\/879d6\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177859499\/879d6\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

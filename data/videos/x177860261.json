@@ -1,0 +1,111 @@
+{
+    "title": "Fall Florals",
+    "description": "Dark fall florals are all the rave as we transition into the fall season. This floral, long sleeved chiffon midi dress from Nine West is my favorite!",
+    "referenceId": "ea7c9a22361adc085b66fdf21aa8a1cd",
+    "date_created": "1537227150",
+    "date_modified": "1537227533",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213203",
+    "product_category": "women",
+    "id": "177860261",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "166f13a5-ee06-4d4a-bce0-8d005dd2925d",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "15",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "15",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "15",
+        "prettyDuration": "00:00:15",
+        "automaticThumbnailsPattern": "1759121\/177860261\/63fb2\/thumb-ea7c9a22361adc085b66fdf21aa8a1cd-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/177860261\/user-images\/image-5616-21e9b678870154a2e939dd71b118dc1c.jpg",
+            "\/\/v.tvpage.com\/1759121\/177860261\/63fb2\/thumb-ea7c9a22361adc085b66fdf21aa8a1cd-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/177860261\/63fb2\/thumb-ea7c9a22361adc085b66fdf21aa8a1cd-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/177860261\/63fb2\/thumb-ea7c9a22361adc085b66fdf21aa8a1cd-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/177860261\/63fb2\/thumb-ea7c9a22361adc085b66fdf21aa8a1cd-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/177860261\/63fb2\/thumb-ea7c9a22361adc085b66fdf21aa8a1cd-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/177860261\/63fb2\/thumb-ea7c9a22361adc085b66fdf21aa8a1cd-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/177860261\/thumbnail\/image-thumbnail-256-c33e8adff2ff39a5d309d1cf5a608003.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/177860261\/thumbnail\/image-thumbnail-480-fa8eeb5f051b05a81ce8adbd951cc373.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/177860261\/thumbnail\/image-thumbnail-640-22ecc9e64c9ab5765a5f1d524a7f01b1.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/177860261\/thumbnail\/image-thumbnail-1280-1a89bfc4e12eda6504d177d7afdcac46.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/177860261\/thumbnail\/image-thumbnail-1920-4e2cedb560b06eee44fe03c8578cea08.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/177860261\/user-images\/image-5616-21e9b678870154a2e939dd71b118dc1c.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/177860261\/thumbnail\/image-thumbnail-640-22ecc9e64c9ab5765a5f1d524a7f01b1.jpg",
+        "type": "mp4",
+        "assetId": "177860261",
+        "assetTitle": "Fall Florals",
+        "assetTitleTextEncoded": "166f13a5-ee06-4d4a-bce0-8d005dd2925d",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "177860261",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177860261\/63fb2\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177860261\/63fb2\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177860261\/63fb2\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177860261\/63fb2\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177860261\/63fb2\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

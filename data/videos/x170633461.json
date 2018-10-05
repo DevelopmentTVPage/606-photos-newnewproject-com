@@ -1,0 +1,108 @@
+{
+    "title": "Inc. International Part 2",
+    "description": "Inc International has flare pants, palazzo, stud denim, ruffle blouses, bell sleeve tops, long and short cardigans, dusters, shorts and casual graphic or plain tees!",
+    "referenceId": "e87c65a2f51a6e42fe450018188784fa",
+    "date_created": "1534201703",
+    "date_modified": "1534204289",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "12",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213453",
+    "product_category": "women",
+    "id": "170633461",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "photogrid-video-1534200463457",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "30",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "30",
+            "width": 640,
+            "height": 640
+        },
+        "mediaDuration": "30",
+        "prettyDuration": "00:00:30",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/170633461\/thumbnail\/image-thumbnail-640-383570704106b438b678c2820419e357.jpg",
+        "type": "mp4",
+        "assetId": "170633461",
+        "assetTitle": "Inc. International Part 2",
+        "assetTitleTextEncoded": "photogrid-video-1534200463457",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "170633461",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170633461\/20af5\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 640
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170633461\/20af5\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 640
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170633461\/20af5\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170633461\/20af5\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170633461\/20af5\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/170633461\/20af5\/thumb-e87c65a2f51a6e42fe450018188784fa-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/170633461\/user-images\/image-640-ceb8bf9bc8e963ac7edfbaa140bb5987.jpg",
+            "\/\/v.tvpage.com\/1759121\/170633461\/20af5\/thumb-e87c65a2f51a6e42fe450018188784fa-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/170633461\/user-images\/image-640-ceb8bf9bc8e963ac7edfbaa140bb5987.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/170633461\/thumbnail\/image-thumbnail-256-0256fdd90e28983e1e0f45ace70235d3.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/170633461\/thumbnail\/image-thumbnail-480-d200efa3c5912a0263d641f38e946c48.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/170633461\/thumbnail\/image-thumbnail-640-383570704106b438b678c2820419e357.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

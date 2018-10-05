@@ -1,0 +1,99 @@
+{
+    "title": "Oxfords at Macy's",
+    "description": "Bar iii Oxfords exclusively at Macy's",
+    "referenceId": "aef75e657f0fe6a72badf19f366e8ae3",
+    "date_created": "1529940794",
+    "date_modified": "1529945076",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "10",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213256",
+    "product_category": null,
+    "id": "165030416",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "ca7cbf6e-5096-45f1-895b-9593df8341ab",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "15",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "15",
+            "width": 320,
+            "height": 568
+        },
+        "mediaDuration": "15",
+        "prettyDuration": "00:00:15",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/165030416\/thumbnail\/image-thumbnail-256-86d3304c7c6fdb89cec2661804e1d93e.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165030416\/8b65e\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 568
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165030416\/8b65e\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 568
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165030416\/8b65e\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165030416\/8b65e\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165030416\/8b65e\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 136,
+                "height": 240
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/165030416\/8b65e\/thumb-aef75e657f0fe6a72badf19f366e8ae3-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/165030416\/user-images\/image-320-ed3006b4f26d3a4464e92ee53ec0494b.jpg",
+            "\/\/v.tvpage.com\/1759121\/165030416\/8b65e\/thumb-aef75e657f0fe6a72badf19f366e8ae3-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/165030416\/user-images\/image-320-ed3006b4f26d3a4464e92ee53ec0494b.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/165030416\/thumbnail\/image-thumbnail-256-86d3304c7c6fdb89cec2661804e1d93e.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-07-28"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

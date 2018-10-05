@@ -1,0 +1,93 @@
+{
+    "title": "NEW ! \u201cBorn To Run\u201d Palette by Urban Decay",
+    "description": "Your summer 2018 Palette!  21 rich shades for only $49.",
+    "referenceId": "8f21f968177fa2098214af64c89fdeca",
+    "date_created": "1529853704",
+    "date_modified": "1529854093",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "11",
+    "engagement_score": "1",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213241",
+    "product_category": "beauty",
+    "id": "165025598",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "b7fc8e24-e6ae-46fa-b4c4-7106fd42e218",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "24",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "24",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "24",
+        "prettyDuration": "00:00:24",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/165025598\/cc49d\/thumb-8f21f968177fa2098214af64c89fdeca-00002.jpg",
+        "type": "mp4",
+        "assetId": "165025598",
+        "assetTitle": "B7FC8E24-E6AE-46FA-B4C4-7106FD42E218",
+        "assetTitleTextEncoded": "b7fc8e24-e6ae-46fa-b4c4-7106fd42e218",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "165025598",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165025598\/cc49d\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165025598\/cc49d\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165025598\/cc49d\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165025598\/cc49d\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165025598\/cc49d\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-07-25\"}},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-07-25\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

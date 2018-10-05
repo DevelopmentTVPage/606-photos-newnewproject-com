@@ -1,0 +1,110 @@
+{
+    "title": "suburban style up all night",
+    "description": "Beauty",
+    "referenceId": "29cc34c756b3e2761522da27c1b8ca6f",
+    "date_created": "1536942781",
+    "date_modified": "1536942910",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "7",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213328",
+    "product_category": "beauty",
+    "id": "177660626",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "8c5b9d9d-57f0-49e5-996f-376dae793732",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "9",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "9",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "9",
+        "prettyDuration": "00:00:09",
+        "automaticThumbnailsPattern": "1759121\/177660626\/ab508\/thumb-29cc34c756b3e2761522da27c1b8ca6f-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/177660626\/ab508\/thumb-29cc34c756b3e2761522da27c1b8ca6f-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/177660626\/ab508\/thumb-29cc34c756b3e2761522da27c1b8ca6f-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/177660626\/ab508\/thumb-29cc34c756b3e2761522da27c1b8ca6f-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/177660626\/ab508\/thumb-29cc34c756b3e2761522da27c1b8ca6f-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/177660626\/ab508\/thumb-29cc34c756b3e2761522da27c1b8ca6f-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/177660626\/thumbnail\/image-thumbnail-256-795a1ca598a8a0dc61e1a1917978e6ba.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/177660626\/thumbnail\/image-thumbnail-480-ed6483d90612e731ac30a05a9c24ecdb.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/177660626\/ab508\/thumb-29cc34c756b3e2761522da27c1b8ca6f-00004.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/177660626\/thumbnail\/image-thumbnail-480-ed6483d90612e731ac30a05a9c24ecdb.jpg",
+        "type": "mp4",
+        "assetId": "177660626",
+        "assetTitle": "8C5B9D9D-57F0-49E5-996F-376DAE793732",
+        "assetTitleTextEncoded": "8c5b9d9d-57f0-49e5-996f-376dae793732",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "177660626",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177660626\/ab508\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177660626\/ab508\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177660626\/ab508\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177660626\/ab508\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177660626\/ab508\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

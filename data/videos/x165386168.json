@@ -1,0 +1,112 @@
+{
+    "title": "VisuALLY: MSC x Sunglass Hut",
+    "description": "These are my picks of coolest sunglasses for the hottest summer! Sunglass Hut is my fav go-to spot for the best selection of new sunnies!",
+    "referenceId": "925459e507f5ab478fd413c1ae91b612",
+    "date_created": "1530583071",
+    "date_modified": "1537201129",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "48",
+    "engagement_score": "3",
+    "conversion_score": null,
+    "CVV_VI": "2",
+    "video_type": null,
+    "user_id": "213225",
+    "product_category": "women",
+    "id": "165386168",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "msc-x-sunglass-hut",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "37",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "37",
+            "width": 960,
+            "height": 540
+        },
+        "mediaDuration": "37",
+        "prettyDuration": "00:00:37",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/165386168\/thumbnail\/image-thumbnail-640-604af23b78a3df900975ea814e1a96b6.jpg",
+        "type": "mp4",
+        "assetId": "165386168",
+        "assetTitle": "MSC x Sunglass Hut",
+        "assetTitleTextEncoded": "msc-x-sunglass-hut",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "165386168",
+            "li": "1759121"
+        },
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/165386168\/ea89f\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/165386168\/ea89f\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165386168\/ea89f\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 540
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165386168\/ea89f\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 540
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165386168\/ea89f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165386168\/ea89f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165386168\/ea89f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/165386168\/user-images\/image-1920-0639cd16e6a967887dadcc87978f1630.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/165386168\/user-images\/image-1920-0639cd16e6a967887dadcc87978f1630.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/165386168\/thumbnail\/image-thumbnail-256-2e80645d8bb37c1533a0291ff293ef2d.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/165386168\/thumbnail\/image-thumbnail-480-6ee945acaad7582e190cfa433c5fdbc5.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/165386168\/thumbnail\/image-thumbnail-640-604af23b78a3df900975ea814e1a96b6.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/165386168\/thumbnail\/image-thumbnail-1280-650a7d80d2d977da11e7ba29865f7463.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/165386168\/thumbnail\/image-thumbnail-1920-af8574785c3664914cdee02be9786a48.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-07-28"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Macy Macy's",
+    "tvp_enhanced_transcript": null
+}

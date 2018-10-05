@@ -1,0 +1,111 @@
+{
+    "title": "Fabulous Fall Floral Print.",
+    "description": "Fall Florals Trend.\nWe live in Florida and summer isn\u2019t over but we can incorporates Fall colors and print into our outfit. wearing this beautiful Kimono from Sanctuary's and mixed with white denim pants from William Rast .\nAnd the cami to add color is from 1 State.",
+    "referenceId": "9d4867122ea05a91d7bc711fe26ad77d",
+    "date_created": "1535482199",
+    "date_modified": "1535485902",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "35",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213115",
+    "product_category": "women",
+    "id": "176288070",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "9b65163f-9ffb-422a-ac58-a938657dbfe3",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "63",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "63",
+            "width": 568,
+            "height": 320
+        },
+        "mediaDuration": "63",
+        "prettyDuration": "00:01:03",
+        "automaticThumbnailsPattern": "1759121\/176288070\/bd025\/thumb-9d4867122ea05a91d7bc711fe26ad77d-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/176288070\/bd025\/thumb-9d4867122ea05a91d7bc711fe26ad77d-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/176288070\/bd025\/thumb-9d4867122ea05a91d7bc711fe26ad77d-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/176288070\/bd025\/thumb-9d4867122ea05a91d7bc711fe26ad77d-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/176288070\/bd025\/thumb-9d4867122ea05a91d7bc711fe26ad77d-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/176288070\/bd025\/thumb-9d4867122ea05a91d7bc711fe26ad77d-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/176288070\/bd025\/thumb-9d4867122ea05a91d7bc711fe26ad77d-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/176288070\/thumbnail\/image-thumbnail-256-cdfa792eea5bcd47c88a532ccd0b90ce.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/176288070\/thumbnail\/image-thumbnail-480-71c3f3c72cb624dc7bb7199464411218.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/176288070\/bd025\/thumb-9d4867122ea05a91d7bc711fe26ad77d-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/176288070\/thumbnail\/image-thumbnail-480-71c3f3c72cb624dc7bb7199464411218.jpg",
+        "type": "mp4",
+        "assetId": 176288070,
+        "assetTitle": "Fabulous Fall Floral Print.",
+        "assetTitleTextEncoded": "9b65163f-9ffb-422a-ac58-a938657dbfe3",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 176288070,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176288070\/bd025\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176288070\/bd025\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176288070\/bd025\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176288070\/bd025\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176288070\/bd025\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-02"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,117 @@
+{
+    "title": "How to Style: Belt Bag",
+    "description": "All of the Product Web IDs: (searchable on Macys.com)\n5315833-Steve Madden Quilted Belt Bag\nWork Look:\n6279356- Michael Kors Chambray Shirt Dress (similar option)\n6692532- Michael Kors Jacquard Dress (similar option)\n716684- Movado Bold Gold Watch\nCasual Look:\n6229012- Levi Strauss Graphic T-Shirt\n6466022- Levi\u2019s 501 High-Rise Denim Shorts\n2163613- Adidas Superstar Sneakers\nAthleisure Look:\n6126795- Calvin Klein Performance High Neck Crop Top\n5705674- Calvin Klein Performance Mesh Back Joggers\n6936265- Adidas NMD Sneakers\n4981146- NY Yankees Cap",
+    "referenceId": "cc9293f52906874429c63407a14f08c4",
+    "date_created": "1536378394",
+    "date_modified": "1536381170",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "66",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213313",
+    "product_category": "women",
+    "id": "177129346",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "how-to-style-belt-bag",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "139",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "139",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "139",
+        "prettyDuration": "00:02:19",
+        "automaticThumbnailsPattern": "1759121\/177129346\/f5502\/thumb-cc9293f52906874429c63407a14f08c4-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/177129346\/user-images\/image-3839-8e0d8e4671b0c6116a6a140f56826373.jpg",
+            "\/\/v.tvpage.com\/1759121\/177129346\/f5502\/thumb-cc9293f52906874429c63407a14f08c4-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/177129346\/f5502\/thumb-cc9293f52906874429c63407a14f08c4-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/177129346\/f5502\/thumb-cc9293f52906874429c63407a14f08c4-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/177129346\/f5502\/thumb-cc9293f52906874429c63407a14f08c4-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/177129346\/f5502\/thumb-cc9293f52906874429c63407a14f08c4-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/177129346\/f5502\/thumb-cc9293f52906874429c63407a14f08c4-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/177129346\/thumbnail\/image-thumbnail-256-c186330ba855e5778acac3dccb97ca0f.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/177129346\/thumbnail\/image-thumbnail-480-e493c5cea8dda3f50e55df1e30c5a259.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/177129346\/thumbnail\/image-thumbnail-640-98f2430ca5d4753dc86fee7be648238a.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/177129346\/thumbnail\/image-thumbnail-1280-5a1741f33c3925ed95a7ce4c0c827e70.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/177129346\/thumbnail\/image-thumbnail-1920-3c383a6831fe3a9dc60b1e4d30c87587.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/177129346\/user-images\/image-3839-8e0d8e4671b0c6116a6a140f56826373.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/177129346\/thumbnail\/image-thumbnail-640-98f2430ca5d4753dc86fee7be648238a.jpg",
+        "type": "mp4",
+        "assetId": 177129346,
+        "assetTitle": "How to Style: Belt Bag",
+        "assetTitleTextEncoded": "how-to-style-belt-bag",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 177129346,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177129346\/f5502\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177129346\/f5502\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177129346\/f5502\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177129346\/f5502\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177129346\/f5502\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/177129346\/f5502\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/177129346\/f5502\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,97 @@
+{
+    "title": "Wedding and graduation must haves",
+    "description": "The must have summer accessories\nhttps:\/\/tvp.ag\/0AhZZw0tSk",
+    "referenceId": "bf5b1ade0914dfbae09c3401776877b5",
+    "date_created": "1529790969",
+    "date_modified": "1529792236",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "8",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213202",
+    "product_category": "women",
+    "id": "165023091",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "img-64141",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "25",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "25",
+            "width": 192,
+            "height": 144
+        },
+        "mediaDuration": "25",
+        "prettyDuration": "00:00:25",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/165023091\/014ba\/thumb-bf5b1ade0914dfbae09c3401776877b5-00002.jpg",
+        "type": "mp4",
+        "assetId": "165023091",
+        "assetTitle": "Wedding and graduation must haves",
+        "assetTitleTextEncoded": "img-64141",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "165023091",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165023091\/014ba\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 192,
+                "height": 144
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165023091\/014ba\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 192,
+                "height": 144
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165023091\/014ba\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 192,
+                "height": 144
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165023091\/014ba\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 192,
+                "height": 144
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165023091\/014ba\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 192,
+                "height": 144
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

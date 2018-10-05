@@ -1,0 +1,115 @@
+{
+    "title": "Jacqueline Palmer\/ INC international design concepts",
+    "description": "It\u2019s the best of Macys inc private brands fir the fall! #macysstylecrew #macysmystylist #macysinc",
+    "referenceId": "a66090e3daed7ee6160744c0b9167c57",
+    "date_created": "1536877566",
+    "date_modified": "1536881451",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "57",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213201",
+    "product_category": "women",
+    "id": "177549982",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "5a445842-bd35-4228-9e1b-6e845a337b19",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "71",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "71",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "71",
+        "prettyDuration": "00:01:11",
+        "automaticThumbnailsPattern": "1759121\/177549982\/78603\/thumb-a66090e3daed7ee6160744c0b9167c57-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/177549982\/78603\/thumb-a66090e3daed7ee6160744c0b9167c57-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/177549982\/78603\/thumb-a66090e3daed7ee6160744c0b9167c57-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/177549982\/78603\/thumb-a66090e3daed7ee6160744c0b9167c57-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/177549982\/78603\/thumb-a66090e3daed7ee6160744c0b9167c57-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/177549982\/78603\/thumb-a66090e3daed7ee6160744c0b9167c57-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/177549982\/78603\/thumb-a66090e3daed7ee6160744c0b9167c57-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/177549982\/thumbnail\/image-thumbnail-256-7933f94b52966d07fe7ea24a99f70ec6.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/177549982\/thumbnail\/image-thumbnail-480-f14103e433df4846a0609f988e443a85.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/177549982\/thumbnail\/image-thumbnail-640-ad4134475fc458a316edfa1057efef64.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/177549982\/thumbnail\/image-thumbnail-1280-9fca4c84a078e56af9785544874ba518.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/177549982\/78603\/thumb-a66090e3daed7ee6160744c0b9167c57-00003.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/177549982\/thumbnail\/image-thumbnail-640-ad4134475fc458a316edfa1057efef64.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "quality": "",
+        "assetId": 177549982,
+        "assetTitle": "Jacqueline  Palmer\/ INC international design concepts",
+        "assetTitleTextEncoded": "5a445842-bd35-4228-9e1b-6e845a337b19",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 177549982,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177549982\/78603\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177549982\/78603\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177549982\/78603\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177549982\/78603\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177549982\/78603\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "IG Group",
+    "tvp_enhanced_transcript": null
+}

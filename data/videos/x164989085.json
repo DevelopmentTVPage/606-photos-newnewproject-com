@@ -1,0 +1,97 @@
+{
+    "title": "Summer Dresses for any Occasion!",
+    "description": "These four dresses are perfect for any summer event you have! They are versatile, comfortable, and so cute!",
+    "referenceId": "5c1e47ed3b5e63051af23274a4af6345",
+    "date_created": "1529518661",
+    "date_modified": "1529518832",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "115",
+    "engagement_score": "11",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213222",
+    "product_category": "women",
+    "id": "164989085",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "trim-5ad780b8-ccf4-4026-8c0c-e28eb3123d35",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "136",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "136",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "136",
+        "prettyDuration": "00:02:16",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164989085\/d6830\/thumb-5c1e47ed3b5e63051af23274a4af6345-00002.jpg",
+        "type": "mp4",
+        "assetId": "164989085",
+        "assetTitle": "trim.5AD780B8-CCF4-4026-8C0C-E28EB3123D35",
+        "assetTitleTextEncoded": "trim-5ad780b8-ccf4-4026-8c0c-e28eb3123d35",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164989085",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164989085\/d6830\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164989085\/d6830\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164989085\/d6830\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164989085\/d6830\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164989085\/d6830\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-08-06"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

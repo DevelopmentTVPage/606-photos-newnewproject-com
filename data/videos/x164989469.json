@@ -1,0 +1,104 @@
+{
+    "title": "Halter season and white bottoms",
+    "description": "Keep calm...yet cute!",
+    "referenceId": "e2d6de5c0a3af558b1511df71908e25d",
+    "date_created": "1529547504",
+    "date_modified": "1529549653",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "1279",
+    "engagement_score": "99",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213308",
+    "product_category": "women",
+    "id": "164989469",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "9c242f51-238a-4160-91a4-04875aad4916",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "8",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "8",
+            "width": 384,
+            "height": 480
+        },
+        "mediaDuration": "8",
+        "prettyDuration": "00:00:08",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164989469\/thumbnail\/image-thumbnail-256-43700e96b65e8c4aca057e14c762699c.jpg",
+        "type": "mp4",
+        "assetId": "164989469",
+        "assetTitle": "9C242F51-238A-4160-91A4-04875AAD4916",
+        "assetTitleTextEncoded": "9c242f51-238a-4160-91a4-04875aad4916",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164989469",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164989469\/1461d\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 384,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164989469\/1461d\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 384,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164989469\/1461d\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 384,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164989469\/1461d\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 288,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164989469\/1461d\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 192,
+                "height": 240
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/164989469\/1461d\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/164989469\/1461d\/media.m3u8",
+        "automaticThumbnailsPattern": "1759121\/164989469\/1461d\/thumb-e2d6de5c0a3af558b1511df71908e25d-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/164989469\/user-images\/image-384-f6b2c098357b7275e18cd1d5e7fc0bd6.jpg",
+            "\/\/v.tvpage.com\/1759121\/164989469\/1461d\/thumb-e2d6de5c0a3af558b1511df71908e25d-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/164989469\/user-images\/image-384-f6b2c098357b7275e18cd1d5e7fc0bd6.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/164989469\/thumbnail\/image-thumbnail-256-43700e96b65e8c4aca057e14c762699c.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-07-25\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

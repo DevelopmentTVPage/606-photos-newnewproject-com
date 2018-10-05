@@ -1,0 +1,118 @@
+{
+    "title": "Mr. TJay Summer in Harlem",
+    "description": "Summer isn't over yet! Don't let the season leave you without pulling out those white bottoms.  Teamed with this Perry Ellis short sleeve printed shirt, topped off with the DKNY sneaker! It is the perfect end of summer vibes.  Be sure to follow @Mr_TJay",
+    "referenceId": "41f2ee606e56a98c31a84f10752bc8e3",
+    "date_created": "1535331785",
+    "date_modified": "1535385181",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "23",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213335",
+    "product_category": "men",
+    "id": "176215045",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "modeling-harlem",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "20",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "20",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "20",
+        "prettyDuration": "00:00:20",
+        "automaticThumbnailsPattern": "1759121\/176215045\/4bcf5\/thumb-41f2ee606e56a98c31a84f10752bc8e3-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/176215045\/4bcf5\/thumb-41f2ee606e56a98c31a84f10752bc8e3-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/176215045\/4bcf5\/thumb-41f2ee606e56a98c31a84f10752bc8e3-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/176215045\/4bcf5\/thumb-41f2ee606e56a98c31a84f10752bc8e3-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/176215045\/4bcf5\/thumb-41f2ee606e56a98c31a84f10752bc8e3-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/176215045\/4bcf5\/thumb-41f2ee606e56a98c31a84f10752bc8e3-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/176215045\/4bcf5\/thumb-41f2ee606e56a98c31a84f10752bc8e3-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/176215045\/thumbnail\/image-thumbnail-256-3e1fd13d969c3fae2677257b43bacd08.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/176215045\/thumbnail\/image-thumbnail-480-7c60d5205f929223bfff3f86a98ca74f.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/176215045\/thumbnail\/image-thumbnail-640-0720bf593d11034b26359fb477fcbfd4.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/176215045\/thumbnail\/image-thumbnail-1280-17be47be1cabab3b47d232edd537c660.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/176215045\/thumbnail\/image-thumbnail-1920-81c654feecec8772330c56ffb5cc29fa.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/176215045\/4bcf5\/thumb-41f2ee606e56a98c31a84f10752bc8e3-00001.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/176215045\/thumbnail\/image-thumbnail-640-0720bf593d11034b26359fb477fcbfd4.jpg",
+        "type": "mp4",
+        "assetId": "176215045",
+        "assetTitle": "Mr_TJay Summer in Harlem",
+        "assetTitleTextEncoded": "modeling-harlem",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "176215045",
+            "li": "1759121"
+        },
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/176215045\/4bcf5\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/176215045\/4bcf5\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176215045\/4bcf5\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176215045\/4bcf5\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176215045\/4bcf5\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176215045\/4bcf5\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176215045\/4bcf5\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-02"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

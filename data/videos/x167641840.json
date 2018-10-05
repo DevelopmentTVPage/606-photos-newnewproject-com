@@ -1,0 +1,99 @@
+{
+    "title": "Macy\u2019s Style Crew Saint Louis Cardinals Ladies",
+    "description": "This video shows some Saint Louis Cardinals Ladies attire.",
+    "referenceId": "f9d576c51e65f27415da9f1b0c9da38a",
+    "date_created": "1532573029",
+    "date_modified": "1532573144",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "11",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213180",
+    "product_category": "women",
+    "id": "167641840",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "8dc87ee2-2c65-4aee-ba21-ae0e05f0cdac",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "106",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "106",
+            "width": 568,
+            "height": 320
+        },
+        "mediaDuration": "106",
+        "prettyDuration": "00:01:46",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/167641840\/fea4e\/thumb-f9d576c51e65f27415da9f1b0c9da38a-00002.jpg",
+        "type": "mp4",
+        "assetId": "167641840",
+        "assetTitle": "8DC87EE2-2C65-4AEE-BA21-AE0E05F0CDAC",
+        "assetTitleTextEncoded": "8dc87ee2-2c65-4aee-ba21-ae0e05f0cdac",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "167641840",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167641840\/fea4e\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167641840\/fea4e\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167641840\/fea4e\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167641840\/fea4e\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167641840\/fea4e\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/167641840\/fea4e\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/167641840\/fea4e\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-08-15"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "St. Louis Cardinals MLB Major League Baseball logo",
+    "tvp_enhanced_transcript": null
+}

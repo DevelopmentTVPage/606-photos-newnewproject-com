@@ -1,0 +1,21 @@
+{
+    "id": "213607",
+    "first_name": "Mohammed",
+    "last_name": "Ahmed",
+    "data": {
+        "profilePhoto": null,
+        "job_title": "Commissioned Sales Associate"
+    },
+    "last_login_timestamp": null,
+    "created_timestamp": null,
+    "modified_timestamp": "2018-08-20 18:08:05",
+    "login_id": "1759121",
+    "user_id": "213607",
+    "role_id": "2",
+    "status": "1",
+    "fullName": "Mohammed Ahmed",
+    "profile_picture": null,
+    "titleTextEncoded": "mohammed-ahmed",
+    "title": "Mohammed Ahmed",
+    "videos_count": "0"
+}

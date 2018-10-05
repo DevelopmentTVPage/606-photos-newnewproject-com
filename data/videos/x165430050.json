@@ -1,0 +1,97 @@
+{
+    "title": "Weekend OOTD (MK)",
+    "description": "Even with the hot weather outside, that won't stop us from wearing longer sleeves right?...I promise it won't overheat you, hehe! Introducing to you Michael Kors Chain-Link Cold-Shoulder Top, a top that gives a little more coverage while exposing some sexiness! \n\nMichael Kors Top WEB ID: 6210597\n\nFollow me on Instagram for more: @janie.hong",
+    "referenceId": "1462b67696e261bada7ee76444a70b88",
+    "date_created": "1530746693",
+    "date_modified": "1530747894",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "83",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213220",
+    "product_category": "women",
+    "id": "165430050",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "weekend-ootd-mk",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "38",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "38",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "38",
+        "prettyDuration": "00:00:38",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/165430050\/7e97f\/thumb-1462b67696e261bada7ee76444a70b88-00002.jpg",
+        "type": "mp4",
+        "assetId": "165430050",
+        "assetTitle": "Weekend OOTD (MK)",
+        "assetTitleTextEncoded": "weekend-ootd-mk",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "165430050",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165430050\/7e97f\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165430050\/7e97f\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165430050\/7e97f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165430050\/7e97f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165430050\/7e97f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-02"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

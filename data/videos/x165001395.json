@@ -1,0 +1,97 @@
+{
+    "title": "Cropped Tops ft. Puma",
+    "description": "Love wearing cropped tops\/hoodies but maybe you don't have the most \"flat\" looking tummy? But to be quite honest, WHO CARES! To those who do, Puma has some that just compliment your body figures perfectly! It hides what you don't want to show and brings out what you do! I am now questioning why this brand is so underrated!\n\nPuma Cropped Hoodie WEBID: 5312417\nPuma Terry Shorts WEBID: 5312419\n\nFollow me on Instagram for more: @janie.hong",
+    "referenceId": "d0cd0b024a94799cebec7ad783094a08",
+    "date_created": "1529695777",
+    "date_modified": "1529697545",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "81",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213220",
+    "product_category": "active",
+    "id": "165001395",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "puma",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "32",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "32",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "32",
+        "prettyDuration": "00:00:32",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/165001395\/28b3a\/thumb-d0cd0b024a94799cebec7ad783094a08-00002.jpg",
+        "type": "mp4",
+        "assetId": "165001395",
+        "assetTitle": "Puma PUma PUMa PUMA!",
+        "assetTitleTextEncoded": "puma",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "165001395",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165001395\/28b3a\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165001395\/28b3a\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165001395\/28b3a\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165001395\/28b3a\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165001395\/28b3a\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-02"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Puma",
+    "tvp_enhanced_transcript": null
+}

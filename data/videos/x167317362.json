@@ -1,0 +1,100 @@
+{
+    "title": "Sunny Days",
+    "description": "Stay cool in a sleeveless light weight shirt this summer! Throw on some comfy jeans and shoes, and a fanny pack then you're all set to go sight seeing or on a summer stroll!",
+    "referenceId": "3f92e23e37dee8bf6167fed92981d7c3",
+    "date_created": "1531713485",
+    "date_modified": "1531716806",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "104",
+    "engagement_score": "2",
+    "conversion_score": null,
+    "CVV_VI": "2",
+    "video_type": null,
+    "user_id": "213280",
+    "product_category": "women",
+    "id": "167317362",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "sunny-days",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "31",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "31",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "31",
+        "prettyDuration": "00:00:31",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/167317362\/f7518\/thumb-3f92e23e37dee8bf6167fed92981d7c3-00002.jpg",
+        "type": "mp4",
+        "assetId": "167317362",
+        "assetTitle": "Sunny Days",
+        "assetTitleTextEncoded": "sunny-days",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "167317362",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167317362\/f7518\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167317362\/f7518\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167317362\/f7518\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167317362\/f7518\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167317362\/f7518\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-02"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-09-02"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,110 @@
+{
+    "title": "2 Minute Skincare Routine",
+    "description": "My daily skincare routine using Lanc\u00f4me, Too Faced and MAC. \n\nSteps:\n1. Use facial wipes or micellar water to cleanse (I love the gentleness of Burt\u2019s Bees Facial Cleansing Towelettes with Cucumber and Sage Web ID: 1271914 and Lanc\u00f4me Bi-Facil Face Bi-Phased Micellar Water Web ID: 4866595)\n2. Spray with a liquid primer to replenish moisture (Too Faced Hangover 3-In-1 Replenishing Primer & Setting Spray Web ID: 4911857 and Mac\u2019s Prep + Prime Fix + Web ID: 1651429 and it comes in 4 different scents!)\n3. Finish with a moisture serum to lock in moisture (MAC Prep + Prime Moisture Infusion Web ID: 673912)",
+    "referenceId": "415d690c6bcc00e5d9261485708e87ba",
+    "date_created": "1532800706",
+    "date_modified": "1533255623",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "17",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213205",
+    "product_category": "beauty",
+    "id": "168064937",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "ab9256c8-ff13-4fb8-8b3b-884a1db10b44",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "119",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "119",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "119",
+        "prettyDuration": "00:01:59",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/168064937\/thumbnail\/image-thumbnail-640-37597d3b58802b911282713e158391f7.jpg",
+        "type": "mp4",
+        "assetId": 168064937,
+        "assetTitle": "2 Minute Skincare Routine",
+        "assetTitleTextEncoded": "ab9256c8-ff13-4fb8-8b3b-884a1db10b44",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 168064937,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168064937\/5c82b\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168064937\/5c82b\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168064937\/5c82b\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168064937\/5c82b\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168064937\/5c82b\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/168064937\/5c82b\/thumb-415d690c6bcc00e5d9261485708e87ba-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/168064937\/user-images\/image-1536-1b868d764ccd1547bd1905408078c8e8.jpg",
+            "\/\/v.tvpage.com\/1759121\/168064937\/user-images\/image-1280-dd77118e71e4b18db1c52a5d83d1a700.jpg",
+            "\/\/v.tvpage.com\/1759121\/168064937\/5c82b\/thumb-415d690c6bcc00e5d9261485708e87ba-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/168064937\/user-images\/image-1536-1b868d764ccd1547bd1905408078c8e8.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/168064937\/thumbnail\/image-thumbnail-256-cc24f0c6589352e8af73f5681fe3277a.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/168064937\/thumbnail\/image-thumbnail-480-3532c5a63983b80df3d7f28b68e01c7f.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/168064937\/thumbnail\/image-thumbnail-640-37597d3b58802b911282713e158391f7.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/168064937\/thumbnail\/image-thumbnail-1280-81d745d109ad5e62fe62ecdde84d070c.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-08"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

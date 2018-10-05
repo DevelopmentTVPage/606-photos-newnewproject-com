@@ -1,0 +1,97 @@
+{
+    "title": "It's All About That Lace",
+    "description": "Nothing the trend lately with intimates? YESSS, it's lace! Everywhere you look! It's just impossible to go wrong with lace, perfect for the summer heat with the right amount of sexiness! Not to mention, the absolute flawless transition into fall also! Check them out now!\n\nFollow me on Instagram for more: @janie.hong\n\nWacoal Embrace Floral-Lace WEB ID: 6563647\nINC Lace Cami Bralette WEB ID: 6065888\nINC Lace-Back Hipster WEB ID: 6065887\nINC Perfect Coverage T-Shirt Bra WEB ID: 6065879\nINC Lace Boyshort WEB ID: 6065885",
+    "referenceId": "588baef6b62f9ee02270159aa3bdd260",
+    "date_created": "1532734462",
+    "date_modified": "1532735513",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "66",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213220",
+    "product_category": "women",
+    "id": "167917195",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "it-s-all-about-that-lace",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "74",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "74",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "74",
+        "prettyDuration": "00:01:14",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/167917195\/816bb\/thumb-588baef6b62f9ee02270159aa3bdd260-00002.jpg",
+        "type": "mp4",
+        "assetId": "167917195",
+        "assetTitle": "It's All About That Lace",
+        "assetTitleTextEncoded": "it-s-all-about-that-lace",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "167917195",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167917195\/816bb\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167917195\/816bb\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167917195\/816bb\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167917195\/816bb\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167917195\/816bb\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-02"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

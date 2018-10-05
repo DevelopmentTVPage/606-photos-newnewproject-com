@@ -1,0 +1,108 @@
+{
+    "title": "LAYLA - INC DRESS - HIGHLINE NYC",
+    "description": "SHORTENED VERSION\n\nlink to dress: https:\/\/www.macys.com\/shop\/product\/i.n.c.-high-low-popover-dress-created-for-macys?ID=6185775&CategoryID=5449#fn=sp%3D1%26spc%3D193%26ruleId%3D78%26kws%3Dinc%20dress%26searchPass%3DexactMultiMatch%26slotId%3D16",
+    "referenceId": "f3dc8053c42dffc685c976aaebac1e42",
+    "date_created": "1532467268",
+    "date_modified": "1532471556",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "19",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213426",
+    "product_category": "women",
+    "id": "167503443",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "layla-blue-insta",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "10",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "10",
+            "width": 1080,
+            "height": 1080
+        },
+        "mediaDuration": "10",
+        "prettyDuration": "00:00:10",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/167503443\/thumbnail\/image-thumbnail-640-39dff41ae7433ae76ae06b2128983b4e.jpg",
+        "type": "mp4",
+        "assetId": "167503443",
+        "assetTitle": "LAYLA - INC DRESS - HIGHLINE NYC",
+        "assetTitleTextEncoded": "layla-blue-insta",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "167503443",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167503443\/48593\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1080,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167503443\/48593\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167503443\/48593\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167503443\/48593\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167503443\/48593\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/167503443\/48593\/thumb-f3dc8053c42dffc685c976aaebac1e42-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/167503443\/user-images\/image-1080-33583d002992c54e4eeec7c172facc0f.jpg",
+            "\/\/v.tvpage.com\/1759121\/167503443\/48593\/thumb-f3dc8053c42dffc685c976aaebac1e42-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/167503443\/user-images\/image-1080-33583d002992c54e4eeec7c172facc0f.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/167503443\/thumbnail\/image-thumbnail-256-c94908ca65408db8ce0e493ea790a285.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/167503443\/thumbnail\/image-thumbnail-480-ab51363163edb3da07346ebc58b3a4d6.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/167503443\/thumbnail\/image-thumbnail-640-39dff41ae7433ae76ae06b2128983b4e.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

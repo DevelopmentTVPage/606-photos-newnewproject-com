@@ -1,0 +1,111 @@
+{
+    "title": "HEARST @ MACY\u2019S HSQ",
+    "description": "Watch for an inside look at the MAC and HarpersBazaar event at Macy\u2019s HSQ!",
+    "referenceId": "43c10bc76572ea75b69ee1630f2dc133",
+    "date_created": "1536848512",
+    "date_modified": "1536871831",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "5",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213366",
+    "product_category": "beauty",
+    "id": "177549609",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "64ceb6b5-68cc-4004-87e6-58bd8a290d6f",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "12",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "12",
+            "width": 500,
+            "height": 1080
+        },
+        "mediaDuration": "12",
+        "prettyDuration": "00:00:12",
+        "automaticThumbnailsPattern": "1759121\/177549609\/7a3ae\/thumb-43c10bc76572ea75b69ee1630f2dc133-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/177549609\/7a3ae\/thumb-43c10bc76572ea75b69ee1630f2dc133-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/177549609\/7a3ae\/thumb-43c10bc76572ea75b69ee1630f2dc133-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/177549609\/7a3ae\/thumb-43c10bc76572ea75b69ee1630f2dc133-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/177549609\/7a3ae\/thumb-43c10bc76572ea75b69ee1630f2dc133-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/177549609\/7a3ae\/thumb-43c10bc76572ea75b69ee1630f2dc133-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/177549609\/7a3ae\/thumb-43c10bc76572ea75b69ee1630f2dc133-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/177549609\/thumbnail\/image-thumbnail-256-9000d6af2e2ba585644fbcbe68e186c8.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/177549609\/thumbnail\/image-thumbnail-480-1d20b76bca716670927a27a0c9d73fce.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/177549609\/7a3ae\/thumb-43c10bc76572ea75b69ee1630f2dc133-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/177549609\/thumbnail\/image-thumbnail-480-1d20b76bca716670927a27a0c9d73fce.jpg",
+        "type": "mp4",
+        "assetId": "177549609",
+        "assetTitle": "64CEB6B5-68CC-4004-87E6-58BD8A290D6F",
+        "assetTitleTextEncoded": "64ceb6b5-68cc-4004-87e6-58bd8a290d6f",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "177549609",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177549609\/7a3ae\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 500,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177549609\/7a3ae\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 332,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177549609\/7a3ae\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 222,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177549609\/7a3ae\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 166,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177549609\/7a3ae\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 110,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "GM Group Computer Troubleshooters",
+    "tvp_enhanced_transcript": null
+}

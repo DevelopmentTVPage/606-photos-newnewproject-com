@@ -1,0 +1,100 @@
+{
+    "title": "We Got The Blues in Painted Plaid by Charter Club",
+    "description": "Balance that restless energy through your home decor...Blues can encourage brilliant ideas, and evoke rest and relaxation.\nPainted Plaid Collection by CharterClub #MacysStyleCrew #MacysStyleCrewSouchitta\n#WeGotTheBlues @macysvisual41",
+    "referenceId": "13c0a57eedf30cfc8ded1683139e421e",
+    "date_created": "1531859250",
+    "date_modified": "1532100540",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "2",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213334",
+    "product_category": "bed_bath",
+    "id": "167346865",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "photogrid-1531859037525",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "24",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "24",
+            "width": 720,
+            "height": 720
+        },
+        "mediaDuration": "24",
+        "prettyDuration": "00:00:24",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/167346865\/dd19e\/thumb-13c0a57eedf30cfc8ded1683139e421e-00002.jpg",
+        "type": "mp4",
+        "assetId": "167346865",
+        "assetTitle": "We Got The Blues in Painted Plaid by Charter Club",
+        "assetTitleTextEncoded": "photogrid-1531859037525",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "167346865",
+            "li": "1759121"
+        },
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167346865\/dd19e\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167346865\/dd19e\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167346865\/dd19e\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167346865\/dd19e\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360,
+                "tvpdefault": true
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167346865\/dd19e\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

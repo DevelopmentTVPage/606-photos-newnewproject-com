@@ -1,0 +1,97 @@
+{
+    "title": "INC Cold Shoulder Tops",
+    "description": "INC Cold Shoulder Tops",
+    "referenceId": "a6c9e8d65e133b8e6dc7dcaf745dea3f",
+    "date_created": "1532111563",
+    "date_modified": "1532111776",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "13",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213180",
+    "product_category": "women",
+    "id": "167426438",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "03b05c9d-bf14-4b74-b56d-90bd392a0aa8",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "38",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "38",
+            "width": 568,
+            "height": 320
+        },
+        "mediaDuration": "38",
+        "prettyDuration": "00:00:38",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/167426438\/4a55a\/thumb-a6c9e8d65e133b8e6dc7dcaf745dea3f-00002.jpg",
+        "type": "mp4",
+        "assetId": "167426438",
+        "assetTitle": "03B05C9D-BF14-4B74-B56D-90BD392A0AA8",
+        "assetTitleTextEncoded": "03b05c9d-bf14-4b74-b56d-90bd392a0aa8",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "167426438",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167426438\/4a55a\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167426438\/4a55a\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167426438\/4a55a\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167426438\/4a55a\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167426438\/4a55a\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

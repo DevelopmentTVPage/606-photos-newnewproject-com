@@ -1,0 +1,103 @@
+{
+    "title": "johnson",
+    "description": "",
+    "referenceId": "5f597cd208fbb30fe868a40aa7ba9913",
+    "date_created": "1526406582",
+    "date_modified": "1531182625",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "8",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "632",
+    "product_category": null,
+    "id": "163925426",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "johnson",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "30",
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163925426\/29055\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163925426\/29055\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163925426\/29055\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163925426\/29055\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163925426\/29055\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "videoMeta": {
+            "duration": "30",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "30",
+        "prettyDuration": "00:00:30",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/163925426\/thumbnail\/image-thumbnail-640-65149fdd85ad63bbe19fc715b1ba36a0.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/163925426\/29055\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/163925426\/29055\/media.m3u8",
+        "automaticThumbnailsPattern": "1759121\/163925426\/29055\/thumb-5f597cd208fbb30fe868a40aa7ba9913-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/163925426\/user-images\/image-1920-2ebe8ff958bf5ea0f286f3260f22aa5a.jpg",
+            "\/\/v.tvpage.com\/1759121\/163925426\/29055\/thumb-5f597cd208fbb30fe868a40aa7ba9913-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/163925426\/user-images\/image-1920-2ebe8ff958bf5ea0f286f3260f22aa5a.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/163925426\/thumbnail\/image-thumbnail-256-482b8cdbd82026743f3fbfaf875d3633.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/163925426\/thumbnail\/image-thumbnail-480-257a712a4eca8a9ec987877393d4d3b6.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/163925426\/thumbnail\/image-thumbnail-640-65149fdd85ad63bbe19fc715b1ba36a0.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/163925426\/thumbnail\/image-thumbnail-1280-f1238e2ef575536012178e88afc6716c.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/163925426\/thumbnail\/image-thumbnail-1920-af371c5b62d009bd404522ec3d0ba92e.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

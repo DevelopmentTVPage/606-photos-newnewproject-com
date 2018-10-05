@@ -1,0 +1,107 @@
+{
+    "title": "Anastasia Dream Glow Kit",
+    "description": "Highlighters with iridescent and metallic finishes that can be used any where",
+    "referenceId": "15e14af42567886e7f4d0ededbb18e56",
+    "date_created": "1536727234",
+    "date_modified": "1536871831",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213417",
+    "product_category": "beauty",
+    "id": "177397235",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "4fe7ccc1-a1f3-4b59-a0e0-e2a90b3bcf87",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "8",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "8",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "8",
+        "prettyDuration": "00:00:08",
+        "automaticThumbnailsPattern": "1759121\/177397235\/3a6cf\/thumb-15e14af42567886e7f4d0ededbb18e56-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/177397235\/3a6cf\/thumb-15e14af42567886e7f4d0ededbb18e56-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/177397235\/3a6cf\/thumb-15e14af42567886e7f4d0ededbb18e56-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/177397235\/3a6cf\/thumb-15e14af42567886e7f4d0ededbb18e56-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/177397235\/3a6cf\/thumb-15e14af42567886e7f4d0ededbb18e56-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/177397235\/thumbnail\/image-thumbnail-256-ac8291d5eb51f8f6b6a9d9448bf331f2.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/177397235\/thumbnail\/image-thumbnail-480-a0c8383420c032f725bea527c48ed30e.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/177397235\/thumbnail\/image-thumbnail-640-bd6800010f40c676a2e303d39bac5883.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/177397235\/thumbnail\/image-thumbnail-1280-5f2c3298d386ed7814142091802afb20.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/177397235\/3a6cf\/thumb-15e14af42567886e7f4d0ededbb18e56-00001.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/177397235\/thumbnail\/image-thumbnail-640-bd6800010f40c676a2e303d39bac5883.jpg",
+        "type": "mp4",
+        "assetId": "177397235",
+        "assetTitle": "4FE7CCC1-A1F3-4B59-A0E0-E2A90B3BCF87",
+        "assetTitleTextEncoded": "4fe7ccc1-a1f3-4b59-a0e0-e2a90b3bcf87",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "177397235",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177397235\/3a6cf\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177397235\/3a6cf\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177397235\/3a6cf\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177397235\/3a6cf\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177397235\/3a6cf\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

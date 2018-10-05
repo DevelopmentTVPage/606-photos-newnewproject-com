@@ -1,0 +1,99 @@
+{
+    "title": "Lancome Gift With Purchase!!!",
+    "description": "Lancome is having gift with a $37.50 purchase!!! Don\u2019t miss out on this luxurious gift of your favorite products!!! \u263a\ufe0f",
+    "referenceId": "e9e97bb71ad0956aa5e21f46db751a14",
+    "date_created": "1533696216",
+    "date_modified": "1533697073",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "70",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213440",
+    "product_category": "beauty",
+    "id": "169732747",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "3a95e53e-c139-415a-8e0d-3f4ba9e00b49",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "48",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "48",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "48",
+        "prettyDuration": "00:00:48",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/169732747\/03c88\/thumb-e9e97bb71ad0956aa5e21f46db751a14-00002.jpg",
+        "type": "mp4",
+        "assetId": 169732747,
+        "assetTitle": "Lancome Gift With Purchase!!!",
+        "assetTitleTextEncoded": "3a95e53e-c139-415a-8e0d-3f4ba9e00b49",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 169732747,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/169732747\/03c88\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/169732747\/03c88\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/169732747\/03c88\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/169732747\/03c88\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/169732747\/03c88\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/169732747\/03c88\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/169732747\/03c88\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-14"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Lanc\u00f4me Macy's Bayer Properties",
+    "tvp_enhanced_transcript": null
+}

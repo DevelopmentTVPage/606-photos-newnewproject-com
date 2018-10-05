@@ -1,0 +1,101 @@
+{
+    "title": "Ashley Cosores",
+    "description": "",
+    "referenceId": "210902ea6d05f0a8e5f48fa044032ed3",
+    "date_created": "1534335558",
+    "date_modified": "1534347994",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "5",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213178",
+    "product_category": null,
+    "id": "170827033",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "ashley-cosores",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "20",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "20",
+            "width": 960,
+            "height": 720
+        },
+        "mediaDuration": "20",
+        "prettyDuration": "00:00:20",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/170827033\/thumbnail\/image-thumbnail-640-4b6a90f16ddec26bd8dd2c59a3d84af5.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170827033\/27797\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170827033\/27797\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170827033\/27797\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170827033\/27797\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170827033\/27797\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ],
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/170827033\/user-images\/image-1920-698bca6f366e96519177a803201decb8.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/170827033\/user-images\/image-1920-698bca6f366e96519177a803201decb8.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/170827033\/thumbnail\/image-thumbnail-256-7203bee8d37ceb60697d40e94e735800.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/170827033\/thumbnail\/image-thumbnail-480-0db390cf029eb14c068e773f62dad86f.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/170827033\/thumbnail\/image-thumbnail-640-4b6a90f16ddec26bd8dd2c59a3d84af5.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/170827033\/thumbnail\/image-thumbnail-1280-ff67bb76c9b857e8adbd8ed9424df167.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/170827033\/thumbnail\/image-thumbnail-1920-766ab6354facd97bf82cae07d8af948e.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-05"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

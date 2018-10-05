@@ -1,0 +1,113 @@
+{
+    "title": "@saystheart : Vinyl Vibes #MacysStyleCrew",
+    "description": "I know we're only halfway through Summer, but I can't stop thinking about Autumn! Denim skirts with tights are everything!!",
+    "referenceId": "c867b309b382c17c1a415c79b01d278b",
+    "date_created": "1532730143",
+    "date_modified": "1532730321",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "75",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213274",
+    "product_category": "juniors",
+    "id": "167917188",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "received-10213115377462469",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "28",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "28",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "28",
+        "prettyDuration": "00:00:28",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/167917188\/thumbnail\/image-thumbnail-640-afa8ede08b3435e1c820bcb04cc91cc3.jpg",
+        "type": "mp4",
+        "assetId": "167917188",
+        "assetTitle": "received_10213115377462469",
+        "assetTitleTextEncoded": "received-10213115377462469",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "167917188",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167917188\/e4a47\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167917188\/e4a47\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167917188\/e4a47\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167917188\/e4a47\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167917188\/e4a47\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/167917188\/e4a47\/thumb-c867b309b382c17c1a415c79b01d278b-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/167917188\/user-images\/image-1920-5aba68451389ccf391d6474a1ca792b4.jpg",
+            "\/\/v.tvpage.com\/1759121\/167917188\/e4a47\/thumb-c867b309b382c17c1a415c79b01d278b-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/167917188\/user-images\/image-1920-5aba68451389ccf391d6474a1ca792b4.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/167917188\/thumbnail\/image-thumbnail-256-1a5e19fb23ef06bed2c1be10b5738d87.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/167917188\/thumbnail\/image-thumbnail-480-b87b0d1c407e2af1cf2442cdb32d8aa6.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/167917188\/thumbnail\/image-thumbnail-640-afa8ede08b3435e1c820bcb04cc91cc3.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/167917188\/thumbnail\/image-thumbnail-1280-12c80f5b255f930e92744ee62300f3c9.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/167917188\/thumbnail\/image-thumbnail-1920-29260d8fd4256252b5fa1da11d6bd32e.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-08-30"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-09-02"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

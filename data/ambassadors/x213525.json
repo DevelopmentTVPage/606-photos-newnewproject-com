@@ -1,0 +1,21 @@
+{
+    "id": "213525",
+    "first_name": "Danielle",
+    "last_name": "Vigliotti",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/398629073-0.7612169216386.jpg",
+        "job_title": "Macys My Stylist"
+    },
+    "last_login_timestamp": "1537230700",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-07-19 16:25:26",
+    "login_id": "1759121",
+    "user_id": "213525",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Danielle Vigliotti",
+    "profile_picture": "\/api\/canvas\/logo\/398629073-0.7612169216386.jpg",
+    "titleTextEncoded": "danielle-vigliotti",
+    "title": "Danielle Vigliotti",
+    "videos_count": "7"
+}

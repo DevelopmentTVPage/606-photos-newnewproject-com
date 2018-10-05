@@ -1,0 +1,99 @@
+{
+    "title": "Summer to Fall Wardrobe",
+    "description": "Tips for what to purchase NOW to transition into fall!  A versatile wardrobe is what will allow you to buy more pieces you can wear more often!  If any products aren\u2019t listen below the video, message me and I can have them shipped to you!",
+    "referenceId": "501c1421ca4bad1e58569c4b96df0d7a",
+    "date_created": "1532645302",
+    "date_modified": "1532675942",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "25",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213171",
+    "product_category": "women",
+    "id": "167773751",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "4feccc8b-2224-4bf1-8b60-d820ef02a153",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "LONG",
+    "duration": "310",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "310",
+            "width": 480,
+            "height": 480
+        },
+        "mediaDuration": "310",
+        "prettyDuration": "00:05:10",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/167773751\/8d72e\/thumb-501c1421ca4bad1e58569c4b96df0d7a-00002.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "quality": "",
+        "assetId": "167773751",
+        "assetTitle": "Summer to Fall Wardrobe",
+        "assetTitleTextEncoded": "4feccc8b-2224-4bf1-8b60-d820ef02a153",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "167773751",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167773751\/8d72e\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167773751\/8d72e\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167773751\/8d72e\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167773751\/8d72e\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167773751\/8d72e\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

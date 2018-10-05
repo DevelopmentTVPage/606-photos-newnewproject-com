@@ -1,0 +1,106 @@
+{
+    "title": "Nike Sale",
+    "description": "Our top active wear MUST-HAVES!!!",
+    "referenceId": "b5cad194f22a297eb83fd90ba91298fe",
+    "date_created": "1528817019",
+    "date_modified": "1528821840",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "32",
+    "engagement_score": "2",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213135",
+    "product_category": "active",
+    "id": "164829538",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "nike-sale",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "94",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "94",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "94",
+        "prettyDuration": "00:01:34",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164829538\/thumbnail\/image-thumbnail-640-e3fd4c2f0737f5e8291ff506e8033d62.jpg",
+        "type": "mp4",
+        "assetId": 164829538,
+        "assetTitle": "Nike Sale",
+        "assetTitleTextEncoded": "nike-sale",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 164829538,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164829538\/52951\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164829538\/52951\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164829538\/52951\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164829538\/52951\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164829538\/52951\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/164829538\/52951\/thumb-b5cad194f22a297eb83fd90ba91298fe-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/164829538\/user-images\/image-1920-3eee02a70c111ae99b4818844f2e47a2.jpg",
+            "\/\/v.tvpage.com\/1759121\/164829538\/52951\/thumb-b5cad194f22a297eb83fd90ba91298fe-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/164829538\/user-images\/image-1920-3eee02a70c111ae99b4818844f2e47a2.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/164829538\/thumbnail\/image-thumbnail-256-16f9ab33072fb0eb04432b19f91be340.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/164829538\/thumbnail\/image-thumbnail-480-7d68b3933c9031d2ff644f27a6afd878.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/164829538\/thumbnail\/image-thumbnail-640-e3fd4c2f0737f5e8291ff506e8033d62.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/164829538\/thumbnail\/image-thumbnail-1280-5901bf892d23e68962029d85919958b3.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/164829538\/thumbnail\/image-thumbnail-1920-d5c58ee21238d2d316e7aee224ba66e1.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-07-25\"}},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-07-25\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Rock and Rags WJK Lambang Iphone Fruscio Beach Grass Lemon Flexecash PC Market Deddy Dabba Aditi Name Bossier Arts Council SMKN 1 Cimahi West African CFA franc Engenharia de Alimentos",
+    "tvp_enhanced_transcript": null
+}

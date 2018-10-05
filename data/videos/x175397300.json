@@ -1,0 +1,114 @@
+{
+    "title": "MSC by Patricia Gon. Yellow",
+    "description": "Summer ouftits... \nAmerican Rag dress \/ Lucky Brand wedges \/ Free People busted knee skinny jeans Web ID 4541328 \/ Free People floral-print keyhole top Web ID 5808810 \/ INC round bag",
+    "referenceId": "0c355295a0093accb5f5baa96484aac4",
+    "date_created": "1535077769",
+    "date_modified": "1535078181",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "680",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213252",
+    "product_category": "women",
+    "id": "175397300",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "msc-by-patricia-gon-yellow",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "39",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "39",
+            "width": 720,
+            "height": 480
+        },
+        "mediaDuration": "39",
+        "prettyDuration": "00:00:39",
+        "automaticThumbnailsPattern": "1759121\/175397300\/47f2a\/thumb-0c355295a0093accb5f5baa96484aac4-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/175397300\/47f2a\/thumb-0c355295a0093accb5f5baa96484aac4-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/175397300\/47f2a\/thumb-0c355295a0093accb5f5baa96484aac4-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/175397300\/47f2a\/thumb-0c355295a0093accb5f5baa96484aac4-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/175397300\/47f2a\/thumb-0c355295a0093accb5f5baa96484aac4-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/175397300\/47f2a\/thumb-0c355295a0093accb5f5baa96484aac4-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/175397300\/47f2a\/thumb-0c355295a0093accb5f5baa96484aac4-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/175397300\/thumbnail\/image-thumbnail-256-6c835ff73fdaac5546783060682bad94.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/175397300\/thumbnail\/image-thumbnail-480-853d3dbe395aef796a5513369076c438.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/175397300\/thumbnail\/image-thumbnail-640-5865f35b4a0bb7d7640466f9d302d462.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/175397300\/47f2a\/thumb-0c355295a0093accb5f5baa96484aac4-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/175397300\/thumbnail\/image-thumbnail-640-5865f35b4a0bb7d7640466f9d302d462.jpg",
+        "type": "mp4",
+        "assetId": "175397300",
+        "assetTitle": "MSC by Patricia Gon. Yellow",
+        "assetTitleTextEncoded": "msc-by-patricia-gon-yellow",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "175397300",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/175397300\/47f2a\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/175397300\/47f2a\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/175397300\/47f2a\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/175397300\/47f2a\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 540,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/175397300\/47f2a\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 214
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/175397300\/47f2a\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/175397300\/47f2a\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-02"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Beauty Bus Foundation Coworking",
+    "tvp_enhanced_transcript": null
+}

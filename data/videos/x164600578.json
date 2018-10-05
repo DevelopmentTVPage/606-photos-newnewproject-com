@@ -1,0 +1,111 @@
+{
+    "title": "VisuALLY: Must Have Eyeshadow Palette!",
+    "description": "This amazing eyeshadow palette is a MUST-HAVE for summer and the sale price is amazing! Pair it with my favorite Urban Decay Eyeliners and mascara for endless looks!",
+    "referenceId": "de26df162b873a076ea8f40a4ddda9fa",
+    "date_created": "1527666857",
+    "date_modified": "1537201111",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "21",
+    "engagement_score": "1",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213225",
+    "product_category": "beauty",
+    "id": "164600578",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "20180523-163440",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "38",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "38",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "38",
+        "prettyDuration": "00:00:38",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164600578\/thumbnail\/image-thumbnail-480-48e6fa06ef232fe2775196aafae4b3bc.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/164600578\/a8386\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/164600578\/a8386\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "assetId": "164600578",
+        "assetTitle": "VisuALLy: Must Have Eyeshadow Palette!",
+        "assetTitleTextEncoded": "20180523-163440",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164600578",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164600578\/a8386\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164600578\/a8386\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164600578\/a8386\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164600578\/a8386\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164600578\/a8386\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/164600578\/a8386\/thumb-de26df162b873a076ea8f40a4ddda9fa-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/164600578\/user-images\/image-608-bffca93f9b7d82bff1e4030482bd6ef6.jpg",
+            "\/\/v.tvpage.com\/1759121\/164600578\/a8386\/thumb-de26df162b873a076ea8f40a4ddda9fa-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/164600578\/user-images\/image-608-bffca93f9b7d82bff1e4030482bd6ef6.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/164600578\/thumbnail\/image-thumbnail-256-962d7e16bd1efa60771caf52d69230c9.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/164600578\/thumbnail\/image-thumbnail-480-48e6fa06ef232fe2775196aafae4b3bc.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-07-31"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

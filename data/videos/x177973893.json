@@ -1,0 +1,112 @@
+{
+    "title": "Wizard Crush Wednesday Episode Four",
+    "description": "In this Wizard Crush Wednesday I use the philosophy PORE EXTRACTING MASK, do a before and after with Estee Lauder's INSTANT WRINKLE FILLER, and display the effectiveness of an UNDER EYE COLOR CORRECTOR!",
+    "referenceId": "1770755a91065a165bca126577508b94",
+    "date_created": "1537408918",
+    "date_modified": "1537410251",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213280",
+    "product_category": "beauty",
+    "id": "177973893",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "wizard-crush-wednesday-episode-four",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "LONG",
+    "duration": "270",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "270",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "270",
+        "prettyDuration": "00:04:30",
+        "automaticThumbnailsPattern": "1759121\/177973893\/dc8ea\/thumb-1770755a91065a165bca126577508b94-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/177973893\/dc8ea\/thumb-1770755a91065a165bca126577508b94-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/177973893\/dc8ea\/thumb-1770755a91065a165bca126577508b94-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/177973893\/dc8ea\/thumb-1770755a91065a165bca126577508b94-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/177973893\/dc8ea\/thumb-1770755a91065a165bca126577508b94-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/177973893\/dc8ea\/thumb-1770755a91065a165bca126577508b94-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/177973893\/dc8ea\/thumb-1770755a91065a165bca126577508b94-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/177973893\/thumbnail\/image-thumbnail-256-198168e5cb62047fe4e5de88d384f452.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/177973893\/thumbnail\/image-thumbnail-480-e074f3f1f2463133f2ad664518c175ca.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/177973893\/thumbnail\/image-thumbnail-640-7da05089581f0ac2bc783ccbc6f1b9ed.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/177973893\/thumbnail\/image-thumbnail-1280-b9c1b3d3e2488190ad0f2033b1c1b286.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/177973893\/thumbnail\/image-thumbnail-1920-27dd2d79c083b5eeabe75c345ef85126.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/177973893\/dc8ea\/thumb-1770755a91065a165bca126577508b94-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/177973893\/thumbnail\/image-thumbnail-640-7da05089581f0ac2bc783ccbc6f1b9ed.jpg",
+        "type": "mp4",
+        "assetId": 177973893,
+        "assetTitle": "Wizard Crush Wednesday Episode Four",
+        "assetTitleTextEncoded": "wizard-crush-wednesday-episode-four",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 177973893,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177973893\/dc8ea\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177973893\/dc8ea\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177973893\/dc8ea\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177973893\/dc8ea\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177973893\/dc8ea\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/177973893\/dc8ea\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/177973893\/dc8ea\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Clinique DePaul University School of Public Service",
+    "tvp_enhanced_transcript": null
+}

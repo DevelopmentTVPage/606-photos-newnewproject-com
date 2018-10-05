@@ -1,0 +1,108 @@
+{
+    "title": "Dorthia Brown Macys Style Crew Intro",
+    "description": "Women Fashion",
+    "referenceId": "3b0ae9b1bc6937d0bee53b7c9870dfda",
+    "date_created": "1528756128",
+    "date_modified": "1528820001",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "86",
+    "engagement_score": "1",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213224",
+    "product_category": "women",
+    "id": "164814459",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "dorthia-brown-macy-s-video-6-2-18",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "30",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "30",
+            "width": 872,
+            "height": 480
+        },
+        "mediaDuration": "30",
+        "prettyDuration": "00:00:30",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164814459\/thumbnail\/image-thumbnail-640-1cbbb5b98a7412ba7ba7d62b123260ef.jpg",
+        "type": "mp4",
+        "assetId": "164814459",
+        "assetTitle": "Dorthia Brown Macys Style Crew Intro",
+        "assetTitleTextEncoded": "dorthia-brown-macy-s-video-6-2-18",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164814459",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164814459\/8ecb1\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 872,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164814459\/8ecb1\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 872,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164814459\/8ecb1\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 470
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164814459\/8ecb1\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 352
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164814459\/8ecb1\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 176
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/164814459\/8ecb1\/thumb-3b0ae9b1bc6937d0bee53b7c9870dfda-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/164814459\/user-images\/image-853-40f5b997dfc21ad0b46a37a2391146fc.jpg",
+            "\/\/v.tvpage.com\/1759121\/164814459\/8ecb1\/thumb-3b0ae9b1bc6937d0bee53b7c9870dfda-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/164814459\/user-images\/image-853-40f5b997dfc21ad0b46a37a2391146fc.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/164814459\/thumbnail\/image-thumbnail-256-7d01b9929c034c3a9fb23a5784bae6de.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/164814459\/thumbnail\/image-thumbnail-480-f85d6039f4fc9f87f9059779b2dfb0bd.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/164814459\/thumbnail\/image-thumbnail-640-1cbbb5b98a7412ba7ba7d62b123260ef.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-07-31"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

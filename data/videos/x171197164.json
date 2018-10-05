@@ -1,0 +1,114 @@
+{
+    "title": "Levi's Denim Skirt look",
+    "description": "Trend alert! Denim skirts are back! This one's Levi's - wearing it with an Alfani Tank + open stitch cardigan that I love for summer.",
+    "referenceId": "03f3278db3cb6121fa21cc7c6d5e6e02",
+    "date_created": "1534620353",
+    "date_modified": "1534620709",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "13",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213251",
+    "product_category": "women",
+    "id": "171197164",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "img-1798",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "20",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "20",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "20",
+        "prettyDuration": "00:00:20",
+        "automaticThumbnailsPattern": "1759121\/171197164\/9a876\/thumb-03f3278db3cb6121fa21cc7c6d5e6e02-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/171197164\/9a876\/thumb-03f3278db3cb6121fa21cc7c6d5e6e02-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/171197164\/9a876\/thumb-03f3278db3cb6121fa21cc7c6d5e6e02-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/171197164\/9a876\/thumb-03f3278db3cb6121fa21cc7c6d5e6e02-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/171197164\/9a876\/thumb-03f3278db3cb6121fa21cc7c6d5e6e02-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/171197164\/9a876\/thumb-03f3278db3cb6121fa21cc7c6d5e6e02-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/171197164\/9a876\/thumb-03f3278db3cb6121fa21cc7c6d5e6e02-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/171197164\/thumbnail\/image-thumbnail-256-8c9533838f2d97f9b74dfc9b4e736587.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/171197164\/thumbnail\/image-thumbnail-480-e5ebb531248c096e62e27d19247a7313.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/171197164\/9a876\/thumb-03f3278db3cb6121fa21cc7c6d5e6e02-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/171197164\/thumbnail\/image-thumbnail-480-e5ebb531248c096e62e27d19247a7313.jpg",
+        "type": "mp4",
+        "assetId": 171197164,
+        "assetTitle": "Levi's Denim Skirt look",
+        "assetTitleTextEncoded": "img-1798",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 171197164,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171197164\/9a876\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171197164\/9a876\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171197164\/9a876\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171197164\/9a876\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171197164\/9a876\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-05"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-08-30"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

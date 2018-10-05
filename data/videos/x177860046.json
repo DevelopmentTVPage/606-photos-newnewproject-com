@@ -1,0 +1,107 @@
+{
+    "title": "Fall Fashion show",
+    "description": "",
+    "referenceId": "203b921fe8cbcee7d45a8aaf6249fe62",
+    "date_created": "1537217373",
+    "date_modified": "1537217959",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213181",
+    "product_category": null,
+    "id": "177860046",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "knxw4038",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "40",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "40",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "40",
+        "prettyDuration": "00:00:40",
+        "automaticThumbnailsPattern": "1759121\/177860046\/96b76\/thumb-203b921fe8cbcee7d45a8aaf6249fe62-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/177860046\/96b76\/thumb-203b921fe8cbcee7d45a8aaf6249fe62-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/177860046\/96b76\/thumb-203b921fe8cbcee7d45a8aaf6249fe62-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/177860046\/96b76\/thumb-203b921fe8cbcee7d45a8aaf6249fe62-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/177860046\/96b76\/thumb-203b921fe8cbcee7d45a8aaf6249fe62-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/177860046\/96b76\/thumb-203b921fe8cbcee7d45a8aaf6249fe62-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/177860046\/96b76\/thumb-203b921fe8cbcee7d45a8aaf6249fe62-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/177860046\/thumbnail\/image-thumbnail-256-d2d893a29998ba76ba2d20cd13c1e10e.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/177860046\/thumbnail\/image-thumbnail-480-d4057b3d0aac038b196810ecc90f25da.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/177860046\/96b76\/thumb-203b921fe8cbcee7d45a8aaf6249fe62-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/177860046\/thumbnail\/image-thumbnail-480-d4057b3d0aac038b196810ecc90f25da.jpg",
+        "type": "mp4",
+        "assetId": "177860046",
+        "assetTitle": "KNXW4038",
+        "assetTitleTextEncoded": "knxw4038",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "177860046",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177860046\/96b76\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177860046\/96b76\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177860046\/96b76\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177860046\/96b76\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177860046\/96b76\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

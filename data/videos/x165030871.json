@@ -1,0 +1,97 @@
+{
+    "title": "Sweet Summer!",
+    "description": "These lil Bebes are so sweet for a special or casual summer occasion! If you're like me and like to be close to the ground, these will be perfect for you!!",
+    "referenceId": "625495bebf1cef379c50d00c6a6761ad",
+    "date_created": "1529955013",
+    "date_modified": "1529955200",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "20",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213444",
+    "product_category": "shoes",
+    "id": "165030871",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "vid-22371011-103521-355",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "19",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "19",
+            "width": 720,
+            "height": 720
+        },
+        "mediaDuration": "19",
+        "prettyDuration": "00:00:19",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/165030871\/f2335\/thumb-625495bebf1cef379c50d00c6a6761ad-00002.jpg",
+        "type": "mp4",
+        "assetId": "165030871",
+        "assetTitle": "VID_22371011_103521_355",
+        "assetTitleTextEncoded": "vid-22371011-103521-355",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "165030871",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165030871\/f2335\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165030871\/f2335\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165030871\/f2335\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165030871\/f2335\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165030871\/f2335\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-14"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

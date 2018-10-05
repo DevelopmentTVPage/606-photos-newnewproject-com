@@ -1,0 +1,112 @@
+{
+    "title": "The Denim Jacket by Style & Co",
+    "description": "The Best Transitional piece to take you from Summer to Fall is the Denim Jacket! This particular denim jacket is by Style & Co. It's a cute cropped cut with a released hem. Comes in different colors such as white, darker blue and this lighter blue shade and is currently on Sale!! These and more available at Macy's!",
+    "referenceId": "88c3c674f797f668b21c644927a064c6",
+    "date_created": "1536532687",
+    "date_modified": "1536533130",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "3",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213194",
+    "product_category": "women",
+    "id": "177203592",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "the-denim-jacket-by-style-co",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "29",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "29",
+            "width": 720,
+            "height": 720
+        },
+        "mediaDuration": "29",
+        "prettyDuration": "00:00:29",
+        "automaticThumbnailsPattern": "1759121\/177203592\/1d74d\/thumb-88c3c674f797f668b21c644927a064c6-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/177203592\/1d74d\/thumb-88c3c674f797f668b21c644927a064c6-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/177203592\/1d74d\/thumb-88c3c674f797f668b21c644927a064c6-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/177203592\/1d74d\/thumb-88c3c674f797f668b21c644927a064c6-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/177203592\/1d74d\/thumb-88c3c674f797f668b21c644927a064c6-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/177203592\/1d74d\/thumb-88c3c674f797f668b21c644927a064c6-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/177203592\/1d74d\/thumb-88c3c674f797f668b21c644927a064c6-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/177203592\/thumbnail\/image-thumbnail-256-f08dc893a74f2235b34d9b318a5ba595.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/177203592\/thumbnail\/image-thumbnail-480-64811c2c80a3f31a0aeb726062528b95.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/177203592\/thumbnail\/image-thumbnail-640-7c65476d4f3eae14aef339ffdc39656e.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/177203592\/1d74d\/thumb-88c3c674f797f668b21c644927a064c6-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/177203592\/thumbnail\/image-thumbnail-640-7c65476d4f3eae14aef339ffdc39656e.jpg",
+        "type": "mp4",
+        "assetId": "177203592",
+        "assetTitle": "The Denim Jacket by Style & Co",
+        "assetTitleTextEncoded": "the-denim-jacket-by-style-co",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "177203592",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177203592\/1d74d\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177203592\/1d74d\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177203592\/1d74d\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177203592\/1d74d\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177203592\/1d74d\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "The Weather Channel",
+    "tvp_enhanced_transcript": null
+}

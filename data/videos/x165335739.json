@@ -1,0 +1,99 @@
+{
+    "title": "8pc gift with any $35 Elizabeth Arden purchase",
+    "description": "This beautiful bag doesn\u2019t have to be used just to hold makeup. Cute & fun bag not only is delightful but is filled with samples of the 8 best sellers of Elizabeth Arden! This is yours with any $35 Elizabeth Arden purchase! While supplies last!",
+    "referenceId": "b5282922a4c5eb64531e5a18ef7d2c6f",
+    "date_created": "1530333417",
+    "date_modified": "1530548294",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "3",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213360",
+    "product_category": "beauty",
+    "id": "165335739",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "65dad514-b469-44ae-ba73-bf1980740555",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "61",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "61",
+            "width": 480,
+            "height": 272
+        },
+        "mediaDuration": "61",
+        "prettyDuration": "00:01:01",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1759121\/canvas\/1920\/1080\/488938368-1530548293.jpg",
+        "type": "mp4",
+        "assetId": "165335739",
+        "assetTitle": "65DAD514-B469-44AE-BA73-BF1980740555",
+        "assetTitleTextEncoded": "65dad514-b469-44ae-ba73-bf1980740555",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "165335739",
+            "li": "1759121"
+        },
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165335739\/004a5\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 272
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165335739\/004a5\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 272
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165335739\/004a5\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 272
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165335739\/004a5\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 272
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165335739\/004a5\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 182
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-08-12"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,97 @@
+{
+    "title": "The Denim Skirt",
+    "description": "Check out my blog post on TheInseamNYC.com",
+    "referenceId": "ed8360973ad304fb49fdeb4f8c09b7b4",
+    "date_created": "1529514290",
+    "date_modified": "1529515031",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "18",
+    "engagement_score": "1",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213212",
+    "product_category": "women",
+    "id": "164989065",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "the-denim-skirt",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "62",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "62",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "62",
+        "prettyDuration": "00:01:02",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164989065\/94279\/thumb-ed8360973ad304fb49fdeb4f8c09b7b4-00002.jpg",
+        "type": "mp4",
+        "assetId": "164989065",
+        "assetTitle": "The Denim Skirt",
+        "assetTitleTextEncoded": "the-denim-skirt",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164989065",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164989065\/94279\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164989065\/94279\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164989065\/94279\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164989065\/94279\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164989065\/94279\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-08"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Bueno Brand\u00e3o Agencia Tributaria Fred Mello Design Inspiration Royal Academy of Arts Efide 5Gbfree Independence Seaport Museum Pumpkin Film Supernus Pharmaceuticals Duncan Solutions Lion Air Urban Lending Solutions House Copperbelt Energy Corporation Anniversary Christopher Ward Wingify",
+    "tvp_enhanced_transcript": null
+}

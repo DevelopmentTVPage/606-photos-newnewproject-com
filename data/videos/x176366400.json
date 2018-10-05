@@ -1,0 +1,112 @@
+{
+    "title": "Sneaker SALE",
+    "description": "Sneaker SALE!  Adidas on sale?  Yes, please.   Adidas Women's Edge Lux Running sneakers are actually my favorite for leg day in the gym.  They are also great to wear casually outside of the gym.  Can't beat under $70 for Adidas. All sizes available.  This won't last!",
+    "referenceId": "d3a748ddc9a959c5629ac4623dd5d604",
+    "date_created": "1535554122",
+    "date_modified": "1535554445",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213110",
+    "product_category": "shoes",
+    "id": "176366400",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "sneaker-sale",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "27",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "27",
+            "width": 720,
+            "height": 720
+        },
+        "mediaDuration": "27",
+        "prettyDuration": "00:00:27",
+        "automaticThumbnailsPattern": "1759121\/176366400\/f7902\/thumb-d3a748ddc9a959c5629ac4623dd5d604-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/176366400\/f7902\/thumb-d3a748ddc9a959c5629ac4623dd5d604-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/176366400\/f7902\/thumb-d3a748ddc9a959c5629ac4623dd5d604-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/176366400\/f7902\/thumb-d3a748ddc9a959c5629ac4623dd5d604-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/176366400\/f7902\/thumb-d3a748ddc9a959c5629ac4623dd5d604-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/176366400\/f7902\/thumb-d3a748ddc9a959c5629ac4623dd5d604-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/176366400\/f7902\/thumb-d3a748ddc9a959c5629ac4623dd5d604-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/176366400\/thumbnail\/image-thumbnail-256-d90c563d1e0121d466341b820a096565.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/176366400\/thumbnail\/image-thumbnail-480-ea18b46cf0730594f5e73b9f6c75e4fa.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/176366400\/thumbnail\/image-thumbnail-640-5bb7773a0863f57191f84aaf21dda461.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/176366400\/f7902\/thumb-d3a748ddc9a959c5629ac4623dd5d604-00001.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/176366400\/thumbnail\/image-thumbnail-640-5bb7773a0863f57191f84aaf21dda461.jpg",
+        "type": "mp4",
+        "assetId": 176366400,
+        "assetTitle": "Sneaker SALE",
+        "assetTitleTextEncoded": "sneaker-sale",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 176366400,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176366400\/f7902\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176366400\/f7902\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176366400\/f7902\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176366400\/f7902\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176366400\/f7902\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-02"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Adidas",
+    "tvp_enhanced_transcript": null
+}

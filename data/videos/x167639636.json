@@ -1,0 +1,97 @@
+{
+    "title": "Summer Dress Haul",
+    "description": "There aren't many things I love more than a pretty summer dress! Macy's really is the dress destination with so many options and styles to choose from at an affordable price. In these dresses I'm ready to take on any summer outing in style.\nSearch the below web id's on macys.com to go to the exact dresses:\n\nWeb Id\t6126990\nWeb Id\t6112411\nWeb Id\t6241480\nWeb Id\t6313157\nWeb Id\t6057970",
+    "referenceId": "5bd35fca1b7a365ec0a78af762cd6d06",
+    "date_created": "1532543462",
+    "date_modified": "1532545298",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "32",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213203",
+    "product_category": "women",
+    "id": "167639636",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "spinning-dress-video",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "55",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "55",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "55",
+        "prettyDuration": "00:00:55",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/167639636\/6c6f6\/thumb-5bd35fca1b7a365ec0a78af762cd6d06-00002.jpg",
+        "type": "mp4",
+        "assetId": "167639636",
+        "assetTitle": "Summer Dress Haul",
+        "assetTitleTextEncoded": "spinning-dress-video",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "167639636",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167639636\/6c6f6\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167639636\/6c6f6\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167639636\/6c6f6\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167639636\/6c6f6\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167639636\/6c6f6\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-08-09"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,97 @@
+{
+    "title": "The Perfect Basics",
+    "description": "",
+    "referenceId": "72fe322e8fc1905ca01b9206eb42e4aa",
+    "date_created": "1533940965",
+    "date_modified": "1533941139",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "40",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213341",
+    "product_category": "women",
+    "id": "170315230",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "e1ecec4d-7c6c-4a5e-9bab-5b85a2a203f8",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "4",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "4",
+            "width": 272,
+            "height": 480
+        },
+        "mediaDuration": "4",
+        "prettyDuration": "00:00:04",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/170315230\/fb831\/thumb-72fe322e8fc1905ca01b9206eb42e4aa-00002.jpg",
+        "type": "mp4",
+        "assetId": 170315230,
+        "assetTitle": "The perfect basics",
+        "assetTitleTextEncoded": "e1ecec4d-7c6c-4a5e-9bab-5b85a2a203f8",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 170315230,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170315230\/fb831\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 272,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170315230\/fb831\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 272,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170315230\/fb831\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 272,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170315230\/fb831\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 204,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170315230\/fb831\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 136,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-14"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

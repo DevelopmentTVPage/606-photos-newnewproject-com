@@ -1,0 +1,109 @@
+{
+    "title": "Semi Annual Sale on Fine Jewelry",
+    "description": "Looking for the perfect engagement ring for your loved one? Get it at Macy\u2019s with huge savings and highest quality of diamonds! ",
+    "referenceId": "eddff1398b37933b9bee6f02c0c01d86",
+    "date_created": "1533665588",
+    "date_modified": "1533665683",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "66",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213440",
+    "product_category": "jewelry",
+    "id": "169728357",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "99ff8fd9-83fc-465c-8571-2cc339189522",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "18",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "18",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "18",
+        "prettyDuration": "00:00:18",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/169728357\/thumbnail\/image-thumbnail-640-53ee79357e35d184eae082d86c626b80.jpg",
+        "type": "mp4",
+        "assetId": "169728357",
+        "assetTitle": "99FF8FD9-83FC-465C-8571-2CC339189522",
+        "assetTitleTextEncoded": "99ff8fd9-83fc-465c-8571-2cc339189522",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "169728357",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/169728357\/366c8\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/169728357\/366c8\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/169728357\/366c8\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/169728357\/366c8\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/169728357\/366c8\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/169728357\/366c8\/thumb-eddff1398b37933b9bee6f02c0c01d86-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/169728357\/user-images\/image-1280-5f31db5a2cdabc13c5248302e85adcb3.jpg",
+            "\/\/v.tvpage.com\/1759121\/169728357\/366c8\/thumb-eddff1398b37933b9bee6f02c0c01d86-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/169728357\/user-images\/image-1280-5f31db5a2cdabc13c5248302e85adcb3.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/169728357\/thumbnail\/image-thumbnail-256-1decf6b0f6e8cc057b5e694d4c65cacd.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/169728357\/thumbnail\/image-thumbnail-480-ac29644b12f24afdc5a5211aa8fe9404.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/169728357\/thumbnail\/image-thumbnail-640-53ee79357e35d184eae082d86c626b80.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/169728357\/thumbnail\/image-thumbnail-1280-cc03f17f3d7efa199a59934742dd3764.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-14"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Black Macy's Audrey",
+    "tvp_enhanced_transcript": null
+}

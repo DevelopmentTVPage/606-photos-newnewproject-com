@@ -1,0 +1,108 @@
+{
+    "title": "It's Bed Time!",
+    "description": "Night gowns, robes, pajamas...one piece or two, long sleeves or short...Macy's got it! Women's world, Missy, and Junior sizes.",
+    "referenceId": "f272846317f9754f686d58f1c6a2cdde",
+    "date_created": "1534290874",
+    "date_modified": "1534291286",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "10",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213453",
+    "product_category": "women",
+    "id": "170704290",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "photogrid-1534287844904",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "30",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "30",
+            "width": 720,
+            "height": 720
+        },
+        "mediaDuration": "30",
+        "prettyDuration": "00:00:30",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/170704290\/thumbnail\/image-thumbnail-640-3ecb841e371352c5398a7efe5bc36889.jpg",
+        "type": "mp4",
+        "assetId": 170704290,
+        "assetTitle": "It's Bed Time!",
+        "assetTitleTextEncoded": "photogrid-1534287844904",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 170704290,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170704290\/1f556\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170704290\/1f556\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170704290\/1f556\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170704290\/1f556\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170704290\/1f556\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/170704290\/1f556\/thumb-f272846317f9754f686d58f1c6a2cdde-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/170704290\/user-images\/image-720-350a12ddde78aa286dd80cdef88e7afe.jpg",
+            "\/\/v.tvpage.com\/1759121\/170704290\/1f556\/thumb-f272846317f9754f686d58f1c6a2cdde-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/170704290\/user-images\/image-720-350a12ddde78aa286dd80cdef88e7afe.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/170704290\/thumbnail\/image-thumbnail-256-045fdacba48d4fc5a80c0a1326ff097a.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/170704290\/thumbnail\/image-thumbnail-480-31514e22f74a849c74694d6d9b13c0be.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/170704290\/thumbnail\/image-thumbnail-640-3ecb841e371352c5398a7efe5bc36889.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

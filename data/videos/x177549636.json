@@ -1,0 +1,107 @@
+{
+    "title": "Racheal Zoe and Ms. Norvina",
+    "description": "All those fall trends",
+    "referenceId": "4b2ca65cd568603f8a563e27f9b22f96",
+    "date_created": "1536851700",
+    "date_modified": "1536871831",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213248",
+    "product_category": "jewelry",
+    "id": "177549636",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "ba8a44d7-d02a-4345-9520-c597066de0af",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "31",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "31",
+            "width": 568,
+            "height": 320
+        },
+        "mediaDuration": "31",
+        "prettyDuration": "00:00:31",
+        "automaticThumbnailsPattern": "1759121\/177549636\/c603a\/thumb-4b2ca65cd568603f8a563e27f9b22f96-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/177549636\/c603a\/thumb-4b2ca65cd568603f8a563e27f9b22f96-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/177549636\/c603a\/thumb-4b2ca65cd568603f8a563e27f9b22f96-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/177549636\/c603a\/thumb-4b2ca65cd568603f8a563e27f9b22f96-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/177549636\/c603a\/thumb-4b2ca65cd568603f8a563e27f9b22f96-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/177549636\/c603a\/thumb-4b2ca65cd568603f8a563e27f9b22f96-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/177549636\/c603a\/thumb-4b2ca65cd568603f8a563e27f9b22f96-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/177549636\/thumbnail\/image-thumbnail-256-d740da72fca0811e0a283fbcb78248f4.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/177549636\/thumbnail\/image-thumbnail-480-17e1017c94748fc7a0089096de5d1a22.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/177549636\/c603a\/thumb-4b2ca65cd568603f8a563e27f9b22f96-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/177549636\/thumbnail\/image-thumbnail-480-17e1017c94748fc7a0089096de5d1a22.jpg",
+        "type": "mp4",
+        "assetId": "177549636",
+        "assetTitle": "BA8A44D7-D02A-4345-9520-C597066DE0AF",
+        "assetTitleTextEncoded": "ba8a44d7-d02a-4345-9520-c597066de0af",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "177549636",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177549636\/c603a\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177549636\/c603a\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177549636\/c603a\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177549636\/c603a\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177549636\/c603a\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

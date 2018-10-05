@@ -1,0 +1,108 @@
+{
+    "title": "black friday in July",
+    "description": "kitchenaid",
+    "referenceId": "c1a3948636d7a91ccf4a93b180230c78",
+    "date_created": "1531416851",
+    "date_modified": "1531421158",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "16",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213260",
+    "product_category": "Select",
+    "id": "166813320",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "2018-7-12-12-16-56",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "45",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "45",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "45",
+        "prettyDuration": "00:00:45",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/166813320\/thumbnail\/image-thumbnail-480-2d2a696d9503f3da9bcbb262e035f33b.jpg",
+        "type": "mp4",
+        "assetId": "166813320",
+        "assetTitle": "2018-7-12-12-16-56",
+        "assetTitleTextEncoded": "2018-7-12-12-16-56",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "166813320",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/166813320\/f76e0\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/166813320\/f76e0\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/166813320\/f76e0\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/166813320\/f76e0\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/166813320\/f76e0\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/166813320\/f76e0\/thumb-c1a3948636d7a91ccf4a93b180230c78-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/166813320\/user-images\/image-446-bbe90fe4c0b6ca14a0ab92f5182f20b0.jpg",
+            "\/\/v.tvpage.com\/1759121\/166813320\/user-images\/image-608-21ac257ddff5381018e6bd35d91df355.jpg",
+            "\/\/v.tvpage.com\/1759121\/166813320\/f76e0\/thumb-c1a3948636d7a91ccf4a93b180230c78-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/166813320\/user-images\/image-608-21ac257ddff5381018e6bd35d91df355.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/166813320\/thumbnail\/image-thumbnail-256-884a0ea900c0e02f6d840f226d8fb686.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/166813320\/thumbnail\/image-thumbnail-480-2d2a696d9503f3da9bcbb262e035f33b.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-08-27"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Whirlpool Corporation",
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,110 @@
+{
+    "title": "Nike \u201cJust Do It\u201d  Hike",
+    "description": "It\u2019s a black \u201cJust do it\u201d men\u2019s graphic tee with a camouflage print underneath the wording (web ID: 5765409). The print in the shirt match the large Nike swoosh camouflage men\u2019s shorts (web ID: 5759401). The missy outfit is a black jogger with a large white strip on both legs from Nike (web ID:5326148). The top is a Nike sports bra with a perforated texture and a crossed strap detail (web ID: 5315637). #nike #justdoit #camouflage #blackandwhitetrend #jogger #sportsbra #graphictee #swoosh #shorts",
+    "referenceId": "7b912be4e603cfc10a1d39cc6fd35394",
+    "date_created": "1534171541",
+    "date_modified": "1534174946",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "420",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213381",
+    "product_category": null,
+    "id": "170632816",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "b9ee95c3-4625-4914-9104-5b401a84516b",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "55",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "55",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "55",
+        "prettyDuration": "00:00:55",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/170632816\/thumbnail\/image-thumbnail-640-e16371d57fdaf0449f1dc6513556eece.jpg",
+        "type": "mp4",
+        "assetId": 170632816,
+        "assetTitle": "Nike \u201cJust Do It\u201d  Hike",
+        "assetTitleTextEncoded": "b9ee95c3-4625-4914-9104-5b401a84516b",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 170632816,
+            "li": "1759121"
+        },
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170632816\/fc9cd\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170632816\/fc9cd\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170632816\/fc9cd\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170632816\/fc9cd\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170632816\/fc9cd\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ],
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/170632816\/user-images\/image-1920-e6e9ef5a2b9d949765ca3850a4ff4e67.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/170632816\/user-images\/image-1920-e6e9ef5a2b9d949765ca3850a4ff4e67.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/170632816\/thumbnail\/image-thumbnail-256-aa5527be96bbb16f5f92f4645d64a55e.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/170632816\/thumbnail\/image-thumbnail-480-4b237609801e5a65a67c47b45fb542ee.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/170632816\/thumbnail\/image-thumbnail-640-e16371d57fdaf0449f1dc6513556eece.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/170632816\/thumbnail\/image-thumbnail-1280-0a91f97ac1aecc2b3494b0227980fd11.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/170632816\/thumbnail\/image-thumbnail-1920-40bed1657ec79a47aaf27b3568572f49.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-02"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Audrey Macy's",
+    "tvp_enhanced_transcript": null
+}

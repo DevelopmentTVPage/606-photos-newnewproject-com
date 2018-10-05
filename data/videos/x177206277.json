@@ -1,0 +1,104 @@
+{
+    "title": "Noura's Skincare Ritual",
+    "description": "Sunday Night Skincare with Estee Lauder's Detox Mask.",
+    "referenceId": "442ec3fa42d405c6386f6acc5a86a099",
+    "date_created": "1536546232",
+    "date_modified": "1536546910",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213627",
+    "product_category": "beauty",
+    "id": "177206277",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "img-3596",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "1",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "1",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "1",
+        "prettyDuration": "00:00:01",
+        "automaticThumbnailsPattern": "1759121\/177206277\/092af\/thumb-442ec3fa42d405c6386f6acc5a86a099-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/177206277\/092af\/thumb-442ec3fa42d405c6386f6acc5a86a099-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/177206277\/thumbnail\/image-thumbnail-256-f63c7d9debbc966e53e2152732bddaf0.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/177206277\/thumbnail\/image-thumbnail-480-b7f54af40b5004c3bcf825d526a763f4.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/177206277\/092af\/thumb-442ec3fa42d405c6386f6acc5a86a099-00001.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/177206277\/thumbnail\/image-thumbnail-480-b7f54af40b5004c3bcf825d526a763f4.jpg",
+        "type": "mp4",
+        "assetId": "177206277",
+        "assetTitle": "IMG_3596",
+        "assetTitleTextEncoded": "img-3596",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "177206277",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177206277\/092af\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177206277\/092af\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177206277\/092af\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177206277\/092af\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177206277\/092af\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/177206277\/092af\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/177206277\/092af\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

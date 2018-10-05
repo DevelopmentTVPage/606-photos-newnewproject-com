@@ -1,0 +1,100 @@
+{
+    "title": "Ladies Short Sleeve and Sleeveless Shirts",
+    "description": "This has some short sleeve and sleeveless shirts.",
+    "referenceId": "c56a787e0ed709e4ddd22b203009775c",
+    "date_created": "1530801467",
+    "date_modified": "1530802111",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "10",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213180",
+    "product_category": "women",
+    "id": "165443081",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "7b40198e-791c-4b50-9373-76fb695086a1",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "72",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "72",
+            "width": 568,
+            "height": 320
+        },
+        "mediaDuration": "72",
+        "prettyDuration": "00:01:12",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/165443081\/8d61b\/thumb-c56a787e0ed709e4ddd22b203009775c-00002.jpg",
+        "type": "mp4",
+        "assetId": "165443081",
+        "assetTitle": "7B40198E-791C-4B50-9373-76FB695086A1",
+        "assetTitleTextEncoded": "7b40198e-791c-4b50-9373-76fb695086a1",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "165443081",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165443081\/8d61b\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165443081\/8d61b\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165443081\/8d61b\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165443081\/8d61b\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165443081\/8d61b\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-08-03"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-08-21"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

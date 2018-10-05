@@ -1,0 +1,117 @@
+{
+    "title": "BCBGeneration",
+    "description": "Look, BCBGeneration now available in stores! How exciting in that?! Comparing to BCBGMaxazria, BCBGeneration is known to be a bit more trendier, whereas BCBGMaxazria is more on the classier side. In celebrations of the opening of BCBGeneration in stores, receive 30% off! Click to shop now!\n\nFollow me on Instagram for more: @janie.hong",
+    "referenceId": "9b869ba81a82bf49a9acc7e63e86cab7",
+    "date_created": "1534535175",
+    "date_modified": "1534535695",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "42",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213220",
+    "product_category": "women",
+    "id": "171073078",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "bcbgeneration",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "55",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "55",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "55",
+        "prettyDuration": "00:00:55",
+        "automaticThumbnailsPattern": "1759121\/171073078\/76ac9\/thumb-9b869ba81a82bf49a9acc7e63e86cab7-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/171073078\/76ac9\/thumb-9b869ba81a82bf49a9acc7e63e86cab7-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/171073078\/76ac9\/thumb-9b869ba81a82bf49a9acc7e63e86cab7-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/171073078\/76ac9\/thumb-9b869ba81a82bf49a9acc7e63e86cab7-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/171073078\/76ac9\/thumb-9b869ba81a82bf49a9acc7e63e86cab7-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/171073078\/76ac9\/thumb-9b869ba81a82bf49a9acc7e63e86cab7-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/171073078\/76ac9\/thumb-9b869ba81a82bf49a9acc7e63e86cab7-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/171073078\/thumbnail\/image-thumbnail-256-ed57f41fe34ef14ee5ba1d118cb20cd3.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/171073078\/thumbnail\/image-thumbnail-480-c255feb27e041dd2a3fc7317e391b024.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/171073078\/thumbnail\/image-thumbnail-640-cabab66a9cd96ffeb7e7bcdef10bfcbb.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/171073078\/thumbnail\/image-thumbnail-1280-83703c2f10c4e7cad421a6b27b1167ce.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/171073078\/thumbnail\/image-thumbnail-1920-a5f7751c60400a2cded001e41fb88e73.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/171073078\/76ac9\/thumb-9b869ba81a82bf49a9acc7e63e86cab7-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/171073078\/thumbnail\/image-thumbnail-640-cabab66a9cd96ffeb7e7bcdef10bfcbb.jpg",
+        "type": "mp4",
+        "assetId": 171073078,
+        "assetTitle": "BCBGeneration",
+        "assetTitleTextEncoded": "bcbgeneration",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 171073078,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171073078\/76ac9\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171073078\/76ac9\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171073078\/76ac9\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171073078\/76ac9\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171073078\/76ac9\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-02"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-09-08"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

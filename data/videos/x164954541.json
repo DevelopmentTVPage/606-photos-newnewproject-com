@@ -1,0 +1,110 @@
+{
+    "title": "WithinUrMeans - Vera Bradley Swim Tote",
+    "description": "Hot days call for cool accessories. \nThis Vera Bradley Swim Tote is my new fav summer find!",
+    "referenceId": "32959aed788eac430298ce3a33216311",
+    "date_created": "1529434791",
+    "date_modified": "1529436890",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "15",
+    "engagement_score": "1",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213101",
+    "product_category": "handbags",
+    "id": "164954541",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "vera-bradley",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "16",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "16",
+            "width": 640,
+            "height": 360
+        },
+        "mediaDuration": "16",
+        "prettyDuration": "00:00:16",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164954541\/thumbnail\/image-thumbnail-640-7a7c9f8d9d22ea1328eb486078a27412.jpg",
+        "type": "mp4",
+        "assetId": 164954541,
+        "assetTitle": "WithinUrMeans - Vera Bradley Swim Tote",
+        "assetTitleTextEncoded": "vera-bradley",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 164954541,
+            "li": "1759121"
+        },
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/164954541\/d4640\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/164954541\/d4640\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164954541\/d4640\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164954541\/d4640\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164954541\/d4640\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164954541\/d4640\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164954541\/d4640\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/164954541\/d4640\/thumb-32959aed788eac430298ce3a33216311-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/164954541\/user-images\/image-640-0380701e87c4ef1dda1d370612783c95.jpg",
+            "\/\/v.tvpage.com\/1759121\/164954541\/d4640\/thumb-32959aed788eac430298ce3a33216311-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/164954541\/user-images\/image-640-0380701e87c4ef1dda1d370612783c95.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/164954541\/thumbnail\/image-thumbnail-256-4b0fb0d9daa92090104f2077c04c5af2.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/164954541\/thumbnail\/image-thumbnail-480-7a5279c3db64ed8059b7fc1624a60254.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/164954541\/thumbnail\/image-thumbnail-640-7a7c9f8d9d22ea1328eb486078a27412.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-07-28"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Led Presents",
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,115 @@
+{
+    "title": "Macy's Style Crew x Marie Claire Magazine!",
+    "description": "Had the pleasure of co- hosting the #MyStylist Fall Fashion Happy Hour on \"IT\" trends for AW18. Thanks Marie Claire & Macy's for an incredible night!! I CAN'T get enough of this video cover! Stay tuned, I'm going to share the collection I curated from Macy's IT List this week...there are studded bags, bright colors, one of a kind pieces, I don't want to spoil it, so keep watching!",
+    "referenceId": "84fabfb0f0ecc1e0a94db898ab1d9e30",
+    "date_created": "1536775620",
+    "date_modified": "1536871831",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "25",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213318",
+    "product_category": "women",
+    "id": "177471813",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "terrena-marieclairecover",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "12",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "12",
+            "width": 640,
+            "height": 800
+        },
+        "mediaDuration": "12",
+        "prettyDuration": "00:00:12",
+        "automaticThumbnailsPattern": "1759121\/177471813\/1d569\/thumb-84fabfb0f0ecc1e0a94db898ab1d9e30-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/177471813\/user-images\/image-1025-2222a7c9950ac12f80c9712b1ec281f3.jpg",
+            "\/\/v.tvpage.com\/1759121\/177471813\/user-images\/image-1020-d8973f8c34afba4fb9ab888b9f68a44f.jpg",
+            "\/\/v.tvpage.com\/1759121\/177471813\/user-images\/image-590-9810ba41aacf72dda48da3a2bc6d3c0a.jpg",
+            "\/\/v.tvpage.com\/1759121\/177471813\/1d569\/thumb-84fabfb0f0ecc1e0a94db898ab1d9e30-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/177471813\/1d569\/thumb-84fabfb0f0ecc1e0a94db898ab1d9e30-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/177471813\/1d569\/thumb-84fabfb0f0ecc1e0a94db898ab1d9e30-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/177471813\/1d569\/thumb-84fabfb0f0ecc1e0a94db898ab1d9e30-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/177471813\/1d569\/thumb-84fabfb0f0ecc1e0a94db898ab1d9e30-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/177471813\/1d569\/thumb-84fabfb0f0ecc1e0a94db898ab1d9e30-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/177471813\/thumbnail\/image-thumbnail-256-bcd3b666f3814ab6064e21e09e691377.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/177471813\/thumbnail\/image-thumbnail-480-273512784aeeadceb1421454b3873f1c.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/177471813\/thumbnail\/image-thumbnail-640-ef500df1f4c2ee7d9a171d66ffc61cd3.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/177471813\/user-images\/image-1025-2222a7c9950ac12f80c9712b1ec281f3.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/177471813\/thumbnail\/image-thumbnail-640-ef500df1f4c2ee7d9a171d66ffc61cd3.jpg",
+        "type": "mp4",
+        "assetId": 177471813,
+        "assetTitle": "MyStylist x Marie Claire Magazine!",
+        "assetTitleTextEncoded": "terrena-marieclairecover",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 177471813,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177471813\/1d569\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 800
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177471813\/1d569\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 576,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177471813\/1d569\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 384,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177471813\/1d569\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 288,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177471813\/1d569\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 192,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Marie Claire",
+    "tvp_enhanced_transcript": null
+}

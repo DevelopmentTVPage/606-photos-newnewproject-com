@@ -1,0 +1,115 @@
+{
+    "title": "Lancome Fall 2018 GWP",
+    "description": "Everything about Lancome is just goals and I would hands down recommend the entire line to you! If I really have to pick favorites, here they are! Now guess what?? It's free gift with any $37.50 Lancome purchase right now at Macy's! The more you spend, the more goodies you will get! Go go go!\n\nFollow me on Instagram for more: @janie.hong",
+    "referenceId": "bd232739b913e01655558f14e5983248",
+    "date_created": "1534211355",
+    "date_modified": "1534212462",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "46",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "2",
+    "video_type": null,
+    "user_id": "213220",
+    "product_category": "beauty",
+    "id": "170637122",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "lancome-fall-2018-gwp",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "74",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "74",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "74",
+        "prettyDuration": "00:01:14",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/170637122\/thumbnail\/image-thumbnail-640-a2d15605ceabbc8f3ab689fff2740a8d.jpg",
+        "type": "mp4",
+        "assetId": "170637122",
+        "assetTitle": "Lancome Fall 2018 GWP",
+        "assetTitleTextEncoded": "lancome-fall-2018-gwp",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "170637122",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170637122\/6d3b0\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170637122\/6d3b0\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170637122\/6d3b0\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170637122\/6d3b0\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170637122\/6d3b0\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/170637122\/6d3b0\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/170637122\/6d3b0\/media.m3u8",
+        "automaticThumbnailsPattern": "1759121\/170637122\/6d3b0\/thumb-bd232739b913e01655558f14e5983248-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/170637122\/user-images\/image-1920-3911646a45acbeb4bf567abcbaf454ec.jpg",
+            "\/\/v.tvpage.com\/1759121\/170637122\/6d3b0\/thumb-bd232739b913e01655558f14e5983248-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/170637122\/user-images\/image-1920-3911646a45acbeb4bf567abcbaf454ec.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/170637122\/thumbnail\/image-thumbnail-256-dc6bd1b3c6a78a2b7d9608bdfbb5ce33.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/170637122\/thumbnail\/image-thumbnail-480-a7b210d30a67337e2a38bdf18996e919.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/170637122\/thumbnail\/image-thumbnail-640-a2d15605ceabbc8f3ab689fff2740a8d.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/170637122\/thumbnail\/image-thumbnail-1280-5bec6ea3dfb71ce69913415a4b229e67.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/170637122\/thumbnail\/image-thumbnail-1920-a5a3bd43a5a04dab0460e371ecde8dc9.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-02"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-08-24"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Lancome",
+    "tvp_enhanced_transcript": null
+}

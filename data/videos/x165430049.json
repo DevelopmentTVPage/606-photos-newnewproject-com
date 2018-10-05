@@ -1,0 +1,97 @@
+{
+    "title": "Vacation Vibes",
+    "description": "Happy Fourth of July! How is everyone spending it so far? I'm definitely sending some \"VACATION VIBES\" your way! Another episode of vacation necessities for you!\n\nFollow me on Instagram for more: @janie.hong",
+    "referenceId": "328c268608878ae8fc97647b45cfcb65",
+    "date_created": "1530745881",
+    "date_modified": "1530747287",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "92",
+    "engagement_score": null,
+    "conversion_score": "1",
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213220",
+    "product_category": "women",
+    "id": "165430049",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "vacation-vibes",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "38",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "38",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "38",
+        "prettyDuration": "00:00:38",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/165430049\/eab03\/thumb-328c268608878ae8fc97647b45cfcb65-00002.jpg",
+        "type": "mp4",
+        "assetId": "165430049",
+        "assetTitle": "Vacation Vibes",
+        "assetTitleTextEncoded": "vacation-vibes",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "165430049",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165430049\/eab03\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165430049\/eab03\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165430049\/eab03\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165430049\/eab03\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165430049\/eab03\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-08-30"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

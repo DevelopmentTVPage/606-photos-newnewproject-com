@@ -1,0 +1,107 @@
+{
+    "title": "Suburban style Natalie off duty",
+    "description": "",
+    "referenceId": "f26467d3d22bfabb48657be6c3269110",
+    "date_created": "1536947476",
+    "date_modified": "1536947549",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "4",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213328",
+    "product_category": "women",
+    "id": "177660640",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "5e65e034-4f44-490a-9b13-b225099abc87",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "4",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "4",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "4",
+        "prettyDuration": "00:00:04",
+        "automaticThumbnailsPattern": "1759121\/177660640\/b8bce\/thumb-f26467d3d22bfabb48657be6c3269110-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/177660640\/b8bce\/thumb-f26467d3d22bfabb48657be6c3269110-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/177660640\/b8bce\/thumb-f26467d3d22bfabb48657be6c3269110-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/177660640\/thumbnail\/image-thumbnail-256-12570b857a2df360c96cc9a7a3c16c9f.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/177660640\/thumbnail\/image-thumbnail-480-73b0472b9370f5def05c2ff90bbc27c3.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/177660640\/b8bce\/thumb-f26467d3d22bfabb48657be6c3269110-00001.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/177660640\/thumbnail\/image-thumbnail-480-73b0472b9370f5def05c2ff90bbc27c3.jpg",
+        "type": "mp4",
+        "assetId": 177660640,
+        "assetTitle": "Suburban style Natalie off duty",
+        "assetTitleTextEncoded": "5e65e034-4f44-490a-9b13-b225099abc87",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 177660640,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177660640\/b8bce\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177660640\/b8bce\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177660640\/b8bce\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177660640\/b8bce\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177660640\/b8bce\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

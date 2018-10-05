@@ -1,0 +1,107 @@
+{
+    "title": "Macy\u2019s Style Crew Wacoal Awareness Gift with purchase while supplies last Or November 3, 2018",
+    "description": "Wacoal awareness bra gift with purchase while supplies last or November 3, 2018",
+    "referenceId": "22c4e215f9226e7da5ef9a98eebf78f0",
+    "date_created": "1537388226",
+    "date_modified": "1537388737",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213180",
+    "product_category": "women",
+    "id": "177970929",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "083484ab-4ad7-4fa1-81f4-70abe2f5a2f2",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "45",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "45",
+            "width": 568,
+            "height": 320
+        },
+        "mediaDuration": "45",
+        "prettyDuration": "00:00:45",
+        "automaticThumbnailsPattern": "1759121\/177970929\/c6191\/thumb-22c4e215f9226e7da5ef9a98eebf78f0-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/177970929\/c6191\/thumb-22c4e215f9226e7da5ef9a98eebf78f0-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/177970929\/c6191\/thumb-22c4e215f9226e7da5ef9a98eebf78f0-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/177970929\/c6191\/thumb-22c4e215f9226e7da5ef9a98eebf78f0-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/177970929\/c6191\/thumb-22c4e215f9226e7da5ef9a98eebf78f0-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/177970929\/c6191\/thumb-22c4e215f9226e7da5ef9a98eebf78f0-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/177970929\/c6191\/thumb-22c4e215f9226e7da5ef9a98eebf78f0-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/177970929\/thumbnail\/image-thumbnail-256-56b33f909a138aa7d5421b07586542e6.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/177970929\/thumbnail\/image-thumbnail-480-8a3d835baccc5938455b486cefd970e9.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/177970929\/c6191\/thumb-22c4e215f9226e7da5ef9a98eebf78f0-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/177970929\/thumbnail\/image-thumbnail-480-8a3d835baccc5938455b486cefd970e9.jpg",
+        "type": "mp4",
+        "assetId": "177970929",
+        "assetTitle": "083484AB-4AD7-4FA1-81F4-70ABE2F5A2F2",
+        "assetTitleTextEncoded": "083484ab-4ad7-4fa1-81f4-70abe2f5a2f2",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "177970929",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177970929\/c6191\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177970929\/c6191\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177970929\/c6191\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177970929\/c6191\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177970929\/c6191\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Grain",
+    "tvp_enhanced_transcript": null
+}

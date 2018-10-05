@@ -1,0 +1,97 @@
+{
+    "title": "Macy\u2019s Style Crew Children\u2019s Cardinals Apparel",
+    "description": "This video has some Children\u2019s Cardinals Apparel.",
+    "referenceId": "89ac9e568478ca240dfcf7cb32c7ac41",
+    "date_created": "1532888349",
+    "date_modified": "1532888722",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213180",
+    "product_category": "kids",
+    "id": "168198231",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "d5d3bba9-e214-46e2-96c0-86e510a88fbd",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "40",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "40",
+            "width": 568,
+            "height": 320
+        },
+        "mediaDuration": "40",
+        "prettyDuration": "00:00:40",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/168198231\/8b299\/thumb-89ac9e568478ca240dfcf7cb32c7ac41-00002.jpg",
+        "type": "mp4",
+        "assetId": "168198231",
+        "assetTitle": "D5D3BBA9-E214-46E2-96C0-86E510A88FBD",
+        "assetTitleTextEncoded": "d5d3bba9-e214-46e2-96c0-86e510a88fbd",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "168198231",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168198231\/8b299\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168198231\/8b299\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168198231\/8b299\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168198231\/8b299\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168198231\/8b299\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-08-03"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "2008 Major League Baseball All-Star Game St. Louis Cardinals Springfield Cardinals",
+    "tvp_enhanced_transcript": null
+}

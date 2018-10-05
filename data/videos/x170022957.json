@@ -1,0 +1,115 @@
+{
+    "title": "Mr_TJay Swim #FLY!",
+    "description": "Join me in Fitting room Looks for YOU: Swim edition.  Where I find the perfect combinations and save you some time.  Solid tanks are always a plus, team it with some printed trunks board shorts and you are off.  Mesh is a thing now I guess, so sauce it up with some contrasting trunks and beach bum here you come.  Then of course there is the button-up you can't lose.  Have fun and enjoy your summer and be sure to follow Mr_TJay!",
+    "referenceId": "4f2005bebe6757143c5e23c8e1010f01",
+    "date_created": "1533863247",
+    "date_modified": "1534002104",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "62",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "3",
+    "video_type": null,
+    "user_id": "213335",
+    "product_category": "men",
+    "id": "170022957",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "tjay-swim",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "86",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "86",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "86",
+        "prettyDuration": "00:01:26",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/170022957\/thumbnail\/image-thumbnail-640-c00e33ec83a5cd3f65970b90a5722ba3.jpg",
+        "type": "mp4",
+        "assetId": "170022957",
+        "assetTitle": "Mr_TJay Swim #FLY!",
+        "assetTitleTextEncoded": "tjay-swim",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "170022957",
+            "li": "1759121"
+        },
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/170022957\/b7833\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/170022957\/b7833\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170022957\/b7833\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170022957\/b7833\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170022957\/b7833\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170022957\/b7833\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170022957\/b7833\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/170022957\/b7833\/thumb-4f2005bebe6757143c5e23c8e1010f01-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/170022957\/user-images\/image-1920-603c7d4660422cef7c2f0b54296a6771.jpg",
+            "\/\/v.tvpage.com\/1759121\/170022957\/b7833\/thumb-4f2005bebe6757143c5e23c8e1010f01-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/170022957\/user-images\/image-1920-603c7d4660422cef7c2f0b54296a6771.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/170022957\/thumbnail\/image-thumbnail-256-d59cd4f18f2938c0a78b662e9efe5704.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/170022957\/thumbnail\/image-thumbnail-480-8587a4ea4d0be21f0b651e83f6b8e1a5.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/170022957\/thumbnail\/image-thumbnail-640-c00e33ec83a5cd3f65970b90a5722ba3.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/170022957\/thumbnail\/image-thumbnail-1280-6d6513509e84edf7a765a432e2eb932c.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/170022957\/thumbnail\/image-thumbnail-1920-f882e0b172a13b6ddb45c99012089796.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-08-30"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-08-12"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

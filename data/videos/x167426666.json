@@ -1,0 +1,88 @@
+{
+    "title": "Macy's Style Crew - MAC x Aaliyah",
+    "description": "",
+    "referenceId": "024f32c22252c123eefa8b271053dc54",
+    "date_created": "1532121259",
+    "date_modified": "1532121396",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "10",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213454",
+    "product_category": null,
+    "id": "167426666",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "macy-s-style-crew-mac-x-aaliyah",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "179",
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167426666\/ce0a7\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167426666\/ce0a7\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167426666\/ce0a7\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167426666\/ce0a7\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167426666\/ce0a7\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "videoMeta": {
+            "duration": "179",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "179",
+        "prettyDuration": "00:02:59",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/167426666\/ce0a7\/thumb-024f32c22252c123eefa8b271053dc54-00002.jpg",
+        "type": "mp4"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-14"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Depositphotos 3C's model Gpstrackit Detergent Immobilier Mac PRO Cosmetics Brooklyn Nets Film festival Brasileirissimos MAC Cosmetics Aaliyah",
+    "tvp_enhanced_transcript": null
+}

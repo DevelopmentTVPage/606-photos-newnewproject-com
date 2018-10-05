@@ -1,0 +1,103 @@
+{
+    "title": "Findremarkable",
+    "description": "",
+    "referenceId": "b661b4a44c838d65a1b1ccd845d5ee0d",
+    "date_created": "1537225237",
+    "date_modified": "1537225316",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213367",
+    "product_category": "women",
+    "id": "177860255",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "2018-9-13-66089-gif",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "3",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "3",
+            "width": 600,
+            "height": 400
+        },
+        "mediaDuration": "3",
+        "prettyDuration": "00:00:03",
+        "automaticThumbnailsPattern": "1759121\/177860255\/da493\/thumb-b661b4a44c838d65a1b1ccd845d5ee0d-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/177860255\/da493\/thumb-b661b4a44c838d65a1b1ccd845d5ee0d-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/177860255\/da493\/thumb-b661b4a44c838d65a1b1ccd845d5ee0d-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/177860255\/thumbnail\/image-thumbnail-256-19807f56145d4be3a7bcfe07e68f0f77.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/177860255\/thumbnail\/image-thumbnail-480-e5d2a64df902cf7ef384903e2d791ec2.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/177860255\/da493\/thumb-b661b4a44c838d65a1b1ccd845d5ee0d-00001.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/177860255\/thumbnail\/image-thumbnail-480-e5d2a64df902cf7ef384903e2d791ec2.jpg",
+        "type": "mp4",
+        "assetId": "177860255",
+        "assetTitle": "2018-9-13-66089.gif",
+        "assetTitleTextEncoded": "2018-9-13-66089-gif",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "177860255",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177860255\/da493\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 600,
+                "height": 400
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177860255\/da493\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 600,
+                "height": 400
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177860255\/da493\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 600,
+                "height": 400
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177860255\/da493\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 540,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177860255\/da493\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 214
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Macy's Backstage",
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,99 @@
+{
+    "title": "fiesta!",
+    "description": "Everything you need for your backyard fiesta!!\n#tropical #tacotuesday #pineapple #welcome #summer #fun #family #margarita #cervezas #guac #backyard \n#outdoor #living #sundress #maxi",
+    "referenceId": "29ed658788ef671368bc008d7dd33fb0",
+    "date_created": "1529413077",
+    "date_modified": "1529513795",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "15",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213111",
+    "product_category": "women",
+    "id": "164949247",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "fiesta-v2",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "73",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "73",
+            "width": 720,
+            "height": 720
+        },
+        "mediaDuration": "73",
+        "prettyDuration": "00:01:13",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164949247\/8bd12\/thumb-29ed658788ef671368bc008d7dd33fb0-00002.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "quality": "",
+        "assetId": 164949247,
+        "assetTitle": "fiesta!",
+        "assetTitleTextEncoded": "fiesta-v2",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 164949247,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164949247\/8bd12\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164949247\/8bd12\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164949247\/8bd12\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164949247\/8bd12\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164949247\/8bd12\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-08-24"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

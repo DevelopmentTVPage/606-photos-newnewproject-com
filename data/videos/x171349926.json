@@ -1,0 +1,121 @@
+{
+    "title": "@saystheart : Summer Sun #MacysStyleCrew",
+    "description": "Are you cherishing the last bit of Summer before Autumn arrives? \u2606IG: @CaydeeCat @SaystheArt",
+    "referenceId": "e76c3a77cd6bad13adbfe0576f80f1d3",
+    "date_created": "1534813341",
+    "date_modified": "1534904461",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "307",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213274",
+    "product_category": "juniors",
+    "id": "171349926",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "received-10213115719111010",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "21",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "21",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "21",
+        "prettyDuration": "00:00:21",
+        "automaticThumbnailsPattern": "1759121\/171349926\/028e2\/thumb-e76c3a77cd6bad13adbfe0576f80f1d3-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/171349926\/028e2\/thumb-e76c3a77cd6bad13adbfe0576f80f1d3-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/171349926\/028e2\/thumb-e76c3a77cd6bad13adbfe0576f80f1d3-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/171349926\/028e2\/thumb-e76c3a77cd6bad13adbfe0576f80f1d3-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/171349926\/028e2\/thumb-e76c3a77cd6bad13adbfe0576f80f1d3-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/171349926\/028e2\/thumb-e76c3a77cd6bad13adbfe0576f80f1d3-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/171349926\/028e2\/thumb-e76c3a77cd6bad13adbfe0576f80f1d3-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/171349926\/thumbnail\/image-thumbnail-256-c3d5466757eaa5cc9744e9c34e3bc5e9.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/171349926\/thumbnail\/image-thumbnail-480-4538668336a3dcb46fdba2674d6af8b9.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/171349926\/thumbnail\/image-thumbnail-640-686472095ade77dabc72a419ee27e3d8.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/171349926\/thumbnail\/image-thumbnail-1280-14a5d0264c938bf944f09c636e276f53.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/171349926\/thumbnail\/image-thumbnail-1920-cfb7afbeeedf5ac7b907e102312afd68.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/171349926\/028e2\/thumb-e76c3a77cd6bad13adbfe0576f80f1d3-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/171349926\/thumbnail\/image-thumbnail-640-686472095ade77dabc72a419ee27e3d8.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/171349926\/028e2\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/171349926\/028e2\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "assetId": "171349926",
+        "assetTitle": "@saystheart : Summer Sun #MacysStyleCrew",
+        "assetTitleTextEncoded": "received-10213115719111010",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "171349926",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171349926\/028e2\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171349926\/028e2\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171349926\/028e2\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171349926\/028e2\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171349926\/028e2\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-02"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-09-02"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,97 @@
+{
+    "title": "Jacqueline Palmer\/Street Fashion",
+    "description": "Be inspired by the world around! You can find beauty everywhere\u2764\ufe0fI love freestyle fashion! #rachelrachelroy #freepeople #streetart #greece #fashion #style #macysstylecrew #macysstylecrewjacqueline #greece #athens #art",
+    "referenceId": "ea8018180f9b53634619580ad2c494c8",
+    "date_created": "1529955957",
+    "date_modified": "1529956301",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "43",
+    "engagement_score": "2",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213201",
+    "product_category": "women",
+    "id": "165031009",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "1d60e3b7-13eb-4940-8c07-3c88e91ad514",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "49",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "49",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "49",
+        "prettyDuration": "00:00:49",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/165031009\/70ef8\/thumb-ea8018180f9b53634619580ad2c494c8-00002.jpg",
+        "type": "mp4",
+        "assetId": "165031009",
+        "assetTitle": "1D60E3B7-13EB-4940-8C07-3C88E91AD514",
+        "assetTitleTextEncoded": "1d60e3b7-13eb-4940-8c07-3c88e91ad514",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "165031009",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165031009\/70ef8\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165031009\/70ef8\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165031009\/70ef8\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165031009\/70ef8\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165031009\/70ef8\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

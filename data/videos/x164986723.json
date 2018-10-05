@@ -1,0 +1,112 @@
+{
+    "title": "Michael Kors",
+    "description": "Macy's hosting their own Runway at store 504 for Micheal Kors Fashion wearing Michael kors Striped Knit Mini dress,Michael kors Blouson-Sleeve Shimmer Sweatshirt,Michael kors Ruffle-Sleeve Shimmer Top,Michael kors Metallic Midi Dress,Michael kors Selma Skinny Jeans,Michael kors Miranda Stretch Slim-Leg Pants in Regular & Petite Sizes,Michael kors Mindy Lace- Up Sneakers,Michael kors Keaton Slip-On Logo Sneakers,Michael kors Berkeley T-Strap Platform Dress Sandals and Michael kors Sloan Medium Top-Handle Satchel.",
+    "referenceId": "f3ecbfd90933980462b03358b3d2542b",
+    "date_created": "1529467826",
+    "date_modified": "1529540267",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "10",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213283",
+    "product_category": "women",
+    "id": "164986723",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "aab13ecf-d43c-403a-bd2d-68ae42a61b99",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "54",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "54",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "54",
+        "prettyDuration": "00:00:54",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164986723\/thumbnail\/image-thumbnail-640-9abd8c0d8788c8c78ec4e7fac10108f4.jpg",
+        "type": "mp4",
+        "assetId": "164986723",
+        "assetTitle": "Michael Kors",
+        "assetTitleTextEncoded": "aab13ecf-d43c-403a-bd2d-68ae42a61b99",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164986723",
+            "li": "1759121"
+        },
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/164986723\/40cc6\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/164986723\/40cc6\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164986723\/40cc6\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164986723\/40cc6\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164986723\/40cc6\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164986723\/40cc6\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164986723\/40cc6\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/164986723\/user-images\/image-1920-3cea9c18d69a4591f5faa98073afc45f.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/164986723\/user-images\/image-1920-3cea9c18d69a4591f5faa98073afc45f.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/164986723\/thumbnail\/image-thumbnail-256-ba9a776611cc208540023dab53696fa8.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/164986723\/thumbnail\/image-thumbnail-480-0a2ce372c8e4052dbbb0159490907cc5.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/164986723\/thumbnail\/image-thumbnail-640-9abd8c0d8788c8c78ec4e7fac10108f4.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/164986723\/thumbnail\/image-thumbnail-1280-64b6155d8b05336741cd5696b8899525.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/164986723\/thumbnail\/image-thumbnail-1920-02476e365f61ba465b65af7862992a82.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-11"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

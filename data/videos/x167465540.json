@@ -1,0 +1,97 @@
+{
+    "title": "Rachel Roy ~ WEB ID 6615299 ~ Sun Dress with a twist!",
+    "description": "It\u2019s Sun Dress Season and Rachel Roy does it right with Menswear stripes, deep pockets and adjustable straps! Made of cotton\/linen in a great A-line cut for the perfect fit and flare fit!",
+    "referenceId": "a01c424154bdb19daff6fcd491dc8894",
+    "date_created": "1532336113",
+    "date_modified": "1532337880",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "27",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213194",
+    "product_category": "women",
+    "id": "167465540",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "a0c6341c-76ee-428a-9b6e-66adf5ba776a",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "43",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "43",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "43",
+        "prettyDuration": "00:00:43",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/167465540\/b5f41\/thumb-a01c424154bdb19daff6fcd491dc8894-00002.jpg",
+        "type": "mp4",
+        "assetId": "167465540",
+        "assetTitle": "Rachel Roy ~ WEB ID 6615299 ~ Sun Dress with a twist!",
+        "assetTitleTextEncoded": "a0c6341c-76ee-428a-9b6e-66adf5ba776a",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "167465540",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167465540\/b5f41\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167465540\/b5f41\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167465540\/b5f41\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167465540\/b5f41\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167465540\/b5f41\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-08"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Presbyterian Healthcare Services",
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,93 @@
+{
+    "title": "American Rag Split-Leg Jumpsuit",
+    "description": "From the American Rag Collection, this is a flowy Split-Leg Jumpsuit with a great white embroidery down the front and legs to give it that bohemian flavor. You can find this online WEB ID 5900442.\n\nA few other recommendations are located below! All great looks!",
+    "referenceId": "93d7c073dc5d70e7feefc0165da57e68",
+    "date_created": "1530254020",
+    "date_modified": "1530256370",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "17",
+    "engagement_score": "1",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213194",
+    "product_category": "women",
+    "id": "165328987",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "537cac6f-5e47-44d8-b98b-2ab008d17a14",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "18",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "18",
+            "width": 480,
+            "height": 480
+        },
+        "mediaDuration": "18",
+        "prettyDuration": "00:00:18",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/165328987\/cafa3\/thumb-93d7c073dc5d70e7feefc0165da57e68-00002.jpg",
+        "type": "mp4",
+        "assetId": 165328987,
+        "assetTitle": "American Rag Split-Leg Jumpsuit",
+        "assetTitleTextEncoded": "537cac6f-5e47-44d8-b98b-2ab008d17a14",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 165328987,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165328987\/cafa3\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165328987\/cafa3\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165328987\/cafa3\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165328987\/cafa3\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165328987\/cafa3\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-07-25\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

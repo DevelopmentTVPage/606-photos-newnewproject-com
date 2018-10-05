@@ -1,0 +1,93 @@
+{
+    "title": "Setting Powder & Waterproof Mascara",
+    "description": "I've been struggling with finding a mascara that doesn't smudge...turns out I just needed a good setting powder.  I am in LOVE with this Nars Light Reflecting Powder.  It's so silky and smooth and actually makes my eyes look less tired.  What?!  IKR! \nI'm also a believer in waterproof mascara for these really hot & humid days we've been having and my fav is Lancome's Monsieur Big.",
+    "referenceId": "cb14914fb683bf39f17bffb503867eed",
+    "date_created": "1530624996",
+    "date_modified": "1530625334",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "10",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213110",
+    "product_category": "beauty",
+    "id": "165396204",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "beauty-post-nars-and-waterproof-mascara",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "16",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "16",
+            "width": 720,
+            "height": 720
+        },
+        "mediaDuration": "16",
+        "prettyDuration": "00:00:16",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/165396204\/25fa5\/thumb-cb14914fb683bf39f17bffb503867eed-00002.jpg",
+        "type": "mp4",
+        "assetId": 165396204,
+        "assetTitle": "Setting Powder & Waterproof Mascara",
+        "assetTitleTextEncoded": "beauty-post-nars-and-waterproof-mascara",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 165396204,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165396204\/25fa5\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165396204\/25fa5\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165396204\/25fa5\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165396204\/25fa5\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165396204\/25fa5\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-07-25\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "NARS Cosmetics",
+    "tvp_enhanced_transcript": null
+}

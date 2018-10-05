@@ -1,0 +1,112 @@
+{
+    "title": "Martha Stewart Whim Spirit Animal Collection",
+    "description": "Need some whimsy on this Friyay?! #MarthaStewart #Whim #SpiritAnimal #HomeBodies #MacysStyleCrew #MacysStyleCrewSouchitta @macysvisual41",
+    "referenceId": "3a9e3f50f16829759adb5188d01e5a8a",
+    "date_created": "1536949005",
+    "date_modified": "1536949212",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "26",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213334",
+    "product_category": "bed_bath",
+    "id": "177660693",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "vid-249241206-132056-287",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "28",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "28",
+            "width": 720,
+            "height": 720
+        },
+        "mediaDuration": "28",
+        "prettyDuration": "00:00:28",
+        "automaticThumbnailsPattern": "1759121\/177660693\/0ca00\/thumb-3a9e3f50f16829759adb5188d01e5a8a-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/177660693\/0ca00\/thumb-3a9e3f50f16829759adb5188d01e5a8a-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/177660693\/0ca00\/thumb-3a9e3f50f16829759adb5188d01e5a8a-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/177660693\/0ca00\/thumb-3a9e3f50f16829759adb5188d01e5a8a-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/177660693\/0ca00\/thumb-3a9e3f50f16829759adb5188d01e5a8a-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/177660693\/0ca00\/thumb-3a9e3f50f16829759adb5188d01e5a8a-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/177660693\/0ca00\/thumb-3a9e3f50f16829759adb5188d01e5a8a-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/177660693\/thumbnail\/image-thumbnail-256-02458bc6015dfce502aff63c3cf596ee.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/177660693\/thumbnail\/image-thumbnail-480-aaec66f1d15f219748dcc81c6ec91403.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/177660693\/thumbnail\/image-thumbnail-640-bf57e9b47dd238c9c1ede4810831f322.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/177660693\/0ca00\/thumb-3a9e3f50f16829759adb5188d01e5a8a-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/177660693\/thumbnail\/image-thumbnail-640-bf57e9b47dd238c9c1ede4810831f322.jpg",
+        "type": "mp4",
+        "assetId": 177660693,
+        "assetTitle": "Martha Stewart Whim Spirit Animal Collection",
+        "assetTitleTextEncoded": "vid-249241206-132056-287",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 177660693,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177660693\/0ca00\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177660693\/0ca00\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177660693\/0ca00\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177660693\/0ca00\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177660693\/0ca00\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

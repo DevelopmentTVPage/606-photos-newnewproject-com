@@ -1,0 +1,21 @@
+{
+    "id": "213291",
+    "first_name": "Teresa",
+    "last_name": "Doctor",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/853151846-0.7691040209494.jpg",
+        "job_title": "My Stylist and Corporate Sales Executive"
+    },
+    "last_login_timestamp": "1535997060",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-06 20:54:18",
+    "login_id": "1759121",
+    "user_id": "213291",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Teresa Doctor",
+    "profile_picture": "\/api\/canvas\/logo\/853151846-0.7691040209494.jpg",
+    "titleTextEncoded": "teresa-doctor",
+    "title": "Teresa Doctor",
+    "videos_count": "1"
+}

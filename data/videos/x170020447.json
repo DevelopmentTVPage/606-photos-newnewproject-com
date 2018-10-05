@@ -1,0 +1,107 @@
+{
+    "title": "Diamonds are forever",
+    "description": "Macy's star signature diamonds",
+    "referenceId": "5fc19f81cd8fa0c18b132d3c757a8820",
+    "date_created": "1533846759",
+    "date_modified": "1533847410",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "8",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213202",
+    "product_category": "jewelry",
+    "id": "170020447",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "20180809-161858",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "141",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "141",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "141",
+        "prettyDuration": "00:02:21",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/170020447\/thumbnail\/image-thumbnail-480-c5501ce501f81022179704be0325d61d.jpg",
+        "type": "mp4",
+        "assetId": 170020447,
+        "assetTitle": "Diamonds are forever",
+        "assetTitleTextEncoded": "20180809-161858",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 170020447,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170020447\/49d5d\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170020447\/49d5d\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170020447\/49d5d\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170020447\/49d5d\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170020447\/49d5d\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/170020447\/49d5d\/thumb-5fc19f81cd8fa0c18b132d3c757a8820-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/170020447\/user-images\/image-608-5795a09dd07990c4204ffc0889472a3d.jpg",
+            "\/\/v.tvpage.com\/1759121\/170020447\/49d5d\/thumb-5fc19f81cd8fa0c18b132d3c757a8820-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/170020447\/user-images\/image-608-5795a09dd07990c4204ffc0889472a3d.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/170020447\/thumbnail\/image-thumbnail-256-7d0038ddfd18828751b665f3e3326bc3.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/170020447\/thumbnail\/image-thumbnail-480-c5501ce501f81022179704be0325d61d.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-11"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

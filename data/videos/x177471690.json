@@ -1,0 +1,107 @@
+{
+    "title": "Hearst @ Macy\u2019s HSQ",
+    "description": "",
+    "referenceId": "93a984dc308a927c421b0642e3b0ad2e",
+    "date_created": "1536758308",
+    "date_modified": "1536871831",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213228",
+    "product_category": "women",
+    "id": "177471690",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "2ead0cf0-47d0-425f-84f1-44024e6aab6e",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "34",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "34",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "34",
+        "prettyDuration": "00:00:34",
+        "automaticThumbnailsPattern": "1759121\/177471690\/c358c\/thumb-93a984dc308a927c421b0642e3b0ad2e-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/177471690\/c358c\/thumb-93a984dc308a927c421b0642e3b0ad2e-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/177471690\/c358c\/thumb-93a984dc308a927c421b0642e3b0ad2e-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/177471690\/c358c\/thumb-93a984dc308a927c421b0642e3b0ad2e-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/177471690\/c358c\/thumb-93a984dc308a927c421b0642e3b0ad2e-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/177471690\/c358c\/thumb-93a984dc308a927c421b0642e3b0ad2e-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/177471690\/c358c\/thumb-93a984dc308a927c421b0642e3b0ad2e-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/177471690\/thumbnail\/image-thumbnail-256-5ce1760dadfc69c50685b9fc7bc27f33.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/177471690\/thumbnail\/image-thumbnail-480-6c9482e22054d35d17f41af6438ce20c.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/177471690\/c358c\/thumb-93a984dc308a927c421b0642e3b0ad2e-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/177471690\/thumbnail\/image-thumbnail-480-6c9482e22054d35d17f41af6438ce20c.jpg",
+        "type": "mp4",
+        "assetId": "177471690",
+        "assetTitle": "2EAD0CF0-47D0-425F-84F1-44024E6AAB6E",
+        "assetTitleTextEncoded": "2ead0cf0-47d0-425f-84f1-44024e6aab6e",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "177471690",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177471690\/c358c\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177471690\/c358c\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177471690\/c358c\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177471690\/c358c\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177471690\/c358c\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,110 @@
+{
+    "title": "Calvin Klein Bathing Suits 7\/2018",
+    "description": "Before the Summer ends, get your Calvin Klein bathing suits ladies! Beautiful colors, variety of styles, & vibrant colors! Now 25-40% Off!",
+    "referenceId": "e2e7efcfc84b58d07a2c37bee073a93b",
+    "date_created": "1533175231",
+    "date_modified": "1533175878",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "4",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213453",
+    "product_category": "women",
+    "id": "168682829",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "photogrid-1533173481644",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "30",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "30",
+            "width": 720,
+            "height": 720
+        },
+        "mediaDuration": "30",
+        "prettyDuration": "00:00:30",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/168682829\/thumbnail\/image-thumbnail-640-580f637d99120d4b579c7bf528fb84e4.jpg",
+        "type": "mp4",
+        "assetId": "168682829",
+        "assetTitle": "PhotoGrid_1533173481644",
+        "assetTitleTextEncoded": "photogrid-1533173481644",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "168682829",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168682829\/dbe0e\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168682829\/dbe0e\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168682829\/dbe0e\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168682829\/dbe0e\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168682829\/dbe0e\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/168682829\/dbe0e\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/168682829\/dbe0e\/media.m3u8",
+        "automaticThumbnailsPattern": "1759121\/168682829\/dbe0e\/thumb-e2e7efcfc84b58d07a2c37bee073a93b-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/168682829\/user-images\/image-720-710aebbebe363f2af238e9d568a1f8fc.jpg",
+            "\/\/v.tvpage.com\/1759121\/168682829\/dbe0e\/thumb-e2e7efcfc84b58d07a2c37bee073a93b-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/168682829\/user-images\/image-720-710aebbebe363f2af238e9d568a1f8fc.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/168682829\/thumbnail\/image-thumbnail-256-f2b34f1a886ea6257f0971d391360e49.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/168682829\/thumbnail\/image-thumbnail-480-e5460b9d2ebf7b8ad96c77cbf887b2f9.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/168682829\/thumbnail\/image-thumbnail-640-580f637d99120d4b579c7bf528fb84e4.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-02"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

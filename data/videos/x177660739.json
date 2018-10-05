@@ -1,0 +1,111 @@
+{
+    "title": "The It List - Starry Eyed",
+    "description": "One of my favorite It List Looks featuring the Starry Eyed look. My amazing artist, Tiffany at Macy\u2019s Westfield Plaza in California, really blew my mind and I love how she included my signature red lip with this look! I\u2019m definitely obsessed!",
+    "referenceId": "0014d2a1d1b96f1865ee498d3716a54a",
+    "date_created": "1536956796",
+    "date_modified": "1536957029",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "5",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213205",
+    "product_category": "beauty",
+    "id": "177660739",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "16b4f31f-8fb6-4761-a328-7f7dc5dc6022",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "32",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "32",
+            "width": 480,
+            "height": 480
+        },
+        "mediaDuration": "32",
+        "prettyDuration": "00:00:32",
+        "automaticThumbnailsPattern": "1759121\/177660739\/11c6b\/thumb-0014d2a1d1b96f1865ee498d3716a54a-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/177660739\/11c6b\/thumb-0014d2a1d1b96f1865ee498d3716a54a-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/177660739\/11c6b\/thumb-0014d2a1d1b96f1865ee498d3716a54a-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/177660739\/11c6b\/thumb-0014d2a1d1b96f1865ee498d3716a54a-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/177660739\/11c6b\/thumb-0014d2a1d1b96f1865ee498d3716a54a-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/177660739\/11c6b\/thumb-0014d2a1d1b96f1865ee498d3716a54a-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/177660739\/11c6b\/thumb-0014d2a1d1b96f1865ee498d3716a54a-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/177660739\/thumbnail\/image-thumbnail-256-7c32b678b42377742050b43030c92ead.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/177660739\/thumbnail\/image-thumbnail-480-94321cc5805f02b0ee391a93382415fc.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/177660739\/11c6b\/thumb-0014d2a1d1b96f1865ee498d3716a54a-00006.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/177660739\/thumbnail\/image-thumbnail-480-94321cc5805f02b0ee391a93382415fc.jpg",
+        "type": "mp4",
+        "assetId": 177660739,
+        "assetTitle": "The It List - Starry Eyes",
+        "assetTitleTextEncoded": "16b4f31f-8fb6-4761-a328-7f7dc5dc6022",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 177660739,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177660739\/11c6b\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177660739\/11c6b\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177660739\/11c6b\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177660739\/11c6b\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177660739\/11c6b\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

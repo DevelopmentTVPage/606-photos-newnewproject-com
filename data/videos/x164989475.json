@@ -1,0 +1,86 @@
+{
+    "title": "National Sunglasses Day!",
+    "description": "National Sunglasses Day, and it's my birthday!",
+    "referenceId": "e6a5fd5af42a7c2b45971fb187a3e292",
+    "date_created": "1529547677",
+    "date_modified": "1529597462",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "10",
+    "engagement_score": "3",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213411",
+    "product_category": null,
+    "id": "164989475",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "20180620-175928",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "44",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "44",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "44",
+        "prettyDuration": "00:00:44",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164989475\/f2b50\/thumb-e6a5fd5af42a7c2b45971fb187a3e292-00002.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164989475\/f2b50\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164989475\/f2b50\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164989475\/f2b50\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164989475\/f2b50\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164989475\/f2b50\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-07-25\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

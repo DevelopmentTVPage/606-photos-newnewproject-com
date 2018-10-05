@@ -1,0 +1,97 @@
+{
+    "title": "DKNY + ADIDAS",
+    "description": "Look sexy & cool pairing this DKNY bodysuit with the new ADIDAS leggings!",
+    "referenceId": "8bfdcef9445e6875a3e83c9483e4754a",
+    "date_created": "1529415372",
+    "date_modified": "1529415504",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "336",
+    "engagement_score": "12",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213440",
+    "product_category": "active",
+    "id": "164949321",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "b34af475-ea95-4883-b695-d4ef526ea7be",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "60",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "60",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "60",
+        "prettyDuration": "00:01:00",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164949321\/6610f\/thumb-8bfdcef9445e6875a3e83c9483e4754a-00002.jpg",
+        "type": "mp4",
+        "assetId": "164949321",
+        "assetTitle": "B34AF475-EA95-4883-B695-D4EF526EA7BE",
+        "assetTitleTextEncoded": "b34af475-ea95-4883-b695-d4ef526ea7be",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164949321",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164949321\/6610f\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164949321\/6610f\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164949321\/6610f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164949321\/6610f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164949321\/6610f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-14"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Macy's Audrey",
+    "tvp_enhanced_transcript": null
+}

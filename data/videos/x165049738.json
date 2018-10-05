@@ -1,0 +1,93 @@
+{
+    "title": "Summer Dresses",
+    "description": "This video has some dresses that could be worn as a guest to a wedding or other special event.",
+    "referenceId": "7e1cc36cfac353722180a3bc968e4ec5",
+    "date_created": "1530044773",
+    "date_modified": "1530044892",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "36",
+    "engagement_score": "3",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213180",
+    "product_category": "women",
+    "id": "165049738",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "313fbc9c-6539-47bb-b7e9-ff377f89b07a",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "98",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "98",
+            "width": 568,
+            "height": 320
+        },
+        "mediaDuration": "98",
+        "prettyDuration": "00:01:38",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/165049738\/ab45c\/thumb-7e1cc36cfac353722180a3bc968e4ec5-00002.jpg",
+        "type": "mp4",
+        "assetId": "165049738",
+        "assetTitle": "313FBC9C-6539-47BB-B7E9-FF377F89B07A",
+        "assetTitleTextEncoded": "313fbc9c-6539-47bb-b7e9-ff377f89b07a",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "165049738",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165049738\/ab45c\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165049738\/ab45c\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165049738\/ab45c\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165049738\/ab45c\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165049738\/ab45c\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-07-25\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

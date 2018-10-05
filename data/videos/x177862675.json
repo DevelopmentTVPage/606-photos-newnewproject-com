@@ -1,0 +1,108 @@
+{
+    "title": "Finding the Remarkable You",
+    "description": "As a member of the Macy's Style Crew, I was given the opportunity to attend an event in collaboration with Macy's and Hearst Publications revolving around current fall fashion trends. For the same chance to hear from an amazing panel and learn about our new season's \"IT List,\" make sure you check out your local Macy's store!",
+    "referenceId": "6e7cfda817b7ff88fbf429801bbc9630",
+    "date_created": "1537236746",
+    "date_modified": "1537417913",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213313",
+    "product_category": "women",
+    "id": "177862675",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "img-6623",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "12",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "12",
+            "width": 640,
+            "height": 800
+        },
+        "mediaDuration": "12",
+        "prettyDuration": "00:00:12",
+        "automaticThumbnailsPattern": "1759121\/177862675\/a0efa\/thumb-6e7cfda817b7ff88fbf429801bbc9630-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/177862675\/a0efa\/thumb-6e7cfda817b7ff88fbf429801bbc9630-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/177862675\/a0efa\/thumb-6e7cfda817b7ff88fbf429801bbc9630-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/177862675\/a0efa\/thumb-6e7cfda817b7ff88fbf429801bbc9630-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/177862675\/a0efa\/thumb-6e7cfda817b7ff88fbf429801bbc9630-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/177862675\/a0efa\/thumb-6e7cfda817b7ff88fbf429801bbc9630-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/177862675\/a0efa\/thumb-6e7cfda817b7ff88fbf429801bbc9630-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/177862675\/thumbnail\/image-thumbnail-256-938836c149a08fc3762c0d585107edaa.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/177862675\/thumbnail\/image-thumbnail-480-ab6aa8b27e99056bd8d1198270c7cf19.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/177862675\/thumbnail\/image-thumbnail-640-fa40d692e35546f890f78228a32e4110.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/177862675\/a0efa\/thumb-6e7cfda817b7ff88fbf429801bbc9630-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/177862675\/thumbnail\/image-thumbnail-640-fa40d692e35546f890f78228a32e4110.jpg",
+        "type": "mp4",
+        "assetId": "177862675",
+        "assetTitle": "Finding the Remarkable You",
+        "assetTitleTextEncoded": "img-6623",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "177862675",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177862675\/a0efa\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 800
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177862675\/a0efa\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 576,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177862675\/a0efa\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 384,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177862675\/a0efa\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 288,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177862675\/a0efa\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 192,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Beatbox Elle Bags",
+    "tvp_enhanced_transcript": null
+}

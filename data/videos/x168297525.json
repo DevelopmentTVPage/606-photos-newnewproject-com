@@ -1,0 +1,110 @@
+{
+    "title": "A Vacation from Macy's",
+    "description": "FunnyBread takes a vacation from being an ambassador for Macy's...or at least he tries to.",
+    "referenceId": "6d6685d8802ee8b7f5da4a9abbbe94c8",
+    "date_created": "1532917446",
+    "date_modified": "1532919441",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "30",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213121",
+    "product_category": "kids",
+    "id": "168297525",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "a-vacation-from-macy-s",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "73",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "73",
+            "width": 854,
+            "height": 480
+        },
+        "mediaDuration": "73",
+        "prettyDuration": "00:01:13",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/168297525\/thumbnail\/image-thumbnail-640-12b3cf1f01c703040ca14995bc9667af.jpg",
+        "type": "mp4",
+        "assetId": "168297525",
+        "assetTitle": "A Vacation from Macy's",
+        "assetTitleTextEncoded": "a-vacation-from-macy-s",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "168297525",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168297525\/fcf97\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168297525\/fcf97\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168297525\/fcf97\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168297525\/fcf97\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168297525\/fcf97\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/168297525\/fcf97\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/168297525\/fcf97\/media.m3u8",
+        "automaticThumbnailsPattern": "1759121\/168297525\/fcf97\/thumb-6d6685d8802ee8b7f5da4a9abbbe94c8-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/168297525\/user-images\/image-853-52d261c7e45db8271b56e0e98cadccbf.jpg",
+            "\/\/v.tvpage.com\/1759121\/168297525\/fcf97\/thumb-6d6685d8802ee8b7f5da4a9abbbe94c8-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/168297525\/user-images\/image-853-52d261c7e45db8271b56e0e98cadccbf.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/168297525\/thumbnail\/image-thumbnail-256-59d231be4818e6a8a340dfa4475df1b5.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/168297525\/thumbnail\/image-thumbnail-480-ff71ad6569d8a0164cc2f8067b6dfed6.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/168297525\/thumbnail\/image-thumbnail-640-12b3cf1f01c703040ca14995bc9667af.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-08-18"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "App Store",
+    "tvp_enhanced_transcript": null
+}

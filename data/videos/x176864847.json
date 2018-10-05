@@ -1,0 +1,111 @@
+{
+    "title": "\u201cJust Do It\u201d ANDREA WARNER Macy\u2019s Style Crew",
+    "description": "Nike an iconic silhouette gets a stunning new look in this vivid version of Nike's classic Windrunner. The cropped jacket is in lightweight taffeta for just the right amount of coverage. \"Just Do it\" in all the these iconic Nike pieces leggings, tees, tanks and accessories. Shop now click on my link.",
+    "referenceId": "bb3cf252cb9f51bde8281b9f2c9ccd2a",
+    "date_created": "1536087481",
+    "date_modified": "1536089542",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "20",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213345",
+    "product_category": "active",
+    "id": "176864847",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "2e0e0f54-fccb-4079-9ee5-752eac78fa35",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "13",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "13",
+            "width": 480,
+            "height": 272
+        },
+        "mediaDuration": "13",
+        "prettyDuration": "00:00:13",
+        "automaticThumbnailsPattern": "1759121\/176864847\/e917e\/thumb-bb3cf252cb9f51bde8281b9f2c9ccd2a-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/176864847\/e917e\/thumb-bb3cf252cb9f51bde8281b9f2c9ccd2a-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/176864847\/e917e\/thumb-bb3cf252cb9f51bde8281b9f2c9ccd2a-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/176864847\/e917e\/thumb-bb3cf252cb9f51bde8281b9f2c9ccd2a-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/176864847\/e917e\/thumb-bb3cf252cb9f51bde8281b9f2c9ccd2a-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/176864847\/e917e\/thumb-bb3cf252cb9f51bde8281b9f2c9ccd2a-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/176864847\/e917e\/thumb-bb3cf252cb9f51bde8281b9f2c9ccd2a-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/176864847\/thumbnail\/image-thumbnail-256-02d49bc29b292c5e736adcc16be7ee50.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/176864847\/thumbnail\/image-thumbnail-480-5954ea6d4b98951e65460287d40167b6.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/176864847\/e917e\/thumb-bb3cf252cb9f51bde8281b9f2c9ccd2a-00002.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/176864847\/thumbnail\/image-thumbnail-480-5954ea6d4b98951e65460287d40167b6.jpg",
+        "type": "mp4",
+        "assetId": "176864847",
+        "assetTitle": "\u201cJust Do It\u201d ANDREA WARNER Macy\u2019s Style Crew",
+        "assetTitleTextEncoded": "2e0e0f54-fccb-4079-9ee5-752eac78fa35",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "176864847",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176864847\/e917e\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 272
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176864847\/e917e\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 272
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176864847\/e917e\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 272
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176864847\/e917e\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 272
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176864847\/e917e\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 182
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-14"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

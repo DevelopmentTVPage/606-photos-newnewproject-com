@@ -1,0 +1,108 @@
+{
+    "title": "Calvin Klein Modern Cotton Bedding for your Home",
+    "description": "You'll fall for our Calvin Klein Modern Cotton Bedding for your Home in New Steve Style and Harrison Grey super soft sheets!\n#MacysStyleCrew #MacysStyleCrewSouchitta #BeOurGuest @MacysVisual41",
+    "referenceId": "a9520af115b93ef6d17a4f36d8a7980d",
+    "date_created": "1533818938",
+    "date_modified": "1533819211",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "6",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213334",
+    "product_category": "bed_bath",
+    "id": "170020029",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "photogrid-1533764889700",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "30",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "30",
+            "width": 720,
+            "height": 720
+        },
+        "mediaDuration": "30",
+        "prettyDuration": "00:00:30",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/170020029\/thumbnail\/image-thumbnail-640-68feda95a5a1732abe43574d0a3b43f0.jpg",
+        "type": "mp4",
+        "assetId": "170020029",
+        "assetTitle": "PhotoGrid_1533764889700",
+        "assetTitleTextEncoded": "photogrid-1533764889700",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "170020029",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170020029\/26457\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170020029\/26457\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170020029\/26457\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170020029\/26457\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170020029\/26457\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/170020029\/26457\/thumb-a9520af115b93ef6d17a4f36d8a7980d-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/170020029\/user-images\/image-720-c13c463fff1cadd8114f4ed3aee367e2.jpg",
+            "\/\/v.tvpage.com\/1759121\/170020029\/26457\/thumb-a9520af115b93ef6d17a4f36d8a7980d-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/170020029\/user-images\/image-720-c13c463fff1cadd8114f4ed3aee367e2.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/170020029\/thumbnail\/image-thumbnail-256-7c4c0a5f5a1b6c1855f5e334ddd516fb.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/170020029\/thumbnail\/image-thumbnail-480-31303442a5adf75acc8e66e57617e737.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/170020029\/thumbnail\/image-thumbnail-640-68feda95a5a1732abe43574d0a3b43f0.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-08"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

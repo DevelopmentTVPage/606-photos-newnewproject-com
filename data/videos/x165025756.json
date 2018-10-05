@@ -1,0 +1,101 @@
+{
+    "title": "Which one?",
+    "description": "Free people sundresses",
+    "referenceId": "ee0baa049bfda3055a1d0850bf4447ed",
+    "date_created": "1529887730",
+    "date_modified": "1529943813",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "6",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213286",
+    "product_category": "women",
+    "id": "165025756",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "8fc2188d-57aa-432f-9eab-8321adc79765",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "6",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "6",
+            "width": 320,
+            "height": 480
+        },
+        "mediaDuration": "6",
+        "prettyDuration": "00:00:06",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/165025756\/62497\/thumb-ee0baa049bfda3055a1d0850bf4447ed-00002.jpg",
+        "type": "mp4",
+        "assetId": 165025756,
+        "assetTitle": "8FC2188D-57AA-432F-9EAB-8321ADC79765",
+        "assetTitleTextEncoded": "8fc2188d-57aa-432f-9eab-8321adc79765",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 165025756,
+            "li": "1759121"
+        },
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/165025756\/62497\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/165025756\/62497\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165025756\/62497\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165025756\/62497\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165025756\/62497\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165025756\/62497\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165025756\/62497\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 160,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-08-06"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

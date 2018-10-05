@@ -1,0 +1,109 @@
+{
+    "title": "Everyone Loves a Makeup Sale",
+    "description": "Who doesn\u2019t like a sale in cosmetics",
+    "referenceId": "ee4b95e237a423f758ac0e8520f9f305",
+    "date_created": "1536470311",
+    "date_modified": "1536471122",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213248",
+    "product_category": "beauty",
+    "id": "177154756",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "2af04cc9-3767-4047-98da-580613540c45",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "8",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "8",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "8",
+        "prettyDuration": "00:00:08",
+        "automaticThumbnailsPattern": "1759121\/177154756\/936a1\/thumb-ee4b95e237a423f758ac0e8520f9f305-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/177154756\/936a1\/thumb-ee4b95e237a423f758ac0e8520f9f305-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/177154756\/936a1\/thumb-ee4b95e237a423f758ac0e8520f9f305-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/177154756\/936a1\/thumb-ee4b95e237a423f758ac0e8520f9f305-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/177154756\/936a1\/thumb-ee4b95e237a423f758ac0e8520f9f305-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/177154756\/thumbnail\/image-thumbnail-256-3bb7ac9f7c52c309bb948d68a6f8da7a.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/177154756\/thumbnail\/image-thumbnail-480-b253713647fd486982f8da222d2351ee.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/177154756\/936a1\/thumb-ee4b95e237a423f758ac0e8520f9f305-00003.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/177154756\/thumbnail\/image-thumbnail-480-b253713647fd486982f8da222d2351ee.jpg",
+        "type": "mp4",
+        "assetId": 177154756,
+        "assetTitle": "Everyone Loves a Makeup Sale",
+        "assetTitleTextEncoded": "2af04cc9-3767-4047-98da-580613540c45",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 177154756,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177154756\/936a1\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177154756\/936a1\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177154756\/936a1\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177154756\/936a1\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177154756\/936a1\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-11"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

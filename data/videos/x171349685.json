@@ -1,0 +1,108 @@
+{
+    "title": "Maison Jules Polka Dot dress",
+    "description": "",
+    "referenceId": "621597ab380a7d2a6f87d4b2344ae66f",
+    "date_created": "1534800936",
+    "date_modified": "1536710544",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "116",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213228",
+    "product_category": "women",
+    "id": "171349685",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "macysstylecrew-4",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "5",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "5",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "5",
+        "prettyDuration": "00:00:05",
+        "automaticThumbnailsPattern": "1759121\/171349685\/41fa0\/thumb-621597ab380a7d2a6f87d4b2344ae66f-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/171349685\/41fa0\/thumb-621597ab380a7d2a6f87d4b2344ae66f-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/171349685\/41fa0\/thumb-621597ab380a7d2a6f87d4b2344ae66f-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/171349685\/41fa0\/thumb-621597ab380a7d2a6f87d4b2344ae66f-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/171349685\/thumbnail\/image-thumbnail-256-350b23ebafc1e12266d2f4aa0b498cd3.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/171349685\/thumbnail\/image-thumbnail-480-67b3baa80c18538189ac0f6687d23937.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/171349685\/41fa0\/thumb-621597ab380a7d2a6f87d4b2344ae66f-00002.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/171349685\/thumbnail\/image-thumbnail-480-67b3baa80c18538189ac0f6687d23937.jpg",
+        "type": "mp4",
+        "assetId": "171349685",
+        "assetTitle": "macysstylecrew 4",
+        "assetTitleTextEncoded": "macysstylecrew-4",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "171349685",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171349685\/41fa0\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171349685\/41fa0\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171349685\/41fa0\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171349685\/41fa0\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171349685\/41fa0\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-08-24"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,111 @@
+{
+    "title": "Aaliyah Pallete",
+    "description": "Aaliyah eyeshadow pallete",
+    "referenceId": "d655f23494545a9bfab384bb73afa0ce",
+    "date_created": "1536692827",
+    "date_modified": "1536693317",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "3",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213171",
+    "product_category": "beauty",
+    "id": "177301969",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "ed7360c5-9043-4da3-8717-475e89d88ba0",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "LONG",
+    "duration": "417",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "417",
+            "width": 568,
+            "height": 320
+        },
+        "mediaDuration": "417",
+        "prettyDuration": "00:06:57",
+        "automaticThumbnailsPattern": "1759121\/177301969\/9908d\/thumb-d655f23494545a9bfab384bb73afa0ce-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/177301969\/9908d\/thumb-d655f23494545a9bfab384bb73afa0ce-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/177301969\/9908d\/thumb-d655f23494545a9bfab384bb73afa0ce-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/177301969\/9908d\/thumb-d655f23494545a9bfab384bb73afa0ce-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/177301969\/9908d\/thumb-d655f23494545a9bfab384bb73afa0ce-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/177301969\/9908d\/thumb-d655f23494545a9bfab384bb73afa0ce-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/177301969\/9908d\/thumb-d655f23494545a9bfab384bb73afa0ce-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/177301969\/thumbnail\/image-thumbnail-256-84ddd1763e99a449f40d608d0f5d7d15.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/177301969\/thumbnail\/image-thumbnail-480-06b3f4d4e25b39e187ed7f6dd071770f.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/177301969\/9908d\/thumb-d655f23494545a9bfab384bb73afa0ce-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/177301969\/thumbnail\/image-thumbnail-480-06b3f4d4e25b39e187ed7f6dd071770f.jpg",
+        "type": "mp4",
+        "assetId": 177301969,
+        "assetTitle": "Aaliyah Pallete",
+        "assetTitleTextEncoded": "ed7360c5-9043-4da3-8717-475e89d88ba0",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 177301969,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177301969\/9908d\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177301969\/9908d\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177301969\/9908d\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177301969\/9908d\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177301969\/9908d\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,114 @@
+{
+    "title": "Summer Skincare Routine",
+    "description": "Hi everyone! One of the most important lessons I\u2019ve learned in all the years I\u2019ve spent applying my makeup, is that it all starts at the base AKA\u2026skincare! Today I\u2019m sharing with you my five skincare essentials that I use every night before I go to bed to keep my skin healthy and glowing so my makeup applies smoothly the next day. Enjoy! \n\nAll of the Product Web IDs: (searchable on Macys.com)\n\n176781- Clinique Take the Day Off Cleansing Balm\n4933861- Kiehl\u2019s Ultra Facial Cleanser\n4896591- Kiehl\u2019s Creamy Eye Treatment with Avocado\n916091- Estee Lauder Advanced Night Repair Serum\n796241- Elizabeth Arden Eight Hour Lip Balm",
+    "referenceId": "f2223518135bb02dbc79a04399441fdc",
+    "date_created": "1533408654",
+    "date_modified": "1533488597",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "50",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213313",
+    "product_category": "beauty",
+    "id": "169414026",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "summer-skincare-routine-1080p",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "LONG",
+    "duration": "298",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "298",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "298",
+        "prettyDuration": "00:04:58",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/169414026\/thumbnail\/image-thumbnail-640-204266a59155b262318cff397f4cf7dd.jpg",
+        "type": "mp4",
+        "assetId": "169414026",
+        "assetTitle": "Summer Skincare Routine",
+        "assetTitleTextEncoded": "summer-skincare-routine-1080p",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "169414026",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/169414026\/a043e\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/169414026\/a043e\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/169414026\/a043e\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/169414026\/a043e\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/169414026\/a043e\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/169414026\/a043e\/thumb-f2223518135bb02dbc79a04399441fdc-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/169414026\/user-images\/image-3839-259b3a635f802dd9080ce6739ccf8eda.jpg",
+            "\/\/v.tvpage.com\/1759121\/169414026\/user-images\/image-1920-99dc3f4b64f27d06b295abcd8b2a127d.jpg",
+            "\/\/v.tvpage.com\/1759121\/169414026\/a043e\/thumb-f2223518135bb02dbc79a04399441fdc-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/169414026\/user-images\/image-3839-259b3a635f802dd9080ce6739ccf8eda.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/169414026\/thumbnail\/image-thumbnail-256-ff5d024cd88526f62736d2f049278f71.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/169414026\/thumbnail\/image-thumbnail-480-a25a00e334f38640aef19363b523bce0.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/169414026\/thumbnail\/image-thumbnail-640-204266a59155b262318cff397f4cf7dd.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/169414026\/thumbnail\/image-thumbnail-1280-15e2ae5661edfc3754cffa07b70b571b.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/169414026\/thumbnail\/image-thumbnail-1920-da5d7767bc2afd3154047e8a8116903d.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-14"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-08-30"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

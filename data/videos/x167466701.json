@@ -1,0 +1,113 @@
+{
+    "title": "Travel with DKNY",
+    "description": "Exclusive luggage set from DKNY featuring my favorite duffel bag! This duffel comes in 3 colors and the hardside set comes in 4 different beautiful colors.",
+    "referenceId": "479bfea2fe6feb6a26fda0fa12746569",
+    "date_created": "1532392588",
+    "date_modified": "1532435034",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "15",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213205",
+    "product_category": "bed_bath",
+    "id": "167466701",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "8c3645af-1c29-4807-b3ba-cb026c7555c4",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "20",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "20",
+            "width": 480,
+            "height": 480
+        },
+        "mediaDuration": "20",
+        "prettyDuration": "00:00:20",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/167466701\/thumbnail\/image-thumbnail-480-b9c6f7eb1811826e2389d54a57bd0d63.jpg",
+        "type": "mp4",
+        "assetId": 167466701,
+        "assetTitle": "Travel with DKNY",
+        "assetTitleTextEncoded": "8c3645af-1c29-4807-b3ba-cb026c7555c4",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 167466701,
+            "li": "1759121"
+        },
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/167466701\/79cbb\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/167466701\/79cbb\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167466701\/79cbb\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167466701\/79cbb\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167466701\/79cbb\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167466701\/79cbb\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167466701\/79cbb\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/167466701\/79cbb\/thumb-479bfea2fe6feb6a26fda0fa12746569-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/167466701\/user-images\/image-600-948db115ab502c311ec18323c8433d93.jpg",
+            "\/\/v.tvpage.com\/1759121\/167466701\/user-images\/image-480-d9b4928126f98fc00a2b184697e1c93a.jpg",
+            "\/\/v.tvpage.com\/1759121\/167466701\/79cbb\/thumb-479bfea2fe6feb6a26fda0fa12746569-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/167466701\/user-images\/image-600-948db115ab502c311ec18323c8433d93.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/167466701\/thumbnail\/image-thumbnail-256-d0043be4e6a0d02f1f2e71c68a4b66a0.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/167466701\/thumbnail\/image-thumbnail-480-b9c6f7eb1811826e2389d54a57bd0d63.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-08"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-08-03"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,107 @@
+{
+    "title": "celestestylecrew",
+    "description": "#calvinklein social dresses",
+    "referenceId": "0d486b237eec1ebb216ab53bb97d258a",
+    "date_created": "1530380738",
+    "date_modified": "1530381523",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "10",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213202",
+    "product_category": "women",
+    "id": "165344131",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "celestestylecrew",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "42",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "42",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "42",
+        "prettyDuration": "00:00:42",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/165344131\/thumbnail\/image-thumbnail-480-0bba9cb9dd6f56e2ec3a3eb922e42ba5.jpg",
+        "type": "mp4",
+        "assetId": "165344131",
+        "assetTitle": "celestestylecrew",
+        "assetTitleTextEncoded": "celestestylecrew",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "165344131",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165344131\/dbb1b\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165344131\/dbb1b\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165344131\/dbb1b\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165344131\/dbb1b\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165344131\/dbb1b\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/165344131\/dbb1b\/thumb-0d486b237eec1ebb216ab53bb97d258a-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/165344131\/user-images\/image-608-5bd7adb92df3f40bfea7fd459dc2307d.jpg",
+            "\/\/v.tvpage.com\/1759121\/165344131\/dbb1b\/thumb-0d486b237eec1ebb216ab53bb97d258a-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/165344131\/user-images\/image-608-5bd7adb92df3f40bfea7fd459dc2307d.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/165344131\/thumbnail\/image-thumbnail-256-954e8c24eea0cc9c4135751c205dfec3.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/165344131\/thumbnail\/image-thumbnail-480-0bba9cb9dd6f56e2ec3a3eb922e42ba5.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-05"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

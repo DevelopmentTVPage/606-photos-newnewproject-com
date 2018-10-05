@@ -1,0 +1,105 @@
+{
+    "title": "Transitional Pieces",
+    "description": "Linked 3 of my favorite items to help transition your outfit for fall! All are on sale now for the Labor Day Sale!",
+    "referenceId": "9f27aea47fb8b7bef999e604b4e7db04",
+    "date_created": "1536013150",
+    "date_modified": "1536013727",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "21",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213341",
+    "product_category": null,
+    "id": "176850498",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "5602920b-0401-4f1e-b639-246bbeef82d1",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "3",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "3",
+            "width": 272,
+            "height": 480
+        },
+        "mediaDuration": "3",
+        "prettyDuration": "00:00:03",
+        "automaticThumbnailsPattern": "1759121\/176850498\/8b19f\/thumb-9f27aea47fb8b7bef999e604b4e7db04-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/176850498\/8b19f\/thumb-9f27aea47fb8b7bef999e604b4e7db04-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/176850498\/thumbnail\/image-thumbnail-256-f2c69cb79b75c755d13bac9f98b6c291.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/176850498\/8b19f\/thumb-9f27aea47fb8b7bef999e604b4e7db04-00001.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/176850498\/thumbnail\/image-thumbnail-256-f2c69cb79b75c755d13bac9f98b6c291.jpg",
+        "type": "mp4",
+        "assetId": "176850498",
+        "assetTitle": "Transitional Pieces",
+        "assetTitleTextEncoded": "5602920b-0401-4f1e-b639-246bbeef82d1",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "176850498",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176850498\/8b19f\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 272,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176850498\/8b19f\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 272,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176850498\/8b19f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 272,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176850498\/8b19f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 204,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176850498\/8b19f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 136,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-14"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

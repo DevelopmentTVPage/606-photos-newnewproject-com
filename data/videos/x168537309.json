@@ -1,0 +1,110 @@
+{
+    "title": "It List Trend: Denim Short",
+    "description": "Hi Everyone!\nEvery season, Macy\u2019s Fashion Director picks out the hottest trends and creates The Edit for shoppers to browse and shop the It List products. For Spring 18, the denim short made the cut. Today I\u2019m wearing Style & Co\u2019s Petite black denim short styled with a white button down. I tied the top for a more relaxed look and added my Calvin Klein gingham crossbody purse to complete my outfit. This is a great go-to look and can easily swap out the button down with an off-the-shoulder to dress it up. \n\nWeb IDs below:\nShort: 6065905\nEarrings: 5936268\nPurse: 5881330",
+    "referenceId": "4b6dbbd510ef3499444724636a1a79c4",
+    "date_created": "1533072728",
+    "date_modified": "1533077265",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "31",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213245",
+    "product_category": "women",
+    "id": "168537309",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "d5715451-8163-4c93-9a20-cae5eff14290",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "84",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "84",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "84",
+        "prettyDuration": "00:01:24",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/168537309\/thumbnail\/image-thumbnail-640-651f9d4a42469250a7521f3054f1c63b.jpg",
+        "type": "mp4",
+        "assetId": 168537309,
+        "assetTitle": "It List Trend: Denim Short- Just a Taste of Fashion",
+        "assetTitleTextEncoded": "d5715451-8163-4c93-9a20-cae5eff14290",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 168537309,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168537309\/6f009\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168537309\/6f009\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168537309\/6f009\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168537309\/6f009\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360,
+                "tvpdefault": true
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168537309\/6f009\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/168537309\/6f009\/thumb-4b6dbbd510ef3499444724636a1a79c4-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/168537309\/user-images\/image-1280-bf317b099fb09da1f93651b36af104d8.jpg",
+            "\/\/v.tvpage.com\/1759121\/168537309\/6f009\/thumb-4b6dbbd510ef3499444724636a1a79c4-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/168537309\/user-images\/image-1280-bf317b099fb09da1f93651b36af104d8.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/168537309\/thumbnail\/image-thumbnail-256-ff2a2b104d30f582c5253e902c181187.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/168537309\/thumbnail\/image-thumbnail-480-950fe3b2caceb13cf374fd89d78806bf.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/168537309\/thumbnail\/image-thumbnail-640-651f9d4a42469250a7521f3054f1c63b.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/168537309\/thumbnail\/image-thumbnail-1280-846c24cb219cd9603b844c1d89fbfcea.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

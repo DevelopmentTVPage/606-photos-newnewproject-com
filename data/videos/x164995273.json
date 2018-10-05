@@ -1,0 +1,106 @@
+{
+    "title": "White Dresses for Summer",
+    "description": "These were other options for gorgeous bridal shower white dresses. They were too good to not share.",
+    "referenceId": "16af5e4b42620bc542e3129ee43e8951",
+    "date_created": "1529588809",
+    "date_modified": "1529592689",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "24",
+    "engagement_score": "2",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213203",
+    "product_category": "women",
+    "id": "164995273",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "c3af28c7-dcf8-4f6a-977f-3d52ed5cdb9a",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "12",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "12",
+            "width": 384,
+            "height": 480
+        },
+        "mediaDuration": "12",
+        "prettyDuration": "00:00:12",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164995273\/thumbnail\/image-thumbnail-256-a31c930072248fb917fba891d6280f1f.jpg",
+        "type": "mp4",
+        "assetId": "164995273",
+        "assetTitle": "White Dresses for Summer",
+        "assetTitleTextEncoded": "c3af28c7-dcf8-4f6a-977f-3d52ed5cdb9a",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164995273",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164995273\/34306\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 384,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164995273\/34306\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 384,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164995273\/34306\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 384,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164995273\/34306\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 288,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164995273\/34306\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 192,
+                "height": 240
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/164995273\/34306\/thumb-16af5e4b42620bc542e3129ee43e8951-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/164995273\/user-images\/image-384-a1ccadf325867d67ef22457121ee028f.jpg",
+            "\/\/v.tvpage.com\/1759121\/164995273\/34306\/thumb-16af5e4b42620bc542e3129ee43e8951-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/164995273\/user-images\/image-384-a1ccadf325867d67ef22457121ee028f.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/164995273\/thumbnail\/image-thumbnail-256-a31c930072248fb917fba891d6280f1f.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-08-03"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

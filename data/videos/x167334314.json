@@ -1,0 +1,101 @@
+{
+    "title": "It List Kimono",
+    "description": "Get the IT List look for the summer",
+    "referenceId": "70e008f5744ae155455e71919d302492",
+    "date_created": "1531845674",
+    "date_modified": "1531857454",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "30",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213236",
+    "product_category": null,
+    "id": "167334314",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "41cca6c9-334b-41b2-b850-dd67da207649",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "24",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "24",
+            "width": 568,
+            "height": 320
+        },
+        "mediaDuration": "24",
+        "prettyDuration": "00:00:24",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/167334314\/thumbnail\/image-thumbnail-640-0db06e9250707eb90a96f085faf09c35.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167334314\/1c1c0\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167334314\/1c1c0\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167334314\/1c1c0\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167334314\/1c1c0\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167334314\/1c1c0\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/167334314\/user-images\/image-1920-3ee554e9cd10cd9c550702d08482f6bb.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/167334314\/user-images\/image-1920-3ee554e9cd10cd9c550702d08482f6bb.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/167334314\/thumbnail\/image-thumbnail-256-9dd73eca7c4d30e26b456ece9082180d.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/167334314\/thumbnail\/image-thumbnail-480-c492e6566484aaa2899970b069dfe97f.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/167334314\/thumbnail\/image-thumbnail-640-0db06e9250707eb90a96f085faf09c35.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/167334314\/thumbnail\/image-thumbnail-1280-97b4697388ab49bce684c791afc4bd27.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/167334314\/thumbnail\/image-thumbnail-1920-e88a90f7a51b897a06fc3b4cca6152ed.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-08-09"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

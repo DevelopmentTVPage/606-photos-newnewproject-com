@@ -1,0 +1,97 @@
+{
+    "title": "TARTE Lip Products 50% off today!!!!",
+    "description": "Get your favorite liquid lips and creamy mattes from the brand TARTE today and today only... 50% off!! Woo!",
+    "referenceId": "85c5a68928eed353a71e9121de9304e8",
+    "date_created": "1530280765",
+    "date_modified": "1530280854",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "81",
+    "engagement_score": "2",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213440",
+    "product_category": "beauty",
+    "id": "165329204",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "47f45586-87dc-414c-9bc8-a0e5ec9637b9",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "51",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "51",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "51",
+        "prettyDuration": "00:00:51",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/165329204\/35920\/thumb-85c5a68928eed353a71e9121de9304e8-00002.jpg",
+        "type": "mp4",
+        "assetId": "165329204",
+        "assetTitle": "47F45586-87DC-414C-9BC8-A0E5EC9637B9",
+        "assetTitleTextEncoded": "47f45586-87dc-414c-9bc8-a0e5ec9637b9",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "165329204",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165329204\/35920\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165329204\/35920\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165329204\/35920\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165329204\/35920\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165329204\/35920\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-02"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Macy's Audrey",
+    "tvp_enhanced_transcript": null
+}

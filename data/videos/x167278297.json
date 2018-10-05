@@ -1,0 +1,97 @@
+{
+    "title": "Jockey Cotton Allure and new Supersoft pant",
+    "description": "This video shows the new Jockey allure collection and a new pant part of the Supersoft collection.",
+    "referenceId": "e77357c4ef566bbd0db6cbce7d726834",
+    "date_created": "1531519846",
+    "date_modified": "1531851926",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "5",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213180",
+    "product_category": "women",
+    "id": "167278297",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "2fd9ad62-c32b-4cef-8fbc-538c2ca76c79",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "39",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "39",
+            "width": 568,
+            "height": 320
+        },
+        "mediaDuration": "39",
+        "prettyDuration": "00:00:39",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/167278297\/032c3\/thumb-e77357c4ef566bbd0db6cbce7d726834-00002.jpg",
+        "type": "mp4",
+        "assetId": "167278297",
+        "assetTitle": "Jockey Cotton Allur and new Supersoft pant",
+        "assetTitleTextEncoded": "2fd9ad62-c32b-4cef-8fbc-538c2ca76c79",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "167278297",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167278297\/032c3\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167278297\/032c3\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167278297\/032c3\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167278297\/032c3\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167278297\/032c3\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-07-28"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

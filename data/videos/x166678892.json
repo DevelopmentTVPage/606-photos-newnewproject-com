@@ -1,0 +1,97 @@
+{
+    "title": "Casual summer suit night.",
+    "description": "A casual summer night in a suit and graphic tee. It\u2019s a blue striped seersucker suit separate with a royal paisley pocket square by Tommy Hilfiger. The shirt is a graphic tee by Lucky Brand, along with loafers from Cole Haan.",
+    "referenceId": "f12575388c544e154f6cfd5bd34cea9c",
+    "date_created": "1531097969",
+    "date_modified": "1531101477",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "165",
+    "engagement_score": "9",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213381",
+    "product_category": "men",
+    "id": "166678892",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "0eb07641-839c-4519-b900-2e548e2b4881",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "60",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "60",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "60",
+        "prettyDuration": "00:01:00",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/166678892\/9fd93\/thumb-f12575388c544e154f6cfd5bd34cea9c-00002.jpg",
+        "type": "mp4",
+        "assetId": "166678892",
+        "assetTitle": "Casual summer suit night.",
+        "assetTitleTextEncoded": "0eb07641-839c-4519-b900-2e548e2b4881",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "166678892",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/166678892\/9fd93\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/166678892\/9fd93\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/166678892\/9fd93\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/166678892\/9fd93\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/166678892\/9fd93\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-08-21"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Macy's",
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,117 @@
+{
+    "title": "Estee Lauder Fall 2018 GWP",
+    "description": "Estee Lauder is at it again, receive a free gift with purchase! With any Estee Lauder purchase of $37.50 or more, receive your free 7-piece gift bag! In this video, I quickly went through what's in the gift and a brief look you can create with it. Enjoy and shop through some of my must-haves at Estee Lauder!\n\nFollow me on Instagram for more: @janie.hong",
+    "referenceId": "db8898b884458ff9c5fd04c8b59715e4",
+    "date_created": "1536689899",
+    "date_modified": "1536790711",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "17",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "19",
+    "video_type": null,
+    "user_id": "213220",
+    "product_category": "beauty",
+    "id": "177301484",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "estee-lauder-fall-2018-gwp",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "209",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "209",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "209",
+        "prettyDuration": "00:03:29",
+        "automaticThumbnailsPattern": "1759121\/177301484\/88578\/thumb-db8898b884458ff9c5fd04c8b59715e4-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/177301484\/user-images\/image-1600-3b65a05bc65304355e843e25cc030d87.jpg",
+            "\/\/v.tvpage.com\/1759121\/177301484\/88578\/thumb-db8898b884458ff9c5fd04c8b59715e4-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/177301484\/88578\/thumb-db8898b884458ff9c5fd04c8b59715e4-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/177301484\/88578\/thumb-db8898b884458ff9c5fd04c8b59715e4-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/177301484\/88578\/thumb-db8898b884458ff9c5fd04c8b59715e4-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/177301484\/88578\/thumb-db8898b884458ff9c5fd04c8b59715e4-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/177301484\/88578\/thumb-db8898b884458ff9c5fd04c8b59715e4-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/177301484\/thumbnail\/image-thumbnail-256-c73b8d88359f418158c15f3c3f983ee7.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/177301484\/thumbnail\/image-thumbnail-480-5f559a46bf4b5b3fd31925574295ea1d.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/177301484\/thumbnail\/image-thumbnail-640-9ccaa87c566f42c6dff57e0610c2c0bc.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/177301484\/thumbnail\/image-thumbnail-1280-bb80e705bad0fcf4c9f2f8472417c291.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/177301484\/user-images\/image-1600-3b65a05bc65304355e843e25cc030d87.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/177301484\/thumbnail\/image-thumbnail-640-9ccaa87c566f42c6dff57e0610c2c0bc.jpg",
+        "type": "mp4",
+        "assetId": "177301484",
+        "assetTitle": "Estee Lauder Fall 2018 GWP",
+        "assetTitleTextEncoded": "estee-lauder-fall-2018-gwp",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "177301484",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177301484\/88578\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177301484\/88578\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177301484\/88578\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177301484\/88578\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177301484\/88578\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-17"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-09-14"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

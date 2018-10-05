@@ -1,0 +1,107 @@
+{
+    "title": "The NEW Classic",
+    "description": "Check out these new takes on a classic striped shirt with Michael.",
+    "referenceId": "147b8e122eb63dd56f597af29ed37447",
+    "date_created": "1525647191",
+    "date_modified": "1535491686",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "73",
+    "engagement_score": "6",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213126",
+    "product_category": null,
+    "id": "163469625",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "The-NEW-Classic",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "107",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "107",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "107",
+        "prettyDuration": "00:01:47",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/163469625\/thumbnail\/image-thumbnail-640-db4d90d8f508567805a94d4461717d46.jpg",
+        "type": "mp4",
+        "assetId": 163469625,
+        "assetTitle": "The NEW Classic",
+        "assetTitleTextEncoded": "mic09-thenewclassic",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 163469625,
+            "li": "1759121"
+        },
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163469625\/63089\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163469625\/63089\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163469625\/63089\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163469625\/63089\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163469625\/63089\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/163469625\/63089\/thumb-147b8e122eb63dd56f597af29ed37447-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/163469625\/user-images\/image-1280-9149fe1e3cbb34f6189c743016860c9f.jpg",
+            "\/\/v.tvpage.com\/1759121\/163469625\/63089\/thumb-147b8e122eb63dd56f597af29ed37447-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/163469625\/user-images\/image-1280-9149fe1e3cbb34f6189c743016860c9f.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/163469625\/thumbnail\/image-thumbnail-256-f90f0569cdfca0a1ba242e4383e9b4f0.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/163469625\/thumbnail\/image-thumbnail-480-d10f564033c61fc4eac4242763c37751.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/163469625\/thumbnail\/image-thumbnail-640-db4d90d8f508567805a94d4461717d46.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/163469625\/thumbnail\/image-thumbnail-1280-9a5c01cd5156cfdfe266f84e55258a4f.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-07-25\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,107 @@
+{
+    "title": "Summer Makeup Glow Part 1",
+    "description": "Prepping the skin is essential for a long lasting, flawless look.",
+    "referenceId": "ec8e89d574c2e7c9f0949ee7e5415b7d",
+    "date_created": "1533506008",
+    "date_modified": "1533506087",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "22",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213203",
+    "product_category": "beauty",
+    "id": "169536019",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "4a415c99-cc7a-4cc1-86ff-a9def656fdfa",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "92",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "92",
+            "width": 480,
+            "height": 480
+        },
+        "mediaDuration": "92",
+        "prettyDuration": "00:01:32",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/169536019\/thumbnail\/image-thumbnail-480-8f3d0aad8802efa21f8d47dc77b76557.jpg",
+        "type": "mp4",
+        "assetId": "169536019",
+        "assetTitle": "4A415C99-CC7A-4CC1-86FF-A9DEF656FDFA",
+        "assetTitleTextEncoded": "4a415c99-cc7a-4cc1-86ff-a9def656fdfa",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "169536019",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/169536019\/15453\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/169536019\/15453\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/169536019\/15453\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/169536019\/15453\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/169536019\/15453\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/169536019\/15453\/thumb-ec8e89d574c2e7c9f0949ee7e5415b7d-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/169536019\/user-images\/image-480-bab37a48bf572b5554c341795c8bcd8d.jpg",
+            "\/\/v.tvpage.com\/1759121\/169536019\/15453\/thumb-ec8e89d574c2e7c9f0949ee7e5415b7d-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/169536019\/user-images\/image-480-bab37a48bf572b5554c341795c8bcd8d.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/169536019\/thumbnail\/image-thumbnail-256-f82e416f0b800d627012c7e90e0d8471.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/169536019\/thumbnail\/image-thumbnail-480-8f3d0aad8802efa21f8d47dc77b76557.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-11"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

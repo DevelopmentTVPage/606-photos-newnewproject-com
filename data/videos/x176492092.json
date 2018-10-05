@@ -1,0 +1,116 @@
+{
+    "title": "logo mania!",
+    "description": "Logos gone crazy!\n#logos #athleticwear #ootd  \n#varsitystripe #doilooklikenancysinatra #croppedtop #mensweartrend  #wedgesneaker #logobags #backpack",
+    "referenceId": "ff50906e2b275222ca628939a80b05ac",
+    "date_created": "1535632684",
+    "date_modified": "1535654058",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "39",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "2",
+    "video_type": null,
+    "user_id": "213111",
+    "product_category": "women",
+    "id": "176492092",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "lkirsch-logomania-v1-0",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "113",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "113",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "113",
+        "prettyDuration": "00:01:53",
+        "automaticThumbnailsPattern": "1759121\/176492092\/30f71\/thumb-ff50906e2b275222ca628939a80b05ac-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/176492092\/30f71\/thumb-ff50906e2b275222ca628939a80b05ac-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/176492092\/30f71\/thumb-ff50906e2b275222ca628939a80b05ac-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/176492092\/30f71\/thumb-ff50906e2b275222ca628939a80b05ac-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/176492092\/30f71\/thumb-ff50906e2b275222ca628939a80b05ac-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/176492092\/30f71\/thumb-ff50906e2b275222ca628939a80b05ac-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/176492092\/30f71\/thumb-ff50906e2b275222ca628939a80b05ac-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/176492092\/thumbnail\/image-thumbnail-256-65a7149b6254a1ede910ee4a49558cb6.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/176492092\/thumbnail\/image-thumbnail-480-d748c99fbc1cb0d2476efb9f45149d2a.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/176492092\/thumbnail\/image-thumbnail-640-2a63d3e995244167f742836371c5a92f.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/176492092\/thumbnail\/image-thumbnail-1280-9d5a40c50d12cff1eca3a4ce60d5ad49.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/176492092\/30f71\/thumb-ff50906e2b275222ca628939a80b05ac-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/176492092\/thumbnail\/image-thumbnail-640-2a63d3e995244167f742836371c5a92f.jpg",
+        "type": "mp4",
+        "assetId": "176492092",
+        "assetTitle": "logo mania!",
+        "assetTitleTextEncoded": "lkirsch-logomania-v1-0",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "176492092",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176492092\/30f71\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176492092\/30f71\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176492092\/30f71\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176492092\/30f71\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176492092\/30f71\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-17"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-09-11"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Levi Strauss & Co.",
+    "tvp_enhanced_transcript": null
+}

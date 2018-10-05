@@ -1,0 +1,99 @@
+{
+    "title": "Calvin Klein Monogram Collection ft. Kardashians",
+    "description": "Oooo, what can get hotter than the Kardashians in innerwear?! Introducing to you, Calvin Klein Monogram Collection, exclusively at Macy's (as of now)! This classic collection is nothing but trendy and comfortable! View now today!\n\nFollow me on Instagram for more: @janie.hong",
+    "referenceId": "d384d67b3535eea5cfb52e1059e7e3ee",
+    "date_created": "1533604153",
+    "date_modified": "1533606426",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "52",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213220",
+    "product_category": "women",
+    "id": "169634979",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "calvin-klein-monogram-collection-ft-kardashians",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "75",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "75",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "75",
+        "prettyDuration": "00:01:15",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/169634979\/d2693\/thumb-d384d67b3535eea5cfb52e1059e7e3ee-00002.jpg",
+        "type": "mp4",
+        "assetId": 169634979,
+        "assetTitle": "Calvin Klein Monogram Collection ft. Kardashians",
+        "assetTitleTextEncoded": "calvin-klein-monogram-collection-ft-kardashians",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 169634979,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/169634979\/d2693\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/169634979\/d2693\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/169634979\/d2693\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/169634979\/d2693\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/169634979\/d2693\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/169634979\/d2693\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/169634979\/d2693\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-02"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Tog",
+    "tvp_enhanced_transcript": null
+}

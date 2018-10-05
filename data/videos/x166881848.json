@@ -1,0 +1,97 @@
+{
+    "title": "Macy's Style Crew sandraostylestory",
+    "description": "This video expresses how Macy's influences the every day woman to feel empowered and how your own personal style can tell an incredible story through the threads and fashion Macy's carries.",
+    "referenceId": "7b57d3a25165677a2d864615a29dea41",
+    "date_created": "1531488349",
+    "date_modified": "1531489829",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "51",
+    "engagement_score": "2",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213302",
+    "product_category": "women",
+    "id": "166881848",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "macy-s-style-crew",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "206",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "206",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "206",
+        "prettyDuration": "00:03:26",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/166881848\/250ea\/thumb-7b57d3a25165677a2d864615a29dea41-00002.jpg",
+        "type": "mp4",
+        "assetId": "166881848",
+        "assetTitle": "Macy's Style Crew sandraostylestory",
+        "assetTitleTextEncoded": "macy-s-style-crew",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "166881848",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/166881848\/250ea\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/166881848\/250ea\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/166881848\/250ea\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/166881848\/250ea\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/166881848\/250ea\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-08-30"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "BooksTop Don't Stop",
+    "tvp_enhanced_transcript": null
+}

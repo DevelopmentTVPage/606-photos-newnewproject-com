@@ -1,0 +1,99 @@
+{
+    "title": "Effy Gala",
+    "description": "Macys Fayette Fine Jewelry",
+    "referenceId": "7afab09fd540e963bacc174462099a5a",
+    "date_created": "1531875631",
+    "date_modified": "1531876468",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "35",
+    "engagement_score": "1",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213147",
+    "product_category": "jewelry",
+    "id": "167358292",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "962d9091-bb5e-4e9a-9cce-60232cbf985d",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "120",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "120",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "120",
+        "prettyDuration": "00:02:00",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/167358292\/2db5e\/thumb-7afab09fd540e963bacc174462099a5a-00002.jpg",
+        "type": "mp4",
+        "assetId": "167358292",
+        "assetTitle": "962D9091-BB5E-4E9A-9CCE-60232CBF985D",
+        "assetTitleTextEncoded": "962d9091-bb5e-4e9a-9cce-60232cbf985d",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "167358292",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167358292\/2db5e\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167358292\/2db5e\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167358292\/2db5e\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167358292\/2db5e\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167358292\/2db5e\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/167358292\/2db5e\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/167358292\/2db5e\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-08-30"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

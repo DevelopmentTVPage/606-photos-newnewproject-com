@@ -1,0 +1,114 @@
+{
+    "title": "Fall It List",
+    "description": "",
+    "referenceId": "0d55e0e0c40331187c9b02ce84e02ef5",
+    "date_created": "1536779228",
+    "date_modified": "1536871831",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213298",
+    "product_category": "women",
+    "id": "177471841",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "cbd42748-bcfe-4f5c-84bd-71abbb2ee5bd",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "14",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "14",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "14",
+        "prettyDuration": "00:00:14",
+        "automaticThumbnailsPattern": "1759121\/177471841\/6b871\/thumb-0d55e0e0c40331187c9b02ce84e02ef5-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/177471841\/user-images\/image-1536-f9785400264a646b0634853028ab1f2f.jpg",
+            "\/\/v.tvpage.com\/1759121\/177471841\/6b871\/thumb-0d55e0e0c40331187c9b02ce84e02ef5-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/177471841\/6b871\/thumb-0d55e0e0c40331187c9b02ce84e02ef5-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/177471841\/6b871\/thumb-0d55e0e0c40331187c9b02ce84e02ef5-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/177471841\/6b871\/thumb-0d55e0e0c40331187c9b02ce84e02ef5-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/177471841\/6b871\/thumb-0d55e0e0c40331187c9b02ce84e02ef5-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/177471841\/6b871\/thumb-0d55e0e0c40331187c9b02ce84e02ef5-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/177471841\/thumbnail\/image-thumbnail-256-d89c4412c9c044b4a00ff579bf01bfcb.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/177471841\/thumbnail\/image-thumbnail-480-999164595b413bff3c538b254eeb3856.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/177471841\/thumbnail\/image-thumbnail-640-f15b1f0fb8c9ca20c142b028ae76da24.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/177471841\/thumbnail\/image-thumbnail-1280-089fc351ccad0c383b339915bf4fefd5.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/177471841\/user-images\/image-1536-f9785400264a646b0634853028ab1f2f.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/177471841\/thumbnail\/image-thumbnail-640-f15b1f0fb8c9ca20c142b028ae76da24.jpg",
+        "type": "mp4",
+        "assetId": 177471841,
+        "assetTitle": "Fall It List",
+        "assetTitleTextEncoded": "cbd42748-bcfe-4f5c-84bd-71abbb2ee5bd",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 177471841,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177471841\/6b871\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177471841\/6b871\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177471841\/6b871\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177471841\/6b871\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177471841\/6b871\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

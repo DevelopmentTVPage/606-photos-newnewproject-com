@@ -1,0 +1,114 @@
+{
+    "title": "ABH Norvina Palette",
+    "description": "Available online on the 7th of August... 17th in store! This is such a beautiful palette! An essential 14 shade eye shadow palette featuring Norvina\u2019s go-to shades ranging from bold and bright mattes to soft pastel shimmers. Full pigment, easy-to-blend formula, Duo chrome and metallic pigments, Luxe packaging including a large mirror and double ended brush!",
+    "referenceId": "fab71c7a3c96595868c70887299567b3",
+    "date_created": "1532488156",
+    "date_modified": "1532488409",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "98",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213440",
+    "product_category": "beauty",
+    "id": "167629886",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "e7c606e2-a132-43f8-858e-ee9e3217ca2f",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "34",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "34",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "34",
+        "prettyDuration": "00:00:34",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/167629886\/thumbnail\/image-thumbnail-640-8a399047263ab7f135ce83eab1979b6c.jpg",
+        "type": "mp4",
+        "assetId": 167629886,
+        "assetTitle": "ABH Norvina Palette",
+        "assetTitleTextEncoded": "e7c606e2-a132-43f8-858e-ee9e3217ca2f",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 167629886,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167629886\/f431c\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167629886\/f431c\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167629886\/f431c\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167629886\/f431c\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167629886\/f431c\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/167629886\/f431c\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/167629886\/f431c\/media.m3u8",
+        "automaticThumbnailsPattern": "1759121\/167629886\/f431c\/thumb-fab71c7a3c96595868c70887299567b3-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/167629886\/user-images\/image-1280-9c067b9db84438e3dcca01aba119f234.jpg",
+            "\/\/v.tvpage.com\/1759121\/167629886\/f431c\/thumb-fab71c7a3c96595868c70887299567b3-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/167629886\/user-images\/image-1280-9c067b9db84438e3dcca01aba119f234.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/167629886\/thumbnail\/image-thumbnail-256-6e27ff37fec91fc5f7a83a72e97806f9.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/167629886\/thumbnail\/image-thumbnail-480-f697b412e8208578e4a25adc0dda8a10.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/167629886\/thumbnail\/image-thumbnail-640-8a399047263ab7f135ce83eab1979b6c.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/167629886\/thumbnail\/image-thumbnail-1280-cf45d9e1f99c3e9d194d79ca0277ffd1.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-14"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-08-09"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Macy's Audrey",
+    "tvp_enhanced_transcript": null
+}

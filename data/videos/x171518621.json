@@ -1,0 +1,114 @@
+{
+    "title": "Romper Fun by Macys- AdrianneViz",
+    "description": "I love wearing a denim jacket with a pop of color! That's where you can mix it up with the romper of choice. I always choose rompers because they are so easy yet you look put together!\nxoxo Adri",
+    "referenceId": "23290e9e895f9f193bcd3c0d8dff2188",
+    "date_created": "1534965034",
+    "date_modified": "1534966583",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "77",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213329",
+    "product_category": "women",
+    "id": "171518621",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "red-and-denim-by-window-1-1",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "52",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "52",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "52",
+        "prettyDuration": "00:00:52",
+        "automaticThumbnailsPattern": "1759121\/171518621\/d3fca\/thumb-23290e9e895f9f193bcd3c0d8dff2188-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/171518621\/d3fca\/thumb-23290e9e895f9f193bcd3c0d8dff2188-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/171518621\/d3fca\/thumb-23290e9e895f9f193bcd3c0d8dff2188-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/171518621\/d3fca\/thumb-23290e9e895f9f193bcd3c0d8dff2188-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/171518621\/d3fca\/thumb-23290e9e895f9f193bcd3c0d8dff2188-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/171518621\/d3fca\/thumb-23290e9e895f9f193bcd3c0d8dff2188-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/171518621\/d3fca\/thumb-23290e9e895f9f193bcd3c0d8dff2188-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/171518621\/thumbnail\/image-thumbnail-256-b7738a6767b670792beef063ecf5dcdc.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/171518621\/thumbnail\/image-thumbnail-480-c10e133418f177f4e56b27cf4dab6c4b.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/171518621\/thumbnail\/image-thumbnail-640-f3f3b7f139e67c678ae82fb298854633.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/171518621\/thumbnail\/image-thumbnail-1280-b23af01fb343804f78da2f351ceea658.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/171518621\/thumbnail\/image-thumbnail-1920-7356c9e041f06b6e03371db3bc90e875.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/171518621\/d3fca\/thumb-23290e9e895f9f193bcd3c0d8dff2188-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/171518621\/thumbnail\/image-thumbnail-640-f3f3b7f139e67c678ae82fb298854633.jpg",
+        "type": "mp4",
+        "assetId": 171518621,
+        "assetTitle": "Romper Fun by Macys- AdrianneViz",
+        "assetTitleTextEncoded": "red-and-denim-by-window-1-1",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 171518621,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171518621\/d3fca\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171518621\/d3fca\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171518621\/d3fca\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171518621\/d3fca\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171518621\/d3fca\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-14"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

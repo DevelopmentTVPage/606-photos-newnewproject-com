@@ -1,0 +1,114 @@
+{
+    "title": "Season of Style - MSC",
+    "description": "Get your style on at Macy's.  We've got what you need!",
+    "referenceId": "8de9d45a1f23a071028971e0efac7604",
+    "date_created": "1537323838",
+    "date_modified": "1537358101",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213338",
+    "product_category": "men",
+    "id": "177897450",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "season-of-style-msc",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "33",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "33",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "33",
+        "prettyDuration": "00:00:33",
+        "automaticThumbnailsPattern": "1759121\/177897450\/b58aa\/thumb-8de9d45a1f23a071028971e0efac7604-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/177897450\/user-images\/image-771-9c5fbf01de53c02782703dba103a9ec8.jpg",
+            "\/\/v.tvpage.com\/1759121\/177897450\/user-images\/image-771-1c3c928eee3c80090adadf127780d220.jpg",
+            "\/\/v.tvpage.com\/1759121\/177897450\/b58aa\/thumb-8de9d45a1f23a071028971e0efac7604-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/177897450\/b58aa\/thumb-8de9d45a1f23a071028971e0efac7604-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/177897450\/b58aa\/thumb-8de9d45a1f23a071028971e0efac7604-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/177897450\/b58aa\/thumb-8de9d45a1f23a071028971e0efac7604-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/177897450\/b58aa\/thumb-8de9d45a1f23a071028971e0efac7604-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/177897450\/b58aa\/thumb-8de9d45a1f23a071028971e0efac7604-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/177897450\/thumbnail\/image-thumbnail-256-fed5a870289780fcea9ee6dc8372e13f.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/177897450\/thumbnail\/image-thumbnail-480-efbf865792ac7cdb340c5a6dcf71dcaa.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/177897450\/thumbnail\/image-thumbnail-640-379d1d9748f3548c633d39415e95b876.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/177897450\/thumbnail\/image-thumbnail-1280-143e625a3b97a38fe923b0bf99bfa747.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/177897450\/thumbnail\/image-thumbnail-1920-7d8ccbef9104e7ecfee6eb0cd745f252.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/177897450\/b58aa\/thumb-8de9d45a1f23a071028971e0efac7604-00001.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/177897450\/thumbnail\/image-thumbnail-640-379d1d9748f3548c633d39415e95b876.jpg",
+        "type": "mp4",
+        "assetId": 177897450,
+        "assetTitle": "Season of Style - MSC",
+        "assetTitleTextEncoded": "season-of-style-msc",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 177897450,
+            "li": "1759121"
+        },
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/177897450\/b58aa\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/177897450\/b58aa\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177897450\/b58aa\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177897450\/b58aa\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177897450\/b58aa\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177897450\/b58aa\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177897450\/b58aa\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

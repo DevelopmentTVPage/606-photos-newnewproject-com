@@ -1,0 +1,109 @@
+{
+    "title": "Shopping the Dress Floor for Hearst @ Macy\u2019s HSQ",
+    "description": "My team and I shopped the dress floor at Macy\u2019s Herald Square, to pick out outfits for Macy\u2019s Fall Fashion Event during NYFW.",
+    "referenceId": "61a9fb74304b2540f9437dbcaa600c0b",
+    "date_created": "1537389285",
+    "date_modified": "1537389472",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213234",
+    "product_category": "women",
+    "id": "177970930",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "d329f9fa-109e-4077-95ca-6998ab61bc5f",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "60",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "60",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "60",
+        "prettyDuration": "00:01:00",
+        "automaticThumbnailsPattern": "1759121\/177970930\/1bb53\/thumb-61a9fb74304b2540f9437dbcaa600c0b-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/177970930\/1bb53\/thumb-61a9fb74304b2540f9437dbcaa600c0b-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/177970930\/1bb53\/thumb-61a9fb74304b2540f9437dbcaa600c0b-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/177970930\/1bb53\/thumb-61a9fb74304b2540f9437dbcaa600c0b-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/177970930\/1bb53\/thumb-61a9fb74304b2540f9437dbcaa600c0b-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/177970930\/1bb53\/thumb-61a9fb74304b2540f9437dbcaa600c0b-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/177970930\/1bb53\/thumb-61a9fb74304b2540f9437dbcaa600c0b-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/177970930\/thumbnail\/image-thumbnail-256-dab2205740f3c458718e9ef725eac16d.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/177970930\/thumbnail\/image-thumbnail-480-9158fb9a1ee5f9049c0dd8824f9a7006.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/177970930\/thumbnail\/image-thumbnail-640-bd07b379b1a3e0d838dc09f325755bd3.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/177970930\/thumbnail\/image-thumbnail-1280-590e7e93c72c21589e6a6392e8623e3d.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/177970930\/1bb53\/thumb-61a9fb74304b2540f9437dbcaa600c0b-00002.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/177970930\/thumbnail\/image-thumbnail-640-bd07b379b1a3e0d838dc09f325755bd3.jpg",
+        "type": "mp4",
+        "assetId": "177970930",
+        "assetTitle": "D329F9FA-109E-4077-95CA-6998AB61BC5F",
+        "assetTitleTextEncoded": "d329f9fa-109e-4077-95ca-6998ab61bc5f",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "177970930",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177970930\/1bb53\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177970930\/1bb53\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177970930\/1bb53\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177970930\/1bb53\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177970930\/1bb53\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

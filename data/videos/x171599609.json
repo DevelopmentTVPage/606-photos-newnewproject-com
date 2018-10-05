@@ -1,0 +1,113 @@
+{
+    "title": "Summer Highlights - Just a Taste of Fashion",
+    "description": "Hi Everyone,\n\nThe past few months of filming have been extraordinary! All of this amazing content couldn\u2019t happen without my hardworking film team, Big River Film Company. When I was first notified about this opportunity, I had no idea how big of a process filming a simple outfit could be. The first section of filming I was nervous and unsure if I was cut out for this, but Big River Film Co knew how to make me feel comfortable in front of the camera and very easy to work with. Throughout the filming process, I was able to meet and work with another Macy\u2019s ambassador, Michelle. Michelle is very knowledgeable and has a keen eye for fashion; we have a few collabs coming your way and excited to share them very soon. \n\nBig River Film Co, thank you for all that you do and can\u2019t wait to keep working with you.",
+    "referenceId": "3295057d81aa9a663b67494717a4e5b2",
+    "date_created": "1535035870",
+    "date_modified": "1535042536",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "14",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213245",
+    "product_category": "women",
+    "id": "171599609",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "video-1",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "57",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "57",
+            "width": 568,
+            "height": 320
+        },
+        "mediaDuration": "57",
+        "prettyDuration": "00:00:57",
+        "automaticThumbnailsPattern": "1759121\/171599609\/23360\/thumb-3295057d81aa9a663b67494717a4e5b2-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/171599609\/user-images\/image-730-1f1ca377131e1585893023f6d6f5dc33.jpg",
+            "\/\/v.tvpage.com\/1759121\/171599609\/23360\/thumb-3295057d81aa9a663b67494717a4e5b2-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/171599609\/23360\/thumb-3295057d81aa9a663b67494717a4e5b2-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/171599609\/23360\/thumb-3295057d81aa9a663b67494717a4e5b2-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/171599609\/23360\/thumb-3295057d81aa9a663b67494717a4e5b2-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/171599609\/23360\/thumb-3295057d81aa9a663b67494717a4e5b2-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/171599609\/23360\/thumb-3295057d81aa9a663b67494717a4e5b2-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/171599609\/thumbnail\/image-thumbnail-256-427ced742779194d7d15f8e2af134fb3.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/171599609\/thumbnail\/image-thumbnail-480-bc11209206b15535e9e117e8433bf933.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/171599609\/thumbnail\/image-thumbnail-640-4812152d1dbe639c7f15f7461a242083.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/171599609\/user-images\/image-730-1f1ca377131e1585893023f6d6f5dc33.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/171599609\/thumbnail\/image-thumbnail-640-4812152d1dbe639c7f15f7461a242083.jpg",
+        "type": "mp4",
+        "assetId": 171599609,
+        "assetTitle": "Summer Highlights - Just a Taste of Fashion",
+        "assetTitleTextEncoded": "video-1",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 171599609,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171599609\/23360\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171599609\/23360\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171599609\/23360\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171599609\/23360\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171599609\/23360\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-11"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

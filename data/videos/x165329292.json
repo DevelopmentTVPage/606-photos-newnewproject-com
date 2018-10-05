@@ -1,0 +1,93 @@
+{
+    "title": "Benefit Hello Happy",
+    "description": "New foundation in 12 shades! Something for everyone.",
+    "referenceId": "112c2c4a8d19936f5bd60a15e9b00c07",
+    "date_created": "1530298605",
+    "date_modified": "1530298689",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213241",
+    "product_category": "beauty",
+    "id": "165329292",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "f480a755-a16f-4d2e-a789-2881cc2e0ea6",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "44",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "44",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "44",
+        "prettyDuration": "00:00:44",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/165329292\/25065\/thumb-112c2c4a8d19936f5bd60a15e9b00c07-00002.jpg",
+        "type": "mp4",
+        "assetId": "165329292",
+        "assetTitle": "F480A755-A16F-4D2E-A789-2881CC2E0EA6",
+        "assetTitleTextEncoded": "f480a755-a16f-4d2e-a789-2881cc2e0ea6",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "165329292",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165329292\/25065\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165329292\/25065\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165329292\/25065\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165329292\/25065\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165329292\/25065\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

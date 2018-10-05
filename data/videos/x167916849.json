@@ -1,0 +1,109 @@
+{
+    "title": "Est\u00e9e Lauder",
+    "description": "In my feelings challenge  ft. Est\u00e9e Lauder Advanced Night Repair Eye Supercharged Complex.",
+    "referenceId": "8e5bb9bf0459cd0e8e4644198fe3e0f0",
+    "date_created": "1532709510",
+    "date_modified": "1532710086",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "25",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213147",
+    "product_category": "beauty",
+    "id": "167916849",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "b03cf9f5-d0f7-426b-8ca2-e433b3a7e05d",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "37",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "37",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "37",
+        "prettyDuration": "00:00:37",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/167916849\/thumbnail\/image-thumbnail-640-76d91dd02cb1964b48cbdf8077e800b2.jpg",
+        "type": "mp4",
+        "assetId": 167916849,
+        "assetTitle": "Est\u00e9e Lauder",
+        "assetTitleTextEncoded": "b03cf9f5-d0f7-426b-8ca2-e433b3a7e05d",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 167916849,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167916849\/9f4c6\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167916849\/9f4c6\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167916849\/9f4c6\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167916849\/9f4c6\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167916849\/9f4c6\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/167916849\/9f4c6\/thumb-8e5bb9bf0459cd0e8e4644198fe3e0f0-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/167916849\/user-images\/image-1280-195b36a51deda8aa3620e58921c95c01.jpg",
+            "\/\/v.tvpage.com\/1759121\/167916849\/9f4c6\/thumb-8e5bb9bf0459cd0e8e4644198fe3e0f0-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/167916849\/user-images\/image-1280-195b36a51deda8aa3620e58921c95c01.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/167916849\/thumbnail\/image-thumbnail-256-232e82c0d9d5e900bd619e390c177bf6.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/167916849\/thumbnail\/image-thumbnail-480-a1c7565a6e2bd73cd1ad00942ff681cd.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/167916849\/thumbnail\/image-thumbnail-640-76d91dd02cb1964b48cbdf8077e800b2.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/167916849\/thumbnail\/image-thumbnail-1280-015ee113effdaadcfc4e1b0ab9918a20.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-08-09"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

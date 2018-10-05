@@ -1,0 +1,97 @@
+{
+    "title": "Got Your 6 and Maxi Dresses",
+    "description": "This video shows a got your 6 event from June 28 to July 8 and some misses maxi dresses.",
+    "referenceId": "4b41a22fb848f16549299a636d43215f",
+    "date_created": "1530451152",
+    "date_modified": "1530452234",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "13",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213180",
+    "product_category": "women",
+    "id": "165356058",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "6dca8ed9-c93a-4094-b375-c334832e64b9",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "86",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "86",
+            "width": 568,
+            "height": 320
+        },
+        "mediaDuration": "86",
+        "prettyDuration": "00:01:26",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/165356058\/83d26\/thumb-4b41a22fb848f16549299a636d43215f-00002.jpg",
+        "type": "mp4",
+        "assetId": "165356058",
+        "assetTitle": "Got Your 6 andMaxi Dresses",
+        "assetTitleTextEncoded": "6dca8ed9-c93a-4094-b375-c334832e64b9",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "165356058",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165356058\/83d26\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165356058\/83d26\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165356058\/83d26\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165356058\/83d26\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165356058\/83d26\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-07-28"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Reifenh\u00e4user Indiana University \u2013 Purdue University Fort Wayne",
+    "tvp_enhanced_transcript": null
+}

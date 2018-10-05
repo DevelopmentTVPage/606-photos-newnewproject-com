@@ -1,0 +1,93 @@
+{
+    "title": "Alfani Cropped Jumpsuit",
+    "description": "Feeling great in this Alfani Cropped Jumpsuit!! It has cold shoulders to give it that extra chic and great to wear day or evening!!",
+    "referenceId": "44e8b2277d0f10a632c04013bbb5594f",
+    "date_created": "1530983848",
+    "date_modified": "1530984521",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "17",
+    "engagement_score": "1",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213194",
+    "product_category": "women",
+    "id": "166659177",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "087df23a-6d18-48de-819c-ca6296a2e9f0",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "25",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "25",
+            "width": 480,
+            "height": 480
+        },
+        "mediaDuration": "25",
+        "prettyDuration": "00:00:25",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/166659177\/81482\/thumb-44e8b2277d0f10a632c04013bbb5594f-00002.jpg",
+        "type": "mp4",
+        "assetId": "166659177",
+        "assetTitle": "087DF23A-6D18-48DE-819C-CA6296A2E9F0",
+        "assetTitleTextEncoded": "087df23a-6d18-48de-819c-ca6296a2e9f0",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "166659177",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/166659177\/81482\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/166659177\/81482\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/166659177\/81482\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/166659177\/81482\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/166659177\/81482\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-07-25\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

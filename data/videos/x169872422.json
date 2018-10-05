@@ -1,0 +1,107 @@
+{
+    "title": "Free People @macys",
+    "description": "Free People, Free Flowing, Fashionable, Fancy style for the FREE STYLE BOHO WOMAN. Dresses, Jeans, blouses, lace undergarments, sweaters, and jackets are sure to make you stand out from tne crowd!",
+    "referenceId": "71964bab5f50f0f1148232f9d68fb157",
+    "date_created": "1533771634",
+    "date_modified": "1534131908",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "10",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213453",
+    "product_category": "women",
+    "id": "169872422",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "20180808-155650",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "84",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "84",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "84",
+        "prettyDuration": "00:01:24",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/169872422\/thumbnail\/image-thumbnail-480-9fcf3d6cb00460c0bddb0645abd3cb79.jpg",
+        "type": "mp4",
+        "assetId": "169872422",
+        "assetTitle": "Free People",
+        "assetTitleTextEncoded": "20180808-155650",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "169872422",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/169872422\/a90c5\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/169872422\/a90c5\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/169872422\/a90c5\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/169872422\/a90c5\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/169872422\/a90c5\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/169872422\/a90c5\/thumb-71964bab5f50f0f1148232f9d68fb157-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/169872422\/user-images\/image-608-d1c0b41a7bc3b5e3a7870d8e7a419fc5.jpg",
+            "\/\/v.tvpage.com\/1759121\/169872422\/a90c5\/thumb-71964bab5f50f0f1148232f9d68fb157-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/169872422\/user-images\/image-608-d1c0b41a7bc3b5e3a7870d8e7a419fc5.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/169872422\/thumbnail\/image-thumbnail-256-8d0a090d518e4f5f61fb76a908bc9ca6.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/169872422\/thumbnail\/image-thumbnail-480-9fcf3d6cb00460c0bddb0645abd3cb79.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-14"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

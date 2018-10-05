@@ -1,0 +1,115 @@
+{
+    "title": "Macy\u2019s Style Crew Calvin Klein Bralettes",
+    "description": "This video has some bralettes and wire free Calvin Klein",
+    "referenceId": "8ca27a64a3f680abf26e23d165d07525",
+    "date_created": "1535933262",
+    "date_modified": "1535934669",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "13",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213180",
+    "product_category": "women",
+    "id": "176833353",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "cc479229-fb77-4294-a8f8-66c0c277e586",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "68",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "68",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "68",
+        "prettyDuration": "00:01:08",
+        "automaticThumbnailsPattern": "1759121\/176833353\/4eab9\/thumb-8ca27a64a3f680abf26e23d165d07525-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/176833353\/4eab9\/thumb-8ca27a64a3f680abf26e23d165d07525-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/176833353\/4eab9\/thumb-8ca27a64a3f680abf26e23d165d07525-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/176833353\/4eab9\/thumb-8ca27a64a3f680abf26e23d165d07525-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/176833353\/4eab9\/thumb-8ca27a64a3f680abf26e23d165d07525-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/176833353\/4eab9\/thumb-8ca27a64a3f680abf26e23d165d07525-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/176833353\/4eab9\/thumb-8ca27a64a3f680abf26e23d165d07525-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/176833353\/thumbnail\/image-thumbnail-256-6d987e2c1e4f9da8073f75b5a2dc9c88.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/176833353\/thumbnail\/image-thumbnail-480-6ceaab0dbbd28368eb55ea388ec764f0.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/176833353\/thumbnail\/image-thumbnail-640-5d194e50bc63fabc546a58397f4d33d4.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/176833353\/thumbnail\/image-thumbnail-1280-42ae26ea5f09e9276fa1a05c5aec093d.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/176833353\/4eab9\/thumb-8ca27a64a3f680abf26e23d165d07525-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/176833353\/thumbnail\/image-thumbnail-640-5d194e50bc63fabc546a58397f4d33d4.jpg",
+        "type": "mp4",
+        "assetId": "176833353",
+        "assetTitle": "CC479229-FB77-4294-A8F8-66C0C277E586",
+        "assetTitleTextEncoded": "cc479229-fb77-4294-a8f8-66c0c277e586",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "176833353",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176833353\/4eab9\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176833353\/4eab9\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176833353\/4eab9\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176833353\/4eab9\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176833353\/4eab9\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/176833353\/4eab9\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/176833353\/4eab9\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-08"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "CK",
+    "tvp_enhanced_transcript": null
+}

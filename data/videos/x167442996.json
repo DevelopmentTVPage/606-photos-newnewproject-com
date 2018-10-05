@@ -1,0 +1,107 @@
+{
+    "title": "Farmhouse Style",
+    "description": "Latest picks from your favorite farmhouse decor place.",
+    "referenceId": "a75867de8b57ab7408a0927960593c43",
+    "date_created": "1532211307",
+    "date_modified": "1532212459",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "28",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213205",
+    "product_category": "bed_bath",
+    "id": "167442996",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "66a32edd-3845-44cc-847c-9ddbe2d8eeec",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "18",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "18",
+            "width": 480,
+            "height": 480
+        },
+        "mediaDuration": "18",
+        "prettyDuration": "00:00:18",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/167442996\/thumbnail\/image-thumbnail-480-c6dd552cd386ff2627b980b18cd20c72.jpg",
+        "type": "mp4",
+        "assetId": "167442996",
+        "assetTitle": "66A32EDD-3845-44CC-847C-9DDBE2D8EEEC",
+        "assetTitleTextEncoded": "66a32edd-3845-44cc-847c-9ddbe2d8eeec",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "167442996",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167442996\/a2f52\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167442996\/a2f52\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167442996\/a2f52\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167442996\/a2f52\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167442996\/a2f52\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/167442996\/a2f52\/thumb-a75867de8b57ab7408a0927960593c43-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/167442996\/user-images\/image-480-f5c424ec2e98e07b916cd600e8531976.jpg",
+            "\/\/v.tvpage.com\/1759121\/167442996\/a2f52\/thumb-a75867de8b57ab7408a0927960593c43-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/167442996\/user-images\/image-480-f5c424ec2e98e07b916cd600e8531976.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/167442996\/thumbnail\/image-thumbnail-256-09d671ac987b54097832a39204a6a299.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/167442996\/thumbnail\/image-thumbnail-480-c6dd552cd386ff2627b980b18cd20c72.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-08"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Macy's",
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,113 @@
+{
+    "title": "Estee Lauder Makeup Must-Haves",
+    "description": "I mean, let's be honest, who haven't heard of Double Wear?! No matter whether you are a fan of Estee Lauder or not, you have to at least heard of the infamous foundation before. I, myself, am a huge fan of it! Aside from that, here are some of my top recommendations for you, give it a shot while they are in free gift with purchase!\n\nFollow me on Instagram for more: @janie.hong",
+    "referenceId": "1d8c73aa2bf53a6d61c9ee3a49ba3334",
+    "date_created": "1536696679",
+    "date_modified": "1536790727",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "2",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213220",
+    "product_category": "beauty",
+    "id": "177301985",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "estee-lauder-makeup-must-haves",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "LONG",
+    "duration": "417",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "417",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "417",
+        "prettyDuration": "00:06:57",
+        "automaticThumbnailsPattern": "1759121\/177301985\/03ab6\/thumb-1d8c73aa2bf53a6d61c9ee3a49ba3334-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/177301985\/user-images\/image-1200-edf9e4a43e554009727bea026894ee51.jpg",
+            "\/\/v.tvpage.com\/1759121\/177301985\/03ab6\/thumb-1d8c73aa2bf53a6d61c9ee3a49ba3334-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/177301985\/03ab6\/thumb-1d8c73aa2bf53a6d61c9ee3a49ba3334-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/177301985\/03ab6\/thumb-1d8c73aa2bf53a6d61c9ee3a49ba3334-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/177301985\/03ab6\/thumb-1d8c73aa2bf53a6d61c9ee3a49ba3334-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/177301985\/03ab6\/thumb-1d8c73aa2bf53a6d61c9ee3a49ba3334-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/177301985\/03ab6\/thumb-1d8c73aa2bf53a6d61c9ee3a49ba3334-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/177301985\/thumbnail\/image-thumbnail-256-1f170010226e77d8f48b055fa8a531d1.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/177301985\/thumbnail\/image-thumbnail-480-0c156addd58f2749290d6f14e165ced0.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/177301985\/thumbnail\/image-thumbnail-640-b126af56a9d01fcbd19109d9129814f1.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/177301985\/user-images\/image-1200-edf9e4a43e554009727bea026894ee51.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/177301985\/thumbnail\/image-thumbnail-640-b126af56a9d01fcbd19109d9129814f1.jpg",
+        "type": "mp4",
+        "assetId": "177301985",
+        "assetTitle": "Estee Lauder Makeup Must-Haves",
+        "assetTitleTextEncoded": "estee-lauder-makeup-must-haves",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "177301985",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177301985\/03ab6\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177301985\/03ab6\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177301985\/03ab6\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177301985\/03ab6\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177301985\/03ab6\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-14"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,100 @@
+{
+    "title": "Macy's July Beauty Box",
+    "description": "If you haven't subscribed to our Macy's beauty box yet you are definitely missing out! This month you got a $10 COUPON towards your next beauty purchase!!!  PRACTICALLY FREE :)",
+    "referenceId": "2a85d853dd91d76437d2c99a41f33501",
+    "date_created": "1531341902",
+    "date_modified": "1531342706",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "364",
+    "engagement_score": "10",
+    "conversion_score": null,
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213304",
+    "product_category": "beauty",
+    "id": "166757449",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "macy-s-july-beauty-box",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "LONG",
+    "duration": "476",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "476",
+            "width": 1080,
+            "height": 608
+        },
+        "mediaDuration": "476",
+        "prettyDuration": "00:07:56",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/166757449\/cd223\/thumb-2a85d853dd91d76437d2c99a41f33501-00002.jpg",
+        "type": "mp4",
+        "assetId": 166757449,
+        "assetTitle": "Macy's July Beauty Box",
+        "assetTitleTextEncoded": "macy-s-july-beauty-box",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 166757449,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/166757449\/cd223\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1080,
+                "height": 608
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/166757449\/cd223\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1080,
+                "height": 608
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/166757449\/cd223\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/166757449\/cd223\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/166757449\/cd223\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-08-09"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-08-18"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Black market XS Power Casino",
+    "tvp_enhanced_transcript": null
+}

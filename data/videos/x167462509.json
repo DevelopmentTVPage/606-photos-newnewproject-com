@@ -1,0 +1,99 @@
+{
+    "title": "Floral Match Set- Just a Taste of Fashion",
+    "description": "Co-ord sets are perfect for the summer because you can easily mix and match for different occasions. The asymmetrical ruffle wrap skirt is light & flowy and can easily pair with a t-shirt, while the off the shoulder top is on trend and can style with denim bottoms for a more relaxed look. I completed the outfit with a pair of INC beaded earrings and an orange wedge for a pop of color. \nShop the exact products below\nTop: 6278831\nSkirt: 6278826\nEarrings: 5936268",
+    "referenceId": "d22e9428fe3fdfadc920de7eff211493",
+    "date_created": "1532312501",
+    "date_modified": "1532444774",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "95",
+    "engagement_score": "5",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213245",
+    "product_category": "women",
+    "id": "167462509",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "0e0ff7af-272d-466c-b997-142542174a84",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "81",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "81",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "81",
+        "prettyDuration": "00:01:21",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/167462509\/f57fd\/thumb-d22e9428fe3fdfadc920de7eff211493-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/167462509\/f57fd\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/167462509\/f57fd\/media.m3u8",
+        "assetId": 167462509,
+        "assetTitle": "Floral Match Set- Just a Taste of Fashion",
+        "assetTitleTextEncoded": "0e0ff7af-272d-466c-b997-142542174a84",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 167462509,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167462509\/f57fd\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167462509\/f57fd\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167462509\/f57fd\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167462509\/f57fd\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167462509\/f57fd\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-07-28"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Alabama",
+    "tvp_enhanced_transcript": null
+}

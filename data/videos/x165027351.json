@@ -1,0 +1,99 @@
+{
+    "title": "Pride & PROUD",
+    "description": "Katie Melching BEATS my face for Cincinnati Pride! :)",
+    "referenceId": "2650b773c739a1bd07fd33c75bde78f6",
+    "date_created": "1529893342",
+    "date_modified": "1529894680",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "594",
+    "engagement_score": "30",
+    "conversion_score": "2",
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213304",
+    "product_category": "beauty",
+    "id": "165027351",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "pride-proud",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "189",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "189",
+            "width": 1080,
+            "height": 608
+        },
+        "mediaDuration": "189",
+        "prettyDuration": "00:03:09",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/165027351\/5ea9c\/thumb-2650b773c739a1bd07fd33c75bde78f6-00002.jpg",
+        "type": "mp4",
+        "assetId": "165027351",
+        "assetTitle": "Pride & PROUD",
+        "assetTitleTextEncoded": "pride-proud",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "165027351",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165027351\/5ea9c\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1080,
+                "height": 608
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165027351\/5ea9c\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1080,
+                "height": 608
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165027351\/5ea9c\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165027351\/5ea9c\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165027351\/5ea9c\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/165027351\/5ea9c\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/165027351\/5ea9c\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-08-09"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Youthprise",
+    "tvp_enhanced_transcript": null
+}

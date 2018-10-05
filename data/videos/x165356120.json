@@ -1,0 +1,97 @@
+{
+    "title": "Cutting Some Crystal",
+    "description": "Watch as I learn and new skill!  Turns out, cutting crystal is incredibly difficult....I have the utmost respect for these incredible artists at the House of Waterford Crystal.  Thank you for showing me how it is all made!",
+    "referenceId": "15a2ffdade219011a4dc217707ff6e1f",
+    "date_created": "1530487353",
+    "date_modified": "1530488535",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "39",
+    "engagement_score": "2",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213463",
+    "product_category": "bed_bath",
+    "id": "165356120",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "1d85a602-98a7-4e71-9e74-147aa1df6310",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "37",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "37",
+            "width": 480,
+            "height": 480
+        },
+        "mediaDuration": "37",
+        "prettyDuration": "00:00:37",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/165356120\/c957a\/thumb-15a2ffdade219011a4dc217707ff6e1f-00002.jpg",
+        "type": "mp4",
+        "assetId": "165356120",
+        "assetTitle": "1D85A602-98A7-4E71-9E74-147AA1DF6310",
+        "assetTitleTextEncoded": "1d85a602-98a7-4e71-9e74-147aa1df6310",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "165356120",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165356120\/c957a\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165356120\/c957a\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165356120\/c957a\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165356120\/c957a\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165356120\/c957a\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-08-12"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

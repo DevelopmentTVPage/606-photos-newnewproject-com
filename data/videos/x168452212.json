@@ -1,0 +1,113 @@
+{
+    "title": "Asymmetrical Dress",
+    "description": "I got this in last act! It\u2019s a beautiful cut and all the Alfani Asymmetrical dress cuts are similar! The WEB ID for this one is 5644429 but There are also 4 similar ones recommended! Easy to wear, nice flow for day or night!",
+    "referenceId": "99dcac4857096615a0385748cf63e15d",
+    "date_created": "1532995312",
+    "date_modified": "1533073533",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "74",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213194",
+    "product_category": "women",
+    "id": "168452212",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "ac03d4c0-c5e8-4e66-a7af-47cbc19e8f6a",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "54",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "54",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "54",
+        "prettyDuration": "00:00:54",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/168452212\/thumbnail\/image-thumbnail-640-fddd0c8ef3545623bb51f953bee9f18f.jpg",
+        "type": "mp4",
+        "assetId": "168452212",
+        "assetTitle": "Alfani Asymmetrical Dress",
+        "assetTitleTextEncoded": "ac03d4c0-c5e8-4e66-a7af-47cbc19e8f6a",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "168452212",
+            "li": "1759121"
+        },
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/168452212\/adf3a\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/168452212\/adf3a\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168452212\/adf3a\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168452212\/adf3a\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168452212\/adf3a\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168452212\/adf3a\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168452212\/adf3a\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/168452212\/adf3a\/thumb-99dcac4857096615a0385748cf63e15d-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/168452212\/user-images\/image-1280-42790962480973787bd19ebdbc58d5fc.jpg",
+            "\/\/v.tvpage.com\/1759121\/168452212\/adf3a\/thumb-99dcac4857096615a0385748cf63e15d-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/168452212\/user-images\/image-1280-42790962480973787bd19ebdbc58d5fc.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/168452212\/thumbnail\/image-thumbnail-256-57b7f8e4c2e2f2ce1ac877304162a96b.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/168452212\/thumbnail\/image-thumbnail-480-4b3f2bc60599a38f9a5a0f33de43a343.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/168452212\/thumbnail\/image-thumbnail-640-fddd0c8ef3545623bb51f953bee9f18f.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/168452212\/thumbnail\/image-thumbnail-1280-8935636ae90b6b64f01f05a02663779f.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-08-09"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,108 @@
+{
+    "title": "Wacoal Summer 2018 Launches",
+    "description": "Who said you can't be sexy and comfortable at the same time? Introducing Wacoal's newest launch, Wacoal Vivid Encounter line! Exquisite lace delicately adorns the cups of this bra, with a convertible J-hook to match your favorite top. Plus, choose a matching panty, or panties, from bikini to thong!\n\nBra WEB ID: 6343833\nBikini WEB ID: 6343832\nThong WEB ID: 6343863\n\nFollow me on Instagram for more: @janie.hong",
+    "referenceId": "7fd21540228df56b840f2923caec3911",
+    "date_created": "1528937757",
+    "date_modified": "1528938965",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "236",
+    "engagement_score": "14",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213220",
+    "product_category": "women",
+    "id": "164879244",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "wacoal-new-launches",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "43",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "43",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "43",
+        "prettyDuration": "00:00:43",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164879244\/thumbnail\/image-thumbnail-640-b973b9c3d8c02bba57093cc9fcb33eb0.jpg",
+        "type": "mp4",
+        "assetId": "164879244",
+        "assetTitle": "Wacoal New Launches",
+        "assetTitleTextEncoded": "wacoal-new-launches",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164879244",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164879244\/f9649\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164879244\/f9649\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164879244\/f9649\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164879244\/f9649\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164879244\/f9649\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/164879244\/f9649\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/164879244\/f9649\/media.m3u8",
+        "automaticThumbnailsPattern": "1759121\/164879244\/f9649\/thumb-7fd21540228df56b840f2923caec3911-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/164879244\/user-images\/image-1920-115f5abbcd8e0da9d1acc0ee9a974571.jpg",
+            "\/\/v.tvpage.com\/1759121\/164879244\/f9649\/thumb-7fd21540228df56b840f2923caec3911-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/164879244\/user-images\/image-1920-115f5abbcd8e0da9d1acc0ee9a974571.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/164879244\/thumbnail\/image-thumbnail-256-b2d38326ffd61ee9672768a09208cb60.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/164879244\/thumbnail\/image-thumbnail-480-4aa77d1e6473da8c8b065ed1f3243dab.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/164879244\/thumbnail\/image-thumbnail-640-b973b9c3d8c02bba57093cc9fcb33eb0.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/164879244\/thumbnail\/image-thumbnail-1280-aadd14feccf6d569db4a9a3d8769d662.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/164879244\/thumbnail\/image-thumbnail-1920-0d1f46e6f102358229b1bb546563a4ed.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-07-25\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,99 @@
+{
+    "title": "Jacqueline Palmer\/DKNY luggage",
+    "description": "DKNY luggage exclusive to Macy\u2019s, hardsided spinner design. Four colors, 20\u201d, 24\u201d and 28\u201d sizes. Love the quilted backpack and duffle! #macysstylecrew #luggage #vacation #dkny #travel #carryon",
+    "referenceId": "f2b7545a88831270468947f8f3893546",
+    "date_created": "1529711062",
+    "date_modified": "1529714108",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "41",
+    "engagement_score": "1",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213201",
+    "product_category": "handbags",
+    "id": "165017395",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "92d85fc7-8d80-48c5-95ba-1cbbb1a790dc",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "58",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "58",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "58",
+        "prettyDuration": "00:00:58",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1759121\/canvas\/1920\/1080\/220314051-1529714107.jpg",
+        "type": "mp4",
+        "assetId": "165017395",
+        "assetTitle": "92D85FC7-8D80-48C5-95BA-1CBBB1A790DC",
+        "assetTitleTextEncoded": "92d85fc7-8d80-48c5-95ba-1cbbb1a790dc",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "165017395",
+            "li": "1759121"
+        },
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165017395\/992d9\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165017395\/992d9\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165017395\/992d9\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165017395\/992d9\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165017395\/992d9\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Buzzispace Delinero Chi and Partners Aceros Levinson CE Consulting Hammer Gereja Utusan Pantekosta Everything Zoomer",
+    "tvp_enhanced_transcript": null
+}

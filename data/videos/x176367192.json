@@ -1,0 +1,117 @@
+{
+    "title": "@saystheart : A casual day out!",
+    "description": "SMILE! Autumn is just around the corner! Black, white, and red all over!",
+    "referenceId": "3d7b2942d2373c06e3c716dff8aef7d6",
+    "date_created": "1535587002",
+    "date_modified": "1535587640",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "23",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "3",
+    "video_type": null,
+    "user_id": "213274",
+    "product_category": "juniors",
+    "id": "176367192",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "received-722147731463482",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "37",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "37",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "37",
+        "prettyDuration": "00:00:37",
+        "automaticThumbnailsPattern": "1759121\/176367192\/e24dc\/thumb-3d7b2942d2373c06e3c716dff8aef7d6-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/176367192\/e24dc\/thumb-3d7b2942d2373c06e3c716dff8aef7d6-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/176367192\/e24dc\/thumb-3d7b2942d2373c06e3c716dff8aef7d6-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/176367192\/e24dc\/thumb-3d7b2942d2373c06e3c716dff8aef7d6-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/176367192\/e24dc\/thumb-3d7b2942d2373c06e3c716dff8aef7d6-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/176367192\/e24dc\/thumb-3d7b2942d2373c06e3c716dff8aef7d6-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/176367192\/e24dc\/thumb-3d7b2942d2373c06e3c716dff8aef7d6-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/176367192\/thumbnail\/image-thumbnail-256-d8cc2d3c21ffae8ebb8f331452874ff2.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/176367192\/thumbnail\/image-thumbnail-480-8206a6a58cb09f795ef064f127c2b1ec.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/176367192\/thumbnail\/image-thumbnail-640-b98b0c9e64a0f16c458d2f7e3e649175.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/176367192\/thumbnail\/image-thumbnail-1280-3a16d350706422de33e60decc1cf619b.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/176367192\/thumbnail\/image-thumbnail-1920-d90b973b600e2c78e4818c9871f15c33.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/176367192\/e24dc\/thumb-3d7b2942d2373c06e3c716dff8aef7d6-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/176367192\/thumbnail\/image-thumbnail-640-b98b0c9e64a0f16c458d2f7e3e649175.jpg",
+        "type": "mp4",
+        "assetId": "176367192",
+        "assetTitle": "@saystheart : CaydeeCat",
+        "assetTitleTextEncoded": "received-722147731463482",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "176367192",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176367192\/e24dc\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176367192\/e24dc\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176367192\/e24dc\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176367192\/e24dc\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176367192\/e24dc\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-02"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-09-02"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

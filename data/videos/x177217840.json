@@ -1,0 +1,120 @@
+{
+    "title": "Sporty Jumpsuit with Adrianne",
+    "description": "Tapping into this sporty chic number",
+    "referenceId": "37bcdacdf6d37f1c9fee6b569ac02515",
+    "date_created": "1536600227",
+    "date_modified": "1536612763",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "10",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213329",
+    "product_category": "women",
+    "id": "177217840",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "striped-jumpsuit-with-adrianne",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "34",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "34",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "34",
+        "prettyDuration": "00:00:34",
+        "automaticThumbnailsPattern": "1759121\/177217840\/4b2e1\/thumb-37bcdacdf6d37f1c9fee6b569ac02515-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/177217840\/4b2e1\/thumb-37bcdacdf6d37f1c9fee6b569ac02515-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/177217840\/4b2e1\/thumb-37bcdacdf6d37f1c9fee6b569ac02515-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/177217840\/4b2e1\/thumb-37bcdacdf6d37f1c9fee6b569ac02515-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/177217840\/4b2e1\/thumb-37bcdacdf6d37f1c9fee6b569ac02515-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/177217840\/4b2e1\/thumb-37bcdacdf6d37f1c9fee6b569ac02515-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/177217840\/4b2e1\/thumb-37bcdacdf6d37f1c9fee6b569ac02515-00001.jpg",
+            "\/\/v.tvpage.com\/1759121\/177217840\/4f960\/thumb-37bcdacdf6d37f1c9fee6b569ac02515-00001.jpg",
+            "\/\/v.tvpage.com\/1759121\/177217840\/4f960\/thumb-37bcdacdf6d37f1c9fee6b569ac02515-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/177217840\/4f960\/thumb-37bcdacdf6d37f1c9fee6b569ac02515-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/177217840\/4f960\/thumb-37bcdacdf6d37f1c9fee6b569ac02515-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/177217840\/4f960\/thumb-37bcdacdf6d37f1c9fee6b569ac02515-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/177217840\/4f960\/thumb-37bcdacdf6d37f1c9fee6b569ac02515-00006.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/177217840\/thumbnail\/image-thumbnail-256-a87e97e829a2491bd44b7370af2155a5.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/177217840\/thumbnail\/image-thumbnail-480-d5a9eade16241b696d60f7c4e2a6e684.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/177217840\/thumbnail\/image-thumbnail-640-e96b685da775ee26d89a1bce501f60e1.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/177217840\/thumbnail\/image-thumbnail-1280-1530b963a21098b7bb33a5d2b8df8546.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/177217840\/thumbnail\/image-thumbnail-1920-59e8726e7a42f8573cb7679080799187.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/177217840\/4f960\/thumb-37bcdacdf6d37f1c9fee6b569ac02515-00004.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/177217840\/thumbnail\/image-thumbnail-640-e96b685da775ee26d89a1bce501f60e1.jpg",
+        "type": "mp4",
+        "assetId": 177217840,
+        "assetTitle": "Sporty Jumpsuit with Adrianne",
+        "assetTitleTextEncoded": "striped-jumpsuit-with-adrianne",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 177217840,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177217840\/4b2e1\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177217840\/4b2e1\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177217840\/4b2e1\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177217840\/4b2e1\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177217840\/4b2e1\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

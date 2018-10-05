@@ -1,0 +1,97 @@
+{
+    "title": "Workout Essentials from commit to fit with stacey",
+    "description": "My TOP 5 Workout Essentials:\nNike Crop Top - Who doesn't love bright colors?  Also it's on SALE!\nNike Dri-FIT Shorts - A necessity when it's HOT outside and in the gym\nNike Air Zoom Pegasus Sneakers - The MOST comfortable gym shoe you'll EVER wear\nApple Watch - To track your workout\nBeats Wireless Earbuds - Because a good playlist is a MUST\nFollow me on instagram @commit_to_fit_with_stacey or on Facebook @ Strength+Style and let me know what you think about my top 5 workout essentials!",
+    "referenceId": "8aa7fb0a64c8e214900d9794b79f9062",
+    "date_created": "1529504965",
+    "date_modified": "1529525617",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "12",
+    "engagement_score": "1",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213110",
+    "product_category": "active",
+    "id": "164988092",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "commit-to-fit-with-stacey",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "25",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "25",
+            "width": 720,
+            "height": 720
+        },
+        "mediaDuration": "25",
+        "prettyDuration": "00:00:25",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164988092\/5fc32\/thumb-8aa7fb0a64c8e214900d9794b79f9062-00002.jpg",
+        "type": "mp4",
+        "assetId": "164988092",
+        "assetTitle": "Commit_to_fit_with_Stacey",
+        "assetTitleTextEncoded": "commit-to-fit-with-stacey",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164988092",
+            "li": "1759121"
+        },
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/164988092\/5fc32\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/164988092\/5fc32\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164988092\/5fc32\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164988092\/5fc32\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164988092\/5fc32\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164988092\/5fc32\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164988092\/5fc32\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-07-25\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Fysiotherapie de Essen",
+    "tvp_enhanced_transcript": null
+}

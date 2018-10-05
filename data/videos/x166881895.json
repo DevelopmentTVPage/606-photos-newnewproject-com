@@ -1,0 +1,113 @@
+{
+    "title": "Beach Getaway- Just a Taste of Fashion",
+    "description": "Beach season is in full swing! Watch my video for my go-to summer products. \nFind all the products style #'s below -->\nDress:6203363\nJumpsuit: 5935878\nHat: 5627565\nSunglasses: 5735086\nSwimsuit: 6053465\nBag: 6012679",
+    "referenceId": "817970c03db02c4b1073e4c4e3d9ef0b",
+    "date_created": "1531496383",
+    "date_modified": "1535036698",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "189",
+    "engagement_score": "8",
+    "conversion_score": null,
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213245",
+    "product_category": "women",
+    "id": "166881895",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "1-beach-getaway-1080",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "101",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "101",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "101",
+        "prettyDuration": "00:01:41",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/166881895\/thumbnail\/image-thumbnail-640-81f22846164c23d8f94fa098b5bffd93.jpg",
+        "type": "mp4",
+        "assetId": "166881895",
+        "assetTitle": "Beach Getaway- Just a Taste of Fashion",
+        "assetTitleTextEncoded": "1-beach-getaway-1080",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "166881895",
+            "li": "1759121"
+        },
+        "automaticThumbnailsPattern": "1759121\/166881895\/55d6e\/thumb-817970c03db02c4b1073e4c4e3d9ef0b-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/166881895\/user-images\/image-1038-e950fc973e45f62d3392cc15f7893e76.jpg",
+            "\/\/v.tvpage.com\/1759121\/166881895\/user-images\/image-595-c1bf038e80700fb214803d9a901e71bc.jpg",
+            "\/\/v.tvpage.com\/1759121\/166881895\/user-images\/image-1920-2622bf686a7390280fa8af08ae5c800f.jpg",
+            "\/\/v.tvpage.com\/1759121\/166881895\/55d6e\/thumb-817970c03db02c4b1073e4c4e3d9ef0b-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/166881895\/user-images\/image-1038-e950fc973e45f62d3392cc15f7893e76.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/166881895\/thumbnail\/image-thumbnail-256-0703c10be1663f7d18f0d5c4a7f11cc6.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/166881895\/thumbnail\/image-thumbnail-480-7bb315ce187d8e0e8b530583adc0c5a1.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/166881895\/thumbnail\/image-thumbnail-640-81f22846164c23d8f94fa098b5bffd93.jpg"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/166881895\/55d6e\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/166881895\/55d6e\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/166881895\/55d6e\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/166881895\/55d6e\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/166881895\/55d6e\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-07-28"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-07-28"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Alabama",
+    "tvp_enhanced_transcript": null
+}

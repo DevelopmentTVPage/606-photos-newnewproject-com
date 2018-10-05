@@ -1,0 +1,108 @@
+{
+    "title": "BAR III DRESS HAUL - QUICK VID",
+    "description": "BAR III SUMMER DRESSES - TOP PICKS BY LAYLA TAREMI",
+    "referenceId": "567e886a9790950d3d12ccd8721ab3f1",
+    "date_created": "1534184354",
+    "date_modified": "1534184407",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "7",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213426",
+    "product_category": "women",
+    "id": "170633137",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "layla-haul-cutdown",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "8",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "8",
+            "width": 1080,
+            "height": 1080
+        },
+        "mediaDuration": "8",
+        "prettyDuration": "00:00:08",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/170633137\/thumbnail\/image-thumbnail-640-44e5e56994ccb0d3d51e8dd9a99ba5ac.jpg",
+        "type": "mp4",
+        "assetId": "170633137",
+        "assetTitle": "Layla Haul Cutdown",
+        "assetTitleTextEncoded": "layla-haul-cutdown",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "170633137",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170633137\/c2797\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1080,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170633137\/c2797\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170633137\/c2797\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170633137\/c2797\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170633137\/c2797\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/170633137\/c2797\/thumb-567e886a9790950d3d12ccd8721ab3f1-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/170633137\/user-images\/image-1080-dee388ad9f1d3fde1910013f99309757.jpg",
+            "\/\/v.tvpage.com\/1759121\/170633137\/c2797\/thumb-567e886a9790950d3d12ccd8721ab3f1-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/170633137\/user-images\/image-1080-dee388ad9f1d3fde1910013f99309757.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/170633137\/thumbnail\/image-thumbnail-256-072ff5aeceb26b2119e31959d8440d76.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/170633137\/thumbnail\/image-thumbnail-480-8d241d6768fad9e7802fe2adf90a49b5.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/170633137\/thumbnail\/image-thumbnail-640-44e5e56994ccb0d3d51e8dd9a99ba5ac.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-11"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

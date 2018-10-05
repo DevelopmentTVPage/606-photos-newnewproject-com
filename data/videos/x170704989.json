@@ -1,0 +1,99 @@
+{
+    "title": "BCBG Generation",
+    "description": "BCBG Generation has arrived at Macy\u2019s Sugarland \nCall or DM me for details or to schedule your appointment.",
+    "referenceId": "4a61f911e1e63d4430f749dd7b4d62e5",
+    "date_created": "1534303308",
+    "date_modified": "1534304652",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "5",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213525",
+    "product_category": "women",
+    "id": "170704989",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "78572745-6616-469c-a941-21c4770de969",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "60",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "60",
+            "width": 480,
+            "height": 480
+        },
+        "mediaDuration": "60",
+        "prettyDuration": "00:01:00",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/170704989\/75747\/thumb-4a61f911e1e63d4430f749dd7b4d62e5-00002.jpg",
+        "type": "mp4",
+        "assetId": "170704989",
+        "assetTitle": "78572745-6616-469C-A941-21C4770DE969",
+        "assetTitleTextEncoded": "78572745-6616-469c-a941-21c4770de969",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "170704989",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170704989\/75747\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170704989\/75747\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170704989\/75747\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170704989\/75747\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170704989\/75747\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/170704989\/75747\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/170704989\/75747\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-11"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

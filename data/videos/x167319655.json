@@ -1,0 +1,103 @@
+{
+    "title": "Bronze Goddess Collection",
+    "description": "",
+    "referenceId": "f7b25158ed0c2dd5f9d4009ce1acd900",
+    "date_created": "1531758954",
+    "date_modified": "1531760037",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213442",
+    "product_category": "beauty",
+    "id": "167319655",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "f9e40e84-cab9-483a-8d0a-18816c3bf445",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "5",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "5",
+            "width": 480,
+            "height": 480
+        },
+        "mediaDuration": "5",
+        "prettyDuration": "00:00:05",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/167319655\/thumbnail\/image-thumbnail-480-fa304b982939ea25b6978f089e5406b6.jpg",
+        "type": "mp4",
+        "assetId": "167319655",
+        "assetTitle": "Bronze Goddess favorites",
+        "assetTitleTextEncoded": "f9e40e84-cab9-483a-8d0a-18816c3bf445",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "167319655",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167319655\/96791\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167319655\/96791\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167319655\/96791\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167319655\/96791\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167319655\/96791\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/167319655\/96791\/thumb-f7b25158ed0c2dd5f9d4009ce1acd900-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/167319655\/user-images\/image-480-deafffbe862177ab5fa38304afc124e6.jpg",
+            "\/\/v.tvpage.com\/1759121\/167319655\/96791\/thumb-f7b25158ed0c2dd5f9d4009ce1acd900-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/167319655\/user-images\/image-480-deafffbe862177ab5fa38304afc124e6.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/167319655\/thumbnail\/image-thumbnail-256-8c68197dae19ad139d5d01a6732bd8f0.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/167319655\/thumbnail\/image-thumbnail-480-fa304b982939ea25b6978f089e5406b6.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-07-25\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

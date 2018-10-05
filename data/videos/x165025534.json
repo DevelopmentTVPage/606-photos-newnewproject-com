@@ -1,0 +1,93 @@
+{
+    "title": "\u201cQuick Clips\u201d - Clear Improvement Charcoal Honey Mask",
+    "description": "BRAND NEW from Origins! If you\u2019re a fan of Origin\u2019s Clear Improvement Mask, then you\u2019re going to love this new addition! It\u2019s Clear Improvement infused with HONEY! It leaves your skin so silky smooth, and purified! I used it for the first time and my skin felt absolutely amazing! It was so smooth and rejuvenated. Shop Origins and receive a FREE GIFT with your $45 purchase!",
+    "referenceId": "3ca1d1edc967cb67df0f80555fdf230b",
+    "date_created": "1529842827",
+    "date_modified": "1529843326",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "4",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213118",
+    "product_category": "beauty",
+    "id": "165025534",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "859ca73d-24d1-4308-b0bf-cdbfdb99c568",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "4",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "4",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "4",
+        "prettyDuration": "00:00:04",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/165025534\/2d783\/thumb-3ca1d1edc967cb67df0f80555fdf230b-00002.jpg",
+        "type": "mp4",
+        "assetId": "165025534",
+        "assetTitle": "859CA73D-24D1-4308-B0BF-CDBFDB99C568",
+        "assetTitleTextEncoded": "859ca73d-24d1-4308-b0bf-cdbfdb99c568",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "165025534",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165025534\/2d783\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165025534\/2d783\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165025534\/2d783\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165025534\/2d783\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165025534\/2d783\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-07-25\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

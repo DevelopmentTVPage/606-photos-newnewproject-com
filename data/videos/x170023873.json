@@ -1,0 +1,110 @@
+{
+    "title": "Jamila Macy's Style Crew @fashionistamila",
+    "description": "INC blue dress",
+    "referenceId": "eb789ab6d241d76bf2d2b68e47929192",
+    "date_created": "1533870408",
+    "date_modified": "1533870672",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "24",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213295",
+    "product_category": "women",
+    "id": "170023873",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "video-5-1x1-for-ig",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "37",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "37",
+            "width": 1080,
+            "height": 1080
+        },
+        "mediaDuration": "37",
+        "prettyDuration": "00:00:37",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/170023873\/thumbnail\/image-thumbnail-640-c2a5f801f1c4e513e22c1d885519a0c1.jpg",
+        "type": "mp4",
+        "assetId": "170023873",
+        "assetTitle": "Video 5 (1x1 for IG)",
+        "assetTitleTextEncoded": "video-5-1x1-for-ig",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "170023873",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170023873\/f73d9\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1080,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170023873\/f73d9\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170023873\/f73d9\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170023873\/f73d9\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170023873\/f73d9\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/170023873\/f73d9\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/170023873\/f73d9\/media.m3u8",
+        "automaticThumbnailsPattern": "1759121\/170023873\/f73d9\/thumb-eb789ab6d241d76bf2d2b68e47929192-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/170023873\/user-images\/image-1080-20f73f1f438ef0e3520e1366e4080369.jpg",
+            "\/\/v.tvpage.com\/1759121\/170023873\/f73d9\/thumb-eb789ab6d241d76bf2d2b68e47929192-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/170023873\/user-images\/image-1080-20f73f1f438ef0e3520e1366e4080369.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/170023873\/thumbnail\/image-thumbnail-256-2abb0a79cb4a015dda9a5f2301161131.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/170023873\/thumbnail\/image-thumbnail-480-21eb304c74fc5fb0ba5d43d4a590e963.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/170023873\/thumbnail\/image-thumbnail-640-c2a5f801f1c4e513e22c1d885519a0c1.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

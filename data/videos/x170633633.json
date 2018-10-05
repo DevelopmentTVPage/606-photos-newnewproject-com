@@ -1,0 +1,103 @@
+{
+    "title": "teresa floral",
+    "description": "",
+    "referenceId": "3d3d9fbb6b17b1b642794017e4a6e3b4",
+    "date_created": "1534209272",
+    "date_modified": "1534209868",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "4",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213291",
+    "product_category": null,
+    "id": "170633633",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "teresa-floral",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "37",
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170633633\/01928\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170633633\/01928\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170633633\/01928\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170633633\/01928\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170633633\/01928\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "videoMeta": {
+            "duration": "37",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "37",
+        "prettyDuration": "00:00:37",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/170633633\/thumbnail\/image-thumbnail-640-c23c71484137641d60796f57386fe3ea.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/170633633\/01928\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/170633633\/01928\/media.m3u8",
+        "automaticThumbnailsPattern": "1759121\/170633633\/01928\/thumb-3d3d9fbb6b17b1b642794017e4a6e3b4-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/170633633\/user-images\/image-1920-db44b681de3e365d2d1bea2606821b41.jpg",
+            "\/\/v.tvpage.com\/1759121\/170633633\/01928\/thumb-3d3d9fbb6b17b1b642794017e4a6e3b4-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/170633633\/user-images\/image-1920-db44b681de3e365d2d1bea2606821b41.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/170633633\/thumbnail\/image-thumbnail-256-cc5eeda4aacc5fdf27429b51d02a63e7.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/170633633\/thumbnail\/image-thumbnail-480-5f549af1bdba243cee94178e1a48126f.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/170633633\/thumbnail\/image-thumbnail-640-c23c71484137641d60796f57386fe3ea.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/170633633\/thumbnail\/image-thumbnail-1280-7baa35e96d4799f57aed43dbcdaa0feb.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/170633633\/thumbnail\/image-thumbnail-1920-1b96a3c1e77272821aeae93772f86e46.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-05"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

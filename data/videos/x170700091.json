@@ -1,0 +1,109 @@
+{
+    "title": "Jacqueline Palmer \/ cold brew coffee",
+    "description": "The best selection of cold brew coffee makers can be found! #macysstylecrew #macys ystylist #coffee #coldbrew #coffeebreak #macyshomestore #macyslove #macysstylecrewjacqueline",
+    "referenceId": "e3b2297e516b6d85bda8e40fc66aa65f",
+    "date_created": "1534261610",
+    "date_modified": "1534271777",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "18",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213201",
+    "product_category": "bed_bath",
+    "id": "170700091",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "1c0034ba-ff7b-41a9-93ec-d1db1931dab6",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "111",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "111",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "111",
+        "prettyDuration": "00:01:51",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/170700091\/thumbnail\/image-thumbnail-640-abadc61fdfd79a9af2fdf9f9744f61b4.jpg",
+        "type": "mp4",
+        "assetId": "170700091",
+        "assetTitle": "Jacqueline Palmer \/ cold brew coffee",
+        "assetTitleTextEncoded": "1c0034ba-ff7b-41a9-93ec-d1db1931dab6",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "170700091",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170700091\/100f4\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170700091\/100f4\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170700091\/100f4\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170700091\/100f4\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170700091\/100f4\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/170700091\/100f4\/thumb-e3b2297e516b6d85bda8e40fc66aa65f-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/170700091\/user-images\/image-1280-93aac631ee9cea8d6b63b7b5478e8a08.jpg",
+            "\/\/v.tvpage.com\/1759121\/170700091\/100f4\/thumb-e3b2297e516b6d85bda8e40fc66aa65f-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/170700091\/user-images\/image-1280-93aac631ee9cea8d6b63b7b5478e8a08.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/170700091\/thumbnail\/image-thumbnail-256-6de2c639a77729f5a0f945c916256ea0.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/170700091\/thumbnail\/image-thumbnail-480-8cab96e4a0ba1e618948048ad8c15aba.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/170700091\/thumbnail\/image-thumbnail-640-abadc61fdfd79a9af2fdf9f9744f61b4.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/170700091\/thumbnail\/image-thumbnail-1280-a5d1233248ec559ce363dd21802d8a94.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

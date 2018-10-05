@@ -1,0 +1,112 @@
+{
+    "title": "Matching Sets Trend",
+    "description": "My new favorite look is the matching set, like this one from BCBG. It\u2019s really like getting multiple outfits in one, because you can always switch out one item to work with different pieces in your closet.",
+    "referenceId": "7d927a45bb38bdb3fd6e321a6519f87d",
+    "date_created": "1536008543",
+    "date_modified": "1536076883",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "6",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213205",
+    "product_category": "women",
+    "id": "176850348",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "443397b5-8984-468c-b6f0-8782648de35e",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "43",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "43",
+            "width": 480,
+            "height": 480
+        },
+        "mediaDuration": "43",
+        "prettyDuration": "00:00:43",
+        "automaticThumbnailsPattern": "1759121\/176850348\/2f568\/thumb-7d927a45bb38bdb3fd6e321a6519f87d-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/176850348\/2f568\/thumb-7d927a45bb38bdb3fd6e321a6519f87d-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/176850348\/2f568\/thumb-7d927a45bb38bdb3fd6e321a6519f87d-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/176850348\/2f568\/thumb-7d927a45bb38bdb3fd6e321a6519f87d-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/176850348\/2f568\/thumb-7d927a45bb38bdb3fd6e321a6519f87d-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/176850348\/2f568\/thumb-7d927a45bb38bdb3fd6e321a6519f87d-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/176850348\/2f568\/thumb-7d927a45bb38bdb3fd6e321a6519f87d-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/176850348\/thumbnail\/image-thumbnail-256-eed677babec7a9417504a73117eee8ec.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/176850348\/thumbnail\/image-thumbnail-480-3ab4a74e18c612923432e4c6e3026a6e.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/176850348\/2f568\/thumb-7d927a45bb38bdb3fd6e321a6519f87d-00006.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/176850348\/thumbnail\/image-thumbnail-480-3ab4a74e18c612923432e4c6e3026a6e.jpg",
+        "type": "mp4",
+        "assetId": "176850348",
+        "assetTitle": "Matching Sets",
+        "assetTitleTextEncoded": "443397b5-8984-468c-b6f0-8782648de35e",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "176850348",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176850348\/2f568\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176850348\/2f568\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176850348\/2f568\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176850348\/2f568\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360,
+                "tvpdefault": true
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176850348\/2f568\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-11"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

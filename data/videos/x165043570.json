@@ -1,0 +1,93 @@
+{
+    "title": "Style Crew Nikky\/CELEBRATE PRIDE MONTH WITH MACY\u2019S",
+    "description": "In celebration of Love, Pride and Joy. Macy\u2019s joins the Los Angeles Pride.\nIt was a huge honor and privilege to capture this moment with the Macy\u2019s Pride LA marchers. So much love and pride and continuing with Macy\u2019s long tradition of diversity and inclusivity. I love working for socially aware companies that cares about their community. Show us your pride and grab our huge selection of pride gear click the products on this video and it will direct you to the Macy\u2019s shopping page and you\u2019ll find all your pride and festival gears this summer!",
+    "referenceId": "c10ed4adda930bd1d063563eadd19a48",
+    "date_created": "1530031380",
+    "date_modified": "1530033020",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "15",
+    "engagement_score": "1",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213182",
+    "product_category": "active",
+    "id": "165043570",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "edec85e3-930b-4c7d-b2c7-0211b03bb5e5",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "73",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "73",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "73",
+        "prettyDuration": "00:01:13",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/165043570\/1bb28\/thumb-c10ed4adda930bd1d063563eadd19a48-00002.jpg",
+        "type": "mp4",
+        "assetId": "165043570",
+        "assetTitle": "EDEC85E3-930B-4C7D-B2C7-0211B03BB5E5",
+        "assetTitleTextEncoded": "edec85e3-930b-4c7d-b2c7-0211b03bb5e5",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "165043570",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165043570\/1bb28\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165043570\/1bb28\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165043570\/1bb28\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165043570\/1bb28\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165043570\/1bb28\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-07-25\"}},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-07-25\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Bloomingdale's Outlet Black Bloomingdale's Massimo Vignelli Audrey Race for Water American College of Preventive Medicine",
+    "tvp_enhanced_transcript": null
+}

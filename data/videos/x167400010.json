@@ -1,0 +1,97 @@
+{
+    "title": "Jacqueline Palmer\/Coffee break",
+    "description": "My favorite espresso coffee maker! #nesspresso #coffee #macysstylecrew #macysstylecrewjacqueline #food #macyslove #gifts",
+    "referenceId": "a048c7894fe29a400d73ba14646dd74d",
+    "date_created": "1532021115",
+    "date_modified": "1532021418",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "55",
+    "engagement_score": "1",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213201",
+    "product_category": "women",
+    "id": "167400010",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "040549d5-0f08-4ecd-8287-96cf62af345b",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "128",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "128",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "128",
+        "prettyDuration": "00:02:08",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/167400010\/1038e\/thumb-a048c7894fe29a400d73ba14646dd74d-00002.jpg",
+        "type": "mp4",
+        "assetId": "167400010",
+        "assetTitle": "040549D5-0F08-4ECD-8287-96CF62AF345B",
+        "assetTitleTextEncoded": "040549d5-0f08-4ecd-8287-96cf62af345b",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "167400010",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167400010\/1038e\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167400010\/1038e\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167400010\/1038e\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167400010\/1038e\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167400010\/1038e\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Kosmonaut Dika Marie Curie",
+    "tvp_enhanced_transcript": null
+}

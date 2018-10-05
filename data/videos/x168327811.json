@@ -1,0 +1,97 @@
+{
+    "title": "Nike Sale!",
+    "description": "I wanted to share some of my favorites from the Nike sale!",
+    "referenceId": "3fdd791aa7789b2fdd933e6f11345ef6",
+    "date_created": "1532959396",
+    "date_modified": "1532959500",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "52",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213222",
+    "product_category": "women",
+    "id": "168327811",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "e0650073-7973-49fa-8c9c-edb08e64c509",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "111",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "111",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "111",
+        "prettyDuration": "00:01:51",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/168327811\/0c18d\/thumb-3fdd791aa7789b2fdd933e6f11345ef6-00002.jpg",
+        "type": "mp4",
+        "assetId": "168327811",
+        "assetTitle": "E0650073-7973-49FA-8C9C-EDB08E64C509",
+        "assetTitleTextEncoded": "e0650073-7973-49fa-8c9c-edb08e64c509",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "168327811",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168327811\/0c18d\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168327811\/0c18d\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168327811\/0c18d\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168327811\/0c18d\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168327811\/0c18d\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-08-06"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Evolution SRH University Heidelberg Pinterest Out of the Box",
+    "tvp_enhanced_transcript": null
+}

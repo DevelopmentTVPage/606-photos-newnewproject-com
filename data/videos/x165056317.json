@@ -1,0 +1,99 @@
+{
+    "title": "Celebrate National Sunglasses Day!",
+    "description": "Join Melissa Bauth to celebrate National Sunglasses Day! Melissa shows you her top three sunglass picks for Summer 2018.\nSearch Her favorites shown in the video by clicking on any pair of sunglasses below and typing in the web-ids into the search bar at the top of the page. \nRAYBAN BLUE BLAZE - 6459433\nPRADA 'MODERN CAT EYE' - 6459412\nVERSACE 'MODERN AVAITOR' - 6587202",
+    "referenceId": "b655af2882eefb21b72391443c8a071b",
+    "date_created": "1530060843",
+    "date_modified": "1530068839",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "198",
+    "engagement_score": "15",
+    "conversion_score": "1",
+    "CVV_VI": "2",
+    "video_type": null,
+    "user_id": "213108",
+    "product_category": "women",
+    "id": "165056317",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "national-sunglass-day",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "141",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "141",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "141",
+        "prettyDuration": "00:02:21",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/165056317\/3e821\/thumb-b655af2882eefb21b72391443c8a071b-00002.jpg",
+        "type": "mp4",
+        "assetId": "165056317",
+        "assetTitle": "Celebrate National Sunglasses Day!",
+        "assetTitleTextEncoded": "national-sunglass-day",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "165056317",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165056317\/3e821\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165056317\/3e821\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165056317\/3e821\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165056317\/3e821\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165056317\/3e821\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/165056317\/3e821\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/165056317\/3e821\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-07-28"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Entrar",
+    "tvp_enhanced_transcript": null
+}

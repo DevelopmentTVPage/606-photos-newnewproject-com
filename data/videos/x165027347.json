@@ -1,0 +1,97 @@
+{
+    "title": "Concert ready",
+    "description": "#mystylecrew #INC #OneStopShopping #LookGreatFeelGreat #SpecialEventShopping\nHere is the product Web ID to Order!\nWeb ID 6013127\nWeb ID 3737924\nWeb ID 6269104\nWeb ID 6640797\nWeb ID  5975976\nWeb ID 5941235\nWeb ID",
+    "referenceId": "39d0879320aa8a8741a651c46aa0ddd0",
+    "date_created": "1529892969",
+    "date_modified": "1530382942",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "124",
+    "engagement_score": "21",
+    "conversion_score": "4",
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213477",
+    "product_category": "women",
+    "id": "165027347",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "764bcd09-cbd3-4846-9f20-8b6d79118da8",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "57",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "57",
+            "width": 568,
+            "height": 320
+        },
+        "mediaDuration": "57",
+        "prettyDuration": "00:00:57",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/165027347\/833fa\/thumb-39d0879320aa8a8741a651c46aa0ddd0-00002.jpg",
+        "type": "mp4",
+        "assetId": "165027347",
+        "assetTitle": "Concert ready",
+        "assetTitleTextEncoded": "764bcd09-cbd3-4846-9f20-8b6d79118da8",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "165027347",
+            "li": "1759121"
+        },
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/165027347\/833fa\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/165027347\/833fa\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165027347\/833fa\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165027347\/833fa\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165027347\/833fa\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165027347\/833fa\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165027347\/833fa\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-07-25\"}},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-07-25\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

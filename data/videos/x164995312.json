@@ -1,0 +1,93 @@
+{
+    "title": "Summer Must-Haves",
+    "description": "In honor of the First day of SUMMER, I'm sharing with you my Must-Have products!\nCoola Fresh Mango SPF 30 for the body - Smells SO good! \nLaura Mercier - Foundation Primer in Radiance - Great to wear alone for that summer glow, on top of SPF of course.\nit cosmetics - Color Correcting Full Coverage Cream + Anti-Aging Hydrating Serum + spf 50\nit cosmetics - Bye Bye Under Eye Waterproof Concealer - Must for tired eyes\nBenefit Browvo! Conditioning primer - Clear gel for thicker, healthier brows!\nNars Blush\nNars Satin Lip Pencil - Rikugein (rose pink)\nMonsieur  Big Waterproof Mascara - No smudges!\nJuicy Couture Viva La Juicy Soiree\n\nSarong\/Scarf - INC only at Macy's WEB ID 6189720",
+    "referenceId": "15d3b5f18847d4dd11c587f39d2730db",
+    "date_created": "1529593995",
+    "date_modified": "1529596918",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "52",
+    "engagement_score": "4",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213110",
+    "product_category": "beauty",
+    "id": "164995312",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "summer-must-haves",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "24",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "24",
+            "width": 720,
+            "height": 720
+        },
+        "mediaDuration": "24",
+        "prettyDuration": "00:00:24",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164995312\/27c38\/thumb-15d3b5f18847d4dd11c587f39d2730db-00002.jpg",
+        "type": "mp4",
+        "assetId": "164995312",
+        "assetTitle": "Summer Must-Haves",
+        "assetTitleTextEncoded": "summer-must-haves",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164995312",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164995312\/27c38\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164995312\/27c38\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164995312\/27c38\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164995312\/27c38\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164995312\/27c38\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-07-25\"}},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-07-25\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "NARS Cosmetics Urban Decay",
+    "tvp_enhanced_transcript": null
+}

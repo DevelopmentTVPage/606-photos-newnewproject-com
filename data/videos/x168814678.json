@@ -1,0 +1,112 @@
+{
+    "title": "RACHEL Rachel Roy Pants Three Ways",
+    "description": "I love these pale pink RACHEL Rachel Roy pants and I just wanted to showcase 3 different ways to wear them.",
+    "referenceId": "504ef14fd78f8316153f54d3a0039690",
+    "date_created": "1533259334",
+    "date_modified": "1533361005",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "24",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213205",
+    "product_category": "women",
+    "id": "168814678",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "c4368db0-d486-44d6-ba0f-ce527a77f79a",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "29",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "29",
+            "width": 480,
+            "height": 480
+        },
+        "mediaDuration": "29",
+        "prettyDuration": "00:00:29",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/168814678\/thumbnail\/image-thumbnail-480-edef49597aa200ed24440727154f6b37.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/168814678\/8e2db\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/168814678\/8e2db\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "assetId": "168814678",
+        "assetTitle": "Switching Outfits",
+        "assetTitleTextEncoded": "c4368db0-d486-44d6-ba0f-ce527a77f79a",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "168814678",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168814678\/8e2db\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168814678\/8e2db\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168814678\/8e2db\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168814678\/8e2db\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168814678\/8e2db\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/168814678\/8e2db\/thumb-504ef14fd78f8316153f54d3a0039690-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/168814678\/user-images\/image-593-7f0eed7a8e777735135d8c4a80fa0b3a.jpg",
+            "\/\/v.tvpage.com\/1759121\/168814678\/user-images\/image-480-1f23e828c231cc769045879a75c76702.jpg",
+            "\/\/v.tvpage.com\/1759121\/168814678\/8e2db\/thumb-504ef14fd78f8316153f54d3a0039690-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/168814678\/user-images\/image-593-7f0eed7a8e777735135d8c4a80fa0b3a.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/168814678\/thumbnail\/image-thumbnail-256-4f73119144d801fd623c74c2b6ac9e42.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/168814678\/thumbnail\/image-thumbnail-480-edef49597aa200ed24440727154f6b37.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

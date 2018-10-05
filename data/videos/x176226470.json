@@ -1,0 +1,114 @@
+{
+    "title": "Macy\u2019s Style Crew Macy\u2019s West County Be Tempted and Wacoal Fit Event August 28, 2018",
+    "description": "Macy\u2019s West County has a Be Tempted and Wacoal Fit Event August 28, 2018",
+    "referenceId": "ce043563b7ac5540196225f39090816f",
+    "date_created": "1535396256",
+    "date_modified": "1535647380",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "3",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213180",
+    "product_category": "women",
+    "id": "176226470",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "a0051e0b-0255-492b-9570-b3cde36545e4",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "116",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "116",
+            "width": 568,
+            "height": 320
+        },
+        "mediaDuration": "116",
+        "prettyDuration": "00:01:56",
+        "automaticThumbnailsPattern": "1759121\/176226470\/63648\/thumb-ce043563b7ac5540196225f39090816f-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/176226470\/63648\/thumb-ce043563b7ac5540196225f39090816f-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/176226470\/63648\/thumb-ce043563b7ac5540196225f39090816f-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/176226470\/63648\/thumb-ce043563b7ac5540196225f39090816f-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/176226470\/63648\/thumb-ce043563b7ac5540196225f39090816f-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/176226470\/63648\/thumb-ce043563b7ac5540196225f39090816f-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/176226470\/63648\/thumb-ce043563b7ac5540196225f39090816f-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/176226470\/thumbnail\/image-thumbnail-256-37a01c2fd96f0d7fe921e25a353487c4.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/176226470\/thumbnail\/image-thumbnail-480-cbbd78b3f2cbbb75bb548c54d7702b81.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/176226470\/63648\/thumb-ce043563b7ac5540196225f39090816f-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/176226470\/thumbnail\/image-thumbnail-480-cbbd78b3f2cbbb75bb548c54d7702b81.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/176226470\/63648\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/176226470\/63648\/media.m3u8",
+        "assetId": "176226470",
+        "assetTitle": "A0051E0B-0255-492B-9570-B3CDE36545E4",
+        "assetTitleTextEncoded": "a0051e0b-0255-492b-9570-b3cde36545e4",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "176226470",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176226470\/63648\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320,
+                "tvpdefault": true
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176226470\/63648\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176226470\/63648\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176226470\/63648\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176226470\/63648\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-14"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

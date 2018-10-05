@@ -1,0 +1,115 @@
+{
+    "title": "ONE & ONLY!!! TAG.. YOU\u2019RE IT!!",
+    "description": "Coming to Macys Somerset... one is available on 09\/12!!!! First come, first serve! This rare Tag Heuer men\u2019s watch...",
+    "referenceId": "98b580ecc802ba9f41f6143b9de25ae2",
+    "date_created": "1536636411",
+    "date_modified": "1536637138",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "8",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213440",
+    "product_category": "jewelry",
+    "id": "177245457",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "f0e28c66-7d36-423e-9622-a48bf1f1d4fa",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "23",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "23",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "23",
+        "prettyDuration": "00:00:23",
+        "automaticThumbnailsPattern": "1759121\/177245457\/063c1\/thumb-98b580ecc802ba9f41f6143b9de25ae2-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/177245457\/063c1\/thumb-98b580ecc802ba9f41f6143b9de25ae2-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/177245457\/063c1\/thumb-98b580ecc802ba9f41f6143b9de25ae2-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/177245457\/063c1\/thumb-98b580ecc802ba9f41f6143b9de25ae2-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/177245457\/063c1\/thumb-98b580ecc802ba9f41f6143b9de25ae2-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/177245457\/063c1\/thumb-98b580ecc802ba9f41f6143b9de25ae2-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/177245457\/063c1\/thumb-98b580ecc802ba9f41f6143b9de25ae2-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/177245457\/thumbnail\/image-thumbnail-256-1c8dde9880ba083a41f55875b2f62c1d.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/177245457\/thumbnail\/image-thumbnail-480-739ff263595552df0a3927387dcdff81.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/177245457\/thumbnail\/image-thumbnail-640-05783aa58c68abb0b13a2ce775ef5312.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/177245457\/thumbnail\/image-thumbnail-1280-c23191d4513e9ae6bb49b68e496e30f5.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/177245457\/063c1\/thumb-98b580ecc802ba9f41f6143b9de25ae2-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/177245457\/thumbnail\/image-thumbnail-640-05783aa58c68abb0b13a2ce775ef5312.jpg",
+        "type": "mp4",
+        "assetId": "177245457",
+        "assetTitle": "F0E28C66-7D36-423E-9622-A48BF1F1D4FA",
+        "assetTitleTextEncoded": "f0e28c66-7d36-423e-9622-a48bf1f1d4fa",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "177245457",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177245457\/063c1\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177245457\/063c1\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177245457\/063c1\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177245457\/063c1\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177245457\/063c1\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/177245457\/063c1\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/177245457\/063c1\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-14"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Tissot Macy's",
+    "tvp_enhanced_transcript": null
+}

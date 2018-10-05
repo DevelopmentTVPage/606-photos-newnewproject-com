@@ -1,0 +1,97 @@
+{
+    "title": "Denim shorts",
+    "description": "Macys It List denim shorts a forever classic! #macysstylecrew #macysmystylist #levis #shorts #backtoschool",
+    "referenceId": "140a57b9f2fec0d1a137ca4733c61408",
+    "date_created": "1533132816",
+    "date_modified": "1533133023",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "28",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213201",
+    "product_category": "juniors",
+    "id": "168679944",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "242d3690-1a97-4fe1-9502-8a48029c7616",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "4",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "4",
+            "width": 384,
+            "height": 480
+        },
+        "mediaDuration": "4",
+        "prettyDuration": "00:00:04",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/168679944\/36e44\/thumb-140a57b9f2fec0d1a137ca4733c61408-00002.jpg",
+        "type": "mp4",
+        "assetId": "168679944",
+        "assetTitle": "242D3690-1A97-4FE1-9502-8A48029C7616",
+        "assetTitleTextEncoded": "242d3690-1a97-4fe1-9502-8a48029c7616",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "168679944",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168679944\/36e44\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 384,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168679944\/36e44\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 384,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168679944\/36e44\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 384,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168679944\/36e44\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 288,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168679944\/36e44\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 192,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Castle Harlan Seven Years in Tibet",
+    "tvp_enhanced_transcript": null
+}

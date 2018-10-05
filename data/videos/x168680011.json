@@ -1,0 +1,107 @@
+{
+    "title": "Macy\u2019s Style Crew Home Store Sale August 1-5",
+    "description": "Home Store Sale August 1-5",
+    "referenceId": "7e13811c4a048a7d105cc043a81fb10c",
+    "date_created": "1533153499",
+    "date_modified": "1533153635",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "2",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213180",
+    "product_category": "bed_bath",
+    "id": "168680011",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "a179631f-31fc-4a8d-8ee8-2b0a9fdf6a6c",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "84",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "84",
+            "width": 568,
+            "height": 320
+        },
+        "mediaDuration": "84",
+        "prettyDuration": "00:01:24",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/168680011\/thumbnail\/image-thumbnail-480-9a5dea93c23c4ad9e813a70fc117f6bc.jpg",
+        "type": "mp4",
+        "assetId": "168680011",
+        "assetTitle": "A179631F-31FC-4A8D-8EE8-2B0A9FDF6A6C",
+        "assetTitleTextEncoded": "a179631f-31fc-4a8d-8ee8-2b0a9fdf6a6c",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "168680011",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168680011\/60bc8\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168680011\/60bc8\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168680011\/60bc8\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168680011\/60bc8\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168680011\/60bc8\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/168680011\/60bc8\/thumb-7e13811c4a048a7d105cc043a81fb10c-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/168680011\/user-images\/image-568-c6af7d9acbc4d17442cd65be3c270d54.jpg",
+            "\/\/v.tvpage.com\/1759121\/168680011\/60bc8\/thumb-7e13811c4a048a7d105cc043a81fb10c-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/168680011\/user-images\/image-568-c6af7d9acbc4d17442cd65be3c270d54.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/168680011\/thumbnail\/image-thumbnail-256-83feb9b7562a17c34103805f2b911ffc.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/168680011\/thumbnail\/image-thumbnail-480-9a5dea93c23c4ad9e813a70fc117f6bc.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-11"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "OXO Sensio Bella Instant Pot Bridge Connect Oxo Miracle Gro",
+    "tvp_enhanced_transcript": null
+}

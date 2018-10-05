@@ -1,0 +1,108 @@
+{
+    "title": "Lauren Ralph Lauren Floral-Print Off-The-Shoulder Dress",
+    "description": "Floral-Print Off-The-Shoulder Dress perfect for summer and days at the vineyards.",
+    "referenceId": "8465a1a0f9c49552a702f76d6c747f59",
+    "date_created": "1534794492",
+    "date_modified": "1534795215",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "10",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213228",
+    "product_category": "women",
+    "id": "171349512",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "macysstylecrew5",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "5",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "5",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "5",
+        "prettyDuration": "00:00:05",
+        "automaticThumbnailsPattern": "1759121\/171349512\/7a35c\/thumb-8465a1a0f9c49552a702f76d6c747f59-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/171349512\/7a35c\/thumb-8465a1a0f9c49552a702f76d6c747f59-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/171349512\/7a35c\/thumb-8465a1a0f9c49552a702f76d6c747f59-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/171349512\/7a35c\/thumb-8465a1a0f9c49552a702f76d6c747f59-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/171349512\/thumbnail\/image-thumbnail-256-26794e4ebe698c99d98cdfcbc1dd8301.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/171349512\/thumbnail\/image-thumbnail-480-10e6de084917826ec6721ebf5bd99499.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/171349512\/7a35c\/thumb-8465a1a0f9c49552a702f76d6c747f59-00002.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/171349512\/thumbnail\/image-thumbnail-480-10e6de084917826ec6721ebf5bd99499.jpg",
+        "type": "mp4",
+        "assetId": 171349512,
+        "assetTitle": "macysstylecrew5",
+        "assetTitleTextEncoded": "macysstylecrew5",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 171349512,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171349512\/7a35c\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171349512\/7a35c\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171349512\/7a35c\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171349512\/7a35c\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171349512\/7a35c\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-14"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

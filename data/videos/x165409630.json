@@ -1,0 +1,106 @@
+{
+    "title": "Summer Skincare",
+    "description": "Skincare is super important, especially in the summer! Check out my summer skin routine in order to protect my face from pollutants, UV rays, and more!",
+    "referenceId": "5e7e1d67f80108d10c3fdc7ea3ec01d9",
+    "date_created": "1530660522",
+    "date_modified": "1531184034",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "41",
+    "engagement_score": "2",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213135",
+    "product_category": "beauty",
+    "id": "165409630",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "summer-skincare",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "86",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "86",
+            "width": 654,
+            "height": 480
+        },
+        "mediaDuration": "86",
+        "prettyDuration": "00:01:26",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/165409630\/thumbnail\/image-thumbnail-640-6d2596bde99cd7288b6528dcda5cc7bd.jpg",
+        "type": "mp4",
+        "assetId": "165409630",
+        "assetTitle": "Summer Skincare",
+        "assetTitleTextEncoded": "summer-skincare",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "165409630",
+            "li": "1759121"
+        },
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165409630\/f76fd\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 654,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165409630\/f76fd\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 654,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165409630\/f76fd\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 654,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165409630\/f76fd\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 490,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165409630\/f76fd\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 234
+            }
+        ],
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/165409630\/user-images\/image-1920-e3e55bb72fe1459a31cf05dc88b0fd28.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/165409630\/user-images\/image-1920-e3e55bb72fe1459a31cf05dc88b0fd28.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/165409630\/thumbnail\/image-thumbnail-256-7a94972e5fa8ea9d37773742bc03f85d.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/165409630\/thumbnail\/image-thumbnail-480-faaaa18923fdcf512640dd074256bcc0.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/165409630\/thumbnail\/image-thumbnail-640-6d2596bde99cd7288b6528dcda5cc7bd.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/165409630\/thumbnail\/image-thumbnail-1280-4962d5126f2cf905f3881f5b782c130b.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/165409630\/thumbnail\/image-thumbnail-1920-f3de077a5bf54e1410dbecc131ef03e9.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-07-25\"}},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-07-25\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Clinique Aquaphor Lancome",
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,110 @@
+{
+    "title": "Macy's Style Crew Ambassador, Dorthia J. Brown",
+    "description": "Women Clothes; Tops, MSK, Alfani, INC, Style & Co., Charter Club\nPants, Alfani, Style & Co., Charter Club, Active wear, Ideology",
+    "referenceId": "d5367f4d43420d8cd32373dc1462e1c3",
+    "date_created": "1533167470",
+    "date_modified": "1533224406",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "15",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213224",
+    "product_category": "women",
+    "id": "168680293",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "copy-of-dorthia-j-brown-macys-style-crew-ambassador",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "60",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "60",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "60",
+        "prettyDuration": "00:01:00",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/168680293\/thumbnail\/image-thumbnail-640-18b7492a541dd6a103174c57dfd2785e.jpg",
+        "type": "mp4",
+        "assetId": 168680293,
+        "assetTitle": "Macy's Style Crew Ambassador, Dorthia J. Brown",
+        "assetTitleTextEncoded": "copy-of-dorthia-j-brown-macys-style-crew-ambassador",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 168680293,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168680293\/cc3dc\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168680293\/cc3dc\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168680293\/cc3dc\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168680293\/cc3dc\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168680293\/cc3dc\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/168680293\/cc3dc\/thumb-d5367f4d43420d8cd32373dc1462e1c3-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/168680293\/user-images\/image-1920-92e3f112ab73c7585dd57af0c08317f6.jpg",
+            "\/\/v.tvpage.com\/1759121\/168680293\/cc3dc\/thumb-d5367f4d43420d8cd32373dc1462e1c3-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/168680293\/user-images\/image-1920-92e3f112ab73c7585dd57af0c08317f6.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/168680293\/thumbnail\/image-thumbnail-256-c9d25511fa99e01e3068a5120b195d43.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/168680293\/thumbnail\/image-thumbnail-480-cee696cbdb130d3b7e3da255deb5c3f8.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/168680293\/thumbnail\/image-thumbnail-640-18b7492a541dd6a103174c57dfd2785e.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/168680293\/thumbnail\/image-thumbnail-1280-16f3c31e670e302c351b923254613b31.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/168680293\/thumbnail\/image-thumbnail-1920-bb196387d66ef91089cc530389bb5b4a.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-08-21"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Cotswold Style",
+    "tvp_enhanced_transcript": null
+}

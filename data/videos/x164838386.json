@@ -1,0 +1,109 @@
+{
+    "title": "Tarte! One Day Sale!",
+    "description": "Come shop for your favorite Tarte brushes and mascara!!!!! 30% off today and tomorrow!",
+    "referenceId": "fe0ea2cb5884ca93104414759459ebaf",
+    "date_created": "1528827803",
+    "date_modified": "1531182560",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "86",
+    "engagement_score": "2",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213440",
+    "product_category": "beauty",
+    "id": "164838386",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "9378e046-8aed-4a1a-83e9-90452622baf2",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "22",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "22",
+            "width": 568,
+            "height": 320
+        },
+        "mediaDuration": "22",
+        "prettyDuration": "00:00:22",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164838386\/thumbnail\/image-thumbnail-480-111d61f35bd2755ee1d04583e1bd6e21.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/164838386\/f309c\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/164838386\/f309c\/media.m3u8",
+        "assetId": "164838386",
+        "assetTitle": "9378E046-8AED-4A1A-83E9-90452622BAF2",
+        "assetTitleTextEncoded": "9378e046-8aed-4a1a-83e9-90452622baf2",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164838386",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164838386\/f309c\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164838386\/f309c\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164838386\/f309c\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164838386\/f309c\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164838386\/f309c\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/164838386\/f309c\/thumb-fe0ea2cb5884ca93104414759459ebaf-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/164838386\/user-images\/image-568-0c131731911111799dde0f4ec5d240ee.jpg",
+            "\/\/v.tvpage.com\/1759121\/164838386\/f309c\/thumb-fe0ea2cb5884ca93104414759459ebaf-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/164838386\/user-images\/image-568-0c131731911111799dde0f4ec5d240ee.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/164838386\/thumbnail\/image-thumbnail-256-28921796e05a903fc8cc0ff1cdb5e882.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/164838386\/thumbnail\/image-thumbnail-480-111d61f35bd2755ee1d04583e1bd6e21.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-05"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

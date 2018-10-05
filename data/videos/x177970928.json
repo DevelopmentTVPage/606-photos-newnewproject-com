@@ -1,0 +1,109 @@
+{
+    "title": "Remarkable You-  Macy\u2019s Short Hills , NJ",
+    "description": "What is your remarkable you? \n\nWith the Fall It List, I fell in love with the INC Graphic tee & pin striped Blazer. I chose to style the look with cute embellished jeans by Style and Co. \n\nWhat\u2019s your remarkable you?! \n\nThank you for watching and follow me at @itsangelicarenee for more style updates.",
+    "referenceId": "bc4bb9235bb90c33701f4b9247d22418",
+    "date_created": "1537387787",
+    "date_modified": "1537396701",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213259",
+    "product_category": "women",
+    "id": "177970928",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "5ff44322-e414-4a74-9cb9-63a791d2df86",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "30",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "30",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "30",
+        "prettyDuration": "00:00:30",
+        "automaticThumbnailsPattern": "1759121\/177970928\/db331\/thumb-bc4bb9235bb90c33701f4b9247d22418-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/177970928\/user-images\/image-1231-3d09aed36f2a7b868ed3fa3f2df07aad.jpg",
+            "\/\/v.tvpage.com\/1759121\/177970928\/db331\/thumb-bc4bb9235bb90c33701f4b9247d22418-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/177970928\/db331\/thumb-bc4bb9235bb90c33701f4b9247d22418-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/177970928\/db331\/thumb-bc4bb9235bb90c33701f4b9247d22418-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/177970928\/db331\/thumb-bc4bb9235bb90c33701f4b9247d22418-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/177970928\/db331\/thumb-bc4bb9235bb90c33701f4b9247d22418-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/177970928\/db331\/thumb-bc4bb9235bb90c33701f4b9247d22418-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/177970928\/thumbnail\/image-thumbnail-256-79c75558aec4eae803b05ae99453954f.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/177970928\/thumbnail\/image-thumbnail-480-d3fd09af94ca2390703b982e614fcef4.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/177970928\/thumbnail\/image-thumbnail-640-8975d40955f251b430974cdba9eb781d.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/177970928\/user-images\/image-1231-3d09aed36f2a7b868ed3fa3f2df07aad.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/177970928\/thumbnail\/image-thumbnail-640-8975d40955f251b430974cdba9eb781d.jpg",
+        "type": "mp4",
+        "assetId": "177970928",
+        "assetTitle": "Remarkable You-  Macy\u2019s Short Hills , NJ",
+        "assetTitleTextEncoded": "5ff44322-e414-4a74-9cb9-63a791d2df86",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "177970928",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177970928\/db331\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177970928\/db331\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177970928\/db331\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177970928\/db331\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177970928\/db331\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

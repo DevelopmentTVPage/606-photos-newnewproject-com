@@ -1,0 +1,110 @@
+{
+    "title": "modern FARMHOUSE",
+    "description": "Now your girl is not a huge fan of cooking but let me tell you, this collection makes me want to hop right in that kitchen! It is too darn adorable! It's unique you know? There isn't anything like this! It is definitely an awesome addition to your kitchenware and\/or an amazing gift for a loved one!\n\nFollow me on Instagram for more: @janie.hong",
+    "referenceId": "c6937534793bbfd23bc3731256771fa7",
+    "date_created": "1533597828",
+    "date_modified": "1533599311",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "46",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213220",
+    "product_category": "bed_bath",
+    "id": "169634704",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "modern-farmhouse",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "51",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "51",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "51",
+        "prettyDuration": "00:00:51",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/169634704\/thumbnail\/image-thumbnail-640-64226f3589f75ce80d3384c55e345ec6.jpg",
+        "type": "mp4",
+        "assetId": "169634704",
+        "assetTitle": "modern FARMHOUSE",
+        "assetTitleTextEncoded": "modern-farmhouse",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "169634704",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/169634704\/c1eb1\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/169634704\/c1eb1\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/169634704\/c1eb1\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/169634704\/c1eb1\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/169634704\/c1eb1\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/169634704\/c1eb1\/thumb-c6937534793bbfd23bc3731256771fa7-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/169634704\/user-images\/image-1920-fb4cb6650331975d80eb8adabacec8b6.jpg",
+            "\/\/v.tvpage.com\/1759121\/169634704\/c1eb1\/thumb-c6937534793bbfd23bc3731256771fa7-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/169634704\/user-images\/image-1920-fb4cb6650331975d80eb8adabacec8b6.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/169634704\/thumbnail\/image-thumbnail-256-3d0e13a5ac5d0055f2ce6963b8a04a0e.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/169634704\/thumbnail\/image-thumbnail-480-e0bdd6f936bb4092f52b25a20f54c74d.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/169634704\/thumbnail\/image-thumbnail-640-64226f3589f75ce80d3384c55e345ec6.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/169634704\/thumbnail\/image-thumbnail-1280-fbc3d275a06306d18695466b6c32a00f.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/169634704\/thumbnail\/image-thumbnail-1920-08863823bb9332d604e01aac9ba4bf12.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-02"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

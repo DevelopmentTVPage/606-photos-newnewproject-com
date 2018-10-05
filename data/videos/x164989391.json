@@ -1,0 +1,112 @@
+{
+    "title": "VisuALLY: The Summer 'It List' trends you need right now!",
+    "description": "These are hottest 'It List' items to keep you cool all summer long!",
+    "referenceId": "e4671f7421a83c517a20a14597fe08fe",
+    "date_created": "1529545745",
+    "date_modified": "1537201149",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "80",
+    "engagement_score": "12",
+    "conversion_score": null,
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213225",
+    "product_category": "women",
+    "id": "164989391",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "msc-summer-it-list",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "95",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "95",
+            "width": 960,
+            "height": 540
+        },
+        "mediaDuration": "95",
+        "prettyDuration": "00:01:35",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164989391\/thumbnail\/image-thumbnail-640-8e783245c53f494cfc70c684e8236021.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/164989391\/db3ae\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/164989391\/db3ae\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "assetId": "164989391",
+        "assetTitle": "The Summer 'It List' trends you need right now!",
+        "assetTitleTextEncoded": "msc-summer-it-list",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164989391",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164989391\/db3ae\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 540
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164989391\/db3ae\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 540
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164989391\/db3ae\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164989391\/db3ae\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164989391\/db3ae\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/164989391\/user-images\/image-1920-bd0b291f771e992e581fc3e917a877a2.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/164989391\/user-images\/image-1920-bd0b291f771e992e581fc3e917a877a2.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/164989391\/thumbnail\/image-thumbnail-256-714912f712cce260f46b8e73f97029d4.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/164989391\/thumbnail\/image-thumbnail-480-9a2f02d2d9b00045c3943da80a6de305.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/164989391\/thumbnail\/image-thumbnail-640-8e783245c53f494cfc70c684e8236021.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/164989391\/thumbnail\/image-thumbnail-1280-7cc44c69f4af8ad882c3db9e92bf19e9.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/164989391\/thumbnail\/image-thumbnail-1920-df7e64cb283a09c2d928c581c88f69b1.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-07-28"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Macy's TheLadders.com Kervansaray Hotel",
+    "tvp_enhanced_transcript": null
+}

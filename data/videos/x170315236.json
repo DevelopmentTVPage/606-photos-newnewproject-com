@@ -1,0 +1,110 @@
+{
+    "title": "Jacqueline Palmer\/BCBGengeration mini dress",
+    "description": "Terra-cotta mini dress ",
+    "referenceId": "5231ab9e8437a989a8033f2bade73f7e",
+    "date_created": "1533943491",
+    "date_modified": "1533943718",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "16",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213201",
+    "product_category": "women",
+    "id": "170315236",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "789edb1b-b21b-4def-808d-44b803ed899a",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "34",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "34",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "34",
+        "prettyDuration": "00:00:34",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/170315236\/thumbnail\/image-thumbnail-640-0b2d6ed3713a494ec15b4d313cea5b75.jpg",
+        "type": "mp4",
+        "assetId": "170315236",
+        "assetTitle": "789EDB1B-B21B-4DEF-808D-44B803ED899A",
+        "assetTitleTextEncoded": "789edb1b-b21b-4def-808d-44b803ed899a",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "170315236",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170315236\/bd788\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170315236\/bd788\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170315236\/bd788\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170315236\/bd788\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170315236\/bd788\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/170315236\/bd788\/thumb-5231ab9e8437a989a8033f2bade73f7e-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/170315236\/user-images\/image-1911-2c349c36dbf151efc8e0d2ee5648971a.jpg",
+            "\/\/v.tvpage.com\/1759121\/170315236\/user-images\/image-1280-0ee056afeb521d119c60ed06bcf20589.jpg",
+            "\/\/v.tvpage.com\/1759121\/170315236\/bd788\/thumb-5231ab9e8437a989a8033f2bade73f7e-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/170315236\/user-images\/image-1911-2c349c36dbf151efc8e0d2ee5648971a.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/170315236\/thumbnail\/image-thumbnail-256-c337bd3a86a0b31453179a648312aba6.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/170315236\/thumbnail\/image-thumbnail-480-73c8234194f74ae7c7abd79719c85f07.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/170315236\/thumbnail\/image-thumbnail-640-0b2d6ed3713a494ec15b4d313cea5b75.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/170315236\/thumbnail\/image-thumbnail-1280-76b958f3adc0ecd1c06a8b48130f2840.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Supplement Nation LED Light Morgan Harbour Construction",
+    "tvp_enhanced_transcript": null
+}

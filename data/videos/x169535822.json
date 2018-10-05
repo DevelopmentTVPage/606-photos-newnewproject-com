@@ -1,0 +1,109 @@
+{
+    "title": "Lounging at Domino Park",
+    "description": "Love the new park that opened next to our apartment in the shadows of the old Domino Sugar factory.  Perfect place to lay out on the Martha Stewart round beach towels.  I promise I wore sun screen",
+    "referenceId": "c4703a80f4e10a1d6a57836766ad3da1",
+    "date_created": "1533474638",
+    "date_modified": "1533474833",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "9",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213463",
+    "product_category": "bed_bath",
+    "id": "169535822",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "85b2c0d9-4969-463e-8b8b-dcd215898b57",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "81",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "81",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "81",
+        "prettyDuration": "00:01:21",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/169535822\/thumbnail\/image-thumbnail-640-cdbdc078f3bd73a1c2abfc2d579eb852.jpg",
+        "type": "mp4",
+        "assetId": "169535822",
+        "assetTitle": "85B2C0D9-4969-463E-8B8B-DCD215898B57",
+        "assetTitleTextEncoded": "85b2c0d9-4969-463e-8b8b-dcd215898b57",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "169535822",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/169535822\/96bad\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/169535822\/96bad\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/169535822\/96bad\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/169535822\/96bad\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/169535822\/96bad\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/169535822\/96bad\/thumb-c4703a80f4e10a1d6a57836766ad3da1-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/169535822\/user-images\/image-1280-474b10c0a23a19e66aacae5897da202d.jpg",
+            "\/\/v.tvpage.com\/1759121\/169535822\/96bad\/thumb-c4703a80f4e10a1d6a57836766ad3da1-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/169535822\/user-images\/image-1280-474b10c0a23a19e66aacae5897da202d.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/169535822\/thumbnail\/image-thumbnail-256-d81478e12df8c1943e9b68234a624044.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/169535822\/thumbnail\/image-thumbnail-480-5076262ef4a70db78a99280d3454df84.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/169535822\/thumbnail\/image-thumbnail-640-cdbdc078f3bd73a1c2abfc2d579eb852.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/169535822\/thumbnail\/image-thumbnail-1280-2b30fc33d15d6f92891bd1c1c2910026.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "PowerFit Futsal Terkeren East Berkshire College",
+    "tvp_enhanced_transcript": null
+}

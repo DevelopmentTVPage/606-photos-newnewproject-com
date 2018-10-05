@@ -1,0 +1,115 @@
+{
+    "title": "Beauty Blender Case",
+    "description": "Finally.. we have our case for our favorite beauty blenders!!!!!! Wooooo! WEB 6703030",
+    "referenceId": "f49e4b2e3c00e25117da63c1d8308652",
+    "date_created": "1536635858",
+    "date_modified": "1536636063",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "5",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213440",
+    "product_category": "beauty",
+    "id": "177245443",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "8ebd8bab-b2dd-4f4c-8b1b-2d8cf2018264",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "14",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "14",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "14",
+        "prettyDuration": "00:00:14",
+        "automaticThumbnailsPattern": "1759121\/177245443\/9f27d\/thumb-f49e4b2e3c00e25117da63c1d8308652-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/177245443\/9f27d\/thumb-f49e4b2e3c00e25117da63c1d8308652-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/177245443\/9f27d\/thumb-f49e4b2e3c00e25117da63c1d8308652-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/177245443\/9f27d\/thumb-f49e4b2e3c00e25117da63c1d8308652-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/177245443\/9f27d\/thumb-f49e4b2e3c00e25117da63c1d8308652-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/177245443\/9f27d\/thumb-f49e4b2e3c00e25117da63c1d8308652-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/177245443\/9f27d\/thumb-f49e4b2e3c00e25117da63c1d8308652-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/177245443\/thumbnail\/image-thumbnail-256-e10602bf2c9190d145aa30766b543e73.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/177245443\/thumbnail\/image-thumbnail-480-780e1ac6e10389d36887844085f0f129.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/177245443\/thumbnail\/image-thumbnail-640-c89432406257f4a32cd4a811273794b5.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/177245443\/thumbnail\/image-thumbnail-1280-129bb9a9601a04f7d9f8285767f81d5e.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/177245443\/9f27d\/thumb-f49e4b2e3c00e25117da63c1d8308652-00004.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/177245443\/thumbnail\/image-thumbnail-640-c89432406257f4a32cd4a811273794b5.jpg",
+        "type": "mp4",
+        "assetId": "177245443",
+        "assetTitle": "8EBD8BAB-B2DD-4F4C-8B1B-2D8CF2018264",
+        "assetTitleTextEncoded": "8ebd8bab-b2dd-4f4c-8b1b-2d8cf2018264",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "177245443",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177245443\/9f27d\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177245443\/9f27d\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177245443\/9f27d\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177245443\/9f27d\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177245443\/9f27d\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/177245443\/9f27d\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/177245443\/9f27d\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-14"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

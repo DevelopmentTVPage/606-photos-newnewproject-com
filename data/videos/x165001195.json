@@ -1,0 +1,97 @@
+{
+    "title": "DKNY x Puma",
+    "description": "Maybe I'm just late to the game but I was quite surprised how well bodysuit and active leggings goes together! Definitely very versatile! You can hit up the gym with it (while turning heads at the same time) or simply hit town with it! Mix and match, be your own stylist!\n\nPuma Classics Leggings WEBID: 5312385\n\nFollow me on Instagram for more: @janie.hong",
+    "referenceId": "b61fba8632f419c8f92ce8fb641120fc",
+    "date_created": "1529695596",
+    "date_modified": "1529696448",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "80",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213220",
+    "product_category": "active",
+    "id": "165001195",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "dkny-ft-puma",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "40",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "40",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "40",
+        "prettyDuration": "00:00:40",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/165001195\/0d39e\/thumb-b61fba8632f419c8f92ce8fb641120fc-00002.jpg",
+        "type": "mp4",
+        "assetId": "165001195",
+        "assetTitle": "DKNY x Puma",
+        "assetTitleTextEncoded": "dkny-ft-puma",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "165001195",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165001195\/0d39e\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165001195\/0d39e\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165001195\/0d39e\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165001195\/0d39e\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165001195\/0d39e\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-08-30"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Apparel Puma",
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,111 @@
+{
+    "title": "Time to shine",
+    "description": "It's never too early to look fabulous the the first day of school.  Check out these delicious stylings so that you and your friends can Shine this school year!",
+    "referenceId": "6952cb9f5ad2c866b2839d79aee9cbed",
+    "date_created": "1531967344",
+    "date_modified": "1531968971",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "72",
+    "engagement_score": "1",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213226",
+    "product_category": "juniors",
+    "id": "167386692",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "time-to-shine",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "52",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "52",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "52",
+        "prettyDuration": "00:00:52",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/167386692\/thumbnail\/image-thumbnail-640-178287eb1f8a7a8ca7c489702b0ca8e0.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/167386692\/7b511\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/167386692\/7b511\/media.m3u8",
+        "assetId": 167386692,
+        "assetTitle": "Time to shine",
+        "assetTitleTextEncoded": "time-to-shine",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 167386692,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167386692\/7b511\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167386692\/7b511\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167386692\/7b511\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167386692\/7b511\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167386692\/7b511\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/167386692\/7b511\/thumb-6952cb9f5ad2c866b2839d79aee9cbed-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/167386692\/user-images\/image-1280-9590170a8c669e7b82dabd513b86681b.jpg",
+            "\/\/v.tvpage.com\/1759121\/167386692\/7b511\/thumb-6952cb9f5ad2c866b2839d79aee9cbed-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/167386692\/user-images\/image-1280-9590170a8c669e7b82dabd513b86681b.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/167386692\/thumbnail\/image-thumbnail-256-da9a19838b647d126267ccb96f19afd5.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/167386692\/thumbnail\/image-thumbnail-480-f92b299e2c807bd49dfae02bef329fa0.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/167386692\/thumbnail\/image-thumbnail-640-178287eb1f8a7a8ca7c489702b0ca8e0.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/167386692\/thumbnail\/image-thumbnail-1280-c2e3a90cddadfe0d98296ae9b9fd916d.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-14"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

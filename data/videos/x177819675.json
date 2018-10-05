@@ -1,0 +1,109 @@
+{
+    "title": "Style Crew Nikky\/Macy\u2019s Los Cerritos Fall Fashion In Store Event",
+    "description": "We invite you to come and shop with us this season\u2019s must have and it list. 9\/16 Sunday at Macy\u2019s Los Cerritos from 2pm giveaway to the first (35) Cardholders who flash their Macy\u2019s card at the event check in and receive complimentary umbrella* And be of the 25 customers to check in our fall fashion event and receive a Blu-Ray copy of Ocean\u2019s 8. Plus, amazing games, prizes and gram worthy photobooth. Find everything you need and show the world your #remarkableyou only at Macy\u2019s",
+    "referenceId": "9f408a46718b59a14f5a9b5fabbeb162",
+    "date_created": "1537076452",
+    "date_modified": "1537077593",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213182",
+    "product_category": "women",
+    "id": "177819675",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "38039593-7dec-47d1-b5a2-22127d9cef13",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "58",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "58",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "58",
+        "prettyDuration": "00:00:58",
+        "automaticThumbnailsPattern": "1759121\/177819675\/bfa4b\/thumb-9f408a46718b59a14f5a9b5fabbeb162-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/177819675\/bfa4b\/thumb-9f408a46718b59a14f5a9b5fabbeb162-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/177819675\/bfa4b\/thumb-9f408a46718b59a14f5a9b5fabbeb162-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/177819675\/bfa4b\/thumb-9f408a46718b59a14f5a9b5fabbeb162-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/177819675\/bfa4b\/thumb-9f408a46718b59a14f5a9b5fabbeb162-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/177819675\/bfa4b\/thumb-9f408a46718b59a14f5a9b5fabbeb162-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/177819675\/bfa4b\/thumb-9f408a46718b59a14f5a9b5fabbeb162-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/177819675\/thumbnail\/image-thumbnail-256-7e6ab65c5f9816e8a59b5458bc74902b.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/177819675\/thumbnail\/image-thumbnail-480-c499ef9efd8d1ec2dbab77be69155a6d.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/177819675\/thumbnail\/image-thumbnail-640-763f655b14fe9f1e3be86cfa0fbd524b.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/177819675\/thumbnail\/image-thumbnail-1280-bb2adc00cf3461c3ac484624574b4ed3.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/177819675\/bfa4b\/thumb-9f408a46718b59a14f5a9b5fabbeb162-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/177819675\/thumbnail\/image-thumbnail-640-763f655b14fe9f1e3be86cfa0fbd524b.jpg",
+        "type": "mp4",
+        "assetId": 177819675,
+        "assetTitle": "Style Crew Nikky\/Macy\u2019s Los Cerritos Fall Fashion In Store Event",
+        "assetTitleTextEncoded": "38039593-7dec-47d1-b5a2-22127d9cef13",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 177819675,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177819675\/bfa4b\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177819675\/bfa4b\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177819675\/bfa4b\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177819675\/bfa4b\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177819675\/bfa4b\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Macy's Black Audrey Yuva Unstoppable PTV Planung Transport Verkehr",
+    "tvp_enhanced_transcript": null
+}

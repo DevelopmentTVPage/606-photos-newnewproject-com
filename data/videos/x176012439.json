@@ -1,0 +1,119 @@
+{
+    "title": "Wizard Crush Wednesday Episode One Followup Makeup Tutorial",
+    "description": "The follow up to Wizard Crush Wednesday Episode One is here! In the original video I recreated an Emma Watson makeup look, but I wanted to go back in and glam it up a little more by adding some contour, highlight, and eye shadow!",
+    "referenceId": "b73b3c6d5118945801f929a284ecefda",
+    "date_created": "1535162487",
+    "date_modified": "1535166566",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "114",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "4",
+    "video_type": null,
+    "user_id": "213280",
+    "product_category": "beauty",
+    "id": "176012439",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "wizard-crush-wednesday-episode-one-followup-makeup-tutorial",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "LONG",
+    "duration": "640",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "640",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "640",
+        "prettyDuration": "00:10:40",
+        "automaticThumbnailsPattern": "1759121\/176012439\/9756a\/thumb-b73b3c6d5118945801f929a284ecefda-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/176012439\/9756a\/thumb-b73b3c6d5118945801f929a284ecefda-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/176012439\/9756a\/thumb-b73b3c6d5118945801f929a284ecefda-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/176012439\/9756a\/thumb-b73b3c6d5118945801f929a284ecefda-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/176012439\/9756a\/thumb-b73b3c6d5118945801f929a284ecefda-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/176012439\/9756a\/thumb-b73b3c6d5118945801f929a284ecefda-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/176012439\/9756a\/thumb-b73b3c6d5118945801f929a284ecefda-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/176012439\/thumbnail\/image-thumbnail-256-441445e155e8cd3137a8c9c3672b2381.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/176012439\/thumbnail\/image-thumbnail-480-3dce2f89341728e5ae22d85fbd115144.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/176012439\/thumbnail\/image-thumbnail-640-be697ad009ca0835d6b36a6387b6523f.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/176012439\/thumbnail\/image-thumbnail-1280-f507bdcb7a2271aaf08448b828013530.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/176012439\/thumbnail\/image-thumbnail-1920-f5cbf7bb8122cd079a96f8913d6f4601.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/176012439\/9756a\/thumb-b73b3c6d5118945801f929a284ecefda-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/176012439\/thumbnail\/image-thumbnail-640-be697ad009ca0835d6b36a6387b6523f.jpg",
+        "type": "mp4",
+        "assetId": "176012439",
+        "assetTitle": "Wizard Crush Wednesday Episode One Followup Makeup Tutorial",
+        "assetTitleTextEncoded": "wizard-crush-wednesday-episode-one-followup-makeup-tutorial",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "176012439",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176012439\/9756a\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176012439\/9756a\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176012439\/9756a\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176012439\/9756a\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176012439\/9756a\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/176012439\/9756a\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/176012439\/9756a\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-02"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-09-05"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "NPR SHEENA EASTON",
+    "tvp_enhanced_transcript": null
+}

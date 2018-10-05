@@ -1,0 +1,108 @@
+{
+    "title": "FATHER'S DAY 101",
+    "description": "FunnyBread answers the annual question, \"What should I get my dad for Father's Day?\".",
+    "referenceId": "2b343e20ba5a85235a07ae41f49d687b",
+    "date_created": "1527170619",
+    "date_modified": "1531183908",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "48",
+    "engagement_score": "7",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213121",
+    "product_category": "men",
+    "id": "164224328",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "father-s-day-101",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "113",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "113",
+            "width": 854,
+            "height": 480
+        },
+        "mediaDuration": "113",
+        "prettyDuration": "00:01:53",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164224328\/thumbnail\/image-thumbnail-640-f6c343f8117523603a98dc31f28e5cd0.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/164224328\/86731\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/164224328\/86731\/media.m3u8",
+        "assetId": "164224328",
+        "assetTitle": "FATHER'S DAY 101",
+        "assetTitleTextEncoded": "father-s-day-101",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164224328",
+            "li": "1759121"
+        },
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164224328\/86731\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164224328\/86731\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164224328\/86731\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164224328\/86731\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164224328\/86731\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/164224328\/user-images\/image-1920-b6e4972a6d33860d7df7c702400cecde.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/164224328\/user-images\/image-1920-b6e4972a6d33860d7df7c702400cecde.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/164224328\/thumbnail\/image-thumbnail-256-e40005992b11237da852dbbf92cb13f1.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/164224328\/thumbnail\/image-thumbnail-480-dac6e8f29c95b440651b7003f01e96d4.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/164224328\/thumbnail\/image-thumbnail-640-f6c343f8117523603a98dc31f28e5cd0.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/164224328\/thumbnail\/image-thumbnail-1280-6f8e60b51277fadfd2ab9f1e9879869a.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/164224328\/thumbnail\/image-thumbnail-1920-3ceafeed8edb410bbe88ebae2b9b0b54.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-07-25\"}},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-07-25\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "App Store",
+    "tvp_enhanced_transcript": null
+}

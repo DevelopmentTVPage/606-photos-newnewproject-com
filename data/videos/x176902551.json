@@ -1,0 +1,112 @@
+{
+    "title": "Macy's Style Crew combined video",
+    "description": "@fashionistamila wearing Macy's latest summer fashion",
+    "referenceId": "99e572f830290391d67f5d1dc7ab1fcc",
+    "date_created": "1536201405",
+    "date_modified": "1536201874",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "9",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213295",
+    "product_category": "women",
+    "id": "176902551",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "macys-style-crew-combines-video",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "60",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "60",
+            "width": 1080,
+            "height": 1080
+        },
+        "mediaDuration": "60",
+        "prettyDuration": "00:01:00",
+        "automaticThumbnailsPattern": "1759121\/176902551\/4fbe3\/thumb-99e572f830290391d67f5d1dc7ab1fcc-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/176902551\/4fbe3\/thumb-99e572f830290391d67f5d1dc7ab1fcc-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/176902551\/4fbe3\/thumb-99e572f830290391d67f5d1dc7ab1fcc-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/176902551\/4fbe3\/thumb-99e572f830290391d67f5d1dc7ab1fcc-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/176902551\/4fbe3\/thumb-99e572f830290391d67f5d1dc7ab1fcc-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/176902551\/4fbe3\/thumb-99e572f830290391d67f5d1dc7ab1fcc-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/176902551\/4fbe3\/thumb-99e572f830290391d67f5d1dc7ab1fcc-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/176902551\/thumbnail\/image-thumbnail-256-1f1cbf442c48722f11efb91391a05a8f.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/176902551\/thumbnail\/image-thumbnail-480-1ebd89cd6f17dcc3cb7bfe9b860e9b5d.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/176902551\/thumbnail\/image-thumbnail-640-44e11c19f65b2c152cfdf25878cba4d2.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/176902551\/4fbe3\/thumb-99e572f830290391d67f5d1dc7ab1fcc-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/176902551\/thumbnail\/image-thumbnail-640-44e11c19f65b2c152cfdf25878cba4d2.jpg",
+        "type": "mp4",
+        "assetId": 176902551,
+        "assetTitle": "macys style crew combined video",
+        "assetTitleTextEncoded": "macys-style-crew-combines-video",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 176902551,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176902551\/4fbe3\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1080,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176902551\/4fbe3\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176902551\/4fbe3\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176902551\/4fbe3\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176902551\/4fbe3\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

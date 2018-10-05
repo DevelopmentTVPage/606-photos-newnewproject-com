@@ -1,0 +1,97 @@
+{
+    "title": "Macy\u2019s Style Crew Saint Louis Cardinals Accessories and Hats",
+    "description": "This video shows some Saint Louis Cardinals Accessories and hats.",
+    "referenceId": "291e0cb57b719ecc511cd350fabe8610",
+    "date_created": "1532457458",
+    "date_modified": "1532457585",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "4",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213180",
+    "product_category": "active",
+    "id": "167503147",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "df302a94-9bac-48bf-ae4d-2232ffddb170",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "58",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "58",
+            "width": 568,
+            "height": 320
+        },
+        "mediaDuration": "58",
+        "prettyDuration": "00:00:58",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/167503147\/0b919\/thumb-291e0cb57b719ecc511cd350fabe8610-00002.jpg",
+        "type": "mp4",
+        "assetId": "167503147",
+        "assetTitle": "DF302A94-9BAC-48BF-AE4D-2232FFDDB170",
+        "assetTitleTextEncoded": "df302a94-9bac-48bf-ae4d-2232ffddb170",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "167503147",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167503147\/0b919\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167503147\/0b919\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167503147\/0b919\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167503147\/0b919\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167503147\/0b919\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-08-24"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "St. Louis Blues St Louis Blues",
+    "tvp_enhanced_transcript": null
+}

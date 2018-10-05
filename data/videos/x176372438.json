@@ -1,0 +1,115 @@
+{
+    "title": "Onyx Jewelry",
+    "description": "Onyx in sterling Silver",
+    "referenceId": "85473f623b7d83ccbea4587105017937",
+    "date_created": "1535602480",
+    "date_modified": "1535603057",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "23",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213260",
+    "product_category": "jewelry",
+    "id": "176372438",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "2018-8-29-23-11-56",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "18",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "18",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "18",
+        "prettyDuration": "00:00:18",
+        "automaticThumbnailsPattern": "1759121\/176372438\/941b5\/thumb-85473f623b7d83ccbea4587105017937-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/176372438\/user-images\/image-1013-c666502b4729b4b10717ca5e0f6f7c3c.jpg",
+            "\/\/v.tvpage.com\/1759121\/176372438\/941b5\/thumb-85473f623b7d83ccbea4587105017937-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/176372438\/941b5\/thumb-85473f623b7d83ccbea4587105017937-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/176372438\/941b5\/thumb-85473f623b7d83ccbea4587105017937-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/176372438\/941b5\/thumb-85473f623b7d83ccbea4587105017937-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/176372438\/941b5\/thumb-85473f623b7d83ccbea4587105017937-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/176372438\/941b5\/thumb-85473f623b7d83ccbea4587105017937-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/176372438\/thumbnail\/image-thumbnail-256-12f9b5ce17201cdbd1a0e954847e6251.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/176372438\/thumbnail\/image-thumbnail-480-bd4242ae6621f6f4cd59e33aef170f96.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/176372438\/thumbnail\/image-thumbnail-640-8ff21201b40c14aba8b4b82002d9f400.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/176372438\/user-images\/image-1013-c666502b4729b4b10717ca5e0f6f7c3c.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/176372438\/thumbnail\/image-thumbnail-640-8ff21201b40c14aba8b4b82002d9f400.jpg",
+        "type": "mp4",
+        "assetId": "176372438",
+        "assetTitle": "2018-8-29-23-11-56",
+        "assetTitleTextEncoded": "2018-8-29-23-11-56",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "176372438",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176372438\/941b5\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176372438\/941b5\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176372438\/941b5\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176372438\/941b5\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176372438\/941b5\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/176372438\/941b5\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/176372438\/941b5\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-08"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

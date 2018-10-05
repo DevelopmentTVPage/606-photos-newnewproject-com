@@ -1,0 +1,117 @@
+{
+    "title": "Back To The School",
+    "description": "Marty McFly goes Back to the School...shopping at Macy's!",
+    "referenceId": "3c8386ec9542ccec1383b51a6e35540a",
+    "date_created": "1534557775",
+    "date_modified": "1534559669",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "27",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "2",
+    "video_type": null,
+    "user_id": "213121",
+    "product_category": "men",
+    "id": "171077388",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "back-to-the-school",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "109",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "109",
+            "width": 854,
+            "height": 480
+        },
+        "mediaDuration": "109",
+        "prettyDuration": "00:01:49",
+        "automaticThumbnailsPattern": "1759121\/171077388\/cf0e5\/thumb-3c8386ec9542ccec1383b51a6e35540a-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/171077388\/cf0e5\/thumb-3c8386ec9542ccec1383b51a6e35540a-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/171077388\/cf0e5\/thumb-3c8386ec9542ccec1383b51a6e35540a-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/171077388\/cf0e5\/thumb-3c8386ec9542ccec1383b51a6e35540a-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/171077388\/cf0e5\/thumb-3c8386ec9542ccec1383b51a6e35540a-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/171077388\/cf0e5\/thumb-3c8386ec9542ccec1383b51a6e35540a-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/171077388\/cf0e5\/thumb-3c8386ec9542ccec1383b51a6e35540a-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/171077388\/thumbnail\/image-thumbnail-256-4f74054a38fc6b32c48ea2812bd90d22.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/171077388\/thumbnail\/image-thumbnail-480-97ea54f57e520f9987cdf34ca8f0c033.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/171077388\/thumbnail\/image-thumbnail-640-7a4e9d3fb61ead7f4709b189a956d04f.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/171077388\/cf0e5\/thumb-3c8386ec9542ccec1383b51a6e35540a-00001.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/171077388\/thumbnail\/image-thumbnail-640-7a4e9d3fb61ead7f4709b189a956d04f.jpg",
+        "type": "mp4",
+        "assetId": 171077388,
+        "assetTitle": "Back To The School",
+        "assetTitleTextEncoded": "back-to-the-school",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 171077388,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171077388\/cf0e5\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171077388\/cf0e5\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171077388\/cf0e5\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171077388\/cf0e5\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171077388\/cf0e5\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/171077388\/cf0e5\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/171077388\/cf0e5\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-08-24"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-08-21"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "University of Minnesota",
+    "tvp_enhanced_transcript": null
+}

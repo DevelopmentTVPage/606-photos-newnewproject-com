@@ -1,0 +1,107 @@
+{
+    "title": "Macys Beauty Box",
+    "description": "Macy\u2019s Monthly Beauty Box \nAll this and more are available with daniellemacysmystylist",
+    "referenceId": "9b214649fe60ff77512c5f8e29493b92",
+    "date_created": "1537230740",
+    "date_modified": "1537231347",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213525",
+    "product_category": "active",
+    "id": "177862421",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "dc5286e4-7dc2-43ed-bf02-953addda59e0",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "6",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "6",
+            "width": 480,
+            "height": 480
+        },
+        "mediaDuration": "6",
+        "prettyDuration": "00:00:06",
+        "automaticThumbnailsPattern": "1759121\/177862421\/88b99\/thumb-9b214649fe60ff77512c5f8e29493b92-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/177862421\/88b99\/thumb-9b214649fe60ff77512c5f8e29493b92-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/177862421\/88b99\/thumb-9b214649fe60ff77512c5f8e29493b92-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/177862421\/88b99\/thumb-9b214649fe60ff77512c5f8e29493b92-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/177862421\/88b99\/thumb-9b214649fe60ff77512c5f8e29493b92-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/177862421\/thumbnail\/image-thumbnail-256-dee94b2e1fee11d85fa08c553d1eb2b5.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/177862421\/thumbnail\/image-thumbnail-480-2b1dac1183cd282b3d5a3aa7b2178f83.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/177862421\/88b99\/thumb-9b214649fe60ff77512c5f8e29493b92-00003.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/177862421\/thumbnail\/image-thumbnail-480-2b1dac1183cd282b3d5a3aa7b2178f83.jpg",
+        "type": "mp4",
+        "assetId": 177862421,
+        "assetTitle": "Macys Beauty Box",
+        "assetTitleTextEncoded": "dc5286e4-7dc2-43ed-bf02-953addda59e0",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 177862421,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177862421\/88b99\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177862421\/88b99\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177862421\/88b99\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177862421\/88b99\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177862421\/88b99\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/177862421\/88b99\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/177862421\/88b99\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Tyra Beauty",
+    "tvp_enhanced_transcript": null
+}

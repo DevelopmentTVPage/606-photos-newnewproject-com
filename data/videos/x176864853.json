@@ -1,0 +1,113 @@
+{
+    "title": "Jacqueline Palmer\/Macy\u2019s Mattresses",
+    "description": "Private brand mattress from Macy\u2019s! When you sleep well you look great in all fashions!\n#macysstylecrew #macysmystylist #macyshome #matresses #sleepingwell #goodnightssleep #bedding",
+    "referenceId": "89d8e8e8ac0e8779d437b1af4d6031ca",
+    "date_created": "1536088786",
+    "date_modified": "1536093425",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "18",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213201",
+    "product_category": "bed_bath",
+    "id": "176864853",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "31b86be4-bd61-4376-84fa-88b56d20e25d",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "66",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "66",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "66",
+        "prettyDuration": "00:01:06",
+        "automaticThumbnailsPattern": "1759121\/176864853\/75c41\/thumb-89d8e8e8ac0e8779d437b1af4d6031ca-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/176864853\/75c41\/thumb-89d8e8e8ac0e8779d437b1af4d6031ca-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/176864853\/75c41\/thumb-89d8e8e8ac0e8779d437b1af4d6031ca-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/176864853\/75c41\/thumb-89d8e8e8ac0e8779d437b1af4d6031ca-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/176864853\/75c41\/thumb-89d8e8e8ac0e8779d437b1af4d6031ca-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/176864853\/75c41\/thumb-89d8e8e8ac0e8779d437b1af4d6031ca-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/176864853\/75c41\/thumb-89d8e8e8ac0e8779d437b1af4d6031ca-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/176864853\/thumbnail\/image-thumbnail-256-34d49dbc56512118b1441f5b35e5dda2.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/176864853\/thumbnail\/image-thumbnail-480-ef257dc68a2eba041adeefa23ccb0321.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/176864853\/thumbnail\/image-thumbnail-640-ddc22a4a3b2d492ddb20eb1569ba6327.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/176864853\/thumbnail\/image-thumbnail-1280-bbc505a8fe49444e4e104ba2d939b1a9.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/176864853\/75c41\/thumb-89d8e8e8ac0e8779d437b1af4d6031ca-00006.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/176864853\/thumbnail\/image-thumbnail-640-ddc22a4a3b2d492ddb20eb1569ba6327.jpg",
+        "type": "mp4",
+        "assetId": "176864853",
+        "assetTitle": "Jacqueline Palmer\/Macy\u2019s mattress\u2019s",
+        "assetTitleTextEncoded": "31b86be4-bd61-4376-84fa-88b56d20e25d",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "176864853",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176864853\/75c41\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176864853\/75c41\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176864853\/75c41\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176864853\/75c41\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176864853\/75c41\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Macy's",
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,113 @@
+{
+    "title": "1.State Black Dresses",
+    "description": "Love this brand, especially the dresses!",
+    "referenceId": "46d0b0bd6376deab2ba5a370e93df153",
+    "date_created": "1535845800",
+    "date_modified": "1535846604",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "3",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213251",
+    "product_category": "women",
+    "id": "176756349",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "b61521ab-2515-4d30-83b3-09b653bfd318",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "24",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "24",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "24",
+        "prettyDuration": "00:00:24",
+        "automaticThumbnailsPattern": "1759121\/176756349\/d0d66\/thumb-46d0b0bd6376deab2ba5a370e93df153-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/176756349\/user-images\/image-1032-a66f4f88fc3737c7c4a890d397fafc2b.jpg",
+            "\/\/v.tvpage.com\/1759121\/176756349\/d0d66\/thumb-46d0b0bd6376deab2ba5a370e93df153-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/176756349\/d0d66\/thumb-46d0b0bd6376deab2ba5a370e93df153-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/176756349\/d0d66\/thumb-46d0b0bd6376deab2ba5a370e93df153-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/176756349\/d0d66\/thumb-46d0b0bd6376deab2ba5a370e93df153-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/176756349\/d0d66\/thumb-46d0b0bd6376deab2ba5a370e93df153-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/176756349\/d0d66\/thumb-46d0b0bd6376deab2ba5a370e93df153-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/176756349\/thumbnail\/image-thumbnail-256-c3c8e1da1f973453453c2373a5387b96.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/176756349\/thumbnail\/image-thumbnail-480-fe461415814dfa6c1513aef6e5da5e26.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/176756349\/thumbnail\/image-thumbnail-640-fa7996c48c22208f49f3df9adbb7e990.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/176756349\/user-images\/image-1032-a66f4f88fc3737c7c4a890d397fafc2b.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/176756349\/thumbnail\/image-thumbnail-640-fa7996c48c22208f49f3df9adbb7e990.jpg",
+        "type": "mp4",
+        "assetId": "176756349",
+        "assetTitle": "One State Black Dresses",
+        "assetTitleTextEncoded": "b61521ab-2515-4d30-83b3-09b653bfd318",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "176756349",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176756349\/d0d66\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176756349\/d0d66\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176756349\/d0d66\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176756349\/d0d66\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176756349\/d0d66\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-14"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

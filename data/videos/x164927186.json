@@ -1,0 +1,110 @@
+{
+    "title": "Biggest Shoe Sale",
+    "description": "A woman can never have too many pairs of shoes (and lipsticks)! What better timing than now, our BIGGEST SHOE SALE OF THE SEASON! Remember, it's 30% off any single pair or 40% off any two pairs! What a steal! These two are some of what I recently treated myself with and I highly recommend them to you. Talk about trendiness!\n\nINC x Trina Turk Kanata WEB ID: 6054212\n\nFollow me on Instagram for more: @janie.hong",
+    "referenceId": "7002ad8750489e6aca22d493766ae2cd",
+    "date_created": "1529195479",
+    "date_modified": "1529345197",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "242",
+    "engagement_score": "13",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213220",
+    "product_category": "shoes",
+    "id": "164927186",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "biggest-shoe-sale",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "58",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "58",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "58",
+        "prettyDuration": "00:00:58",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164927186\/thumbnail\/image-thumbnail-640-c3c033af672f85faa12da64238cc7096.jpg",
+        "type": "mp4",
+        "assetId": "164927186",
+        "assetTitle": "Biggest Shoe Sale",
+        "assetTitleTextEncoded": "biggest-shoe-sale",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164927186",
+            "li": "1759121"
+        },
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/164927186\/d71ef\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/164927186\/d71ef\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164927186\/d71ef\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164927186\/d71ef\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164927186\/d71ef\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164927186\/d71ef\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164927186\/d71ef\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/164927186\/d71ef\/thumb-7002ad8750489e6aca22d493766ae2cd-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/164927186\/user-images\/image-1920-d0af6f9373d7c0f1f306212a4b8e1017.jpg",
+            "\/\/v.tvpage.com\/1759121\/164927186\/d71ef\/thumb-7002ad8750489e6aca22d493766ae2cd-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/164927186\/user-images\/image-1920-d0af6f9373d7c0f1f306212a4b8e1017.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/164927186\/thumbnail\/image-thumbnail-256-ac22c6ffe77c1d5c53c2a01fda27747b.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/164927186\/thumbnail\/image-thumbnail-480-5fa4c50a65e09a5727226fba6ef758fb.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/164927186\/thumbnail\/image-thumbnail-640-c3c033af672f85faa12da64238cc7096.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/164927186\/thumbnail\/image-thumbnail-1280-09d711b3e612ef83d4f1bc44d42c7412.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/164927186\/thumbnail\/image-thumbnail-1920-4da6c725f31a21a3054c30f7b44f841c.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-07-25\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

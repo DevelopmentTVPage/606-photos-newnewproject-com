@@ -1,0 +1,106 @@
+{
+    "title": "VisuALLY: The Statement Earring",
+    "description": "This summer is ALL about the 'Statement Earring'! Here are my top picks along with other items to recreate my look!",
+    "referenceId": "cfff4202b37c6e459bad29bb37834168",
+    "date_created": "1529066649",
+    "date_modified": "1537201171",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "54",
+    "engagement_score": "7",
+    "conversion_score": "1",
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213225",
+    "product_category": "jewelry",
+    "id": "164913796",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "msc-the-statement-earring",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "30",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "30",
+            "width": 960,
+            "height": 540
+        },
+        "mediaDuration": "30",
+        "prettyDuration": "00:00:30",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164913796\/thumbnail\/image-thumbnail-640-bed0956b6843a070c7a6b8711efdcbaf.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "quality": "",
+        "assetId": "164913796",
+        "assetTitle": "The Statement Earring",
+        "assetTitleTextEncoded": "msc-the-statement-earring",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164913796",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164913796\/b121d\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 540
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164913796\/b121d\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 540
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164913796\/b121d\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164913796\/b121d\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164913796\/b121d\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/164913796\/user-images\/image-1920-9469cdd3285333beb3a4f279e817086f.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/164913796\/user-images\/image-1920-9469cdd3285333beb3a4f279e817086f.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/164913796\/thumbnail\/image-thumbnail-256-f96f6bed48edfcb9b06f64c7303f090f.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/164913796\/thumbnail\/image-thumbnail-480-a6bf20d42e1f1f70a30baac207dfc805.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/164913796\/thumbnail\/image-thumbnail-640-bed0956b6843a070c7a6b8711efdcbaf.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/164913796\/thumbnail\/image-thumbnail-1280-ecf328a313d82d6b855d8226868ecafc.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/164913796\/thumbnail\/image-thumbnail-1920-92ea18440adb0d0424b772f007f1fb8c.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-07-25\"}},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-07-25\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Macy's",
+    "tvp_enhanced_transcript": null
+}

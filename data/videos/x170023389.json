@@ -1,0 +1,112 @@
+{
+    "title": "Jacqueline Palmer\/Being Active",
+    "description": "My go to Activewear is always DKNY Activewear exclusively at Macy\u2019s \n#macysstylecrew #macysmystylist #macysstylecrewjacqueline #activewaer #dkny #nike #activewoman #lifebalence",
+    "referenceId": "fbdb48680ffaa63813d7387de69a64d9",
+    "date_created": "1533865611",
+    "date_modified": "1533865958",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "23",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213201",
+    "product_category": "active",
+    "id": "170023389",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "fb9a3616-e779-479a-9b20-3d31fc926b91",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "41",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "41",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "41",
+        "prettyDuration": "00:00:41",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/170023389\/thumbnail\/image-thumbnail-640-642b57ee716ae996681fef9235fd6443.jpg",
+        "type": "mp4",
+        "assetId": "170023389",
+        "assetTitle": "FB9A3616-E779-479A-9B20-3D31FC926B91",
+        "assetTitleTextEncoded": "fb9a3616-e779-479a-9b20-3d31fc926b91",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "170023389",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170023389\/76c43\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170023389\/76c43\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170023389\/76c43\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170023389\/76c43\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170023389\/76c43\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/170023389\/76c43\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/170023389\/76c43\/media.m3u8",
+        "automaticThumbnailsPattern": "1759121\/170023389\/76c43\/thumb-fbdb48680ffaa63813d7387de69a64d9-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/170023389\/user-images\/image-1911-0f69e772efe02a94de6e030293234928.jpg",
+            "\/\/v.tvpage.com\/1759121\/170023389\/user-images\/image-1280-86d961fa2cec7d123c7d66c4418b4960.jpg",
+            "\/\/v.tvpage.com\/1759121\/170023389\/76c43\/thumb-fbdb48680ffaa63813d7387de69a64d9-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/170023389\/user-images\/image-1911-0f69e772efe02a94de6e030293234928.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/170023389\/thumbnail\/image-thumbnail-256-a6f73676feb7394e8d413572df6d86e8.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/170023389\/thumbnail\/image-thumbnail-480-841f2c2a5d1cde4285b7dc7c86aeea58.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/170023389\/thumbnail\/image-thumbnail-640-642b57ee716ae996681fef9235fd6443.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/170023389\/thumbnail\/image-thumbnail-1280-2d1d76707892fe58eaf0f46ac3c875b4.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "At sign BAC Libre Buzzispace Jack Spade FashionTV Macy's Delinero Chanel Aceros Levinson Gereja Utusan Pantekosta",
+    "tvp_enhanced_transcript": null
+}

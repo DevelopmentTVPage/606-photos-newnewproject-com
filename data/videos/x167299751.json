@@ -1,0 +1,97 @@
+{
+    "title": "The WEB ID is: 5930204 ~ Alfani Comfortable Chic",
+    "description": "Web ID: 5930204\nAlfani's wide leg pants have a flowy silhouette that keeps the look chic and cozy, styled with a tie waist for an adjustable fit. Side pockets give the look a versatile finish.",
+    "referenceId": "09577cf2f8c4ea5e3b86c4774f084919",
+    "date_created": "1531551641",
+    "date_modified": "1531555637",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "24",
+    "engagement_score": "1",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213194",
+    "product_category": "women",
+    "id": "167299751",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "alfani-comfortable-chic",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "47",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "47",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "47",
+        "prettyDuration": "00:00:47",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/167299751\/72204\/thumb-09577cf2f8c4ea5e3b86c4774f084919-00002.jpg",
+        "type": "mp4",
+        "assetId": "167299751",
+        "assetTitle": "Alfani Comfortable Chic",
+        "assetTitleTextEncoded": "alfani-comfortable-chic",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "167299751",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167299751\/72204\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167299751\/72204\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167299751\/72204\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167299751\/72204\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167299751\/72204\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-08-03"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

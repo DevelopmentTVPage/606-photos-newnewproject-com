@@ -1,0 +1,108 @@
+{
+    "title": "The Close Shave",
+    "description": "Whether you need a razor or a hat, this video is for you!",
+    "referenceId": "6bbfe53b8b9e9877956599476db4cf82",
+    "date_created": "1533569677",
+    "date_modified": "1533569889",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "23",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213121",
+    "product_category": "men",
+    "id": "169634258",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "the-close-shave",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "91",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "91",
+            "width": 854,
+            "height": 480
+        },
+        "mediaDuration": "91",
+        "prettyDuration": "00:01:31",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/169634258\/thumbnail\/image-thumbnail-640-f45fe1998ea76b6373551dedec6eace7.jpg",
+        "type": "mp4",
+        "assetId": "169634258",
+        "assetTitle": "The Close Shave",
+        "assetTitleTextEncoded": "the-close-shave",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "169634258",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/169634258\/1abe0\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/169634258\/1abe0\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/169634258\/1abe0\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/169634258\/1abe0\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/169634258\/1abe0\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/169634258\/1abe0\/thumb-6bbfe53b8b9e9877956599476db4cf82-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/169634258\/user-images\/image-853-3e5f4f528271e4b6acaf6d3f78d8d33a.jpg",
+            "\/\/v.tvpage.com\/1759121\/169634258\/1abe0\/thumb-6bbfe53b8b9e9877956599476db4cf82-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/169634258\/1abe0\/thumb-6bbfe53b8b9e9877956599476db4cf82-00001.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/169634258\/thumbnail\/image-thumbnail-256-7f704ef94213d2b809b93aa51ac906f6.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/169634258\/thumbnail\/image-thumbnail-480-aa755c243fdf9d7a7ea6d513d3e5fc5f.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/169634258\/thumbnail\/image-thumbnail-640-f45fe1998ea76b6373551dedec6eace7.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-08-15"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

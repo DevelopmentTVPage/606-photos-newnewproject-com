@@ -1,0 +1,107 @@
+{
+    "title": "My New Favorite Watch",
+    "description": "Beautiful 38 mm Rose Gold Apple Watch that you can buy bands and case covers to mix and match the look. Every fashionista or fashion mister's dream!",
+    "referenceId": "54ad8656892b42668b05519ce8462d16",
+    "date_created": "1534333870",
+    "date_modified": "1534335094",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "9",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213205",
+    "product_category": "watches",
+    "id": "170827015",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "4f89fbb0-d646-4c32-a1a1-735351771815",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "20",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "20",
+            "width": 480,
+            "height": 480
+        },
+        "mediaDuration": "20",
+        "prettyDuration": "00:00:20",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/170827015\/thumbnail\/image-thumbnail-480-ec665b40b4b28eba945664ddb7ea8544.jpg",
+        "type": "mp4",
+        "assetId": 170827015,
+        "assetTitle": "My New Favorite Watch",
+        "assetTitleTextEncoded": "4f89fbb0-d646-4c32-a1a1-735351771815",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 170827015,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170827015\/704a2\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170827015\/704a2\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170827015\/704a2\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170827015\/704a2\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170827015\/704a2\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/170827015\/704a2\/thumb-54ad8656892b42668b05519ce8462d16-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/170827015\/user-images\/image-480-8a225a7faff6e982ff36884579ed92f4.jpg",
+            "\/\/v.tvpage.com\/1759121\/170827015\/704a2\/thumb-54ad8656892b42668b05519ce8462d16-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/170827015\/user-images\/image-480-8a225a7faff6e982ff36884579ed92f4.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/170827015\/thumbnail\/image-thumbnail-256-67dd4c7392f4bd510b135e8324c370a0.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/170827015\/thumbnail\/image-thumbnail-480-ec665b40b4b28eba945664ddb7ea8544.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-08"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

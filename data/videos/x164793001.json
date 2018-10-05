@@ -1,0 +1,96 @@
+{
+    "title": "Skin care\/ taking care of tattoos",
+    "description": "Hello gorgeous people. Just some game changers for your daily skincare",
+    "referenceId": "e107ae491826c6114eb79ddc7f4d47c7",
+    "date_created": "1528743314",
+    "date_modified": "1531182560",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213237",
+    "product_category": "beauty",
+    "id": "164793001",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "a94acaef-dc3f-4489-8891-f0e708b40ec3",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "58",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "58",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "58",
+        "prettyDuration": "00:00:58",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164793001\/5e219\/thumb-e107ae491826c6114eb79ddc7f4d47c7-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/164793001\/5e219\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/164793001\/5e219\/media.m3u8",
+        "assetId": "164793001",
+        "assetTitle": "A94ACAEF-DC3F-4489-8891-F0E708B40EC3",
+        "assetTitleTextEncoded": "a94acaef-dc3f-4489-8891-f0e708b40ec3",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164793001",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164793001\/5e219\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164793001\/5e219\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164793001\/5e219\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164793001\/5e219\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360,
+                "tvpdefault": true
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164793001\/5e219\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

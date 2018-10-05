@@ -1,0 +1,114 @@
+{
+    "title": "Mad for Plaid- Just a Taste of Fashion",
+    "description": "Hi guys!\n\nOne of my favorite It List trend for this Fall is The Updated Plaid. There are so many different ways to play with this pattern and in my video I will show you three outfits showcasing plaid. Guess which one is my favorite :)\n\nThanks for watching and shop all products on the right. For the missing products, I have the web ids below.\n\nSee below for Web IDs\nMichael Kors Purse: 3042290\nFree People Sweater: 6685112",
+    "referenceId": "88b49d092d690a589a8e8bb8be970d8e",
+    "date_created": "1537408103",
+    "date_modified": "1537414654",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213245",
+    "product_category": "women",
+    "id": "177973851",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "14-mad-for-plaid",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "168",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "168",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "168",
+        "prettyDuration": "00:02:48",
+        "automaticThumbnailsPattern": "1759121\/177973851\/1ef71\/thumb-88b49d092d690a589a8e8bb8be970d8e-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/177973851\/user-images\/image-3247-80ef24a6a2854f4a76df7f5a1e1fd0b0.jpg",
+            "\/\/v.tvpage.com\/1759121\/177973851\/user-images\/image-2126-e19a99291f09c946d6280c9497db05af.jpg",
+            "\/\/v.tvpage.com\/1759121\/177973851\/1ef71\/thumb-88b49d092d690a589a8e8bb8be970d8e-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/177973851\/1ef71\/thumb-88b49d092d690a589a8e8bb8be970d8e-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/177973851\/1ef71\/thumb-88b49d092d690a589a8e8bb8be970d8e-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/177973851\/1ef71\/thumb-88b49d092d690a589a8e8bb8be970d8e-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/177973851\/1ef71\/thumb-88b49d092d690a589a8e8bb8be970d8e-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/177973851\/1ef71\/thumb-88b49d092d690a589a8e8bb8be970d8e-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/177973851\/thumbnail\/image-thumbnail-256-0c13cd4b092aea573749fedea547101c.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/177973851\/thumbnail\/image-thumbnail-480-25b7782505413e3268bca3e8e43f32d7.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/177973851\/thumbnail\/image-thumbnail-640-b53b4544671ce6668940160f671fb9ac.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/177973851\/thumbnail\/image-thumbnail-1280-66ecda33b07fab371ca8cee51ca8bc3c.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/177973851\/thumbnail\/image-thumbnail-1920-a17538e9dbe7a86722691b13d73d9d45.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/177973851\/user-images\/image-2126-e19a99291f09c946d6280c9497db05af.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/177973851\/thumbnail\/image-thumbnail-640-b53b4544671ce6668940160f671fb9ac.jpg",
+        "type": "mp4",
+        "assetId": "177973851",
+        "assetTitle": "Mad for Plaid- Just a Taste of Fashion",
+        "assetTitleTextEncoded": "14-mad-for-plaid",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "177973851",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177973851\/1ef71\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177973851\/1ef71\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177973851\/1ef71\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177973851\/1ef71\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177973851\/1ef71\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/177973851\/1ef71\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/177973851\/1ef71\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

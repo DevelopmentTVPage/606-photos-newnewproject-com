@@ -1,0 +1,111 @@
+{
+    "title": "Classic & Timeless",
+    "description": "Michael Kors, DKNY, Calvin Klein, I.N.C, Guess, Madden girl,",
+    "referenceId": "79d4ed253f08acd39e96e18a25b66a3e",
+    "date_created": "1533007509",
+    "date_modified": "1533268492",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "13",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213525",
+    "product_category": "women",
+    "id": "168531116",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "c945e8af-0e07-4884-926d-64e49af54356",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "92",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "92",
+            "width": 568,
+            "height": 320
+        },
+        "mediaDuration": "92",
+        "prettyDuration": "00:01:32",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/168531116\/thumbnail\/image-thumbnail-480-283d9f7651b10a42b9e7de92b0d38d57.jpg",
+        "type": "mp4",
+        "assetId": "168531116",
+        "assetTitle": "Classic & Timless",
+        "assetTitleTextEncoded": "c945e8af-0e07-4884-926d-64e49af54356",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "168531116",
+            "li": "1759121"
+        },
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/168531116\/a3bd7\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/168531116\/a3bd7\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168531116\/a3bd7\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168531116\/a3bd7\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168531116\/a3bd7\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168531116\/a3bd7\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168531116\/a3bd7\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/168531116\/a3bd7\/thumb-79d4ed253f08acd39e96e18a25b66a3e-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/168531116\/user-images\/image-568-9848c3dc2c068375dd10bed761b5944f.jpg",
+            "\/\/v.tvpage.com\/1759121\/168531116\/a3bd7\/thumb-79d4ed253f08acd39e96e18a25b66a3e-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/168531116\/user-images\/image-568-9848c3dc2c068375dd10bed761b5944f.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/168531116\/thumbnail\/image-thumbnail-256-dd1dd60ca820dd4cf2b773d3c0bb2a12.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/168531116\/thumbnail\/image-thumbnail-480-283d9f7651b10a42b9e7de92b0d38d57.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Black Macy's Audrey Pretty Brown Girl",
+    "tvp_enhanced_transcript": null
+}

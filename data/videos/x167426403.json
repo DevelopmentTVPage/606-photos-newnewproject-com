@@ -1,0 +1,100 @@
+{
+    "title": "DKNY Wedge Sneaker",
+    "description": "New DKNY Wedge sneakers... And I'm completely OBSESSED with them. Perfect for everyday or the weekend.",
+    "referenceId": "f37e79ef28e2a2eb2f962f1dd4472c83",
+    "date_created": "1532107342",
+    "date_modified": "1532107961",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "34",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "2",
+    "video_type": null,
+    "user_id": "213205",
+    "product_category": "shoes",
+    "id": "167426403",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "dc35fe28-bd25-4af4-a752-09f78aa27d08",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "14",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "14",
+            "width": 480,
+            "height": 480
+        },
+        "mediaDuration": "14",
+        "prettyDuration": "00:00:14",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/167426403\/3f841\/thumb-f37e79ef28e2a2eb2f962f1dd4472c83-00002.jpg",
+        "type": "mp4",
+        "assetId": "167426403",
+        "assetTitle": "DC35FE28-BD25-4AF4-A752-09F78AA27D08",
+        "assetTitleTextEncoded": "dc35fe28-bd25-4af4-a752-09f78aa27d08",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "167426403",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167426403\/3f841\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167426403\/3f841\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167426403\/3f841\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167426403\/3f841\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167426403\/3f841\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-08-27"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-09-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Macy's Audrey",
+    "tvp_enhanced_transcript": null
+}

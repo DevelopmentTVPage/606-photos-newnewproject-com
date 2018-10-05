@@ -1,0 +1,112 @@
+{
+    "title": "Urban looks for back to school",
+    "description": "Young mens back to school looks featuring polo, super dry, buffalo, dickies",
+    "referenceId": "d74cfc1e53cdf8d842636903dc8f4bc6",
+    "date_created": "1535202617",
+    "date_modified": "1535202716",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "16",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213364",
+    "product_category": "men",
+    "id": "176120004",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "quik-20180825-060534",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "52",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "52",
+            "width": 720,
+            "height": 720
+        },
+        "mediaDuration": "52",
+        "prettyDuration": "00:00:52",
+        "automaticThumbnailsPattern": "1759121\/176120004\/66676\/thumb-d74cfc1e53cdf8d842636903dc8f4bc6-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/176120004\/66676\/thumb-d74cfc1e53cdf8d842636903dc8f4bc6-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/176120004\/66676\/thumb-d74cfc1e53cdf8d842636903dc8f4bc6-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/176120004\/66676\/thumb-d74cfc1e53cdf8d842636903dc8f4bc6-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/176120004\/66676\/thumb-d74cfc1e53cdf8d842636903dc8f4bc6-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/176120004\/66676\/thumb-d74cfc1e53cdf8d842636903dc8f4bc6-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/176120004\/66676\/thumb-d74cfc1e53cdf8d842636903dc8f4bc6-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/176120004\/thumbnail\/image-thumbnail-256-95a7c48828d9ef170eb0c05b8a29c29b.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/176120004\/thumbnail\/image-thumbnail-480-7402648cdcf353c049f1d0a7655c05b3.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/176120004\/thumbnail\/image-thumbnail-640-d5da6dec37dcec324a08e1d1af0fd5a1.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/176120004\/66676\/thumb-d74cfc1e53cdf8d842636903dc8f4bc6-00003.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/176120004\/thumbnail\/image-thumbnail-640-d5da6dec37dcec324a08e1d1af0fd5a1.jpg",
+        "type": "mp4",
+        "assetId": "176120004",
+        "assetTitle": "QUIK_20180825_060534",
+        "assetTitleTextEncoded": "quik-20180825-060534",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "176120004",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176120004\/66676\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176120004\/66676\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176120004\/66676\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176120004\/66676\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176120004\/66676\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Superdry",
+    "tvp_enhanced_transcript": null
+}

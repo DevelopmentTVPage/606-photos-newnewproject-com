@@ -1,0 +1,100 @@
+{
+    "title": "EMILY CURRAN | MACY\u2019S STYLE CREW | NEW! LAURA MERCIER BLUSH COLOUR INFUSION",
+    "description": "Emily shows us the new Laura Mercier Blushes! A must have this season!",
+    "referenceId": "a3e9139eb9b86b2cd051d8a0476fe2c2",
+    "date_created": "1532273685",
+    "date_modified": "1532273845",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "14",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213118",
+    "product_category": "beauty",
+    "id": "167461915",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "330326eb-6b87-4a19-8e53-c7c1dce6d029",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "53",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "53",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "53",
+        "prettyDuration": "00:00:53",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/167461915\/d364f\/thumb-a3e9139eb9b86b2cd051d8a0476fe2c2-00002.jpg",
+        "type": "mp4",
+        "assetId": "167461915",
+        "assetTitle": "330326EB-6B87-4A19-8E53-C7C1DCE6D029",
+        "assetTitleTextEncoded": "330326eb-6b87-4a19-8e53-c7c1dce6d029",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "167461915",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167461915\/d364f\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167461915\/d364f\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167461915\/d364f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167461915\/d364f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167461915\/d364f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-07-31"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-07-28"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

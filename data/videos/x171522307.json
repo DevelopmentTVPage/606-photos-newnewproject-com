@@ -1,0 +1,120 @@
+{
+    "title": "Wizard Crush Wednesday Episode One",
+    "description": "Welcome to Episode One of Wizard Crush Wednesday! In these episodes I choose one of my favorite wizards and interpret either a makeup look or an outfit worn by the actor who portrays the wizard of the week! This week I have chosen Hermione Granger (Emma Watson), and will be recreating one of her makeup looks! Check it out for some of my go-to makeup products and for some tips and tricks! Enjoy!!",
+    "referenceId": "32de818df04ee46c740b7ca709fb5864",
+    "date_created": "1534995682",
+    "date_modified": "1534997743",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "104",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "3",
+    "video_type": null,
+    "user_id": "213280",
+    "product_category": "beauty",
+    "id": "171522307",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "wizard-crush-wednesday-episode-one",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "LONG",
+    "duration": "1181",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "1181",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "1181",
+        "prettyDuration": "00:19:41",
+        "automaticThumbnailsPattern": "1759121\/171522307\/76d9a\/thumb-32de818df04ee46c740b7ca709fb5864-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/171522307\/user-images\/image-2814-6976165c4544ee0ee64e847b126a155a.jpg",
+            "\/\/v.tvpage.com\/1759121\/171522307\/76d9a\/thumb-32de818df04ee46c740b7ca709fb5864-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/171522307\/76d9a\/thumb-32de818df04ee46c740b7ca709fb5864-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/171522307\/76d9a\/thumb-32de818df04ee46c740b7ca709fb5864-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/171522307\/76d9a\/thumb-32de818df04ee46c740b7ca709fb5864-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/171522307\/76d9a\/thumb-32de818df04ee46c740b7ca709fb5864-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/171522307\/76d9a\/thumb-32de818df04ee46c740b7ca709fb5864-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/171522307\/thumbnail\/image-thumbnail-256-f8df59158fc2bc1763ca32c784f32047.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/171522307\/thumbnail\/image-thumbnail-480-e2f98af1be617fc8e7ad1ea691b52cfb.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/171522307\/thumbnail\/image-thumbnail-640-a3e89f3a46e7ba419d1de6d071b0d5a0.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/171522307\/thumbnail\/image-thumbnail-1280-ddf40ae31d2ca5f0395cc0daf32c4000.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/171522307\/thumbnail\/image-thumbnail-1920-cdd55a366c7c342311f58b57625776c6.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/171522307\/user-images\/image-2814-6976165c4544ee0ee64e847b126a155a.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/171522307\/thumbnail\/image-thumbnail-640-a3e89f3a46e7ba419d1de6d071b0d5a0.jpg",
+        "type": "mp4",
+        "assetId": 171522307,
+        "assetTitle": "Wizard Crush Wednesday Episode One",
+        "assetTitleTextEncoded": "wizard-crush-wednesday-episode-one",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 171522307,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171522307\/76d9a\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171522307\/76d9a\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171522307\/76d9a\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171522307\/76d9a\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171522307\/76d9a\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/171522307\/76d9a\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/171522307\/76d9a\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-02"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-09-05"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Nashville Junior Chamber",
+    "tvp_enhanced_transcript": null
+}

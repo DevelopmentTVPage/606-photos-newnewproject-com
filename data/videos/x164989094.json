@@ -1,0 +1,109 @@
+{
+    "title": "Summer skincare",
+    "description": "Learn about how I take care of my skin and tattoos .",
+    "referenceId": "ff84b85e067e7f5ae8d19cae493e6a76",
+    "date_created": "1529523286",
+    "date_modified": "1529524396",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "10",
+    "engagement_score": "1",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213237",
+    "product_category": "beauty",
+    "id": "164989094",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "90c0285f-d5f0-4223-8a67-3ccba85db1ce",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "58",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "58",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "58",
+        "prettyDuration": "00:00:58",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164989094\/thumbnail\/image-thumbnail-640-1a0da411e792edafae473205adcf61d7.jpg",
+        "type": "mp4",
+        "assetId": "164989094",
+        "assetTitle": "90C0285F-D5F0-4223-8A67-3CCBA85DB1CE",
+        "assetTitleTextEncoded": "90c0285f-d5f0-4223-8a67-3ccba85db1ce",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164989094",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164989094\/e8a45\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164989094\/e8a45\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164989094\/e8a45\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164989094\/e8a45\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164989094\/e8a45\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/164989094\/e8a45\/thumb-ff84b85e067e7f5ae8d19cae493e6a76-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/164989094\/user-images\/image-1280-e1b8bd371948dfba29ef3772298e306f.jpg",
+            "\/\/v.tvpage.com\/1759121\/164989094\/e8a45\/thumb-ff84b85e067e7f5ae8d19cae493e6a76-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/164989094\/user-images\/image-1280-e1b8bd371948dfba29ef3772298e306f.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/164989094\/thumbnail\/image-thumbnail-256-d4c7d84893039b9281713a7cbb964463.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/164989094\/thumbnail\/image-thumbnail-480-abf95ec6bb96e8dacb111edb26170745.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/164989094\/thumbnail\/image-thumbnail-640-1a0da411e792edafae473205adcf61d7.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/164989094\/thumbnail\/image-thumbnail-1280-196c90960d3faf200a2c721bd781abf8.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-07-28"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

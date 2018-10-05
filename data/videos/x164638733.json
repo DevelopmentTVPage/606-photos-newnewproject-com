@@ -1,0 +1,99 @@
+{
+    "title": "Dress the Part",
+    "description": "Dress the Part\nI believe in the saying, \"Dress to Impress\" no matter what the occasion is.  It's a reflection of your self worth.  For example, if you attend a job interview you dress like you already have the job.  By taking a few extra steps in the morning can change your whole attitude.  You look good, you feel good. \nBlog: www.chenayscorner.me",
+    "referenceId": "2797e4f1b0efdedd6590a7bb3a26e57e",
+    "date_created": "1528277295",
+    "date_modified": "1531183545",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "23",
+    "engagement_score": "1",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213200",
+    "product_category": "women",
+    "id": "164638733",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "dress-to-impress",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "52",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "52",
+            "width": 640,
+            "height": 360
+        },
+        "mediaDuration": "52",
+        "prettyDuration": "00:00:52",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1759121\/canvas\/1920\/1080\/725004768-1531183544.jpg",
+        "type": "mp4",
+        "assetId": "164638733",
+        "assetTitle": "Dress the Impress",
+        "assetTitleTextEncoded": "dress-to-impress",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164638733",
+            "li": "1759121"
+        },
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164638733\/94ac2\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164638733\/94ac2\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164638733\/94ac2\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164638733\/94ac2\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164638733\/94ac2\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-08-18"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Asados",
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,99 @@
+{
+    "title": "Jacqueline Palmer\/ swimwear",
+    "description": "The one piece wonder is here! Macy\u2019s has the best selection of any retailer both I. Store and on line. Check out my favorite one piece swimsuits for the season\u2705 #macysstylecrew #macysstylecrewjacqueline #swimwear #onepeicewonder #miriclesuit #fashion #style #summer #vacation #swim",
+    "referenceId": "6b8e5aa52e36bb376811fb0a1a7e73fa",
+    "date_created": "1529487558",
+    "date_modified": "1529489886",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "45",
+    "engagement_score": "2",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213201",
+    "product_category": "active",
+    "id": "164986956",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "0a53352c-acde-4460-a71b-ad089608b322",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "112",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "112",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "112",
+        "prettyDuration": "00:01:52",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164986956\/e6cb4\/thumb-6b8e5aa52e36bb376811fb0a1a7e73fa-00002.jpg",
+        "type": "mp4",
+        "assetId": "164986956",
+        "assetTitle": "0A53352C-ACDE-4460-A71B-AD089608B322",
+        "assetTitleTextEncoded": "0a53352c-acde-4460-a71b-ad089608b322",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164986956",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164986956\/e6cb4\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164986956\/e6cb4\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164986956\/e6cb4\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164986956\/e6cb4\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164986956\/e6cb4\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/164986956\/e6cb4\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/164986956\/e6cb4\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

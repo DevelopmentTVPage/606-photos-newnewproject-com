@@ -1,0 +1,95 @@
+{
+    "title": "Maison Jules eyelet jumpsuit",
+    "description": "",
+    "referenceId": "1a8850d184e6d46ded27c56317adc53d",
+    "date_created": "1529629658",
+    "date_modified": "1529632576",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "76",
+    "engagement_score": "10",
+    "conversion_score": "2",
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213213",
+    "product_category": "women",
+    "id": "164996438",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "437cceee-66b7-4e98-9851-b0dbf1521d10",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "18",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "18",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "18",
+        "prettyDuration": "00:00:18",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164996438\/dde10\/thumb-1a8850d184e6d46ded27c56317adc53d-00002.jpg",
+        "type": "mp4",
+        "assetId": "164996438",
+        "assetTitle": "437CCEEE-66B7-4E98-9851-B0DBF1521D10",
+        "assetTitleTextEncoded": "437cceee-66b7-4e98-9851-b0dbf1521d10",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164996438",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164996438\/dde10\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164996438\/dde10\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164996438\/dde10\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164996438\/dde10\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164996438\/dde10\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/164996438\/dde10\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/164996438\/dde10\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-07-25\"}},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-07-25\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

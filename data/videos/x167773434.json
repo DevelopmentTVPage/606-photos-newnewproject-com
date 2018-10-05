@@ -1,0 +1,97 @@
+{
+    "title": "Join Macys Willowbrook for our multi-brand makeovers!",
+    "description": "Join us on Saturday, August 4th for our multi brand make-over event at Macys Willowbrook!  With any $60 impulse beauty purchase you will receive an appointment with a visiting makeup artist AND a free gift! \n\nSpots are limited!  Message me or any of your Macys Willowbrook friends to book!",
+    "referenceId": "8621634baef672c28f1d27ba21f606bd",
+    "date_created": "1532628614",
+    "date_modified": "1532629306",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "16",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213171",
+    "product_category": "beauty",
+    "id": "167773434",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "f829fbe2-3280-4703-8dbf-342082961557",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "103",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "103",
+            "width": 568,
+            "height": 320
+        },
+        "mediaDuration": "103",
+        "prettyDuration": "00:01:43",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/167773434\/b92c2\/thumb-8621634baef672c28f1d27ba21f606bd-00002.jpg",
+        "type": "mp4",
+        "assetId": "167773434",
+        "assetTitle": "F829FBE2-3280-4703-8DBF-342082961557",
+        "assetTitleTextEncoded": "f829fbe2-3280-4703-8dbf-342082961557",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "167773434",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167773434\/b92c2\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167773434\/b92c2\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167773434\/b92c2\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167773434\/b92c2\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167773434\/b92c2\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-14"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Eflorist",
+    "tvp_enhanced_transcript": null
+}

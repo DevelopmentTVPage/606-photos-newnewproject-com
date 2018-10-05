@@ -1,0 +1,97 @@
+{
+    "title": "MY ALL TIME FAVORITE SUMMER DRESS",
+    "description": "BAR III POLKA DOT ON\/OFF THE SHOULDER FIT AND FLARE DRESS, PAIRED WITH THE TANYA SLING BACK POINTED TOE HEEL AND CHARTER CLUB POLKA DOT JEWELRY",
+    "referenceId": "b312429ea9fd40b61374fe81a3c9412d",
+    "date_created": "1534184145",
+    "date_modified": "1534207324",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "10",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213426",
+    "product_category": "women",
+    "id": "170633136",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "layla-dot-insta",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "9",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "9",
+            "width": 1080,
+            "height": 1080
+        },
+        "mediaDuration": "9",
+        "prettyDuration": "00:00:09",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/170633136\/e7dac\/thumb-b312429ea9fd40b61374fe81a3c9412d-00002.jpg",
+        "type": "mp4",
+        "assetId": "170633136",
+        "assetTitle": "BAR III POLKA DOT DRESS",
+        "assetTitleTextEncoded": "layla-dot-insta",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "170633136",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170633136\/e7dac\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1080,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170633136\/e7dac\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170633136\/e7dac\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170633136\/e7dac\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170633136\/e7dac\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-11"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,106 @@
+{
+    "title": "Black and White  Look",
+    "description": "Eileen Fisher",
+    "referenceId": "9111b60c41e1bf2b3543098acaf2258b",
+    "date_created": "1529683463",
+    "date_modified": "1529687905",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "38",
+    "engagement_score": "2",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213265",
+    "product_category": "women",
+    "id": "165000218",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "my-movie-7",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "95",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "95",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "95",
+        "prettyDuration": "00:01:35",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/165000218\/thumbnail\/image-thumbnail-640-5a909d68616093fede5c764f6af608ea.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "quality": "",
+        "assetId": "165000218",
+        "assetTitle": "My Movie 7",
+        "assetTitleTextEncoded": "my-movie-7",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "165000218",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165000218\/3ff44\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165000218\/3ff44\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165000218\/3ff44\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165000218\/3ff44\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165000218\/3ff44\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/165000218\/user-images\/image-1920-60c447014705be72125c5db4cf2d7389.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/165000218\/user-images\/image-1920-60c447014705be72125c5db4cf2d7389.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/165000218\/thumbnail\/image-thumbnail-256-76bf7f5424f2b264378304c7d8580dda.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/165000218\/thumbnail\/image-thumbnail-480-678963eea9f7414c6df3acfe26057ee3.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/165000218\/thumbnail\/image-thumbnail-640-5a909d68616093fede5c764f6af608ea.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/165000218\/thumbnail\/image-thumbnail-1280-63aa8873d641263f2146ab258bda91ac.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/165000218\/thumbnail\/image-thumbnail-1920-3bb80a9c3fb8169b6421211c7610c904.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-07-25\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

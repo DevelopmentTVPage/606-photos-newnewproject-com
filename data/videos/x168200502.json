@@ -1,0 +1,116 @@
+{
+    "title": "Mr. TJay in Yellow Gum Drop",
+    "description": "Come along with me in my favorite summer color, matched with the American Rag blue button up short sleeve shirt, the YELLOW pops perfectly.  Adidas Yellow Superstars are the perfect compliment to the yellow shorts.  Match with your favorite accessories and enjoy the weather!  Be sure to follow @Mr_TJay",
+    "referenceId": "cfb553ed3aaeef2c4a690af1aa900880",
+    "date_created": "1532912913",
+    "date_modified": "1535385728",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "96",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "28",
+    "video_type": null,
+    "user_id": "213335",
+    "product_category": "men",
+    "id": "168200502",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "mr-tjay-yellow",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "33",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "33",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "33",
+        "prettyDuration": "00:00:33",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/168200502\/thumbnail\/image-thumbnail-640-b01c5590dc05005ec90bee9292615443.jpg",
+        "type": "mp4",
+        "assetId": "168200502",
+        "assetTitle": "Mr_TJay in Yellow Gum Drop",
+        "assetTitleTextEncoded": "mr-tjay-yellow",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "168200502",
+            "li": "1759121"
+        },
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/168200502\/a47c4\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/168200502\/a47c4\/media.m3u8",
+        "automaticThumbnailsPattern": "1759121\/168200502\/a47c4\/thumb-cfb553ed3aaeef2c4a690af1aa900880-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/168200502\/user-images\/image-1280-fe21724558996ab8102e9a12fb05a19e.jpg",
+            "\/\/v.tvpage.com\/1759121\/168200502\/a47c4\/thumb-cfb553ed3aaeef2c4a690af1aa900880-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/168200502\/a47c4\/thumb-cfb553ed3aaeef2c4a690af1aa900880-00001.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/168200502\/thumbnail\/image-thumbnail-256-c3948ee3a501dbdd6c4e02e2a2de45ea.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/168200502\/thumbnail\/image-thumbnail-480-6fa9965541d675c812b003d2eaa2dfc5.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/168200502\/thumbnail\/image-thumbnail-640-b01c5590dc05005ec90bee9292615443.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/168200502\/thumbnail\/image-thumbnail-1280-3eb600940eb0284f2bd877cd46ac7433.jpg"
+        },
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168200502\/a47c4\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168200502\/a47c4\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168200502\/a47c4\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168200502\/a47c4\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168200502\/a47c4\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-08"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-08-03"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

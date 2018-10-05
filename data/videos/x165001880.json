@@ -1,0 +1,107 @@
+{
+    "title": "Plus Size Fashion Gown",
+    "description": "This plus size gown is Perfect for all social occasions!",
+    "referenceId": "7964943bed988ec0a20da277f45cffdc",
+    "date_created": "1529697268",
+    "date_modified": "1529707070",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "14",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213259",
+    "product_category": "women",
+    "id": "165001880",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "344de9a0-6cf9-4055-badb-685170a7b5af",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "14",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "14",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "14",
+        "prettyDuration": "00:00:14",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/165001880\/thumbnail\/image-thumbnail-480-b237b5bfcf38a052afb9d0e89e6f9c9e.jpg",
+        "type": "mp4",
+        "assetId": "165001880",
+        "assetTitle": "344DE9A0-6CF9-4055-BADB-685170A7B5AF",
+        "assetTitleTextEncoded": "344de9a0-6cf9-4055-badb-685170a7b5af",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "165001880",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165001880\/c16ca\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165001880\/c16ca\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165001880\/c16ca\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165001880\/c16ca\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165001880\/c16ca\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/165001880\/c16ca\/thumb-7964943bed988ec0a20da277f45cffdc-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/165001880\/user-images\/image-608-c27216ce400bb9e74d5c6876fea3efc3.jpg",
+            "\/\/v.tvpage.com\/1759121\/165001880\/c16ca\/thumb-7964943bed988ec0a20da277f45cffdc-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/165001880\/user-images\/image-608-c27216ce400bb9e74d5c6876fea3efc3.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/165001880\/thumbnail\/image-thumbnail-256-3d8c0603e0184b2e07caf33d46e752de.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/165001880\/thumbnail\/image-thumbnail-480-b237b5bfcf38a052afb9d0e89e6f9c9e.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-14"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

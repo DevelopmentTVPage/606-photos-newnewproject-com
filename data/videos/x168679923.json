@@ -1,0 +1,97 @@
+{
+    "title": "The Home It List",
+    "description": "A good clue to see what I\u2019m loving each season is the It List.  Each season the fashion directors pick our favorite items or idea and pull together an assortment of products that we are obsessed with and feel you need in your life!  Find the It List in store and online to see what I\u2019m loving!",
+    "referenceId": "f698e8f26d15d0dd43b5b9d4a4749ad5",
+    "date_created": "1533130704",
+    "date_modified": "1533132842",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "10",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213463",
+    "product_category": "bed_bath",
+    "id": "168679923",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "6003dcda-b5db-4356-92e9-f8aaea6a2196",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "140",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "140",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "140",
+        "prettyDuration": "00:02:20",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/168679923\/6593e\/thumb-f698e8f26d15d0dd43b5b9d4a4749ad5-00002.jpg",
+        "type": "mp4",
+        "assetId": 168679923,
+        "assetTitle": "The Home It List",
+        "assetTitleTextEncoded": "6003dcda-b5db-4356-92e9-f8aaea6a2196",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 168679923,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168679923\/6593e\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168679923\/6593e\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168679923\/6593e\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168679923\/6593e\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168679923\/6593e\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-11"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Puzzle Mansion Breville Depositphotos ICOM Red List Google Trusted Agency Indonesian Red Cross Society Proteas Supporters Club FAP Gamer",
+    "tvp_enhanced_transcript": null
+}

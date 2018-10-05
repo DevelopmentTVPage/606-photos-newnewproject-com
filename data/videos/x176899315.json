@@ -1,0 +1,113 @@
+{
+    "title": "Bar III Striped Asymmetrical Skirt",
+    "description": "Vibrant stripes come alive with with the sweeping asymmetrical-hem of this maxi skirt from Bar III",
+    "referenceId": "056e17ebba958c6bdb42cb7fdbbffe94",
+    "date_created": "1536163300",
+    "date_modified": "1536163436",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "279",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213203",
+    "product_category": "women",
+    "id": "176899315",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "642d032e-bc90-4319-ac72-670d7e1afb86",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "15",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "15",
+            "width": 610,
+            "height": 1080
+        },
+        "mediaDuration": "15",
+        "prettyDuration": "00:00:15",
+        "automaticThumbnailsPattern": "1759121\/176899315\/8d997\/thumb-056e17ebba958c6bdb42cb7fdbbffe94-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/176899315\/user-images\/image-1230-3eccca57e2b6f2895b2ac506f8b05890.jpg",
+            "\/\/v.tvpage.com\/1759121\/176899315\/8d997\/thumb-056e17ebba958c6bdb42cb7fdbbffe94-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/176899315\/8d997\/thumb-056e17ebba958c6bdb42cb7fdbbffe94-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/176899315\/8d997\/thumb-056e17ebba958c6bdb42cb7fdbbffe94-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/176899315\/8d997\/thumb-056e17ebba958c6bdb42cb7fdbbffe94-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/176899315\/8d997\/thumb-056e17ebba958c6bdb42cb7fdbbffe94-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/176899315\/8d997\/thumb-056e17ebba958c6bdb42cb7fdbbffe94-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/176899315\/thumbnail\/image-thumbnail-256-5cce4dc9c98576ec282acb614b1712dc.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/176899315\/thumbnail\/image-thumbnail-480-1c382737fa24c6974c8aa1fe2cb6270c.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/176899315\/thumbnail\/image-thumbnail-640-50754f64a5dc766a89d952f1459f1cd3.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/176899315\/user-images\/image-1230-3eccca57e2b6f2895b2ac506f8b05890.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/176899315\/thumbnail\/image-thumbnail-640-50754f64a5dc766a89d952f1459f1cd3.jpg",
+        "type": "mp4",
+        "assetId": "176899315",
+        "assetTitle": "642D032E-BC90-4319-AC72-670D7E1AFB86",
+        "assetTitleTextEncoded": "642d032e-bc90-4319-ac72-670d7e1afb86",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "176899315",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176899315\/8d997\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 610,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176899315\/8d997\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 408,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176899315\/8d997\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 272,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176899315\/8d997\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 204,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176899315\/8d997\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 136,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-08"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

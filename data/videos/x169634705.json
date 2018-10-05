@@ -1,0 +1,110 @@
+{
+    "title": "BCBGMAXAZRIA",
+    "description": "Do you know that BCBGMaxazria is now available online at Macy's?! Yes, you read that right! Shop now with some of the current hottest fashion pieces!\n\nFollow me on Instagram for more: @janie.hong",
+    "referenceId": "4fe30c70b0cd01ace8b9b86d980704f3",
+    "date_created": "1533599353",
+    "date_modified": "1533600108",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "41",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213220",
+    "product_category": "women",
+    "id": "169634705",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "bcbgmaxazria",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "28",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "28",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "28",
+        "prettyDuration": "00:00:28",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/169634705\/thumbnail\/image-thumbnail-640-e98c3c6c7ba3738c14c9ecbbcd6849ae.jpg",
+        "type": "mp4",
+        "assetId": "169634705",
+        "assetTitle": "BCBGMAXAZRIA",
+        "assetTitleTextEncoded": "bcbgmaxazria",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "169634705",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/169634705\/b1522\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/169634705\/b1522\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/169634705\/b1522\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/169634705\/b1522\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/169634705\/b1522\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/169634705\/b1522\/thumb-4fe30c70b0cd01ace8b9b86d980704f3-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/169634705\/user-images\/image-1920-ee5ad657c63b2a0659197a69026a020b.jpg",
+            "\/\/v.tvpage.com\/1759121\/169634705\/b1522\/thumb-4fe30c70b0cd01ace8b9b86d980704f3-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/169634705\/user-images\/image-1920-ee5ad657c63b2a0659197a69026a020b.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/169634705\/thumbnail\/image-thumbnail-256-539cbc8a48f87349808602717a54136c.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/169634705\/thumbnail\/image-thumbnail-480-4f1bbbb449881d21d0346d7af0085978.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/169634705\/thumbnail\/image-thumbnail-640-e98c3c6c7ba3738c14c9ecbbcd6849ae.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/169634705\/thumbnail\/image-thumbnail-1280-4d7a424f476e39b761ef6bb39ee56058.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/169634705\/thumbnail\/image-thumbnail-1920-93cee303a039023a9255f99395a6dd98.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-02"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

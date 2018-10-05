@@ -1,0 +1,97 @@
+{
+    "title": "Day to Night- Just a Taste of Fashion",
+    "description": "Watch to see how easy it is to transform your day outfit to night with just a few simple steps. I love printed maxi skirts because you can dress it up or down by switching out accessories or just your top to go from work to drinks with the gals with no fuss.\n\n*Shop similar products on the side*\n\n*Exact product IDs in video below*\nGraphic Tshirt: 6498652\nEarrings: 5936268\nBag: 5975976\nSkirt: Sold out!",
+    "referenceId": "5fb1a2035e87b9a0e1d1c84898f1bfd6",
+    "date_created": "1531942300",
+    "date_modified": "1531945686",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "42",
+    "engagement_score": "3",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213245",
+    "product_category": "women",
+    "id": "167381201",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "day-to-night",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "97",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "97",
+            "width": 568,
+            "height": 320
+        },
+        "mediaDuration": "97",
+        "prettyDuration": "00:01:37",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/167381201\/dfbda\/thumb-5fb1a2035e87b9a0e1d1c84898f1bfd6-00002.jpg",
+        "type": "mp4",
+        "assetId": 167381201,
+        "assetTitle": "Day to Night- Just a Taste of Fashion",
+        "assetTitleTextEncoded": "day-to-night",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 167381201,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167381201\/dfbda\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167381201\/dfbda\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167381201\/dfbda\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167381201\/dfbda\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167381201\/dfbda\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-08-03"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

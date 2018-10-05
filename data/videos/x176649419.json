@@ -1,0 +1,113 @@
+{
+    "title": "Style Crew Nikky\/ Endless Summer with Anastasia Beverly Hills Product Highlight",
+    "description": "I\u2019ve always been a fan ever since Anastasia Beverly Hillls came out with just a line of eyebrows. Now I\u2019m happy to try all their cosmetics line and I would not lie that it is one of the best pigments out there without breaking your bank!",
+    "referenceId": "5fd738eba0a68c087c67ef39c4d7340a",
+    "date_created": "1535747418",
+    "date_modified": "1535748084",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "29",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213182",
+    "product_category": "beauty",
+    "id": "176649419",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "3671e243-f042-43b1-a761-b553fe3fd86a",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "65",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "65",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "65",
+        "prettyDuration": "00:01:05",
+        "automaticThumbnailsPattern": "1759121\/176649419\/c5ea0\/thumb-5fd738eba0a68c087c67ef39c4d7340a-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/176649419\/c5ea0\/thumb-5fd738eba0a68c087c67ef39c4d7340a-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/176649419\/c5ea0\/thumb-5fd738eba0a68c087c67ef39c4d7340a-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/176649419\/c5ea0\/thumb-5fd738eba0a68c087c67ef39c4d7340a-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/176649419\/c5ea0\/thumb-5fd738eba0a68c087c67ef39c4d7340a-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/176649419\/c5ea0\/thumb-5fd738eba0a68c087c67ef39c4d7340a-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/176649419\/c5ea0\/thumb-5fd738eba0a68c087c67ef39c4d7340a-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/176649419\/thumbnail\/image-thumbnail-256-e6d6ef23b632c49bf0bb1e8eccc93463.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/176649419\/thumbnail\/image-thumbnail-480-6229be8e9aed0ac6f3ce08921cb6ef81.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/176649419\/thumbnail\/image-thumbnail-640-4c9967c000c323bb94d78aecc9c6f029.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/176649419\/thumbnail\/image-thumbnail-1280-8db9241036e8754e92f16c48e685141b.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/176649419\/c5ea0\/thumb-5fd738eba0a68c087c67ef39c4d7340a-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/176649419\/thumbnail\/image-thumbnail-640-4c9967c000c323bb94d78aecc9c6f029.jpg",
+        "type": "mp4",
+        "assetId": "176649419",
+        "assetTitle": "3671E243-F042-43B1-A761-B553FE3FD86A",
+        "assetTitleTextEncoded": "3671e243-f042-43b1-a761-b553fe3fd86a",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "176649419",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176649419\/c5ea0\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176649419\/c5ea0\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176649419\/c5ea0\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176649419\/c5ea0\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176649419\/c5ea0\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-14"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

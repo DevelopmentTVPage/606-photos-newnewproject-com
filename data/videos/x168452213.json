@@ -1,0 +1,110 @@
+{
+    "title": "Anne Klein",
+    "description": "Anne Klein has beautiful fall colors, prints, fabrics and styles for professional, or casual wear. Incorporate any of these pieces to your wardrobe to add a little flare!",
+    "referenceId": "7d682d3c2612df9b19345f125e56e27c",
+    "date_created": "1532995370",
+    "date_modified": "1532998978",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "5",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213453",
+    "product_category": "women",
+    "id": "168452213",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "photogrid-1532993328393",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "30",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "30",
+            "width": 720,
+            "height": 720
+        },
+        "mediaDuration": "30",
+        "prettyDuration": "00:00:30",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/168452213\/thumbnail\/image-thumbnail-640-442acb8b93e2a01d7f65458e2abb46cc.jpg",
+        "type": "mp4",
+        "assetId": 168452213,
+        "assetTitle": "Anne Klein",
+        "assetTitleTextEncoded": "photogrid-1532993328393",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 168452213,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168452213\/ea5c5\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168452213\/ea5c5\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168452213\/ea5c5\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168452213\/ea5c5\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168452213\/ea5c5\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/168452213\/ea5c5\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/168452213\/ea5c5\/media.m3u8",
+        "automaticThumbnailsPattern": "1759121\/168452213\/ea5c5\/thumb-7d682d3c2612df9b19345f125e56e27c-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/168452213\/user-images\/image-720-c7d98bf64a151e5f85802be7b1d0aa02.jpg",
+            "\/\/v.tvpage.com\/1759121\/168452213\/ea5c5\/thumb-7d682d3c2612df9b19345f125e56e27c-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/168452213\/user-images\/image-720-c7d98bf64a151e5f85802be7b1d0aa02.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/168452213\/thumbnail\/image-thumbnail-256-e0a84c65f4d04f63a74b9eb358a56dbc.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/168452213\/thumbnail\/image-thumbnail-480-8c62acdcbe15e7596cdc4f576ae5c8be.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/168452213\/thumbnail\/image-thumbnail-640-442acb8b93e2a01d7f65458e2abb46cc.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-08-15"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

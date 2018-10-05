@@ -1,0 +1,102 @@
+{
+    "title": "A Look at Franco Sarto Carolynn Loafers",
+    "description": "This video is a look at the Franco Sarto Carolynn Loafer. These loafers are comfortable and formal. Although, they can be dressed up or down. In this video, I was wearing navy flowy dress pants, white dress shirt with a black cardigan tucked in and a navy checkered blazer (Formal outfit). Lastly, make sure to take advantage of our fourth of July sale!",
+    "referenceId": "d5aabbb5f61fb154f008f3723372e62d",
+    "date_created": "1530730276",
+    "date_modified": "1531184070",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "18",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "4",
+    "video_type": null,
+    "user_id": "213270",
+    "product_category": "shoes",
+    "id": "165430024",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "franco-sarto",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "55",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "55",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "55",
+        "prettyDuration": "00:00:55",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1759121\/canvas\/1920\/1080\/453407637-1531184070.jpg",
+        "type": "mp4",
+        "assetId": 165430024,
+        "assetTitle": "A Look at Franco Sarto Carolynn Loafers",
+        "assetTitleTextEncoded": "franco-sarto",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 165430024,
+            "li": "1759121"
+        },
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165430024\/7c36b\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165430024\/7c36b\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165430024\/7c36b\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165430024\/7c36b\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165430024\/7c36b\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-17"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-09-05"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

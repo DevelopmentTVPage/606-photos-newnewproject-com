@@ -1,0 +1,111 @@
+{
+    "title": "Mac Aaliyah pallet demo 1",
+    "description": "Hey y\u2019all!  This pallet is on sale for 40% off!  While not available on my Macys portal, I will happily mail one to whoever wants it!",
+    "referenceId": "a3d6f123e32b3b73e019493b45932e33",
+    "date_created": "1535967499",
+    "date_modified": "1535967830",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "12",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213171",
+    "product_category": "beauty",
+    "id": "176850190",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "9a1a4694-aa62-4674-b7f9-ef4c2dc73fd9",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "LONG",
+    "duration": "572",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "572",
+            "width": 568,
+            "height": 320
+        },
+        "mediaDuration": "572",
+        "prettyDuration": "00:09:32",
+        "automaticThumbnailsPattern": "1759121\/176850190\/22a5b\/thumb-a3d6f123e32b3b73e019493b45932e33-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/176850190\/22a5b\/thumb-a3d6f123e32b3b73e019493b45932e33-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/176850190\/22a5b\/thumb-a3d6f123e32b3b73e019493b45932e33-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/176850190\/22a5b\/thumb-a3d6f123e32b3b73e019493b45932e33-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/176850190\/22a5b\/thumb-a3d6f123e32b3b73e019493b45932e33-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/176850190\/22a5b\/thumb-a3d6f123e32b3b73e019493b45932e33-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/176850190\/22a5b\/thumb-a3d6f123e32b3b73e019493b45932e33-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/176850190\/thumbnail\/image-thumbnail-256-dd0a448d7dad4be2631b9bdce1b0f926.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/176850190\/thumbnail\/image-thumbnail-480-6954ec0482cab560e78180d7ad142f5b.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/176850190\/22a5b\/thumb-a3d6f123e32b3b73e019493b45932e33-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/176850190\/thumbnail\/image-thumbnail-480-6954ec0482cab560e78180d7ad142f5b.jpg",
+        "type": "mp4",
+        "assetId": 176850190,
+        "assetTitle": "Mac Aaliyah pallet demo 1",
+        "assetTitleTextEncoded": "9a1a4694-aa62-4674-b7f9-ef4c2dc73fd9",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 176850190,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176850190\/22a5b\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176850190\/22a5b\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176850190\/22a5b\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176850190\/22a5b\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176850190\/22a5b\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-14"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

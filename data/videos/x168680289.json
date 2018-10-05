@@ -1,0 +1,107 @@
+{
+    "title": "I.N.C. Linen Utility Jacket, t-shirt, jeans",
+    "description": "Cool Summer days were made for this  outfit from INC International Concepts.",
+    "referenceId": "d5ca240f14d0901e7c90015273669d57",
+    "date_created": "1533162532",
+    "date_modified": "1533163349",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "14",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213258",
+    "product_category": "women",
+    "id": "168680289",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "cc91e677-9c35-4b75-ad3f-3377b5bcde6d",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "15",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "15",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "15",
+        "prettyDuration": "00:00:15",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/168680289\/thumbnail\/image-thumbnail-480-27a8ec376a6a90def117e294d0b8b00b.jpg",
+        "type": "mp4",
+        "assetId": 168680289,
+        "assetTitle": "I.N.C. Linen Utility Jacket, t-shirt, jeans",
+        "assetTitleTextEncoded": "cc91e677-9c35-4b75-ad3f-3377b5bcde6d",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 168680289,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168680289\/38c7e\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168680289\/38c7e\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168680289\/38c7e\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168680289\/38c7e\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168680289\/38c7e\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/168680289\/38c7e\/thumb-d5ca240f14d0901e7c90015273669d57-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/168680289\/user-images\/image-608-81fc550733de6f05252ed2a07c397995.jpg",
+            "\/\/v.tvpage.com\/1759121\/168680289\/38c7e\/thumb-d5ca240f14d0901e7c90015273669d57-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/168680289\/user-images\/image-608-81fc550733de6f05252ed2a07c397995.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/168680289\/thumbnail\/image-thumbnail-256-4bfcf40529fdc8c4be89c8656b0a5ef1.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/168680289\/thumbnail\/image-thumbnail-480-27a8ec376a6a90def117e294d0b8b00b.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

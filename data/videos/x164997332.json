@@ -1,0 +1,112 @@
+{
+    "title": "Active life.... The Return Of The Hoodie",
+    "description": "Clothing for your active life....",
+    "referenceId": "80b4b4ab0f1f4c147a3f0fbc7206f138",
+    "date_created": "1529639985",
+    "date_modified": "1529697152",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "36",
+    "engagement_score": "2",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213260",
+    "product_category": "active",
+    "id": "164997332",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "2018-6-21-22-58-43",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "18",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "18",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "18",
+        "prettyDuration": "00:00:18",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164997332\/thumbnail\/image-thumbnail-640-b0f9b8201c09d6e4044f7cf689ba813f.jpg",
+        "type": "mp4",
+        "assetId": "164997332",
+        "assetTitle": "Active life....",
+        "assetTitleTextEncoded": "2018-6-21-22-58-43",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164997332",
+            "li": "1759121"
+        },
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/164997332\/741e6\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/164997332\/741e6\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164997332\/741e6\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164997332\/741e6\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164997332\/741e6\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164997332\/741e6\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164997332\/741e6\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/164997332\/741e6\/thumb-80b4b4ab0f1f4c147a3f0fbc7206f138-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/164997332\/user-images\/image-1920-929d49a687030d1177e13d213e53b665.jpg",
+            "\/\/v.tvpage.com\/1759121\/164997332\/741e6\/thumb-80b4b4ab0f1f4c147a3f0fbc7206f138-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/164997332\/user-images\/image-1920-929d49a687030d1177e13d213e53b665.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/164997332\/thumbnail\/image-thumbnail-256-48c9a479562977cb8771c0823ed591ad.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/164997332\/thumbnail\/image-thumbnail-480-ce076150b0fe916277ebd84b95aed671.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/164997332\/thumbnail\/image-thumbnail-640-b0f9b8201c09d6e4044f7cf689ba813f.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/164997332\/thumbnail\/image-thumbnail-1280-a3633d03263c2c655bf1797d5ad38534.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/164997332\/thumbnail\/image-thumbnail-1920-0e6f8404007329d3745051a8b9ec0803.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-02"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

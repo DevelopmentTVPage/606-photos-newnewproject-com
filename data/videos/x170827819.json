@@ -1,0 +1,114 @@
+{
+    "title": "Jacqueline Palmer\/Time to shine event",
+    "description": "Back to school shopping at Macy\u2019s Rockingham Park Mall! We have all your fashion needs!\nDenim, backpacks, Activewear and more, just contact the My Stylist. #macysstylecrew #macysmystylist #fashion #backtoschool ##fallfashion ##denim #school",
+    "referenceId": "bad206ad0cf50898becff5fac25abbcc",
+    "date_created": "1534368108",
+    "date_modified": "1534371998",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "48",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213201",
+    "product_category": "kids",
+    "id": "170827819",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "e98e785c-8a5a-437e-99ac-ca83fca1f3ba",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "58",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "58",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "58",
+        "prettyDuration": "00:00:58",
+        "automaticThumbnailsPattern": "1759121\/170827819\/aaba0\/thumb-bad206ad0cf50898becff5fac25abbcc-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/170827819\/user-images\/image-1599-713748a95a8e9a51a9db1e128a37e99e.jpg",
+            "\/\/v.tvpage.com\/1759121\/170827819\/aaba0\/thumb-bad206ad0cf50898becff5fac25abbcc-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/170827819\/aaba0\/thumb-bad206ad0cf50898becff5fac25abbcc-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/170827819\/aaba0\/thumb-bad206ad0cf50898becff5fac25abbcc-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/170827819\/aaba0\/thumb-bad206ad0cf50898becff5fac25abbcc-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/170827819\/aaba0\/thumb-bad206ad0cf50898becff5fac25abbcc-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/170827819\/aaba0\/thumb-bad206ad0cf50898becff5fac25abbcc-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/170827819\/thumbnail\/image-thumbnail-256-62aa0a5f898a3c8edb2297c1cde2adc0.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/170827819\/thumbnail\/image-thumbnail-480-5925b8dcce868fde698fef99ed1e73c3.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/170827819\/thumbnail\/image-thumbnail-640-6004e071117021050a91f4487887e677.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/170827819\/thumbnail\/image-thumbnail-1280-28c548a28788860bf400768fc66073cd.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/170827819\/aaba0\/thumb-bad206ad0cf50898becff5fac25abbcc-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/170827819\/thumbnail\/image-thumbnail-640-6004e071117021050a91f4487887e677.jpg",
+        "type": "mp4",
+        "assetId": "170827819",
+        "assetTitle": "E98E785C-8A5A-437E-99AC-CA83FCA1F3BA",
+        "assetTitleTextEncoded": "e98e785c-8a5a-437e-99ac-ca83fca1f3ba",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "170827819",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170827819\/aaba0\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170827819\/aaba0\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170827819\/aaba0\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170827819\/aaba0\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170827819\/aaba0\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

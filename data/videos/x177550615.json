@@ -1,0 +1,113 @@
+{
+    "title": "Last days of Summer",
+    "description": "Hello! I just got back from my trip to Croatia and here I am showing some of the items I packed. These pieces were perfect and easy to mix and match since I only took a carry on.",
+    "referenceId": "ac8385d8c6c9b1191a46a5b3abf6f741",
+    "date_created": "1536888992",
+    "date_modified": "1536889910",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "61",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213216",
+    "product_category": "women",
+    "id": "177550615",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "trim-53d266c4-7e92-4f7c-a310-ae81681d733a",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "49",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "49",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "49",
+        "prettyDuration": "00:00:49",
+        "automaticThumbnailsPattern": "1759121\/177550615\/3ece1\/thumb-ac8385d8c6c9b1191a46a5b3abf6f741-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/177550615\/3ece1\/thumb-ac8385d8c6c9b1191a46a5b3abf6f741-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/177550615\/3ece1\/thumb-ac8385d8c6c9b1191a46a5b3abf6f741-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/177550615\/3ece1\/thumb-ac8385d8c6c9b1191a46a5b3abf6f741-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/177550615\/3ece1\/thumb-ac8385d8c6c9b1191a46a5b3abf6f741-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/177550615\/3ece1\/thumb-ac8385d8c6c9b1191a46a5b3abf6f741-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/177550615\/3ece1\/thumb-ac8385d8c6c9b1191a46a5b3abf6f741-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/177550615\/thumbnail\/image-thumbnail-256-64ba3369efde8d1e987de2407add765d.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/177550615\/thumbnail\/image-thumbnail-480-1419c204a96016679d1f7f6d4977e4f4.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/177550615\/3ece1\/thumb-ac8385d8c6c9b1191a46a5b3abf6f741-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/177550615\/thumbnail\/image-thumbnail-480-1419c204a96016679d1f7f6d4977e4f4.jpg",
+        "type": "mp4",
+        "assetId": 177550615,
+        "assetTitle": "What I packed for Croatia",
+        "assetTitleTextEncoded": "trim-53d266c4-7e92-4f7c-a310-ae81681d733a",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 177550615,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177550615\/3ece1\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177550615\/3ece1\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177550615\/3ece1\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177550615\/3ece1\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177550615\/3ece1\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/177550615\/3ece1\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/177550615\/3ece1\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Rocky Movie (Script) Poster Print 80s",
+    "tvp_enhanced_transcript": null
+}

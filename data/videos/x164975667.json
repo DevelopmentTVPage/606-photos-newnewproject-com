@@ -1,0 +1,86 @@
+{
+    "title": "Summer Makeup Look",
+    "description": "Don't forget to add sunscreen after you moisturize to protect your skin from the harmful rays, then you can apply your serum and foundation.",
+    "referenceId": "56c9b8303ae503a1a83229ef0830c5b7",
+    "date_created": "1529449636",
+    "date_modified": "1529451729",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "12",
+    "engagement_score": "1",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213171",
+    "product_category": null,
+    "id": "164975667",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "3a4b41b0-afa3-4b98-bee5-a10c8adbab45",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "LONG",
+    "duration": "349",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "349",
+            "width": 568,
+            "height": 320
+        },
+        "mediaDuration": "349",
+        "prettyDuration": "00:05:49",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164975667\/a5e3a\/thumb-56c9b8303ae503a1a83229ef0830c5b7-00002.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164975667\/a5e3a\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164975667\/a5e3a\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164975667\/a5e3a\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164975667\/a5e3a\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164975667\/a5e3a\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-07-25\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Blue Lizard Sunscreen",
+    "tvp_enhanced_transcript": null
+}

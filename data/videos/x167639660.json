@@ -1,0 +1,97 @@
+{
+    "title": "EMILY CURRAN | MACY\u2019S STYLE CREW | ORIGINS CLEAR IMPROVEMENT CHARCOAL HONEY",
+    "description": "Emily shows us the brand new Origins Clear Improvement Charcoal Honey Mask! Perfect for Normal to Dry skin. Made with cruelty free honey!",
+    "referenceId": "96a9949ed2cf2e1e3e2a490112a112be",
+    "date_created": "1532548193",
+    "date_modified": "1532548916",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "2",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213118",
+    "product_category": "beauty",
+    "id": "167639660",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "55686a64-0613-44d4-9c4b-184026ba0cc6",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "58",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "58",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "58",
+        "prettyDuration": "00:00:58",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/167639660\/21fa6\/thumb-96a9949ed2cf2e1e3e2a490112a112be-00002.jpg",
+        "type": "mp4",
+        "assetId": "167639660",
+        "assetTitle": "55686A64-0613-44D4-9C4B-184026BA0CC6",
+        "assetTitleTextEncoded": "55686a64-0613-44d4-9c4b-184026ba0cc6",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "167639660",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167639660\/21fa6\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167639660\/21fa6\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167639660\/21fa6\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167639660\/21fa6\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167639660\/21fa6\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-08-06"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,113 @@
+{
+    "title": "Macy\u2019s Style Crew Macy\u2019s County Wacoal and B. Tempted Fit Event August 28, 2018",
+    "description": "Wacoal and B. tempted",
+    "referenceId": "0f8ca322f4e4f9b8431faf21ef5d2bfd",
+    "date_created": "1535398828",
+    "date_modified": "1535422249",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "7",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213180",
+    "product_category": "women",
+    "id": "176226476",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "79782c53-253f-46c8-839c-008b2d2e8980",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "116",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "116",
+            "width": 568,
+            "height": 320
+        },
+        "mediaDuration": "116",
+        "prettyDuration": "00:01:56",
+        "automaticThumbnailsPattern": "1759121\/176226476\/54352\/thumb-0f8ca322f4e4f9b8431faf21ef5d2bfd-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/176226476\/54352\/thumb-0f8ca322f4e4f9b8431faf21ef5d2bfd-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/176226476\/54352\/thumb-0f8ca322f4e4f9b8431faf21ef5d2bfd-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/176226476\/54352\/thumb-0f8ca322f4e4f9b8431faf21ef5d2bfd-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/176226476\/54352\/thumb-0f8ca322f4e4f9b8431faf21ef5d2bfd-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/176226476\/54352\/thumb-0f8ca322f4e4f9b8431faf21ef5d2bfd-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/176226476\/54352\/thumb-0f8ca322f4e4f9b8431faf21ef5d2bfd-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/176226476\/thumbnail\/image-thumbnail-256-d4fc72ace1b47040819240bf3eb9cba4.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/176226476\/thumbnail\/image-thumbnail-480-cac30acbc51c90061447191a86c4e288.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/176226476\/54352\/thumb-0f8ca322f4e4f9b8431faf21ef5d2bfd-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/176226476\/thumbnail\/image-thumbnail-480-cac30acbc51c90061447191a86c4e288.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "quality": "",
+        "assetId": "176226476",
+        "assetTitle": "Macy\u2019s Style Crew Macy\u2019s County Wacoal and Be Tempted Fit Event August 28, 2018",
+        "assetTitleTextEncoded": "79782c53-253f-46c8-839c-008b2d2e8980",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "176226476",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176226476\/54352\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176226476\/54352\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176226476\/54352\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176226476\/54352\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176226476\/54352\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-14"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

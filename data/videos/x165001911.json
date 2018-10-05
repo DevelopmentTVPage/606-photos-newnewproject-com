@@ -1,0 +1,93 @@
+{
+    "title": "Luggage and Travel Accessories",
+    "description": "This video shows some luggage and travel accessories.",
+    "referenceId": "35ceaac02f0aac75bf6126a2b0deebf8",
+    "date_created": "1529699652",
+    "date_modified": "1529699932",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "4",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213180",
+    "product_category": "bed_bath",
+    "id": "165001911",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "4e3ed2d0-f7c7-41ac-87cb-b62491b2e187",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "91",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "91",
+            "width": 568,
+            "height": 320
+        },
+        "mediaDuration": "91",
+        "prettyDuration": "00:01:31",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/165001911\/56c58\/thumb-35ceaac02f0aac75bf6126a2b0deebf8-00002.jpg",
+        "type": "mp4",
+        "assetId": "165001911",
+        "assetTitle": "4E3ED2D0-F7C7-41AC-87CB-B62491B2E187",
+        "assetTitleTextEncoded": "4e3ed2d0-f7c7-41ac-87cb-b62491b2e187",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "165001911",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165001911\/56c58\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165001911\/56c58\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165001911\/56c58\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165001911\/56c58\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165001911\/56c58\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-07-25\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Samsonite University of Huelva",
+    "tvp_enhanced_transcript": null
+}

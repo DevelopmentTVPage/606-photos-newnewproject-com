@@ -1,0 +1,114 @@
+{
+    "title": "INC Printed Embellished Keyhole Dress",
+    "description": "I.N.C. has some great keyhole dresses with great prints in store! These dresses are great for a night out on the town or at the club! Very comfortable, machine-washable and travels well! Comes in petite and regular sizes long or maxi style!",
+    "referenceId": "7ba4b7a4d4be2baad3d5c96a5e71ada2",
+    "date_created": "1536039951",
+    "date_modified": "1536040861",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "19",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213194",
+    "product_category": "women",
+    "id": "176858141",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "inc-printed-embellished-keyhole-dress",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "47",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "47",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "47",
+        "prettyDuration": "00:00:47",
+        "automaticThumbnailsPattern": "1759121\/176858141\/85501\/thumb-7ba4b7a4d4be2baad3d5c96a5e71ada2-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/176858141\/85501\/thumb-7ba4b7a4d4be2baad3d5c96a5e71ada2-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/176858141\/85501\/thumb-7ba4b7a4d4be2baad3d5c96a5e71ada2-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/176858141\/85501\/thumb-7ba4b7a4d4be2baad3d5c96a5e71ada2-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/176858141\/85501\/thumb-7ba4b7a4d4be2baad3d5c96a5e71ada2-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/176858141\/85501\/thumb-7ba4b7a4d4be2baad3d5c96a5e71ada2-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/176858141\/85501\/thumb-7ba4b7a4d4be2baad3d5c96a5e71ada2-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/176858141\/thumbnail\/image-thumbnail-256-8e52d5aac77e26041f4734b067efcaa0.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/176858141\/thumbnail\/image-thumbnail-480-0763fef3d99dc0f116fd84a911e4ff7e.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/176858141\/thumbnail\/image-thumbnail-640-a77b73a803b166f9028e1fd6810ab884.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/176858141\/thumbnail\/image-thumbnail-1280-12f46ad524382e8e81086791fdb4c90d.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/176858141\/thumbnail\/image-thumbnail-1920-74fdd98e5f6b28080aa1d3a5d9dad61d.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/176858141\/85501\/thumb-7ba4b7a4d4be2baad3d5c96a5e71ada2-00002.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/176858141\/thumbnail\/image-thumbnail-640-a77b73a803b166f9028e1fd6810ab884.jpg",
+        "type": "mp4",
+        "assetId": "176858141",
+        "assetTitle": "INC Printed Embellished Keyhole Dress",
+        "assetTitleTextEncoded": "inc-printed-embellished-keyhole-dress",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "176858141",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176858141\/85501\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176858141\/85501\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176858141\/85501\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176858141\/85501\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176858141\/85501\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,113 @@
+{
+    "title": "Everyday Makeup Tutorial",
+    "description": "In this tutorial I created an easy everyday look using the new Born to Run collection from Urban Decay, enjoy!",
+    "referenceId": "0a3b256802910de05bda34307d4bfb91",
+    "date_created": "1534515055",
+    "date_modified": "1534515215",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "23",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213366",
+    "product_category": "beauty",
+    "id": "171072992",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "feyfull2",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "113",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "113",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "113",
+        "prettyDuration": "00:01:53",
+        "automaticThumbnailsPattern": "1759121\/171072992\/d7621\/thumb-0a3b256802910de05bda34307d4bfb91-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/171072992\/d7621\/thumb-0a3b256802910de05bda34307d4bfb91-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/171072992\/d7621\/thumb-0a3b256802910de05bda34307d4bfb91-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/171072992\/d7621\/thumb-0a3b256802910de05bda34307d4bfb91-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/171072992\/d7621\/thumb-0a3b256802910de05bda34307d4bfb91-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/171072992\/d7621\/thumb-0a3b256802910de05bda34307d4bfb91-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/171072992\/d7621\/thumb-0a3b256802910de05bda34307d4bfb91-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/171072992\/thumbnail\/image-thumbnail-256-e3021ce01bb8e48c525988634819ac46.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/171072992\/thumbnail\/image-thumbnail-480-377d00c24b64c6466982806ecaac64de.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/171072992\/thumbnail\/image-thumbnail-640-d289081be40512690e5ca68b6be15872.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/171072992\/thumbnail\/image-thumbnail-1280-80a53d9fd95d23706d8f7b4a0654da66.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/171072992\/d7621\/thumb-0a3b256802910de05bda34307d4bfb91-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/171072992\/thumbnail\/image-thumbnail-640-d289081be40512690e5ca68b6be15872.jpg",
+        "type": "mp4",
+        "assetId": "171072992",
+        "assetTitle": "Everyday Makeup Tutorial",
+        "assetTitleTextEncoded": "feyfull2",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "171072992",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171072992\/d7621\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171072992\/d7621\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171072992\/d7621\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171072992\/d7621\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171072992\/d7621\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-08"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

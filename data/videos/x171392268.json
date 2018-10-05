@@ -1,0 +1,117 @@
+{
+    "title": "Quick Tip Tuesday:Setting Your Makeup",
+    "description": "Today's quick tip is about how to set your makeup to make it last all day",
+    "referenceId": "3d5da93091cf0906f33ebb730aafe16c",
+    "date_created": "1534881401",
+    "date_modified": "1534881617",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "18",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213222",
+    "product_category": "beauty",
+    "id": "171392268",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "vdvm5668",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "48",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "48",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "48",
+        "prettyDuration": "00:00:48",
+        "automaticThumbnailsPattern": "1759121\/171392268\/adde8\/thumb-3d5da93091cf0906f33ebb730aafe16c-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/171392268\/user-images\/image-1673-5bfaa590c40be4fa01dc438ca8310b49.jpg",
+            "\/\/v.tvpage.com\/1759121\/171392268\/adde8\/thumb-3d5da93091cf0906f33ebb730aafe16c-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/171392268\/adde8\/thumb-3d5da93091cf0906f33ebb730aafe16c-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/171392268\/adde8\/thumb-3d5da93091cf0906f33ebb730aafe16c-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/171392268\/adde8\/thumb-3d5da93091cf0906f33ebb730aafe16c-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/171392268\/adde8\/thumb-3d5da93091cf0906f33ebb730aafe16c-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/171392268\/adde8\/thumb-3d5da93091cf0906f33ebb730aafe16c-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/171392268\/thumbnail\/image-thumbnail-256-2952fc34d62baf20d9410445e8d4eeb8.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/171392268\/thumbnail\/image-thumbnail-480-f0b53ddc859922e846ac3d4ac69d0687.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/171392268\/thumbnail\/image-thumbnail-640-e0dcdb175965f71954cfef5434cbdfba.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/171392268\/thumbnail\/image-thumbnail-1280-39735481e2409bdda02f962cccb1023d.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/171392268\/user-images\/image-1673-5bfaa590c40be4fa01dc438ca8310b49.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/171392268\/thumbnail\/image-thumbnail-640-e0dcdb175965f71954cfef5434cbdfba.jpg",
+        "type": "mp4",
+        "assetId": "171392268",
+        "assetTitle": "Quick Tip Tuesday:Setting Your Makeup",
+        "assetTitleTextEncoded": "vdvm5668",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "171392268",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171392268\/adde8\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171392268\/adde8\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171392268\/adde8\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171392268\/adde8\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171392268\/adde8\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-08-30"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-08-30"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Sarayli Yani",
+    "tvp_enhanced_transcript": null
+}

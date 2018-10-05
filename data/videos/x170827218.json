@@ -1,0 +1,114 @@
+{
+    "title": "Relaxation with Macy's Wine Cellar",
+    "description": "Did you know Macy's offer's a wine club? Yes, that's right! In collaboration with Direct Wines you can get a curated assortment of nationally acclaimed wines for a flat rate. Visit: www.macyswinecellar.com to sign up today!",
+    "referenceId": "bde11d4fb5f4c5b519e84ff51302ce0f",
+    "date_created": "1534357989",
+    "date_modified": "1534358880",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "37",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213203",
+    "product_category": "bed_bath",
+    "id": "170827218",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "natasha-winelooks",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "33",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "33",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "33",
+        "prettyDuration": "00:00:33",
+        "automaticThumbnailsPattern": "1759121\/170827218\/1b00b\/thumb-bde11d4fb5f4c5b519e84ff51302ce0f-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/170827218\/1b00b\/thumb-bde11d4fb5f4c5b519e84ff51302ce0f-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/170827218\/1b00b\/thumb-bde11d4fb5f4c5b519e84ff51302ce0f-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/170827218\/1b00b\/thumb-bde11d4fb5f4c5b519e84ff51302ce0f-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/170827218\/1b00b\/thumb-bde11d4fb5f4c5b519e84ff51302ce0f-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/170827218\/1b00b\/thumb-bde11d4fb5f4c5b519e84ff51302ce0f-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/170827218\/1b00b\/thumb-bde11d4fb5f4c5b519e84ff51302ce0f-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/170827218\/thumbnail\/image-thumbnail-256-6e95d55c381d34229d26b4b971f8b3a5.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/170827218\/thumbnail\/image-thumbnail-480-5f8a8c33d362b58e6e693d0b6baf6dd7.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/170827218\/thumbnail\/image-thumbnail-640-eccd387168e35fee05df3d2c148d99cb.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/170827218\/thumbnail\/image-thumbnail-1280-7cd6d94c20b6cbd7838b3bc988596863.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/170827218\/thumbnail\/image-thumbnail-1920-ba632eef102ec855d44703645be3e907.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/170827218\/1b00b\/thumb-bde11d4fb5f4c5b519e84ff51302ce0f-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/170827218\/thumbnail\/image-thumbnail-640-eccd387168e35fee05df3d2c148d99cb.jpg",
+        "type": "mp4",
+        "assetId": "170827218",
+        "assetTitle": "Relaxation with Macy's Wine Cellar",
+        "assetTitleTextEncoded": "natasha-winelooks",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "170827218",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170827218\/1b00b\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170827218\/1b00b\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170827218\/1b00b\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170827218\/1b00b\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170827218\/1b00b\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

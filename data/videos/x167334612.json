@@ -1,0 +1,110 @@
+{
+    "title": "uniforms",
+    "description": "back to school",
+    "referenceId": "8ff7f8bfb2b5f2e5e2d9e6f356b1af58",
+    "date_created": "1531849471",
+    "date_modified": "1535045699",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "27",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213260",
+    "product_category": "kids",
+    "id": "167334612",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "uniforms",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "74",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "74",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "74",
+        "prettyDuration": "00:01:14",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/167334612\/thumbnail\/image-thumbnail-640-f44eec4e2bfa45bf41a0f2f1dc625e85.jpg",
+        "type": "mp4",
+        "automaticThumbnailsPattern": "1759121\/167334612\/bb46d\/thumb-8ff7f8bfb2b5f2e5e2d9e6f356b1af58-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/167334612\/user-images\/image-936-0f9885bc997acea68421a33efd0ac034.jpg",
+            "\/\/v.tvpage.com\/1759121\/167334612\/user-images\/image-446-ad61082198fbd9d8dd004d80bf6b3644.jpg",
+            "\/\/v.tvpage.com\/1759121\/167334612\/user-images\/image-608-6248f622ef285897aea3685deea59d67.jpg",
+            "\/\/v.tvpage.com\/1759121\/167334612\/bb46d\/thumb-8ff7f8bfb2b5f2e5e2d9e6f356b1af58-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/167334612\/user-images\/image-936-0f9885bc997acea68421a33efd0ac034.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/167334612\/thumbnail\/image-thumbnail-256-ddb069af5b10b6f19d2ffed1221df475.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/167334612\/thumbnail\/image-thumbnail-480-73292e4b5b9b3a8b94c74a9b5b3eea86.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/167334612\/thumbnail\/image-thumbnail-640-f44eec4e2bfa45bf41a0f2f1dc625e85.jpg"
+        },
+        "assetId": 167334612,
+        "assetTitle": "uniforms",
+        "assetTitleTextEncoded": "uniforms",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 167334612,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167334612\/bb46d\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167334612\/bb46d\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167334612\/bb46d\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167334612\/bb46d\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167334612\/bb46d\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-08"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

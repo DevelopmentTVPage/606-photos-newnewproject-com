@@ -1,0 +1,100 @@
+{
+    "title": "Tart Tartlette in Bloom Clay Eyeshadow Palette Swatch (Great summer palette!)",
+    "description": "This video is to show all the wonderful eyeshadows the Tart Tartlette in bloom clay eyeshadow palette has to offer. You will be able to see the pigment of the eyeshadows on the skin and the variety of neutral colors the palette contains. Overall, the Tart Tartlette in Bloom Clay eyeshadow palette is great fora natural summer eye look.",
+    "referenceId": "7d100b166b2c4382a83a0d5546073470",
+    "date_created": "1527791794",
+    "date_modified": "1530915643",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "2",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213270",
+    "product_category": "beauty",
+    "id": "164611470",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "tart-tartlette-in-bloom-palette-swatch",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "LONG",
+    "duration": "285",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "285",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "285",
+        "prettyDuration": "00:04:45",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164611470\/37e83\/thumb-7d100b166b2c4382a83a0d5546073470-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/164611470\/37e83\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/164611470\/37e83\/media.m3u8",
+        "assetId": 164611470,
+        "assetTitle": "Tart Tartlette in Bloom Clay Eyeshadow Palette Swatch (Great summer palette!)",
+        "assetTitleTextEncoded": "tart-tartlette-in-bloom-palette-swatch",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 164611470,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164611470\/37e83\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164611470\/37e83\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164611470\/37e83\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480,
+                "tvpdefault": true
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164611470\/37e83\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164611470\/37e83\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-08-21"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Ray and Keshavan Ticketscript Birdback Activate ARTS",
+    "tvp_enhanced_transcript": null
+}

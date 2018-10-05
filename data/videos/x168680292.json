@@ -1,0 +1,99 @@
+{
+    "title": "Dorthina 2f second video",
+    "description": "",
+    "referenceId": "111488a20ae56b57126dd4d7c65a043b",
+    "date_created": "1533167081",
+    "date_modified": "1533167101",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "11",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213224",
+    "product_category": null,
+    "id": "168680292",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "dorthina-2f-second-video",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "36",
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168680292\/5fae0\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 872,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168680292\/5fae0\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 872,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168680292\/5fae0\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 470
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168680292\/5fae0\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 352
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168680292\/5fae0\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 176
+            }
+        ],
+        "videoMeta": {
+            "duration": "36",
+            "width": 872,
+            "height": 480
+        },
+        "mediaDuration": "36",
+        "prettyDuration": "00:00:36",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/168680292\/thumbnail\/image-thumbnail-640-066c15f5853ec3f52a257b1853cc5d52.jpg",
+        "type": "mp4",
+        "automaticThumbnailsPattern": "1759121\/168680292\/5fae0\/thumb-111488a20ae56b57126dd4d7c65a043b-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/168680292\/user-images\/image-853-7ec42ae7946b4ff228abba96a25a0747.jpg",
+            "\/\/v.tvpage.com\/1759121\/168680292\/5fae0\/thumb-111488a20ae56b57126dd4d7c65a043b-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/168680292\/user-images\/image-853-7ec42ae7946b4ff228abba96a25a0747.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/168680292\/thumbnail\/image-thumbnail-256-17e39ed1bda457c9b383554004b55ba2.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/168680292\/thumbnail\/image-thumbnail-480-939472ee8f0432356e3cb685d6eebd22.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/168680292\/thumbnail\/image-thumbnail-640-066c15f5853ec3f52a257b1853cc5d52.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-02"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "FHRAI",
+    "tvp_enhanced_transcript": null
+}

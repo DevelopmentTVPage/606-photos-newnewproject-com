@@ -1,0 +1,114 @@
+{
+    "title": "Maison Jules and I.N.C. ~ Summer into Fall Fashion",
+    "description": "All the rave right now is the \"Cropped\" pants. This Outfit of the Day is a great striped cropped pant by Maison Jules paired with the I.N.C. Striped tank top. A great outfit for work and can go from Summer to Fall in an instant!",
+    "referenceId": "8382f55dee83d82cf182fc1e590213a1",
+    "date_created": "1534569557",
+    "date_modified": "1534571102",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "30",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213194",
+    "product_category": "women",
+    "id": "171082040",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "maison-jules-and-inc-final",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "57",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "57",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "57",
+        "prettyDuration": "00:00:57",
+        "automaticThumbnailsPattern": "1759121\/171082040\/108f5\/thumb-8382f55dee83d82cf182fc1e590213a1-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/171082040\/108f5\/thumb-8382f55dee83d82cf182fc1e590213a1-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/171082040\/108f5\/thumb-8382f55dee83d82cf182fc1e590213a1-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/171082040\/108f5\/thumb-8382f55dee83d82cf182fc1e590213a1-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/171082040\/108f5\/thumb-8382f55dee83d82cf182fc1e590213a1-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/171082040\/108f5\/thumb-8382f55dee83d82cf182fc1e590213a1-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/171082040\/108f5\/thumb-8382f55dee83d82cf182fc1e590213a1-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/171082040\/thumbnail\/image-thumbnail-256-28dec7eb2287a916cb4c2292718cd61e.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/171082040\/thumbnail\/image-thumbnail-480-f70f8493d7b82f11d7fc0e3a80a7f620.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/171082040\/thumbnail\/image-thumbnail-640-8a09cc252a7cf02c98e2db6dab5ff87f.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/171082040\/thumbnail\/image-thumbnail-1280-c097ead378a148b6bfbc9c6a8929e36a.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/171082040\/thumbnail\/image-thumbnail-1920-f2ecff26f9bf2e5d4ee36c542c064051.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/171082040\/108f5\/thumb-8382f55dee83d82cf182fc1e590213a1-00002.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/171082040\/thumbnail\/image-thumbnail-640-8a09cc252a7cf02c98e2db6dab5ff87f.jpg",
+        "type": "mp4",
+        "assetId": 171082040,
+        "assetTitle": "Maison Jules and I.N.C. ~ Summer into Fall Fashion",
+        "assetTitleTextEncoded": "maison-jules-and-inc-final",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 171082040,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171082040\/108f5\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171082040\/108f5\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171082040\/108f5\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171082040\/108f5\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171082040\/108f5\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Macy's",
+    "tvp_enhanced_transcript": null
+}

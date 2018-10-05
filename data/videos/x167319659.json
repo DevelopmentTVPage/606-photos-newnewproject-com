@@ -1,0 +1,103 @@
+{
+    "title": "White Denim Shorts",
+    "description": "White bottoms are it this summer",
+    "referenceId": "b731c5b19a712b4070794be57a2a2d12",
+    "date_created": "1531763878",
+    "date_modified": "1531843063",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "8",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213205",
+    "product_category": null,
+    "id": "167319659",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "893cae04-dd2b-4fd3-90be-0b6af654b0f6",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "24",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "24",
+            "width": 480,
+            "height": 480
+        },
+        "mediaDuration": "24",
+        "prettyDuration": "00:00:24",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/167319659\/thumbnail\/image-thumbnail-640-9dac6905ec7d3f66b05a522322b3699c.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167319659\/78853\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167319659\/78853\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167319659\/78853\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167319659\/78853\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167319659\/78853\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/167319659\/78853\/thumb-b731c5b19a712b4070794be57a2a2d12-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/167319659\/user-images\/image-1536-c44481047205429794de754a5916fc38.jpg",
+            "\/\/v.tvpage.com\/1759121\/167319659\/user-images\/image-480-cc74bbf05966043f9acc5039f95e7bad.jpg",
+            "\/\/v.tvpage.com\/1759121\/167319659\/78853\/thumb-b731c5b19a712b4070794be57a2a2d12-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/167319659\/user-images\/image-1536-c44481047205429794de754a5916fc38.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/167319659\/thumbnail\/image-thumbnail-256-127438d2085421082266648f32c52645.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/167319659\/thumbnail\/image-thumbnail-480-0b86e09264e70fa95bcedeecf69f171b.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/167319659\/thumbnail\/image-thumbnail-640-9dac6905ec7d3f66b05a522322b3699c.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/167319659\/thumbnail\/image-thumbnail-1280-b2d753f7fa150b334f10213cb453bea5.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-08"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Macy's",
+    "tvp_enhanced_transcript": null
+}

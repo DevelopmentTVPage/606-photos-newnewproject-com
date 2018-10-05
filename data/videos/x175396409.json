@@ -1,0 +1,115 @@
+{
+    "title": "New Dior Joy Parfum",
+    "description": "Experience the Dior story with this new Parfum, Joy. Look under the cap for a hidden good luck charm... \u2b50\ufe0f",
+    "referenceId": "04471feba9b0a11589eed50d068f7f6d",
+    "date_created": "1535076501",
+    "date_modified": "1535076676",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "61",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213440",
+    "product_category": "beauty",
+    "id": "175396409",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "404c774e-3dbf-4dd4-ace8-4189668c0424",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "18",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "18",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "18",
+        "prettyDuration": "00:00:18",
+        "automaticThumbnailsPattern": "1759121\/175396409\/77f6d\/thumb-04471feba9b0a11589eed50d068f7f6d-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/175396409\/77f6d\/thumb-04471feba9b0a11589eed50d068f7f6d-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/175396409\/77f6d\/thumb-04471feba9b0a11589eed50d068f7f6d-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/175396409\/77f6d\/thumb-04471feba9b0a11589eed50d068f7f6d-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/175396409\/77f6d\/thumb-04471feba9b0a11589eed50d068f7f6d-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/175396409\/77f6d\/thumb-04471feba9b0a11589eed50d068f7f6d-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/175396409\/77f6d\/thumb-04471feba9b0a11589eed50d068f7f6d-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/175396409\/thumbnail\/image-thumbnail-256-d01f7908c6fa7101ee929ae3cd17659e.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/175396409\/thumbnail\/image-thumbnail-480-25901a1433310b91ee063a9edbb7f4b6.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/175396409\/thumbnail\/image-thumbnail-640-4db2498fcd16d16516582d3996dc5a96.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/175396409\/thumbnail\/image-thumbnail-1280-4153760bbda4f6084824e646bfb630af.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/175396409\/77f6d\/thumb-04471feba9b0a11589eed50d068f7f6d-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/175396409\/thumbnail\/image-thumbnail-640-4db2498fcd16d16516582d3996dc5a96.jpg",
+        "type": "mp4",
+        "assetId": "175396409",
+        "assetTitle": "404C774E-3DBF-4DD4-ACE8-4189668C0424",
+        "assetTitleTextEncoded": "404c774e-3dbf-4dd4-ace8-4189668c0424",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "175396409",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/175396409\/77f6d\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/175396409\/77f6d\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/175396409\/77f6d\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/175396409\/77f6d\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/175396409\/77f6d\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/175396409\/77f6d\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/175396409\/77f6d\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-14"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Audrey Macy's Hibiscus",
+    "tvp_enhanced_transcript": null
+}

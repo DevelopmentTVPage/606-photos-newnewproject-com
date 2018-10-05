@@ -1,0 +1,99 @@
+{
+    "title": "Hello Happy Foundation",
+    "description": "Benefit Cosmetic\u2019s brand new soft blur foundation, Hello Happy! Great for on-the-go moms like myself. This lightweight formula is ideal for everyday use because it contains SPF and gives a light-medium coverage. I like applying it with a brush but you can also use your fingers for a more natural finish! Set it with your favorite translucent powder or powder foundation for a longer wear throughout the day!",
+    "referenceId": "dccf1e52cbd8633d8c1a8a8c96e8b6f9",
+    "date_created": "1530582927",
+    "date_modified": "1530584155",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "6",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213363",
+    "product_category": "beauty",
+    "id": "165385938",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "9de1b229-4893-43e4-9ad1-fe378542987f",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "59",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "59",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "59",
+        "prettyDuration": "00:00:59",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/165385938\/0f506\/thumb-dccf1e52cbd8633d8c1a8a8c96e8b6f9-00002.jpg",
+        "type": "mp4",
+        "assetId": "165385938",
+        "assetTitle": "Hello Happy Foundation",
+        "assetTitleTextEncoded": "9de1b229-4893-43e4-9ad1-fe378542987f",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "165385938",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165385938\/0f506\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165385938\/0f506\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165385938\/0f506\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165385938\/0f506\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165385938\/0f506\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/165385938\/0f506\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/165385938\/0f506\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

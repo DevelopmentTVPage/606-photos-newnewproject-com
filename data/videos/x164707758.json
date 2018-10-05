@@ -1,0 +1,98 @@
+{
+    "title": "Mr. Turk X I.N.C. International Concepts",
+    "description": "Looking to get-away...\nShop Mr. Turk's our exclusive collection created for Macy's #MrTurk #IncInternationConcepts #Menswear #TrinaTurk #MacysStyleCrew #BeOurGuest @macysvisual41@macysmen",
+    "referenceId": "1cfa792b5beb552e944cfeea2f03e22b",
+    "date_created": "1528476703",
+    "date_modified": "1531182560",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "5",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213334",
+    "product_category": "men",
+    "id": "164707758",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "photogrid-1528476560573",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "26",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "26",
+            "width": 720,
+            "height": 720
+        },
+        "mediaDuration": "26",
+        "prettyDuration": "00:00:26",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164707758\/d5b0f\/thumb-1cfa792b5beb552e944cfeea2f03e22b-00002.jpg",
+        "type": "mp4",
+        "assetId": "164707758",
+        "assetTitle": "Mr. Turk X I.N.C. International Concepts",
+        "assetTitleTextEncoded": "photogrid-1528476560573",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164707758",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164707758\/d5b0f\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164707758\/d5b0f\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164707758\/d5b0f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164707758\/d5b0f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360,
+                "tvpdefault": true
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164707758\/d5b0f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-08"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

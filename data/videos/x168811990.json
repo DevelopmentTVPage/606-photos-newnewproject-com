@@ -1,0 +1,107 @@
+{
+    "title": "Lanc\u00f4me Pre-sale at Tyrone Square",
+    "description": "Lanc\u00f4me GWP",
+    "referenceId": "28ec1a503334b0cc999ba316ff1bd7d7",
+    "date_created": "1533229798",
+    "date_modified": "1534643495",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "30",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213183",
+    "product_category": "beauty",
+    "id": "168811990",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "77dc4d12-53af-40c2-85fb-cc9c3d9c667a",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "78",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "78",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "78",
+        "prettyDuration": "00:01:18",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/168811990\/thumbnail\/image-thumbnail-480-7fd91c7e8eb7dc7d60559039fb2da7d6.jpg",
+        "type": "mp4",
+        "assetId": "168811990",
+        "assetTitle": "Lanc\u00f4me Pre-sale at Tyrone Square",
+        "assetTitleTextEncoded": "77dc4d12-53af-40c2-85fb-cc9c3d9c667a",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "168811990",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168811990\/0409d\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168811990\/0409d\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168811990\/0409d\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168811990\/0409d\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168811990\/0409d\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/168811990\/0409d\/thumb-28ec1a503334b0cc999ba316ff1bd7d7-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/168811990\/user-images\/image-608-f800f9ebe531f5f09e6be1ca4e13e4d7.jpg",
+            "\/\/v.tvpage.com\/1759121\/168811990\/0409d\/thumb-28ec1a503334b0cc999ba316ff1bd7d7-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/168811990\/user-images\/image-608-f800f9ebe531f5f09e6be1ca4e13e4d7.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/168811990\/thumbnail\/image-thumbnail-256-cc5bd1c3421a81032a1a55145f59d5e3.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/168811990\/thumbnail\/image-thumbnail-480-7fd91c7e8eb7dc7d60559039fb2da7d6.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-08-06"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

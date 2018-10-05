@@ -1,0 +1,113 @@
+{
+    "title": "Peeves",
+    "description": "Please enjoy this video of Peeves the bunny hopping around in a Macy's bag until I figure out how to delete it!  #facepalm lol :)",
+    "referenceId": "5c412825c03f87786771839991f5de81",
+    "date_created": "1528137618",
+    "date_modified": "1528142085",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "71",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "2",
+    "video_type": null,
+    "user_id": "213280",
+    "product_category": null,
+    "id": "164630370",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "peeves-01",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "8",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "8",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "8",
+        "prettyDuration": "00:00:08",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164630370\/thumbnail\/image-thumbnail-640-c4d3666dbbc4accf4d08bef3fac30100.jpg",
+        "type": "mp4",
+        "assetId": "164630370",
+        "assetTitle": "Peeves_01",
+        "assetTitleTextEncoded": "peeves-01",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164630370",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164630370\/66854\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164630370\/66854\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164630370\/66854\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164630370\/66854\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164630370\/66854\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/164630370\/66854\/thumb-5c412825c03f87786771839991f5de81-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/164630370\/user-images\/image-1920-2e497ef521a7698449eb7d8e0a2a653f.jpg",
+            "\/\/v.tvpage.com\/1759121\/164630370\/66854\/thumb-5c412825c03f87786771839991f5de81-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/164630370\/user-images\/image-1920-2e497ef521a7698449eb7d8e0a2a653f.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/164630370\/thumbnail\/image-thumbnail-256-8b40d5129597eb68d6bc78d76afab1f0.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/164630370\/thumbnail\/image-thumbnail-480-5f0867219e1aa763c40d08fdd85b4d52.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/164630370\/thumbnail\/image-thumbnail-640-c4d3666dbbc4accf4d08bef3fac30100.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/164630370\/thumbnail\/image-thumbnail-1280-14ee4d6410a99a1023220e46748a8dae.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/164630370\/thumbnail\/image-thumbnail-1920-6df9cb306862debd687ac41f32da6cb2.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-02"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-09-02"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

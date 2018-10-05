@@ -1,0 +1,100 @@
+{
+    "title": "Easy Summer Makeup",
+    "description": "Today I\u2019m showing you have to get an easy makeup look for summer only using 5 products!",
+    "referenceId": "304d5f41d4f8090a92da366ccb319d54",
+    "date_created": "1532433088",
+    "date_modified": "1532435260",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "276",
+    "engagement_score": "5",
+    "conversion_score": null,
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213222",
+    "product_category": "beauty",
+    "id": "167502876",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "1e6f7d61-4f4c-4779-9728-81258c8a327b",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "222",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "222",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "222",
+        "prettyDuration": "00:03:42",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/167502876\/830e9\/thumb-304d5f41d4f8090a92da366ccb319d54-00002.jpg",
+        "type": "mp4",
+        "assetId": "167502876",
+        "assetTitle": "Easy Summer Makeup",
+        "assetTitleTextEncoded": "1e6f7d61-4f4c-4779-9728-81258c8a327b",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "167502876",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167502876\/830e9\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167502876\/830e9\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167502876\/830e9\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167502876\/830e9\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167502876\/830e9\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-08-06"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-08-09"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,107 @@
+{
+    "title": "Yas Macy's Wine Cellar Club",
+    "description": "www.macyswinecellar.com\n\nThere's a Macy's Wine Club!!!  Finally I can get everything I need in life at Macy's.  Introducing Macy's Wine Cellar Club where you can get 12 bottles of gorgeous wine delivered straight to your door every 3 months.  And the best part is the introductory offer of $89.99 where you get your 12 expertly curated wines PLUS 3 additional bottles with this offer!!!  Yas Queen!\n\nVisit www.macyswinecellar.com to sign up!",
+    "referenceId": "e2122952af3753c7eeef0582b9263ce5",
+    "date_created": "1530625632",
+    "date_modified": "1530626916",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "31",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213463",
+    "product_category": "bed_bath",
+    "id": "165396205",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "dd67b716-4fda-49de-b797-5c68f2f6c8a6",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "60",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "60",
+            "width": 480,
+            "height": 480
+        },
+        "mediaDuration": "60",
+        "prettyDuration": "00:01:00",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/165396205\/thumbnail\/image-thumbnail-480-e77c9d47da1893d92f722a76c00e18c4.jpg",
+        "type": "mp4",
+        "assetId": "165396205",
+        "assetTitle": "Yas Macy's Wine Cellar Club",
+        "assetTitleTextEncoded": "dd67b716-4fda-49de-b797-5c68f2f6c8a6",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "165396205",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165396205\/0e5ad\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165396205\/0e5ad\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165396205\/0e5ad\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165396205\/0e5ad\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165396205\/0e5ad\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/165396205\/0e5ad\/thumb-e2122952af3753c7eeef0582b9263ce5-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/165396205\/user-images\/image-480-59bc4ee844a6c592f1bbc04ea13fa38e.jpg",
+            "\/\/v.tvpage.com\/1759121\/165396205\/0e5ad\/thumb-e2122952af3753c7eeef0582b9263ce5-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/165396205\/user-images\/image-480-59bc4ee844a6c592f1bbc04ea13fa38e.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/165396205\/thumbnail\/image-thumbnail-256-65108bea165e8ee8502b3990c4e3f432.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/165396205\/thumbnail\/image-thumbnail-480-e77c9d47da1893d92f722a76c00e18c4.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

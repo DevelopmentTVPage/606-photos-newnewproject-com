@@ -1,0 +1,107 @@
+{
+    "title": "Crossbody basket bag, girls rock tee, buttoned up shorts",
+    "description": "",
+    "referenceId": "7a908e1550c574d4dadd953cceede092",
+    "date_created": "1532882726",
+    "date_modified": "1532883230",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "12",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213185",
+    "product_category": "women",
+    "id": "168198204",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "bfc54381-49d9-4b8d-b499-cba2a954b0d8",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "77",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "77",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "77",
+        "prettyDuration": "00:01:17",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/168198204\/thumbnail\/image-thumbnail-480-a5e8705113726527e59ea05e5982b7b2.jpg",
+        "type": "mp4",
+        "assetId": "168198204",
+        "assetTitle": "BFC54381-49D9-4B8D-B499-CBA2A954B0D8",
+        "assetTitleTextEncoded": "bfc54381-49d9-4b8d-b499-cba2a954b0d8",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "168198204",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168198204\/ece26\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168198204\/ece26\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168198204\/ece26\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168198204\/ece26\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168198204\/ece26\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/168198204\/ece26\/thumb-7a908e1550c574d4dadd953cceede092-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/168198204\/user-images\/image-608-a17faf89a485d0d1a01d589acda61406.jpg",
+            "\/\/v.tvpage.com\/1759121\/168198204\/ece26\/thumb-7a908e1550c574d4dadd953cceede092-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/168198204\/user-images\/image-608-a17faf89a485d0d1a01d589acda61406.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/168198204\/thumbnail\/image-thumbnail-256-bab095e1179479fa74111c2ce0313044.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/168198204\/thumbnail\/image-thumbnail-480-a5e8705113726527e59ea05e5982b7b2.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-08-27"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

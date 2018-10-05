@@ -1,0 +1,93 @@
+{
+    "title": "summertime maxi dresses",
+    "description": "It\u2019s a scorching 90 degrees in jersey today and the heat had me lusting after some beautiful floral maxi dresses! \n\nFloral navy - runs true to size \nPink dress - runs true to size\nGreen dress - runs small (size up)",
+    "referenceId": "1106325b64825dcf8ee18986c496190f",
+    "date_created": "1529445208",
+    "date_modified": "1529445532",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "34",
+    "engagement_score": "3",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213171",
+    "product_category": "women",
+    "id": "164962374",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "c44c3a31-5c56-4032-ac25-387db98d6a1d",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "60",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "60",
+            "width": 480,
+            "height": 480
+        },
+        "mediaDuration": "60",
+        "prettyDuration": "00:01:00",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164962374\/8f6e0\/thumb-1106325b64825dcf8ee18986c496190f-00002.jpg",
+        "type": "mp4",
+        "assetId": "164962374",
+        "assetTitle": "C44C3A31-5C56-4032-AC25-387DB98D6A1D",
+        "assetTitleTextEncoded": "c44c3a31-5c56-4032-ac25-387db98d6a1d",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164962374",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164962374\/8f6e0\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164962374\/8f6e0\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164962374\/8f6e0\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164962374\/8f6e0\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164962374\/8f6e0\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-07-25\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

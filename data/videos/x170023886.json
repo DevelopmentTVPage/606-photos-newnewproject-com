@@ -1,0 +1,111 @@
+{
+    "title": "One Day Sale 08\/10-11th!!",
+    "description": "Check out these awesome deals on your favorite beauty products! Offer is only valid 08\/10 & 08\/11th! \u263a\ufe0f",
+    "referenceId": "9ff977263e0df06b04ef37236963a9b5",
+    "date_created": "1533871445",
+    "date_modified": "1533871832",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "76",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213440",
+    "product_category": "beauty",
+    "id": "170023886",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "74df2227-9132-4b47-9a11-93c0e0141f1e",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "44",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "44",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "44",
+        "prettyDuration": "00:00:44",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/170023886\/thumbnail\/image-thumbnail-640-fe41bc29af38a6de4bc5812d2a323bb6.jpg",
+        "type": "mp4",
+        "assetId": "170023886",
+        "assetTitle": "74DF2227-9132-4B47-9A11-93C0E0141F1E",
+        "assetTitleTextEncoded": "74df2227-9132-4b47-9a11-93c0e0141f1e",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "170023886",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170023886\/4d483\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170023886\/4d483\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170023886\/4d483\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170023886\/4d483\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170023886\/4d483\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/170023886\/4d483\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/170023886\/4d483\/media.m3u8",
+        "automaticThumbnailsPattern": "1759121\/170023886\/4d483\/thumb-9ff977263e0df06b04ef37236963a9b5-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/170023886\/user-images\/image-1280-40bfc6d1be97a695ed9b550c0b49b5ce.jpg",
+            "\/\/v.tvpage.com\/1759121\/170023886\/4d483\/thumb-9ff977263e0df06b04ef37236963a9b5-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/170023886\/user-images\/image-1280-40bfc6d1be97a695ed9b550c0b49b5ce.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/170023886\/thumbnail\/image-thumbnail-256-661fc0f8c1efe6de9fcbbaa8663e3571.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/170023886\/thumbnail\/image-thumbnail-480-17f35af2d26e6f59e3b792e0fd3e661e.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/170023886\/thumbnail\/image-thumbnail-640-fe41bc29af38a6de4bc5812d2a323bb6.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/170023886\/thumbnail\/image-thumbnail-1280-60a81e7bcd33a8bc5916b251f983e71c.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-14"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Audrey Macy's",
+    "tvp_enhanced_transcript": null
+}

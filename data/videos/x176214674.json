@@ -1,0 +1,116 @@
+{
+    "title": "Varsity 101 - Just a Taste of Fashion",
+    "description": "The varsity trend made its debut last Fall but could only find styles here and there. Fall \u201818 is the season of varsity and I\u2019m excited show you how I dress my varsity jacket and other varsity styles Macy\u2019s has to offer.",
+    "referenceId": "d264268c6f42af6d4c39cfb0dee5638d",
+    "date_created": "1535315301",
+    "date_modified": "1535647380",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "25",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213245",
+    "product_category": "women",
+    "id": "176214674",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "1c3b7103-4584-40bc-8545-a8b496103595",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "70",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "70",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "70",
+        "prettyDuration": "00:01:10",
+        "automaticThumbnailsPattern": "1759121\/176214674\/1b1e3\/thumb-d264268c6f42af6d4c39cfb0dee5638d-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/176214674\/user-images\/image-1089-39e27438048adf7ea6117a220c2a7cb4.jpg",
+            "\/\/v.tvpage.com\/1759121\/176214674\/1b1e3\/thumb-d264268c6f42af6d4c39cfb0dee5638d-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/176214674\/1b1e3\/thumb-d264268c6f42af6d4c39cfb0dee5638d-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/176214674\/1b1e3\/thumb-d264268c6f42af6d4c39cfb0dee5638d-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/176214674\/1b1e3\/thumb-d264268c6f42af6d4c39cfb0dee5638d-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/176214674\/1b1e3\/thumb-d264268c6f42af6d4c39cfb0dee5638d-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/176214674\/1b1e3\/thumb-d264268c6f42af6d4c39cfb0dee5638d-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/176214674\/thumbnail\/image-thumbnail-256-192d90cd9bcb3e3280064b93d1a2edb8.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/176214674\/thumbnail\/image-thumbnail-480-de47ae8475fae1a141e4303959a5b4dd.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/176214674\/thumbnail\/image-thumbnail-640-6af4a398376319220f46c6cb493f63ac.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/176214674\/user-images\/image-1089-39e27438048adf7ea6117a220c2a7cb4.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/176214674\/thumbnail\/image-thumbnail-640-6af4a398376319220f46c6cb493f63ac.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/176214674\/1b1e3\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/176214674\/1b1e3\/media.m3u8",
+        "assetId": "176214674",
+        "assetTitle": "Varsity 101 - Just a Taste of Fashion",
+        "assetTitleTextEncoded": "1c3b7103-4584-40bc-8545-a8b496103595",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "176214674",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176214674\/1b1e3\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176214674\/1b1e3\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176214674\/1b1e3\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176214674\/1b1e3\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360,
+                "tvpdefault": true
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176214674\/1b1e3\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

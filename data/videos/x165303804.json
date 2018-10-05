@@ -1,0 +1,97 @@
+{
+    "title": "Fanci Fashion Lookbook Vol. 1",
+    "description": "\"Just like old times, Just wanna love you right. Love you with all my might. Love you for life.\" - @marshaambrosius Simply because me heart is full ",
+    "referenceId": "5451eb1f51dace709c3026bfede710b8",
+    "date_created": "1530221821",
+    "date_modified": "1530225016",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "43",
+    "engagement_score": "3",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213145",
+    "product_category": "women",
+    "id": "165303804",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "fanci-fashion-lookbook-vol-1",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "114",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "114",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "114",
+        "prettyDuration": "00:01:54",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/165303804\/cc9c8\/thumb-5451eb1f51dace709c3026bfede710b8-00002.jpg",
+        "type": "mp4",
+        "assetId": "165303804",
+        "assetTitle": "Fanci Fashion Lookbook Vol. 1",
+        "assetTitleTextEncoded": "fanci-fashion-lookbook-vol-1",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "165303804",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165303804\/cc9c8\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165303804\/cc9c8\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165303804\/cc9c8\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165303804\/cc9c8\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165303804\/cc9c8\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-07-28"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Hungry Music",
+    "tvp_enhanced_transcript": null
+}

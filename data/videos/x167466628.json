@@ -1,0 +1,115 @@
+{
+    "title": "Makeup Hack- Baking & Setting Spray",
+    "description": "Hi everyone! Today I\u2019m going to be sharing with you my #1 makeup hack, secret, life-changer, whatever you want to call it\u2026baking! Trust me, when you see how amazing it makes your skin look and how long it makes your makeup last throughout the day, you\u2019ll start wondering how you ever applied your makeup before without doing it. This trick definitely comes in handy this time of year too, when the heat is at it\u2019s peak. Enjoy!\n\nAll of the Product Web IDs: (searchable on Macys.com)\n328994- Laura Mercier Translucent Powder\n4436832- Urban Decay All Nighter Makeup Setting Spray\n6338603- Rachel Roy Seersucker Ruffle Top",
+    "referenceId": "94d5ce6b4212b2a6aabd6c0daac51846",
+    "date_created": "1532391266",
+    "date_modified": "1532395030",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "71",
+    "engagement_score": "1",
+    "conversion_score": null,
+    "CVV_VI": "3",
+    "video_type": null,
+    "user_id": "213313",
+    "product_category": "beauty",
+    "id": "167466628",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "makeup-hack-baking-setting-spray-1080p",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "LONG",
+    "duration": "289",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "289",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "289",
+        "prettyDuration": "00:04:49",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/167466628\/thumbnail\/image-thumbnail-640-f452c9c85408ed3af79e40b0ae0c3dcb.jpg",
+        "type": "mp4",
+        "assetId": "167466628",
+        "assetTitle": "Makeup Hack- Baking & Setting Spray (1080p)",
+        "assetTitleTextEncoded": "makeup-hack-baking-setting-spray-1080p",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "167466628",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167466628\/93005\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167466628\/93005\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167466628\/93005\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167466628\/93005\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167466628\/93005\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/167466628\/93005\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/167466628\/93005\/media.m3u8",
+        "automaticThumbnailsPattern": "1759121\/167466628\/93005\/thumb-94d5ce6b4212b2a6aabd6c0daac51846-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/167466628\/user-images\/image-1920-837adde63120bdf3a426e2a4f2dfdb54.jpg",
+            "\/\/v.tvpage.com\/1759121\/167466628\/93005\/thumb-94d5ce6b4212b2a6aabd6c0daac51846-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/167466628\/user-images\/image-1920-837adde63120bdf3a426e2a4f2dfdb54.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/167466628\/thumbnail\/image-thumbnail-256-d67132b64c72455815d87aa9373b8052.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/167466628\/thumbnail\/image-thumbnail-480-1a767749828673a6717f3b9b02aefec8.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/167466628\/thumbnail\/image-thumbnail-640-f452c9c85408ed3af79e40b0ae0c3dcb.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/167466628\/thumbnail\/image-thumbnail-1280-2683698605b98f5a5e4e4ace67afa80e.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/167466628\/thumbnail\/image-thumbnail-1920-69729e2d52ef45cc2fc7c9f575567a6a.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-14"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-07-28"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Amanda Bynes",
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,99 @@
+{
+    "title": "INC. International",
+    "description": "Inc. International exclusive at Macy's.  Time for a little fun & flare! Shop online at www.macys.com or visit our store!",
+    "referenceId": "c75082728ee065ec6e8025896703f2f4",
+    "date_created": "1533081730",
+    "date_modified": "1533088511",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "8",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213453",
+    "product_category": "women",
+    "id": "168537365",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "20180731-100505",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "100",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "100",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "100",
+        "prettyDuration": "00:01:40",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/168537365\/9beae\/thumb-c75082728ee065ec6e8025896703f2f4-00002.jpg",
+        "type": "mp4",
+        "assetId": "168537365",
+        "assetTitle": "INC. International",
+        "assetTitleTextEncoded": "20180731-100505",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "168537365",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168537365\/9beae\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168537365\/9beae\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168537365\/9beae\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168537365\/9beae\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168537365\/9beae\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/168537365\/9beae\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/168537365\/9beae\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

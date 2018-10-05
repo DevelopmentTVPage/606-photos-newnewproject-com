@@ -1,0 +1,102 @@
+{
+    "title": "The Perfect Summer OOTD",
+    "description": "I don't know about you but I've been back on that Pokemon Go bandwagon again lately! Walking down the streets can be a bit of a sweaty experience but not with my version of the perfect outfit! Now some might argue that it's a bit too \"revealing\" but I'd call it feminine. Just enough to turn heads your way! And cooling! :)\n\nFollow me on Instagram for more: @janie.hong",
+    "referenceId": "2f915fc2040d331c81bc7a3a5d7d0904",
+    "date_created": "1530749992",
+    "date_modified": "1532561659",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "100",
+    "engagement_score": "1",
+    "conversion_score": null,
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213220",
+    "product_category": "women",
+    "id": "165430340",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "downtown-chicago-ootd",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "47",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "47",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "47",
+        "prettyDuration": "00:00:47",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/165430340\/5b599\/thumb-2f915fc2040d331c81bc7a3a5d7d0904-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/165430340\/5b599\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/165430340\/5b599\/media.m3u8",
+        "assetId": 165430340,
+        "assetTitle": "\"Cooling\" OOTD",
+        "assetTitleTextEncoded": "downtown-chicago-ootd",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 165430340,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165430340\/5b599\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165430340\/5b599\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165430340\/5b599\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165430340\/5b599\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165430340\/5b599\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-02"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-07-28"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

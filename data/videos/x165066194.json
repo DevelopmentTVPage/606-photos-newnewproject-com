@@ -1,0 +1,102 @@
+{
+    "title": "Sunglass x Versace",
+    "description": "It's NATIONAL SUNGLASS DAY! What better way to celebrate then visiting Macy's and picking up a nice pair of hater blockers!  Stop by today to pick up yours.  Don't forget to follow @Mr_TJay\n\n***I DO NOT OWN ANY RIGHTS TO THIS MUSIC. NO COPY RIGHT INFRINGEMENT INTENDED***",
+    "referenceId": "7af41535bad26e0f6ebad197aa3b399f",
+    "date_created": "1530066564",
+    "date_modified": "1530068012",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "94",
+    "engagement_score": "3",
+    "conversion_score": null,
+    "CVV_VI": "27",
+    "video_type": null,
+    "user_id": "213335",
+    "product_category": "men",
+    "id": "165066194",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "sh4",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "45",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "45",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "45",
+        "prettyDuration": "00:00:45",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/165066194\/c269b\/thumb-7af41535bad26e0f6ebad197aa3b399f-00002.jpg",
+        "type": "mp4",
+        "assetId": "165066194",
+        "assetTitle": "Sunglass x Versace",
+        "assetTitleTextEncoded": "sh4",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "165066194",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165066194\/c269b\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165066194\/c269b\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165066194\/c269b\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165066194\/c269b\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165066194\/c269b\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/165066194\/c269b\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/165066194\/c269b\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-08-24"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-08-03"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Macy's",
+    "tvp_enhanced_transcript": null
+}

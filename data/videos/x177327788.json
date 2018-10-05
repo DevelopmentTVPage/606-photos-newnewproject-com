@@ -1,0 +1,103 @@
+{
+    "title": "Get Sporty",
+    "description": "The varsity trend is always in.",
+    "referenceId": "6c37e83c651af0c1c00a8803eaef62dd",
+    "date_created": "1536705578",
+    "date_modified": "1536708028",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "53",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213203",
+    "product_category": null,
+    "id": "177327788",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "867061fc-4d9f-4a49-9490-ec1473a77798",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "12",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "12",
+            "width": 384,
+            "height": 480
+        },
+        "mediaDuration": "12",
+        "prettyDuration": "00:00:12",
+        "automaticThumbnailsPattern": "1759121\/177327788\/82771\/thumb-6c37e83c651af0c1c00a8803eaef62dd-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/177327788\/82771\/thumb-6c37e83c651af0c1c00a8803eaef62dd-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/177327788\/82771\/thumb-6c37e83c651af0c1c00a8803eaef62dd-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/177327788\/82771\/thumb-6c37e83c651af0c1c00a8803eaef62dd-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/177327788\/82771\/thumb-6c37e83c651af0c1c00a8803eaef62dd-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/177327788\/82771\/thumb-6c37e83c651af0c1c00a8803eaef62dd-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/177327788\/82771\/thumb-6c37e83c651af0c1c00a8803eaef62dd-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/177327788\/thumbnail\/image-thumbnail-256-876c46c2cacba2d2d5d28395359b7a4a.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/177327788\/82771\/thumb-6c37e83c651af0c1c00a8803eaef62dd-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/177327788\/thumbnail\/image-thumbnail-256-876c46c2cacba2d2d5d28395359b7a4a.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177327788\/82771\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 384,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177327788\/82771\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 384,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177327788\/82771\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 384,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177327788\/82771\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 288,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177327788\/82771\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 192,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Marie Claire",
+    "tvp_enhanced_transcript": null
+}

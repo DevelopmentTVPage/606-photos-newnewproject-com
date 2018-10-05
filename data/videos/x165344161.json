@@ -1,0 +1,97 @@
+{
+    "title": "Makeup Favorites",
+    "description": "Here\u2019s a small collection of my all time favorites from Macy\u2019s Impulse Beauty brands Too Faced and Urban Decay.",
+    "referenceId": "751d7af98774e1bd300c994deada09a2",
+    "date_created": "1530390126",
+    "date_modified": "1530391083",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "17",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213205",
+    "product_category": "beauty",
+    "id": "165344161",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "1f490da5-e54a-4189-9d92-7b8a8a4f81c4",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "23",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "23",
+            "width": 480,
+            "height": 480
+        },
+        "mediaDuration": "23",
+        "prettyDuration": "00:00:23",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/165344161\/913e1\/thumb-751d7af98774e1bd300c994deada09a2-00002.jpg",
+        "type": "mp4",
+        "assetId": "165344161",
+        "assetTitle": "1F490DA5-E54A-4189-9D92-7B8A8A4F81C4",
+        "assetTitleTextEncoded": "1f490da5-e54a-4189-9d92-7b8a8a4f81c4",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "165344161",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165344161\/913e1\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165344161\/913e1\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165344161\/913e1\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165344161\/913e1\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165344161\/913e1\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-08-03"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Macy's",
+    "tvp_enhanced_transcript": null
+}

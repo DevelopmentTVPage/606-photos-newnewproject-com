@@ -1,0 +1,114 @@
+{
+    "title": "Martha Stewart Bedding in Blue Floral Rouching",
+    "description": "A bed for lazy blue mornings...Yes please.\n#MarthaStewart #BedInABag #MacysStyleCrew #MacysStyleCrewSouchitta #BeOurGuest\n@macysvisual41",
+    "referenceId": "91f801269e17a0fa26e6f4478e92e65f",
+    "date_created": "1536864191",
+    "date_modified": "1536870385",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213334",
+    "product_category": "bed_bath",
+    "id": "177549675",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "photogrid-1536858984464",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "26",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "26",
+            "width": 720,
+            "height": 720
+        },
+        "mediaDuration": "26",
+        "prettyDuration": "00:00:26",
+        "automaticThumbnailsPattern": "1759121\/177549675\/17e17\/thumb-91f801269e17a0fa26e6f4478e92e65f-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/177549675\/17e17\/thumb-91f801269e17a0fa26e6f4478e92e65f-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/177549675\/17e17\/thumb-91f801269e17a0fa26e6f4478e92e65f-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/177549675\/17e17\/thumb-91f801269e17a0fa26e6f4478e92e65f-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/177549675\/17e17\/thumb-91f801269e17a0fa26e6f4478e92e65f-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/177549675\/17e17\/thumb-91f801269e17a0fa26e6f4478e92e65f-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/177549675\/17e17\/thumb-91f801269e17a0fa26e6f4478e92e65f-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/177549675\/thumbnail\/image-thumbnail-256-d345c93c350fc21c983ec221168172cf.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/177549675\/thumbnail\/image-thumbnail-480-2a62941e189b95493354c00d7c474eff.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/177549675\/thumbnail\/image-thumbnail-640-cecc41b0944890800cdad715b4a2e0e7.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/177549675\/17e17\/thumb-91f801269e17a0fa26e6f4478e92e65f-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/177549675\/thumbnail\/image-thumbnail-640-cecc41b0944890800cdad715b4a2e0e7.jpg",
+        "type": "mp4",
+        "assetId": "177549675",
+        "assetTitle": "Martha Stewart Bedding in Blue Ruched Florals",
+        "assetTitleTextEncoded": "photogrid-1536858984464",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "177549675",
+            "li": "1759121"
+        },
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177549675\/17e17\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177549675\/17e17\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177549675\/17e17\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177549675\/17e17\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177549675\/17e17\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

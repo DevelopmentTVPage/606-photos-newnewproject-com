@@ -1,0 +1,99 @@
+{
+    "title": "Girls' Activewear",
+    "description": "More selection for girls' activewear? Want to match with your beautiful daughter while jogging down the park? Macy's has you covered!\n\nNike Training Hoodie WEB ID: 5324089\n\nFollow me on Instagram for more: @janie.hong",
+    "referenceId": "a4b1f2eb03fe70c7cd9271c5ddd361bb",
+    "date_created": "1530749904",
+    "date_modified": "1530958763",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "81",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213220",
+    "product_category": "kids",
+    "id": "165430338",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "girls-activewear",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "40",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "40",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "40",
+        "prettyDuration": "00:00:40",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/165430338\/82a62\/thumb-a4b1f2eb03fe70c7cd9271c5ddd361bb-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/165430338\/82a62\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/165430338\/82a62\/media.m3u8",
+        "assetId": "165430338",
+        "assetTitle": "Girls' Activewear",
+        "assetTitleTextEncoded": "girls-activewear",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "165430338",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165430338\/82a62\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165430338\/82a62\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165430338\/82a62\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165430338\/82a62\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165430338\/82a62\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-02"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Weareunite",
+    "tvp_enhanced_transcript": null
+}

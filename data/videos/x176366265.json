@@ -1,0 +1,113 @@
+{
+    "title": "Norvina Eyeshadow Palette Look",
+    "description": "Join Melissa as she shows you the newest creation from Anastasia Beverly Hills, The Norvina Eyeshadow Palette.  \nNorvina Eyeshadow Palette WEB ID: 6536794",
+    "referenceId": "da2dd29d959358d172854c263a0188a5",
+    "date_created": "1535538956",
+    "date_modified": "1535541178",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "477",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213108",
+    "product_category": "beauty",
+    "id": "176366265",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "melissa-norvina-full-length",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "LONG",
+    "duration": "311",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "311",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "311",
+        "prettyDuration": "00:05:11",
+        "automaticThumbnailsPattern": "1759121\/176366265\/0dd2c\/thumb-da2dd29d959358d172854c263a0188a5-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/176366265\/user-images\/image-1273-0ba695ec542ca0c2f8eb1fa9e26f19a0.jpg",
+            "\/\/v.tvpage.com\/1759121\/176366265\/0dd2c\/thumb-da2dd29d959358d172854c263a0188a5-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/176366265\/0dd2c\/thumb-da2dd29d959358d172854c263a0188a5-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/176366265\/0dd2c\/thumb-da2dd29d959358d172854c263a0188a5-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/176366265\/0dd2c\/thumb-da2dd29d959358d172854c263a0188a5-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/176366265\/0dd2c\/thumb-da2dd29d959358d172854c263a0188a5-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/176366265\/0dd2c\/thumb-da2dd29d959358d172854c263a0188a5-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/176366265\/thumbnail\/image-thumbnail-256-8abfa9b573517ac4fb38da69337786d5.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/176366265\/thumbnail\/image-thumbnail-480-2cebcbb5546e088de3ad703caa606604.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/176366265\/thumbnail\/image-thumbnail-640-cc602903ccc3188d0461457e95e71312.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/176366265\/user-images\/image-1273-0ba695ec542ca0c2f8eb1fa9e26f19a0.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/176366265\/thumbnail\/image-thumbnail-640-cc602903ccc3188d0461457e95e71312.jpg",
+        "type": "mp4",
+        "assetId": "176366265",
+        "assetTitle": "Norvina Eyeshadow Palette Look",
+        "assetTitleTextEncoded": "melissa-norvina-full-length",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "176366265",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176366265\/0dd2c\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176366265\/0dd2c\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176366265\/0dd2c\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176366265\/0dd2c\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176366265\/0dd2c\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-02"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

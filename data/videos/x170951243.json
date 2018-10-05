@@ -1,0 +1,120 @@
+{
+    "title": "Summer Glam- Electric Mascara",
+    "description": "Hi guys! Today I\u2019m challenging you to step outside your comfort zone with something a little different: electric blue mascara! Don\u2019t worry, I\u2019ll take you through what colors I complement my vibrant lashes with and how to apply the entire eye look from start to finish. Also, if blue isn\u2019t your shade, there are others in the collection to try as well! \n\nAll of the Product Web IDs: (searchable on Macys.com)\n6375889- Dior Diorshow Pump \u2019N\u2019 Volume Mascara in Blue Pump\n6260948- Lance Big Color Lash Top Coat (alternative)\n394106- Bobbi Brown Individual Eyeshadow",
+    "referenceId": "df0e1eaf9007b168e897bc3b7803f14b",
+    "date_created": "1534477521",
+    "date_modified": "1534527486",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "64",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "2",
+    "video_type": null,
+    "user_id": "213313",
+    "product_category": "beauty",
+    "id": "170951243",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "summer-glam-electric-mascara",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "LONG",
+    "duration": "856",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "856",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "856",
+        "prettyDuration": "00:14:16",
+        "automaticThumbnailsPattern": "1759121\/170951243\/f6b5c\/thumb-df0e1eaf9007b168e897bc3b7803f14b-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/170951243\/user-images\/image-3839-7a311bbd742326ae29cf251153c72584.jpg",
+            "\/\/v.tvpage.com\/1759121\/170951243\/f6b5c\/thumb-df0e1eaf9007b168e897bc3b7803f14b-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/170951243\/f6b5c\/thumb-df0e1eaf9007b168e897bc3b7803f14b-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/170951243\/f6b5c\/thumb-df0e1eaf9007b168e897bc3b7803f14b-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/170951243\/f6b5c\/thumb-df0e1eaf9007b168e897bc3b7803f14b-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/170951243\/f6b5c\/thumb-df0e1eaf9007b168e897bc3b7803f14b-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/170951243\/f6b5c\/thumb-df0e1eaf9007b168e897bc3b7803f14b-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/170951243\/thumbnail\/image-thumbnail-256-1cdd5242ae558c0dd76b80f9ad2bd707.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/170951243\/thumbnail\/image-thumbnail-480-0d6a5888ae465820c6e5a31dd4fa44b8.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/170951243\/thumbnail\/image-thumbnail-640-718c1e500ebfba25351a68e75fd28c69.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/170951243\/thumbnail\/image-thumbnail-1280-5e05517d367fa5b7f0b4c755c80c4692.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/170951243\/thumbnail\/image-thumbnail-1920-c7c0c5732c43671e0fec5f70e8a9578f.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/170951243\/user-images\/image-3839-7a311bbd742326ae29cf251153c72584.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/170951243\/thumbnail\/image-thumbnail-640-718c1e500ebfba25351a68e75fd28c69.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/170951243\/f6b5c\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/170951243\/f6b5c\/media.m3u8",
+        "assetId": "170951243",
+        "assetTitle": "Summer Glam- Electric Mascara",
+        "assetTitleTextEncoded": "summer-glam-electric-mascara",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "170951243",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170951243\/f6b5c\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170951243\/f6b5c\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170951243\/f6b5c\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170951243\/f6b5c\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170951243\/f6b5c\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-14"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-08-24"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,112 @@
+{
+    "title": "@fashionistamila wearing BARIII floral maxi dress",
+    "description": "This is one of my favorite dresses from Macy\u2019s! The colors and print are so pretty and fashionable.",
+    "referenceId": "7cba56ef2ac646cded1136b0ad5cbbe0",
+    "date_created": "1535077845",
+    "date_modified": "1535081563",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "24",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213295",
+    "product_category": "women",
+    "id": "175397301",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "gray-flowered-dress-1x1-2",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "50",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "50",
+            "width": 1080,
+            "height": 1080
+        },
+        "mediaDuration": "50",
+        "prettyDuration": "00:00:50",
+        "automaticThumbnailsPattern": "1759121\/175397301\/8eca9\/thumb-7cba56ef2ac646cded1136b0ad5cbbe0-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/175397301\/8eca9\/thumb-7cba56ef2ac646cded1136b0ad5cbbe0-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/175397301\/8eca9\/thumb-7cba56ef2ac646cded1136b0ad5cbbe0-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/175397301\/8eca9\/thumb-7cba56ef2ac646cded1136b0ad5cbbe0-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/175397301\/8eca9\/thumb-7cba56ef2ac646cded1136b0ad5cbbe0-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/175397301\/8eca9\/thumb-7cba56ef2ac646cded1136b0ad5cbbe0-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/175397301\/8eca9\/thumb-7cba56ef2ac646cded1136b0ad5cbbe0-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/175397301\/thumbnail\/image-thumbnail-256-5d52beabb7d6dae17bd889d37d0ba4f0.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/175397301\/thumbnail\/image-thumbnail-480-a784296e58e83fe7d415287a092dc6fa.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/175397301\/thumbnail\/image-thumbnail-640-35e27ce158564aa61bd5e8c633e1605a.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/175397301\/8eca9\/thumb-7cba56ef2ac646cded1136b0ad5cbbe0-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/175397301\/thumbnail\/image-thumbnail-640-35e27ce158564aa61bd5e8c633e1605a.jpg",
+        "type": "mp4",
+        "assetId": "175397301",
+        "assetTitle": "Gray flowered dress 1x1-_2",
+        "assetTitleTextEncoded": "gray-flowered-dress-1x1-2",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "175397301",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/175397301\/8eca9\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1080,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/175397301\/8eca9\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/175397301\/8eca9\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/175397301\/8eca9\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/175397301\/8eca9\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-02"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

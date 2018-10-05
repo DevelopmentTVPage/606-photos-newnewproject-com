@@ -1,0 +1,97 @@
+{
+    "title": "Macy\u2019s Style Crew Men\u2019s Cardinals Apparel",
+    "description": "This video has some men\u2019s Cardinals Apparel",
+    "referenceId": "72fd01bae282bdc289705a438f926257",
+    "date_created": "1532888921",
+    "date_modified": "1532901870",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "4",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213180",
+    "product_category": "men",
+    "id": "168198232",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "4e5b139e-f995-4209-ba7c-2920a8a1e3b5",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "71",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "71",
+            "width": 568,
+            "height": 320
+        },
+        "mediaDuration": "71",
+        "prettyDuration": "00:01:11",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/168198232\/0efff\/thumb-72fd01bae282bdc289705a438f926257-00002.jpg",
+        "type": "mp4",
+        "assetId": "168198232",
+        "assetTitle": "4E5B139E-F995-4209-BA7C-2920A8A1E3B5",
+        "assetTitleTextEncoded": "4e5b139e-f995-4209-ba7c-2920a8a1e3b5",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "168198232",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168198232\/0efff\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168198232\/0efff\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168198232\/0efff\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168198232\/0efff\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 568,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168198232\/0efff\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-08-09"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "St. Louis Cardinals",
+    "tvp_enhanced_transcript": null
+}

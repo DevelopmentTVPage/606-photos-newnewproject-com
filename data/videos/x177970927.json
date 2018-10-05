@@ -1,0 +1,110 @@
+{
+    "title": "Anastasia Beverly Hills Palettes Familia",
+    "description": "I mean, before we get excited over their new Holiday palette that is launching in a few weeks, don't forget about these beauty staples from the brand! What's even better? It's currently VIP, 15% OFF ALL BEAUTY PURCHASES! You can never have too much of Anastasia!\n\nFollow me on Instagram for more: @janie.hong",
+    "referenceId": "30782d408c57c4081de7806fd8d774ea",
+    "date_created": "1537387678",
+    "date_modified": "1537387953",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213220",
+    "product_category": "beauty",
+    "id": "177970927",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "anastasia-beverly-hills-palettes-familia",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "43",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "43",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "43",
+        "prettyDuration": "00:00:43",
+        "automaticThumbnailsPattern": "1759121\/177970927\/57a3f\/thumb-30782d408c57c4081de7806fd8d774ea-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/177970927\/57a3f\/thumb-30782d408c57c4081de7806fd8d774ea-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/177970927\/57a3f\/thumb-30782d408c57c4081de7806fd8d774ea-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/177970927\/57a3f\/thumb-30782d408c57c4081de7806fd8d774ea-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/177970927\/57a3f\/thumb-30782d408c57c4081de7806fd8d774ea-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/177970927\/57a3f\/thumb-30782d408c57c4081de7806fd8d774ea-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/177970927\/57a3f\/thumb-30782d408c57c4081de7806fd8d774ea-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/177970927\/thumbnail\/image-thumbnail-256-6c292b5a991f8493d2ad791e996f6426.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/177970927\/thumbnail\/image-thumbnail-480-e7c2e293cf00a870ffc719a33c915afc.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/177970927\/thumbnail\/image-thumbnail-640-d0b04d2c9b84e3d4d062a2713a2adbc7.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/177970927\/thumbnail\/image-thumbnail-1280-7fb4eda52629379cee07b3be9a14e6c1.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/177970927\/thumbnail\/image-thumbnail-1920-6340c1ce82727b4071c6294571ec7b52.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/177970927\/57a3f\/thumb-30782d408c57c4081de7806fd8d774ea-00006.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/177970927\/thumbnail\/image-thumbnail-640-d0b04d2c9b84e3d4d062a2713a2adbc7.jpg",
+        "type": "mp4",
+        "assetId": "177970927",
+        "assetTitle": "Anastasia Beverly Hills Palettes Familia",
+        "assetTitleTextEncoded": "anastasia-beverly-hills-palettes-familia",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "177970927",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177970927\/57a3f\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177970927\/57a3f\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177970927\/57a3f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177970927\/57a3f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177970927\/57a3f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,107 @@
+{
+    "title": "What\u2019s in the box ?",
+    "description": "What\u2019s in the box ?!? \n\nMacy\u2019s Beauty Box ~ August ~ \n \nThe cutest makeup bag!\nConfidence eye cream by: It Cosmetics \nLong lasting setting spray by: Urban Decay \nHydraulic Mask by: Master lab\n Clear Improvement- Charcoal honey mask by: Origins \nPink lip color by: Lanc\u00f4me \nPerfume sample \u201cOui\u201d by: Juicy Couture",
+    "referenceId": "086bf9f6529279aa1303c95188b64124",
+    "date_created": "1533748217",
+    "date_modified": "1533751137",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "20",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213525",
+    "product_category": "beauty",
+    "id": "169871846",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "44c9a6a6-0859-470c-8f37-915717005447",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "3",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "3",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "3",
+        "prettyDuration": "00:00:03",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/169871846\/thumbnail\/image-thumbnail-480-ea553dc966e72dcc766ffe8098557413.jpg",
+        "type": "mp4",
+        "assetId": "169871846",
+        "assetTitle": "44C9A6A6-0859-470C-8F37-915717005447",
+        "assetTitleTextEncoded": "44c9a6a6-0859-470c-8f37-915717005447",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "169871846",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/169871846\/9c601\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/169871846\/9c601\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/169871846\/9c601\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/169871846\/9c601\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/169871846\/9c601\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/169871846\/9c601\/thumb-086bf9f6529279aa1303c95188b64124-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/169871846\/user-images\/image-608-b44205868ea3f1e3adb0bab1f181e8d4.jpg",
+            "\/\/v.tvpage.com\/1759121\/169871846\/9c601\/thumb-086bf9f6529279aa1303c95188b64124-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/169871846\/user-images\/image-608-b44205868ea3f1e3adb0bab1f181e8d4.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/169871846\/thumbnail\/image-thumbnail-256-4c7487b2d16229a64aa8fb3175d32f3e.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/169871846\/thumbnail\/image-thumbnail-480-ea553dc966e72dcc766ffe8098557413.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-08-30"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,97 @@
+{
+    "title": "Nike Colorful Crop Top",
+    "description": "Let\u2019s look cute and fabulous at the gym, lounging around the house or running errands in this colorful, comfortable Nike Crop Top seen in my photos! It\u2019s true to fit! I\u2019m wearing a size small! My model is wearing a size XS! (WEB4900971)",
+    "referenceId": "2ae37f52d11cd0d48eb9237850b48fa7",
+    "date_created": "1532017246",
+    "date_modified": "1532017419",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "90",
+    "engagement_score": "3",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213440",
+    "product_category": "active",
+    "id": "167399998",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "e65d7e0d-c3bc-40b8-8c54-2c1849e5bcfc",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "26",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "26",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "26",
+        "prettyDuration": "00:00:26",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/167399998\/38d3f\/thumb-2ae37f52d11cd0d48eb9237850b48fa7-00002.jpg",
+        "type": "mp4",
+        "assetId": "167399998",
+        "assetTitle": "E65D7E0D-C3BC-40B8-8C54-2C1849E5BCFC",
+        "assetTitleTextEncoded": "e65d7e0d-c3bc-40b8-8c54-2c1849e5bcfc",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "167399998",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167399998\/38d3f\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167399998\/38d3f\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167399998\/38d3f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167399998\/38d3f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/167399998\/38d3f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-02"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Macy's",
+    "tvp_enhanced_transcript": null
+}

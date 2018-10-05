@@ -1,0 +1,97 @@
+{
+    "title": "My Skincare Regimen",
+    "description": "This is my daily skincare regimen! I have normal to combination skin on my good days, dry on the others! :) I don\u2019t use all these together but I cocktail them to fit my day. I\u2019ve tried a ton of different skincare products from drugstore to high end luxury... this is what works for me! Check it out and comment on my page to let me know what you think! ",
+    "referenceId": "829946517b3a99cf3970f9f40de233e1",
+    "date_created": "1533730099",
+    "date_modified": "1533731532",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "75",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213440",
+    "product_category": "beauty",
+    "id": "169871736",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "8429fe88-1886-47e4-8baf-6bc63482d57b",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "18",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "18",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "18",
+        "prettyDuration": "00:00:18",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/169871736\/d3ff1\/thumb-829946517b3a99cf3970f9f40de233e1-00002.jpg",
+        "type": "mp4",
+        "assetId": "169871736",
+        "assetTitle": "My Skincare Regimen",
+        "assetTitleTextEncoded": "8429fe88-1886-47e4-8baf-6bc63482d57b",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "169871736",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/169871736\/d3ff1\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/169871736\/d3ff1\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/169871736\/d3ff1\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/169871736\/d3ff1\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/169871736\/d3ff1\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-14"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Mario Badescu Black Macy's",
+    "tvp_enhanced_transcript": null
+}

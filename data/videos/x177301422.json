@@ -1,0 +1,114 @@
+{
+    "title": "Hoodie Weather",
+    "description": "To be honest, I am not a fan of cooler weather.  I absolutely hate being cold.  I walked into my local Macy's and I had to have this hoodie.  It's available in 4 other colors and I want them all.  I love that is Adidas but the logo is small and the stripes are under.  Makes it unique!  Runs TTS, however I sized up to a small for a loose fit.  My Adidas sneakers are still on SALE too.",
+    "referenceId": "08ced5d1b4c304c2f6e4e2b07e2fbc27",
+    "date_created": "1536681662",
+    "date_modified": "1536682363",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "38",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213110",
+    "product_category": "active",
+    "id": "177301422",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "hoodie-weather",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "20",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "20",
+            "width": 480,
+            "height": 480
+        },
+        "mediaDuration": "20",
+        "prettyDuration": "00:00:20",
+        "automaticThumbnailsPattern": "1759121\/177301422\/48403\/thumb-08ced5d1b4c304c2f6e4e2b07e2fbc27-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/177301422\/48403\/thumb-08ced5d1b4c304c2f6e4e2b07e2fbc27-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/177301422\/48403\/thumb-08ced5d1b4c304c2f6e4e2b07e2fbc27-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/177301422\/48403\/thumb-08ced5d1b4c304c2f6e4e2b07e2fbc27-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/177301422\/48403\/thumb-08ced5d1b4c304c2f6e4e2b07e2fbc27-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/177301422\/48403\/thumb-08ced5d1b4c304c2f6e4e2b07e2fbc27-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/177301422\/48403\/thumb-08ced5d1b4c304c2f6e4e2b07e2fbc27-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/177301422\/thumbnail\/image-thumbnail-256-5c242a6898dce0ba6f9eacca500dfaba.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/177301422\/thumbnail\/image-thumbnail-480-81eff54af5a868039e232c8a2cfc62cb.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/177301422\/48403\/thumb-08ced5d1b4c304c2f6e4e2b07e2fbc27-00006.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/177301422\/thumbnail\/image-thumbnail-480-81eff54af5a868039e232c8a2cfc62cb.jpg",
+        "type": "mp4",
+        "assetId": "177301422",
+        "assetTitle": "Hoodie Weather",
+        "assetTitleTextEncoded": "hoodie-weather",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "177301422",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177301422\/48403\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177301422\/48403\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177301422\/48403\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177301422\/48403\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177301422\/48403\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-17"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-09-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

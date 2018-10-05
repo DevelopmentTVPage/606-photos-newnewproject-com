@@ -1,0 +1,105 @@
+{
+    "title": "Beauty To-Gos for your Purse!",
+    "description": "Unless you\u2019re carrying a tote ladies (or gents), deciding what\u2019s essential to go into your purse is an important decision! Though I do carry a tote and can probably fit quite a bit in there, these are some of the products I feel I personally reach for the most. Are any of them your go to too?\n\n*sorry for the inconvenience but the Tory Burch sunglasses and Philosophy Hands of Hope Hand Cream are currently unavailable*\n\nFollow me on Instagram for more: @janie.hong",
+    "referenceId": "155bba23620fd516ac4fd3bfdd5f5d8a",
+    "date_created": "1528314508",
+    "date_modified": "1528314950",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "242",
+    "engagement_score": "14",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213220",
+    "product_category": "beauty",
+    "id": "164639048",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "30551da8-c614-442a-908a-a93801cc8bda",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "26",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "26",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "26",
+        "prettyDuration": "00:00:26",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/164639048\/thumbnail\/image-thumbnail-640-78693f0316d805918c74488310a82913.jpg",
+        "type": "mp4",
+        "assetId": "164639048",
+        "assetTitle": "Beauty To-Gos for your Purse!",
+        "assetTitleTextEncoded": "30551da8-c614-442a-908a-a93801cc8bda",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164639048",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164639048\/d31d9\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164639048\/d31d9\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164639048\/d31d9\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164639048\/d31d9\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164639048\/d31d9\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/164639048\/d31d9\/thumb-155bba23620fd516ac4fd3bfdd5f5d8a-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/164639048\/user-images\/image-1280-e597bf57cafd0e0402476a4d36706e45.jpg",
+            "\/\/v.tvpage.com\/1759121\/164639048\/d31d9\/thumb-155bba23620fd516ac4fd3bfdd5f5d8a-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/164639048\/user-images\/image-1280-e597bf57cafd0e0402476a4d36706e45.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/164639048\/thumbnail\/image-thumbnail-256-47c9a76147a63fdcd2f67a2323a5b4cb.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/164639048\/thumbnail\/image-thumbnail-480-6d1f9eb913641d8b7475d4d736853489.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/164639048\/thumbnail\/image-thumbnail-640-78693f0316d805918c74488310a82913.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/164639048\/thumbnail\/image-thumbnail-1280-ec8aed36ab3f91a9ba5626c45b044939.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-07-25\"}}}",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

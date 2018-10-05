@@ -1,0 +1,113 @@
+{
+    "title": "The \u201cLuckiest\u201d bedding!",
+    "description": "This new group of Lucky bedding (tile seed stitch)  is great for all seasons. I love the detail embroidery and the different textures. You could use this ensemble year round.",
+    "referenceId": "2f19b322f6b67fe9497c898677938c62",
+    "date_created": "1535115054",
+    "date_modified": "1535118161",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "36",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213236",
+    "product_category": "bed_bath",
+    "id": "176007304",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "d0fe5b02-6c72-4a86-b473-f498993ca770",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "56",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "56",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "56",
+        "prettyDuration": "00:00:56",
+        "automaticThumbnailsPattern": "1759121\/176007304\/eeb12\/thumb-2f19b322f6b67fe9497c898677938c62-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/176007304\/eeb12\/thumb-2f19b322f6b67fe9497c898677938c62-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/176007304\/eeb12\/thumb-2f19b322f6b67fe9497c898677938c62-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/176007304\/eeb12\/thumb-2f19b322f6b67fe9497c898677938c62-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/176007304\/eeb12\/thumb-2f19b322f6b67fe9497c898677938c62-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/176007304\/eeb12\/thumb-2f19b322f6b67fe9497c898677938c62-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/176007304\/eeb12\/thumb-2f19b322f6b67fe9497c898677938c62-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/176007304\/thumbnail\/image-thumbnail-256-a0f696e623e083b0cc2b9ce2a64a40fb.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/176007304\/thumbnail\/image-thumbnail-480-07ecde7e8c3b16c7de35d98cc6c101fe.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/176007304\/thumbnail\/image-thumbnail-640-66e4ec42ba7c424af679c880b9d0c6e7.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/176007304\/thumbnail\/image-thumbnail-1280-7041a6034a9842c3768dbf3a4cb0fee8.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/176007304\/eeb12\/thumb-2f19b322f6b67fe9497c898677938c62-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/176007304\/thumbnail\/image-thumbnail-640-66e4ec42ba7c424af679c880b9d0c6e7.jpg",
+        "type": "mp4",
+        "assetId": "176007304",
+        "assetTitle": "The \u201cLuckiest\u201d bedding!",
+        "assetTitleTextEncoded": "d0fe5b02-6c72-4a86-b473-f498993ca770",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "176007304",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176007304\/eeb12\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176007304\/eeb12\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176007304\/eeb12\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176007304\/eeb12\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176007304\/eeb12\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-08-30"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

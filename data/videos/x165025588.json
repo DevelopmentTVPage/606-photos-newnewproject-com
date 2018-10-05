@@ -1,0 +1,100 @@
+{
+    "title": "A Little Black Dress",
+    "description": "The Little Black Dress is a timeless piece for everyone, regardless of age or style, this item had a place in everyones wardrobe.                                                \u201cOne is never overdressed or underdressed with a Little Black Dress\u201d - Karl Lagerfeld.",
+    "referenceId": "b1dd0fade39d0ac16dda249b429cdc33",
+    "date_created": "1529846753",
+    "date_modified": "1529860363",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "17",
+    "engagement_score": "1",
+    "conversion_score": null,
+    "CVV_VI": "1",
+    "video_type": null,
+    "user_id": "213258",
+    "product_category": "women",
+    "id": "165025588",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "img-2832",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "11",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "11",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "11",
+        "prettyDuration": "00:00:11",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/165025588\/86664\/thumb-b1dd0fade39d0ac16dda249b429cdc33-00002.jpg",
+        "type": "mp4",
+        "assetId": "165025588",
+        "assetTitle": "A Little Black Dress",
+        "assetTitleTextEncoded": "img-2832",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "165025588",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165025588\/86664\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165025588\/86664\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165025588\/86664\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165025588\/86664\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165025588\/86664\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-07-28"
+        },
+        "VV_VI": {
+            "lastUpdatedDate": "2018-08-30"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

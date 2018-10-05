@@ -1,0 +1,116 @@
+{
+    "title": "Sneak Peek at Fall Fashion: Herald Square",
+    "description": "I'm like a kid in a candy store with these amazing fall details. We're talking florals, plaid, ruffles, sheer sleeves, romantic silhouettes.  Yes! Yes! Yes!",
+    "referenceId": "24e8d9a2432658278134475acf97da38",
+    "date_created": "1536936227",
+    "date_modified": "1536940820",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "3",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213627",
+    "product_category": "women",
+    "id": "177659593",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "img-3656",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "13",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "13",
+            "width": 608,
+            "height": 1080
+        },
+        "mediaDuration": "13",
+        "prettyDuration": "00:00:13",
+        "automaticThumbnailsPattern": "1759121\/177659593\/44d43\/thumb-24e8d9a2432658278134475acf97da38-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/177659593\/44d43\/thumb-24e8d9a2432658278134475acf97da38-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/177659593\/44d43\/thumb-24e8d9a2432658278134475acf97da38-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/177659593\/44d43\/thumb-24e8d9a2432658278134475acf97da38-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/177659593\/44d43\/thumb-24e8d9a2432658278134475acf97da38-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/177659593\/44d43\/thumb-24e8d9a2432658278134475acf97da38-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/177659593\/44d43\/thumb-24e8d9a2432658278134475acf97da38-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/177659593\/thumbnail\/image-thumbnail-256-bb3768af3072ef044fc7306290c56d42.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/177659593\/thumbnail\/image-thumbnail-480-1a6f69c3bc8b71acbd1c78f1a5007716.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/177659593\/44d43\/thumb-24e8d9a2432658278134475acf97da38-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/177659593\/thumbnail\/image-thumbnail-480-1a6f69c3bc8b71acbd1c78f1a5007716.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/177659593\/44d43\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/177659593\/44d43\/media.m3u8",
+        "assetId": "177659593",
+        "assetTitle": "Sneak Peek at Fall Fashion: Herald Square",
+        "assetTitleTextEncoded": "img-3656",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "177659593",
+            "li": "1759121"
+        },
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177659593\/44d43\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177659593\/44d43\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177659593\/44d43\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480,
+                "tvpdefault": true
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177659593\/44d43\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177659593\/44d43\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

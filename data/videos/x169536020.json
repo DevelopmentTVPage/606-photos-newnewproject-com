@@ -1,0 +1,97 @@
+{
+    "title": "FIZZ & BUBBLE!!!",
+    "description": "If you've been following me on Instagram. you would know that I'm the infamous \"BATH BOMBS QUEEN\"! I mean, who wouldn't want to come home from work and relax in a warm, fizzy, and fun bath?! The scents are so relaxing and leaves your skin silky smooth! Start upgrading your bath game tonight!\n\nFollow me on Instagram for more: @janie.hong",
+    "referenceId": "c8c471f7ce35c034291830804a32966a",
+    "date_created": "1533506035",
+    "date_modified": "1533506281",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "43",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213220",
+    "product_category": "beauty",
+    "id": "169536020",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "fizz-bubble",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "51",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "51",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "51",
+        "prettyDuration": "00:00:51",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/169536020\/61b90\/thumb-c8c471f7ce35c034291830804a32966a-00002.jpg",
+        "type": "mp4",
+        "assetId": "169536020",
+        "assetTitle": "FIZZ & BUBBLE!!!",
+        "assetTitleTextEncoded": "fizz-bubble",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "169536020",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/169536020\/61b90\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/169536020\/61b90\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/169536020\/61b90\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/169536020\/61b90\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/169536020\/61b90\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-02"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Integration",
+    "tvp_enhanced_transcript": null
+}

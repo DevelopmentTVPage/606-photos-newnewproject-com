@@ -1,0 +1,99 @@
+{
+    "title": "Bardot Strapless Metallic Dress",
+    "description": "If you're looking to make a statement as a guest at your next wedding then this Bardot dress is just the purchase to make! I got tons of compliments in this dress and it was so comfortable! Perfect dress for a wedding. Web ID 5922611",
+    "referenceId": "70454fef0db65a5504e9f61223dd74d5",
+    "date_created": "1532982174",
+    "date_modified": "1532982644",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "20",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213203",
+    "product_category": "women",
+    "id": "168446138",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "09abc723-c774-4773-a0d7-39ecb12d3b63",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "16",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "16",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "16",
+        "prettyDuration": "00:00:16",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/168446138\/d5504\/thumb-70454fef0db65a5504e9f61223dd74d5-00002.jpg",
+        "type": "mp4",
+        "assetId": "168446138",
+        "assetTitle": "Bardot Strapless Metallic Dress",
+        "assetTitleTextEncoded": "09abc723-c774-4773-a0d7-39ecb12d3b63",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "168446138",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168446138\/d5504\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168446138\/d5504\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168446138\/d5504\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168446138\/d5504\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/168446138\/d5504\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/168446138\/d5504\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/168446138\/d5504\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-11"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "In Progress",
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,97 @@
+{
+    "title": "Beach Day Vol. II",
+    "description": "Do you know that towels are actually some of the best accessories at the beach? They can double up as your cover up or even a pillow while lying on that warm sand! This summer, it's all about the bright and abstractness! Make sure you stand out on that beach with some of Macy's top styles!\n\nSundazed Abigail Top WEBID: 6018803\nSundazed Simone Bottom WEB ID: 6483726\n\nFollow me on Instagram for more: @janie.hong",
+    "referenceId": "d2fa1a025824d606ae62894604d58708",
+    "date_created": "1529695031",
+    "date_modified": "1529695425",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "80",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213220",
+    "product_category": "women",
+    "id": "165000739",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "day-at-the-beach-2",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "26",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "26",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "26",
+        "prettyDuration": "00:00:26",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/165000739\/1c201\/thumb-d2fa1a025824d606ae62894604d58708-00002.jpg",
+        "type": "mp4",
+        "assetId": "165000739",
+        "assetTitle": "Day at the Beach #2",
+        "assetTitleTextEncoded": "day-at-the-beach-2",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "165000739",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165000739\/1c201\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165000739\/1c201\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165000739\/1c201\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165000739\/1c201\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/165000739\/1c201\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-02"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

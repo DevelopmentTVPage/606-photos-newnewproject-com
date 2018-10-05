@@ -1,0 +1,106 @@
+{
+    "title": "Labor Day Sale!",
+    "description": "Sharing these athleisure essentials that are both on sale through Monday! Use the code WKND to shop!",
+    "referenceId": "c7cdf87f7487fe30c05a6da4fef5a037",
+    "date_created": "1535660119",
+    "date_modified": "1535660642",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "154",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213341",
+    "product_category": "active",
+    "id": "176492296",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "2e552f67-4d84-49b2-8e06-b9adc72bebf9",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "5",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "5",
+            "width": 272,
+            "height": 480
+        },
+        "mediaDuration": "5",
+        "prettyDuration": "00:00:05",
+        "automaticThumbnailsPattern": "1759121\/176492296\/176a8\/thumb-c7cdf87f7487fe30c05a6da4fef5a037-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/176492296\/176a8\/thumb-c7cdf87f7487fe30c05a6da4fef5a037-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/176492296\/176a8\/thumb-c7cdf87f7487fe30c05a6da4fef5a037-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/176492296\/thumbnail\/image-thumbnail-256-cf6155d40abb724911ba537a95dd7559.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/176492296\/176a8\/thumb-c7cdf87f7487fe30c05a6da4fef5a037-00001.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/176492296\/thumbnail\/image-thumbnail-256-cf6155d40abb724911ba537a95dd7559.jpg",
+        "type": "mp4",
+        "assetId": "176492296",
+        "assetTitle": "2E552F67-4D84-49B2-8E06-B9ADC72BEBF9",
+        "assetTitleTextEncoded": "2e552f67-4d84-49b2-8e06-b9adc72bebf9",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "176492296",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176492296\/176a8\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 272,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176492296\/176a8\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 272,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176492296\/176a8\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 272,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176492296\/176a8\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 204,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/176492296\/176a8\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 136,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-02"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

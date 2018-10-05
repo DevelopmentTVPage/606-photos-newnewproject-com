@@ -1,0 +1,109 @@
+{
+    "title": "Match Set by Rachel Roy- Just a Taste of Fashion",
+    "description": "Another match set I love to dress up and down. Rachel Roy might is one of my favorite brands Macy\u2019s carries. All of her styles are on trend and well designed.\nShop the skirt and top on your right \u2014>",
+    "referenceId": "2136ee8b60091db1ca4b4270bd97aa87",
+    "date_created": "1533929202",
+    "date_modified": "1533932027",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "36",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213245",
+    "product_category": "women",
+    "id": "170314976",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "2a4a8133-3bc5-43f7-add0-d5a1267bef89",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "66",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "66",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "66",
+        "prettyDuration": "00:01:06",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/170314976\/thumbnail\/image-thumbnail-640-e32524a8603abb659e05905741a7e77b.jpg",
+        "type": "mp4",
+        "assetId": "170314976",
+        "assetTitle": "Match Set by Rachel Roy- Just a Taste of Fashion",
+        "assetTitleTextEncoded": "2a4a8133-3bc5-43f7-add0-d5a1267bef89",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "170314976",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170314976\/9722b\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170314976\/9722b\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170314976\/9722b\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170314976\/9722b\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/170314976\/9722b\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "automaticThumbnailsPattern": "1759121\/170314976\/9722b\/thumb-2136ee8b60091db1ca4b4270bd97aa87-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/170314976\/user-images\/image-877-87b4e321c6ac1c44768d38914eed67ae.jpg",
+            "\/\/v.tvpage.com\/1759121\/170314976\/user-images\/image-1280-a851b6f29319d5b0551a4d1a207abb5a.jpg",
+            "\/\/v.tvpage.com\/1759121\/170314976\/9722b\/thumb-2136ee8b60091db1ca4b4270bd97aa87-00001.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/170314976\/user-images\/image-877-87b4e321c6ac1c44768d38914eed67ae.jpg",
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/170314976\/thumbnail\/image-thumbnail-256-7f54fe22d6bc66f280778d80987c4c78.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/170314976\/thumbnail\/image-thumbnail-480-5d790fbb6019939d8b80df2fdf6a686f.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/170314976\/thumbnail\/image-thumbnail-640-e32524a8603abb659e05905741a7e77b.jpg"
+        }
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-08"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Audibel",
+    "tvp_enhanced_transcript": null
+}

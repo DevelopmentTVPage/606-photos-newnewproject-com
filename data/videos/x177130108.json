@@ -1,0 +1,110 @@
+{
+    "title": "Quality never goes out of style",
+    "description": "Levi\u2019s women destressed shorts with logo down the side and matching sweatshirt.",
+    "referenceId": "b252cc46413a8f088de792b095ad8891",
+    "date_created": "1536380293",
+    "date_modified": "1536380990",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "10",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213525",
+    "product_category": "women",
+    "id": "177130108",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "c58a19de-da9b-4807-a02e-e5ce6c948040",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "6",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "6",
+            "width": 480,
+            "height": 480
+        },
+        "mediaDuration": "6",
+        "prettyDuration": "00:00:06",
+        "automaticThumbnailsPattern": "1759121\/177130108\/560bf\/thumb-b252cc46413a8f088de792b095ad8891-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/177130108\/560bf\/thumb-b252cc46413a8f088de792b095ad8891-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/177130108\/560bf\/thumb-b252cc46413a8f088de792b095ad8891-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/177130108\/560bf\/thumb-b252cc46413a8f088de792b095ad8891-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/177130108\/thumbnail\/image-thumbnail-256-ccf097593b3a37c48d0a090cf7c6be52.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/177130108\/thumbnail\/image-thumbnail-480-4fcea558d4ed6d58d50d922e6368cd96.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/177130108\/560bf\/thumb-b252cc46413a8f088de792b095ad8891-00002.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/177130108\/thumbnail\/image-thumbnail-480-4fcea558d4ed6d58d50d922e6368cd96.jpg",
+        "type": "mp4",
+        "assetId": "177130108",
+        "assetTitle": "C58A19DE-DA9B-4807-A02E-E5CE6C948040",
+        "assetTitleTextEncoded": "c58a19de-da9b-4807-a02e-e5ce6c948040",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "177130108",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177130108\/560bf\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177130108\/560bf\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177130108\/560bf\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177130108\/560bf\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/177130108\/560bf\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/177130108\/560bf\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/177130108\/560bf\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": null
+}

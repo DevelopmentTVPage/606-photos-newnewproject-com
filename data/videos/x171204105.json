@@ -1,0 +1,113 @@
+{
+    "title": "Dior New Women's fragrance Reveal",
+    "description": "The first \u201cmayor\u201d perfume reveal after the launch of J\u2019Adore in 1999 While everything including the name is still being kept under wraps. Dior\u2019s in-house nose Francois Demachy explained that the ultimate goal is:\n\n\u201cAn unprecedented fragrance and a powerful universe which mark the beginning of a new era for fragrance at the house of Dior\u201d",
+    "referenceId": "6d29e1fe273a922e4f21862135ce61df",
+    "date_created": "1534649200",
+    "date_modified": "1534649574",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "6",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213183",
+    "product_category": "beauty",
+    "id": "171204105",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "video",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "38",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "38",
+            "width": 480,
+            "height": 480
+        },
+        "mediaDuration": "38",
+        "prettyDuration": "00:00:38",
+        "automaticThumbnailsPattern": "1759121\/171204105\/d2694\/thumb-6d29e1fe273a922e4f21862135ce61df-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/171204105\/d2694\/thumb-6d29e1fe273a922e4f21862135ce61df-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/171204105\/d2694\/thumb-6d29e1fe273a922e4f21862135ce61df-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/171204105\/d2694\/thumb-6d29e1fe273a922e4f21862135ce61df-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/171204105\/d2694\/thumb-6d29e1fe273a922e4f21862135ce61df-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/171204105\/d2694\/thumb-6d29e1fe273a922e4f21862135ce61df-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/171204105\/d2694\/thumb-6d29e1fe273a922e4f21862135ce61df-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/171204105\/thumbnail\/image-thumbnail-256-f83c1f129c2041c28abe04e7ea06351e.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/171204105\/thumbnail\/image-thumbnail-480-33848c765f6c6c88a4c462134e1d941c.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/171204105\/d2694\/thumb-6d29e1fe273a922e4f21862135ce61df-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/171204105\/thumbnail\/image-thumbnail-480-33848c765f6c6c88a4c462134e1d941c.jpg",
+        "type": "mp4",
+        "assetId": 171204105,
+        "assetTitle": "Dior New Women's fragrance Reveal",
+        "assetTitleTextEncoded": "video",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": 171204105,
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171204105\/d2694\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171204105\/d2694\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171204105\/d2694\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171204105\/d2694\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/171204105\/d2694\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/171204105\/d2694\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/171204105\/d2694\/media.m3u8"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-08-24"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "MONET Poppy Field at Argenteuil, c.1873 Poppies Coquelicots La Dame aux coquelicots Poppy Field Corn Poppies Wild Poppies",
+    "tvp_enhanced_transcript": null
+}

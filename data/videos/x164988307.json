@@ -1,0 +1,99 @@
+{
+    "title": "Jacqueline Palmer\/RAYBAN sunglasses",
+    "description": "Nothing beats a classic! Summer is here and RAYBAN has a great pair of wayfarer frames with a new full frame look",
+    "referenceId": "1784cfb0deb833e51eaefce6282e0e5e",
+    "date_created": "1529509251",
+    "date_modified": "1529510127",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "33",
+    "engagement_score": "2",
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213201",
+    "product_category": "women",
+    "id": "164988307",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "453d5c47-0be1-495d-92a4-a2414eec7e3d",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "145",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "145",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "145",
+        "prettyDuration": "00:02:25",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1759121\/canvas\/1920\/1080\/784342577-1529510127.jpg",
+        "type": "mp4",
+        "assetId": "164988307",
+        "assetTitle": "453D5C47-0BE1-495D-92A4-A2414EEC7E3D",
+        "assetTitleTextEncoded": "453d5c47-0be1-495d-92a4-a2414eec7e3d",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "164988307",
+            "li": "1759121"
+        },
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164988307\/d2a43\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164988307\/d2a43\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164988307\/d2a43\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164988307\/d2a43\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/164988307\/d2a43\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-09-17"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": "Sunglass Hut Buzzispace Prada FashionTV Delinero Chanel Ray-Ban Ray Ban Shay Chicago Acqua Hammer Gereja Utusan Pantekosta Everything Zoomer",
+    "tvp_enhanced_transcript": null
+}
